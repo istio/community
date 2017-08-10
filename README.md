@@ -4,11 +4,11 @@ Welcome to the Istio community!
 
 This is the starting point for becoming a contributor - improving docs, improving code, giving talks etc.
 
-## Communicating
+## Community Meeting
 
-The [communication](communication.md) page lists communication channels like chat, issues, mailing lists, etc.
+We have PUBLIC and RECORDED [bi-weekly community meetings](https://zoom.us/j/986657835) every Thursday at 11am US Pacific Time.
 
-For more specific topics, try the component specific directories of this repository.
+Map that to your local time with this [timezone table](https://www.google.com/search?q=1100+am+in+pst).
 
 ## Working Groups
 
