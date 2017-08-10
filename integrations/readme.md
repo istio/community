@@ -21,4 +21,7 @@ and the Mixer client libraries.
 
 ## Goals
 
-*
+* The working group wants to foster a rich ecosystem of adapters to make Istio as universally applicable as possible.
+
+* The working group wants to encourage participation of infrastructure vendors to help us
+do a great job in creating the best templates and adapters to make their product shine.
