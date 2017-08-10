@@ -36,6 +36,8 @@ A first step to contributing is to pick from the list of istio working groups be
 
 ## How Can I Help ?
 
+See also https://istio.io/community/
+
 Documentation (like the text you are reading now) can always use improvement!
 
 There's a [list of issues](https://github.com/istio/issues/issues) that should not need deep knowledge of the system.
