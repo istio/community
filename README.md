@@ -14,7 +14,7 @@ For more specific topics, try the component specific directories of this reposit
 
 Istio is a set of components, each shepherded by dedicated working groups.
 
-A first step to contributing is to pick from the [list of istio working groups](istio-working-grops.md).
+A first step to contributing is to pick from the [list of istio working groups](working-groups.md).
 
 ## How Can I Help ?
 
