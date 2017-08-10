@@ -4,6 +4,13 @@ Welcome to the Istio community!
 
 This is the starting point for becoming a contributor - improving docs, improving code, giving talks etc.
 
+# Table of Contents
+
+1. [Community Meeting](#community-meeting)
+2. [Working Groups](#working-groups)
+3. [How can I help?](#how-can-i-help-)
+4. [General Developer Communication Information](communication.md)
+
 ## Community Meeting
 
 We have PUBLIC and RECORDED [bi-weekly community meetings](https://zoom.us/j/986657835) every Thursday at 11am US Pacific Time.
