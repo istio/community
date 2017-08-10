@@ -14,11 +14,9 @@ For more specific topics, try the component specific directories of this reposit
 
 Istio is a set of components, each shepherded by dedicated working groups.
 
-A first step to contributing is to pick from the list of istio working groups below:
-
 Each group's material is in its subdirectory in this project.
 
-### Master Working Group List
+A first step to contributing is to pick from the list of istio working groups below:
 
 | Name | Leads | Mailing List | Example Topics |
 |------|-------|---------|----------|
