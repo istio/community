@@ -38,7 +38,7 @@ A first step to contributing is to pick from the list of istio working groups be
 
 Documentation (like the text you are reading now) can always use improvement!
 
-There's a [list of issues](https://github.com/istio/issues) that should not need deep knowledge of the system.
+There's a [list of issues](https://github.com/istio/issues/issues) that should not need deep knowledge of the system.
 
 To dig deeper, read a design doc, e.g. [architecture](https://istio.io/docs/concepts/what-is-istio/overview.html#architecture).
 
