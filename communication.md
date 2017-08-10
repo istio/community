@@ -8,7 +8,7 @@ The Istio community abides by the [CNCF code of conduct].  Here is an excerpt:
 > requests, updating documentation, submitting pull requests or patches,
 > and other activities._
 
-## SIGs
+## Working Groups
 
 Istio encompasses many projects, organized into [Working Groups](istio-working-grops.md).
 See a given working group subdirectory for further details.
