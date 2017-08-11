@@ -8,7 +8,11 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 Meeting notes and Agenda can be found [here](https://docs.google.com/document/d/1LZLBGW2wRDwAfdBNHJjFfk9CFoyZPcIYGWU7R1PQ3ng/edit#).
 
 ## Leads
-* [Joe Bloggs](https://github.com/jbloggs), Google
+* [Sven Mawson](https://github.com/smawson), Google
+* [Louis Ryan](https://github.com/louiscryan), Google
+* [Martin Taillefer](https://github.com/geeknoid), Google
+* [Shriram Rajagopalan](https://github.com/rshriram), IBM
+* [Dan Berg](https://github.com/dcberg) (IBM)
 
 ## Contact
 * [Mailing list](https://groups.google.com/forum/#!forum/kubernetes-sig-apps)

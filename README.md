@@ -13,7 +13,7 @@ This is the starting point for becoming a contributor - improving docs, improvin
 
 ## Community Meeting
 
-We have PUBLIC and RECORDED [bi-weekly community meetings](https://zoom.us/j/986657835) every Thursday at 11am US Pacific Time.
+We have [PUBLIC](https://zoom.us/j/986657835) and [RECORDED](https://www.youtube.com/channel/UC-zVlo1F3mUbExQ96fABWcQ) bi-weekly community meetings every Thursday at 11am US Pacific Time.
 
 Map that to your local time with this [timezone table](https://www.google.com/search?q=1100+am+in+pst).
 
