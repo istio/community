@@ -11,8 +11,8 @@ and the Mixer client libraries.
 
 ## Leads
 
-* Martin Taillefer (Google)
-* Todd Kaplinger (IBM)
+* [Martin Taillefer](https://github.com/geeknoid) (Google)
+* [Todd Kaplinger](https://github.com/todkap) (IBM)
 
 ## Contact
 
