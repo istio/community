@@ -7,16 +7,17 @@ repositories go through.  All changes, regardless of whether they are from
 newcomers to the community or from the core team follow the
 same process and are given the same level of review.
 
-- [Working Groups](#working-groups)
+- [Working groups](#working-groups)
 - [Code of conduct](#code-of-conduct)
 - [Team values](#team-values)
 - [Contributor license agreements](#contributor-license-agreements)
-- [Design Documents](#design-docs)
+- [Design documents](#design-documents)
 - [Contributing a feature](#contributing-a-feature)
+- [Setting up to contribute to Istio](#setting-up-to-contribute-to-istio)
 - [Pull requests](#pull-requests)
 - [Issues](#issues)
 
-## Working Groups
+## Working groups
 
 The Istio community is organized into a set of [working groups](WORKING-GROUPS.md).
 Any contribution to Istio should be started by first engaging with the appropriate working group.
@@ -42,7 +43,7 @@ necessary because you own the copyright to your changes, even after your
 contribution becomes part of this project. So this agreement simply gives us
 permission to use and redistribute your contributions as part of the project.
 
-## Design Documents
+## Design documents
 
 Any substantial design deserves a design document. Design documents are written with Google Docs and
 should be shared with the community by adding the doc to our [Team Drive](https://drive.google.com/corp/drive/u/0/folders/0AIS5p3eW9BCtUk9PVA)
@@ -68,6 +69,11 @@ of it being accepted and so it is usually best to get agreement on the
 idea/design before time is spent coding it. However, sometimes seeing the
 exact code change can help focus discussions, so the choice is up to you.
 
+## Setting up to contribute to Istio
+
+Check out this [README](https://github.com/istio/istio/blob/master/README.md) to learn about 
+the Istio source base and setting up your [development environment](https://github.com/istio/istio/blob/master/DEV-GUIDE.md).
+
 ## Pull requests
 
 If you're working on an existing issue, simply respond to the issue and express
@@ -75,8 +81,7 @@ interest in working on it. This helps other people know that the issue is
 active, and hopefully prevents duplicated efforts.
 
 To submit a proposed change:
-- Setup your [development environment](https://github.com/istio/istio/blob/master/DEV-GUIDE.md).
-- Fork the repository.
+- Fork the affected repository.
 - Create a new branch for your changes.
 - Develop the code/fix.
 - Add new test cases. In the case of a bug fix, the tests should fail
