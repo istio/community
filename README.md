@@ -4,7 +4,9 @@ Welcome to the Istio community!
 
 This is the starting point for becoming a contributor - improving  code, improving docs, giving talks, etc.
 
-- [Community Meeting](#community-meeting)
+- [Introduction](#introduction)
+- [Istio authors](#istio-authors)
+- [Community meeting](#community-meeting)
 - [How can I help?](#how-can-i-help-)
 - [Questions](#questions)
 - [Issues](#issues)
@@ -15,7 +17,22 @@ Other Documents
 - [Working Groups](WORKING-GROUPS.md) - describes our various working groups
 - [Reviewing and Merging Pull Requests for Istio](REVIEWING.md) - how we manage pull requests
 
-## Community Meeting
+## Introduction
+
+Istio is an open platform for providing a uniform way to integrate
+microservices, manage traffic flow across microservices, enforce policies
+and aggregate telemetry data. Istio's control plane provides an abstraction
+layer over the underlying cluster management platform, such as Kubernetes,
+Mesos, etc.
+
+Visit [istio.io](https://istio.io) for in-depth information about using Istio.     
+
+## Istio authors
+
+Istio is an open source project with an active development community. The project was started
+by teams from Google and IBM, in partnership with the Envoy team at Lyft.
+
+## Community meeting
 
 We have [PUBLIC](https://zoom.us/j/986657835) and [RECORDED](https://www.youtube.com/channel/UC-zVlo1F3mUbExQ96fABWcQ) bi-weekly community meetings every Thursday at 11am US Pacific Time.
 
