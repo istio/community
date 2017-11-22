@@ -75,7 +75,8 @@ Document Folder | [Folder](https://drive.google.com/corp/drive/folders/0B5CC9KT6
 ---|---|---|---
 <img width="30px" src="https://avatars0.githubusercontent.com/u/1562325?s=400&v=4"> | Sven Mawson | Google | [smawson](https://github.com/smawson)
 <img width="30px" src="https://avatars3.githubusercontent.com/u/28876302?s=400&v=4"> | Joy Zhang | Google | [xiaolanz](https://github.com/xiaolanz)
-&nbsp; | Jian Guan | Google | [gjwestlife](https://github.com/gjwestlife)
+<img width="30px" src="https://avatars0.githubusercontent.com/u/890669?s=400&v=4"> | Jian Guan | Google | [gjwestlife](https://github.com/gjwestlife)
+<img width="30px" src="https://avatars3.githubusercontent.com/u/4790487?s=400&v=4"> | Christopher M Luciano | IBM | [cmluciano](https://github.com/cmluciano)
 
 ## Environments
 
