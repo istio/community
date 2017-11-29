@@ -61,7 +61,7 @@ Document Folder | [Folder](https://drive.google.com/corp/drive/u/0/folders/0BzW5
 
 ## Config
 
-Config and config management
+Config API, config documentation, config management server/storage, dynamic config rollout
 
 Artifact | Link
 ---|---
