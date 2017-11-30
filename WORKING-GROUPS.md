@@ -79,7 +79,7 @@ Document Folder | [Folder](https://drive.google.com/corp/drive/u/0/folders/0BzW5
 
 ## Integrations
 
-Mixer, Adapter Model, Rate Limiting, Tracing, Monitoring, Logging |
+Mixer, Adapter Model, Rate Limiting, Tracing, Monitoring, Logging
 
 Artifact | Link
 ---|---
