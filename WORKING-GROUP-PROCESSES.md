@@ -31,7 +31,7 @@ manageable.
 
 ## Proposing a new working group
 
-If you’ve identified a substantial architectural area which would benefit from long-time, concerted and focused design, then you should
+If you’ve identified a substantial architectural area which would benefit from long-lived, concerted and focused design, then you should
 consider creating a new working group. To do so, you need to:
 
 * **Create a charter**. This should be a few paragraphs explaining:
@@ -102,7 +102,7 @@ Leads are responsible for running a working group. Running the group involves a 
 
 * **Meetings**. Prepare the agenda and run the regular working group meetings. Ensure the meetings are recorded, and properly archived.
 
-* **Notes**. Ensure that meeting notes are kept up to date. Provide a link to the recorded meeting in the notes. Th lead may delegate
+* **Notes**. Ensure that meeting notes are kept up to date. Provide a link to the recorded meeting in the notes. The lead may delegate
 note-taking duties.
 
 * **Wiki**. Ensure that significant design decisions are captured in the Wiki. In the Wiki, include links to useful design documents, any
