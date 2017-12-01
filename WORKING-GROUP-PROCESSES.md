@@ -76,8 +76,8 @@ must be open to all.
 * **Register the Working Group**. Go to [WORKING-GROUPS.md](https://github.com/istio/community/blob/master/WORKING-GROUPS.md) and
 add your working group name, the names of the leads, the working group charter, and a link to the meeting you created.
 
-* **Announce your Working Group**. Send a note to [istio-dev@](mailto:istio-dev@googlegroups.com),
-[istio-announce@](mailto:istio-announce@googlegroups.com), and [istio-steering@](mailto:istio-steering@googlegroups.com) to announce your new
+* **Announce your Working Group**. Send a note to [istio-dev@](mailto:istio-dev@googlegroups.com)
+and [istio-steering@](mailto:istio-steering@googlegroups.com) to announce your new
 working group. Include your charter in the email and provide links to the meeting invitation.
 
 Congratulations, you now have a fully formed working group!
@@ -102,7 +102,8 @@ Leads are responsible for running a working group. Running the group involves a 
 
 * **Meetings**. Prepare the agenda and run the regular working group meetings. Ensure the meetings are recorded, and properly archived.
 
-* **Notes**. Ensure that meeting notes are kept up to date. Provide a link to the recorded meeting in the notes.
+* **Notes**. Ensure that meeting notes are kept up to date. Provide a link to the recorded meeting in the notes. Th lead may delegate
+note-taking duties.
 
 * **Wiki**. Ensure that significant design decisions are captured in the Wiki. In the Wiki, include links to useful design documents, any
 interesting GitHub issues or PRs, posts to the mailing lists, etc. The wiki should provide a good feel for where the mind of the working
