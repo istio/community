@@ -16,6 +16,7 @@ The current working groups are:
 
 * [Steering](#steering)
 * [API Management](#api-management)
+* [Config](#config)
 * [Environments](#environments)
 * [Integrations](#integrations)
 * [Networking](#networking)
@@ -58,6 +59,24 @@ Document Folder | [Folder](https://drive.google.com/corp/drive/u/0/folders/0BzW5
 ---|---|---|---
 <img width="30px" src="https://avatars3.githubusercontent.com/u/22780957?s=400&v=4"> | Martin Taillefer | Google | [geeknoid](https://github.com/geeknoid)
 &nbsp; | Tony Ffrench | IBM | n/a
+
+## Config
+
+Config API, config documentation, config management server/storage, dynamic config rollout
+
+Artifact | Link
+---|---
+Forum | [istio-config@](https://groups.google.com/forum/#!forum/istio-config)
+Community Meeting VC | [Thursdays at 10:00 PT - Biweekly](https://meet.google.com/istio-config)
+Community Meeting Calendar | [Calendar Invitation](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=cWd0MXBrOWM4dm1wZGdqOTV0cDJzbDU2MDhfMjAxNzExMzBUMTgwMDAwWiB4aWFvbGFuQGdvb2dsZS5jb20&tmsrc=xiaolan%40google.com)
+Meeting Notes | [Notes](https://docs.google.com/document/d/1P3p7zOpX66hPoZBi_CiC36JW7JmoaLWqE2sgHvdq5tY/edit?ts=5a0b7200)
+Document Folder | [Folder](https://drive.google.com/corp/drive/folders/0B5CC9KT63DznUUQtSU9HTHBnb1E)
+
+&nbsp; | Leads | Company | Profile
+---|---|---|---
+<img width="30px" src="https://avatars3.githubusercontent.com/u/28876302?s=400&v=4"> | Joy Zhang | Google | [xiaolanz](https://github.com/xiaolanz)
+<img width="30px" src="https://avatars0.githubusercontent.com/u/890669?s=400&v=4"> | Jian Guan | Google | [gjwestlife](https://github.com/gjwestlife)
+<img width="30px" src="https://avatars3.githubusercontent.com/u/4790487?s=400&v=4"> | Christopher M Luciano | IBM | [cmluciano](https://github.com/cmluciano)
 
 ## Environments
 
