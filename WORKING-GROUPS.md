@@ -50,8 +50,9 @@ API Keys, Content Mediation, Content Translation, OpenAPI Ingestion
 Artifact | Link
 ---|---
 Forum | [istio-api-management@](https://groups.google.com/forum/#!forum/istio-api-management)
-Community Meeting VC | [Wednesdays at 13:00 PT - Weekly](https://meet.google.com/fnj-fpey-jme)
-Community Meeting Calendar | [Calendar Invitation](https://calendar.google.com/event?action=TEMPLATE&tmeid=MzNlcWljdnJoNDNpY2ltdTg0amJqMGt2cG5fMjAxNzExMTVUMjEwMDAwWiBtdGFpbEBnb29nbGUuY29t&tmsrc=mtail%40google.com&scp=ALL)
+Community Meeting VC | [Wednesdays at 13:00 PT - Weekly](https://meet.google.com/mbm-semv-asz)
+Community Meeting Calendar | [Calendar
+Invitation](https://calendar.google.com/event?action=TEMPLATE&tmeid=MmphaThpYTFuMzM2bjcxNTR0cG51cG92bGFfMjAxNzEyMjBUMjEwMDAwWiBjaGVuZ2xpYW5nQGdvb2dsZS5jb20&tmsrc=chengliang%40google.com&scp=ALL)
 Meeting Notes | [Notes](https://docs.google.com/document/d/1Hh-MC2uxctT-oqQvwPIc7tUTEbOpzFHdJS2Y5l2Go6g/edit)
 Document Folder | [Folder](https://drive.google.com/corp/drive/u/0/folders/0BzW5bSyKst8JRFJXWTZjMXY5MDQ)
 
