@@ -22,6 +22,9 @@ The current working groups are:
 * [Networking](#networking)
 * [Performance & Scalability](#performance-and-scalability)
 * [Security](#security)
+  * [Security Policy](#security-policy)
+  * [Workload Identity](#workload-identity)
+  * [End User Authentication](#end-user-authentication)
 * [Test & Release](#test-and-release)
 
 ## Steering
@@ -149,9 +152,11 @@ Document Folder | [Folder](https://drive.google.com/corp/drive/u/0/folders/1Zpi5
 <img width="30px" src="https://avatars0.githubusercontent.com/u/3664595?s=400&v=4"> | Laurent Demailly | Google | [ldemailly](https://github.com/ldemailly)
 &nbsp; | Surya V Duggirala | IBM | n/a
 
-## Security
+## Security SIG
 
-Service-to-service Auth, Identity/CA/SecretStore plugins, Identity Federation, End User Auth, Authority Delegation, Auditing
+The security work comprises a top-level special interest group (SIG), and is sub-divided into additional topic working groups.
+
+SIG Scope: Service-to-service Auth, Identity/CA/SecretStore plugins, Identity Federation, End User Auth, Authority Delegation, Auditing
 
 Artifact | Link
 ---|---
@@ -166,6 +171,57 @@ Document Folder | [Folder](https://drive.google.com/corp/drive/u/0/folders/0BzW5
 <img width="30px" src="https://avatars1.githubusercontent.com/u/13645998?s=400&v=4"> | Etai Lev-Ran | IBM | [elevran](https://github.com/elevran)
 &nbsp; | Michael Elder | IBM | n/a
 &nbsp; | Wencheng Lu | Google | [wenchenglu](https://github.com/wenchenglu)
+
+### Security Policy
+
+Scopes: describe policy for authentication, authorization, auditing, encryption, privacy
+
+Artifact | Link
+---|---
+Forum | [istio-security@](https://groups.google.com/forum/#!forum/istio-security)
+Community Meeting VC | [Wednesdays at 13:00 Pacific - Biweekly](https://plus.google.com/hangouts/_/google.com/liminwang)
+Community Meeting Calendar | [Calendar Invitation](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NjNqNDBnODk5cXA1MnVtanEyanIzN2tnY29fMjAxNzEyMTNUMjEwMDAwWiBzcGlrZUB0aWdlcmEuaW8&tmsrc=spike%40tigera.io)
+Meeting Notes | [Notes](https://docs.google.com/document/d/1-Z7nSDV8f9psp5chO6H9PAUAinIVapOhQRaUIxbf0dk/edit)
+Document Folder | [Folder](https://drive.google.com/corp/drive/u/0/folders/0BzW5bSyKst8Jb2hhRWQ2eTJYVzQ)
+
+&nbsp; | Leads | Company | Profile
+---|---|---|---
+<img width="30px" src="https://avatars2.githubusercontent.com/u/5375600?s=88&v=4"> | Spike Curtis | Tigera | [spikecurtis](https://github.com/spikecurtis)
+&nbsp; | Limin Wang | Google | [liminw](https://github.com/liminw)
+
+### Workload Identity
+
+Scopes: Identity delivery, x509 key/cert issuance/rotation, node agent, CA, identity registry
+
+Artifact | Link
+---|---
+Forum | [istio-security@](https://groups.google.com/forum/#!forum/istio-security)
+Community Meeting VC | [Tuesdays at 11:00 Pacific - Biweekly](https://hangouts.google.com/hangouts/_/google.com/istio-identity)
+Community Meeting Calendar | [Calendar Invitation](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=dG1xbXUycDF1aWlsaXJnZnQxbmc5dXJ1cTBfMjAxNzEyMTJUMTkwMDAwWiBzcGlrZUB0aWdlcmEuaW8&tmsrc=spike%40tigera.io)
+Meeting Notes | [Notes](https://docs.google.com/document/d/1hCTzs5TthjKM42RlMT7SkCHWEU68LhomQLYTWX46ZAU/edit?ts=59cd5fe6#)
+Document Folder | [Folder](https://drive.google.com/corp/drive/u/0/folders/0BzW5bSyKst8Jb2hhRWQ2eTJYVzQ)
+
+&nbsp; | Leads | Company | Profile
+---|---|---|---
+<img width="30px" src="https://avatars1.githubusercontent.com/u/13645998?s=400&v=4"> | Etai Lev-Ran | IBM | [elevran](https://github.com/elevran)
+<img width="30px" src="https://avatars1.githubusercontent.com/u/24381542?s=460&v=4"> | Tao Li | Google | [wattli](https://github.com/wattli)
+
+### End User Authentication
+
+Scopes: enduser auth token validation, enduser identity service, delegation, auth token exchange service
+
+Artifact | Link
+---|---
+Forum | [istio-security@](https://groups.google.com/forum/#!forum/istio-security)
+Community Meeting VC | [Mondays at 13:00 Pacific - Biweekly](https://plus.google.com/hangouts/_/google.com/istio-end-user)
+Community Meeting Calendar | [Calendar Invitation](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NXAybzJhMTk1NmU3NGNpdjNzbHUyZjc5YThfMjAxNzEyMThUMjEwMDAwWiBzcGlrZUB0aWdlcmEuaW8&tmsrc=spike%40tigera.io)
+Meeting Notes | [Notes](https://docs.google.com/a/google.com/document/d/1RVGTqUUF0ntEARRYP6u_2PJBKs9GTnxfEQDjnviIUD0/edit?usp=drive_web)
+Document Folder | [Folder](https://drive.google.com/corp/drive/u/0/folders/0BzW5bSyKst8Jb2hhRWQ2eTJYVzQ)
+
+&nbsp; | Leads | Company | Profile
+---|---|---|---
+<img width="30px" src="https://avatars1.githubusercontent.com/u/1016047?s=460&v=4"> | Lizan Zhou | Google | [lizan](https://github.com/lizan)
+&nbsp; | Luke Camery | Google | &nbsp;
 
 ## Test and Release
 
