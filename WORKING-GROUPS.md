@@ -20,6 +20,7 @@ The current working groups are:
 * [Environments](#environments)
 * [Integrations](#integrations)
 * [Networking](#networking)
+* [Performance & Scalability](#performance-and-scalability)
 * [Security](#security)
 * [Test & Release](#test-and-release)
 
@@ -49,8 +50,8 @@ API Keys, Content Mediation, Content Translation, OpenAPI Ingestion
 Artifact | Link
 ---|---
 Forum | [istio-api-management@](https://groups.google.com/forum/#!forum/istio-api-management)
-Community Meeting VC | [Wednesdays at 13:00 PT - Weekly](https://meet.google.com/fnj-fpey-jme)
-Community Meeting Calendar | [Calendar Invitation](https://calendar.google.com/event?action=TEMPLATE&tmeid=MzNlcWljdnJoNDNpY2ltdTg0amJqMGt2cG5fMjAxNzExMTVUMjEwMDAwWiBtdGFpbEBnb29nbGUuY29t&tmsrc=mtail%40google.com&scp=ALL)
+Community Meeting VC | [Wednesdays at 13:00 PT - Biweekly](https://meet.google.com/mbm-semv-asz)
+Community Meeting Calendar | [Calendar Invitation](https://calendar.google.com/event?action=TEMPLATE&tmeid=MmphaThpYTFuMzM2bjcxNTR0cG51cG92bGFfMjAxNzEyMjBUMjEwMDAwWiBjaGVuZ2xpYW5nQGdvb2dsZS5jb20&tmsrc=chengliang%40google.com&scp=ALL)
 Meeting Notes | [Notes](https://docs.google.com/document/d/1Hh-MC2uxctT-oqQvwPIc7tUTEbOpzFHdJS2Y5l2Go6g/edit)
 Document Folder | [Folder](https://drive.google.com/corp/drive/u/0/folders/0BzW5bSyKst8JRFJXWTZjMXY5MDQ)
 
@@ -97,7 +98,7 @@ Document Folder | [Folder](https://drive.google.com/corp/drive/u/0/folders/0BzW5
 
 ## Integrations
 
-Mixer, Adapter Model, Rate Limiting, Tracing, Monitoring, Logging |
+Mixer, Adapter Model, Rate Limiting, Tracing, Monitoring, Logging
 
 Artifact | Link
 ---|---
@@ -131,6 +132,23 @@ Document Folder | [Folder](https://drive.google.com/corp/drive/u/0/folders/0BzW5
 <img width="30px" src="https://avatars1.githubusercontent.com/u/9537734?s=400&v=4"> | Kuat Yessenov | Google | [kyessenov](https://githun.com/kyessenov)
 <img width="30px" src="https://avatars3.githubusercontent.com/u/8202871?s=400&v=4"> | Shriram Rajagopalan | IBM | [rshriram](https://github.com/rshriram)
 
+## Performance and Scalability
+
+Performance and scalability characterization and improvements
+
+Artifact | Link
+---|---
+Forum | [istio-perf@](https://groups.google.com/forum/#!forum/istio-perf)
+Community Meeting VC | [Wednesdays 9:00-9:30 PT - Weekly](https://plus.google.com/hangouts/_/google.com/istio-perf)
+Community Meeting Calendar | [Calendar Invitation](https://calendar.google.com/event?action=TEMPLATE&tmeid=NnVuN3BtaTlpbzVmZGIxYm4zc3ZwcnRyc2NfMjAxNzExMTVUMTcwMDAwWiBsZGVtYWlsbHlAZ29vZ2xlLmNvbQ&tmsrc=ldemailly%40google.com&scp=ALL)
+Meeting Notes | [Notes](https://goo.gl/ENFQWb)
+Document Folder | [Folder](https://drive.google.com/corp/drive/u/0/folders/1Zpi5TcBPSqGno96WAq5QkcNKi16opaTL)
+
+&nbsp; | Leads | Company | Profile
+---|---|---|---
+<img width="30px" src="https://avatars0.githubusercontent.com/u/3664595?s=400&v=4"> | Laurent Demailly | Google | [ldemailly](https://github.com/ldemailly)
+&nbsp; | Surya V Duggirala | IBM | n/a
+
 ## Security
 
 Service-to-service Auth, Identity/CA/SecretStore plugins, Identity Federation, End User Auth, Authority Delegation, Auditing
@@ -148,7 +166,7 @@ Document Folder | [Folder](https://drive.google.com/corp/drive/u/0/folders/0BzW5
 <img width="30px" src="https://avatars1.githubusercontent.com/u/13645998?s=400&v=4"> | Etai Lev-Ran | IBM | [elevran](https://github.com/elevran)
 &nbsp; | Michael Elder | IBM | n/a
 &nbsp; | Wencheng Lu | Google | [wenchenglu](https://github.com/wenchenglu)
-  
+
 ## Test and Release
 
 Build, test, release
@@ -157,7 +175,7 @@ Artifact | Link
 ---|---
 Forum | [istio-test-release@](https://groups.google.com/forum/#!forum/istio-test-release)
 Community Meeting VC | [Thursdays at 13:00 PT - Weekly](https://plus.google.com/hangouts/_/google.com/istio-test)
-Community Meeting Calendar | [Calendar Invitation](https://calendar.google.com/event?action=TEMPLATE&tmeid=YjkwZGxpaGFpajJnMDZpb2w0a3Qxa2kwdmdfMjAxNzExMTZUMjEwMDAwWiBtdGFpbEBnb29nbGUuY29t&tmsrc=mtail%40google.com&scp=ALL)
+Community Meeting Calendar | [Calendar Invitation](https://calendar.google.com/event?action=TEMPLATE&tmeid=YjkwZGxpaGFpajJnMDZpb2w0a3Qxa2kwdmdfMjAxNzExMzBUMjEwMDAwWiBoa2xhaUBnb29nbGUuY29t&tmsrc=hklai%40google.com)
 Meeting Notes | [Notes](https://docs.google.com/document/d/18QgpvBH9N8Io5xU-0piysyOYif65U03m8GabpvHb4IQ/edit)
 Document Folder | [Folder](https://drive.google.com/corp/drive/u/0/folders/0B_ObhNOUiqZ0UWo1ODBVTkRkSzg)
 

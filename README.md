@@ -15,6 +15,8 @@ Other Documents
 
 - [Contributing to Istio](CONTRIBUTING.md) - guidelines and advice on becoming a contributor
 - [Working Groups](WORKING-GROUPS.md) - describes our various working groups
+- [Working Group Processes](WORKING-GROUP-PROCESSES.md) - describes how working groups operate
+- [Commutity Roles](ROLES.md) - describes the roles individuals can assume within the Istio community
 - [Reviewing and Merging Pull Requests for Istio](REVIEWING.md) - how we manage pull requests
 
 ## Introduction
@@ -48,15 +50,11 @@ There's a [list of issues](https://github.com/istio/issues/issues) that should n
 
 To dig deeper, read a design doc, e.g. [architecture](https://istio.io/docs/concepts/what-is-istio/overview.html#architecture).
 
-There's always code that can be clarified and variables or functions that can be renamed or commented.
-
 There's always a need for more test coverage.
 
-## Questions
+## Questions & Issues
 
-Pose questions and help answer them on [istio/issues](https://github.com/istio/issues/issues).
+If you've got questions or issues with using Istio, checkout our [help page](https://istio.io/help).
 
-## Issues
-
-If you have a question about Istio or have a problem using it, please start with [istio/issues](https://github.com/istio/issues/issues).
-If that doesn't answer your questions, or if you think you found a bug, please file an issue.
+If you're a developer trying to hack on or use the Istio code, head to
+[istio-dev@](https://groups.google.com/forum/#!forum/istio-dev) for help.
