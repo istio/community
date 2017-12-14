@@ -67,8 +67,8 @@ Config API, config documentation, config management server/storage, dynamic conf
 Artifact | Link
 ---|---
 Forum | [istio-config@](https://groups.google.com/forum/#!forum/istio-config)
-Community Meeting VC | [Thursdays at 10:00 PT - Biweekly](https://meet.google.com/istio-config)
-Community Meeting Calendar | [Calendar Invitation](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=cWd0MXBrOWM4dm1wZGdqOTV0cDJzbDU2MDhfMjAxNzExMzBUMTgwMDAwWiB4aWFvbGFuQGdvb2dsZS5jb20&tmsrc=xiaolan%40google.com)
+Community Meeting VC | [Thursdays at 10:00 PT - Weekly](https://meet.google.com/istio-config)
+Community Meeting Calendar | [Calendar Invitation](https://calendar.google.com/event?action=TEMPLATE&tmeid=Mjd2cXA4dnRraDA1dG8yYWd0cHJ2YzNtNGNfMjAxNzEyMjFUMTgwMDAwWiB4aWFvbGFuQGdvb2dsZS5jb20&tmsrc=xiaolan%40google.com&scp=ALL)
 Meeting Notes | [Notes](https://docs.google.com/document/d/1P3p7zOpX66hPoZBi_CiC36JW7JmoaLWqE2sgHvdq5tY/edit?ts=5a0b7200)
 Document Folder | [Folder](https://drive.google.com/corp/drive/folders/0B5CC9KT63DznUUQtSU9HTHBnb1E)
 
