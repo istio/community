@@ -50,6 +50,12 @@ should be shared with the community by adding the doc to our [Team Drive](https:
 and sending a note to the appropriate working group to let people know the doc is there. To get write access
 to the drive, you'll need to be an official contributor to the Istio project per GitHub.
 
+Anybody can access the team drive for reading and commenting. If you are part of any of the Istio groups such
+as [istio-dev@](https://groups.google.com/forum/#!forum/istio-dev), you automatically get permission to access the team drive.
+If you're not part of one of these groups however, the first time you try to access the team drive you'll be asked to
+request permission. This permission will always be granted and we do our best to grant access as fast as we can,
+but there is a human involved there, so please forgive any delays.
+
 ## Contributing a feature
 
 In order to contribute a feature to Istio you'll need to go through the following steps:
