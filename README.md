@@ -8,8 +8,7 @@ This is the starting point for becoming a contributor - improving  code, improvi
 - [Istio authors](#istio-authors)
 - [Community meeting](#community-meeting)
 - [How can I help?](#how-can-i-help-)
-- [Questions](#questions)
-- [Issues](#issues)
+- [Questions and issues](#questions-and-issues)
 
 Other Documents
 
@@ -40,19 +39,26 @@ We have [PUBLIC](https://zoom.us/j/986657835) and [RECORDED](https://www.youtube
 
 Map that to your local time with this [timezone table](https://www.google.com/search?q=1100+am+in+pst).
 
-## How Can I Help ?
+## How can I help ?
 
-See also [https://istio.io/community/](https://istio.io/community).
+See our [community page](https://istio.io/community) for ways to get involved
+in our community.
 
-Documentation (like the text you are reading now) can always use improvement!
+To dig deeper, check the [architecture](https://istio.io/docs/concepts/what-is-istio/overview.html#architecture)
+and read some [design docs](./CONTRIBUTING.md#design-documents).
 
-There's a [list of issues](https://github.com/istio/issues/issues) that should not need deep knowledge of the system.
+If you're looking for something to do to get your feet wet working on Istio, look for GitHub issues
+marked with the Help Wanted label:
 
-To dig deeper, read a design doc, e.g. [architecture](https://istio.io/docs/concepts/what-is-istio/overview.html#architecture).
+- [Primary Istio repo](https://github.com/istio/istio/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)
+- [Documentation repo](https://github.com/istio/istio.github.io/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)
 
-There's always a need for more test coverage.
+Of course, even if there's not an issue opened for it, we can always use more
+testing throughout the platform. Similarly, we can always use more docs, richer docs,
+insightful docs. Or maybe a cool blog post?
+And if you're a web developer, we could use your help in spiffing up our public-facing web site.
 
-## Questions & Issues
+## Questions and issues
 
 If you've got questions or issues with using Istio, checkout our [help page](https://istio.io/help).
 
