@@ -57,8 +57,8 @@ Document Folder | [Folder](https://drive.google.com/corp/drive/u/0/folders/0BzW5
 
 &nbsp; | Leads | Company | Profile
 ---|---|---|---
+<img width="30px" src="https://avatars2.githubusercontent.com/u/29082566?s=400&v=4"> | Chengliang Zhang | Google | [apicl](https://github.com/apicl)
 <img width="30px" src="https://avatars3.githubusercontent.com/u/22780957?s=400&v=4"> | Martin Taillefer | Google | [geeknoid](https://github.com/geeknoid)
-&nbsp; | Tony Ffrench | IBM | n/a
 
 ## Config
 
@@ -93,7 +93,6 @@ Document Folder | [Folder](https://drive.google.com/corp/drive/u/0/folders/0BzW5
 &nbsp; | Leads | Company | Profile
 ---|---|---|---
 &nbsp; | Costin Manolache | Google | [costinm](https://github.com/costinm)
-&nbsp; | Jose Ortiz | IBM | n/a
 <img width="30px" src="https://avatars0.githubusercontent.com/u/3664595?s=400&v=4"> | Laurent Demailly | Google | [ldemailly](https://github.com/ldemailly)
 
 ## Integrations
@@ -110,8 +109,9 @@ Document Folder | [Folder](https://drive.google.com/corp/drive/u/0/folders/0BzW5
 
 &nbsp; | Leads | Company | Profile
 ---|---|---|---
+<img width="30px" src="https://avatars2.githubusercontent.com/u/21148125?s=400&v=4"> | Douglas Reid | Google | [douglas-reid](https://github.com/douglas-reid)
+&nbsp; | Mandar Jog | Google | [mandarjog](https://github.com/mandarjog)
 <img width="30px" src="https://avatars3.githubusercontent.com/u/22780957?s=400&v=4"> | Martin Taillefer | Google | [geeknoid](https://github.com/geeknoid)
-&nbsp; | Todd Kaplinger | IBM | n/a
 
 ## Networking
 
@@ -147,7 +147,7 @@ Document Folder | [Folder](https://drive.google.com/corp/drive/u/0/folders/1Zpi5
 &nbsp; | Leads | Company | Profile
 ---|---|---|---
 <img width="30px" src="https://avatars0.githubusercontent.com/u/3664595?s=400&v=4"> | Laurent Demailly | Google | [ldemailly](https://github.com/ldemailly)
-&nbsp; | Surya V Duggirala | IBM | n/a
+<img width="30px" src="https://avatars0.githubusercontent.com/u/13684010?s=400&v=4"> | Surya V Duggirala | IBM | [suryadu](https://github.com/suryadu)
 
 ## Security
 
@@ -164,7 +164,6 @@ Document Folder | [Folder](https://drive.google.com/corp/drive/u/0/folders/0BzW5
 &nbsp; | Leads | Company | Profile
 ---|---|---|---
 <img width="30px" src="https://avatars1.githubusercontent.com/u/13645998?s=400&v=4"> | Etai Lev-Ran | IBM | [elevran](https://github.com/elevran)
-&nbsp; | Michael Elder | IBM | n/a
 &nbsp; | Wencheng Lu | Google | [wenchenglu](https://github.com/wenchenglu)
 
 ## Test and Release
@@ -183,4 +182,3 @@ Document Folder | [Folder](https://drive.google.com/corp/drive/u/0/folders/0B_Ob
 ---|---|---|---
 <img width="30px" src="https://avatars1.githubusercontent.com/u/31747472?s=400&v=4"> | Andy Lai | Google | [hklai](https://github.com/hklai)
 <img width="30px" src="https://avatars1.githubusercontent.com/u/1588319?s=400&v=4">  | Lin Sun | IBM | [linsun](https://github.com/linsun)
-&nbsp; | Vicky Xu | Google | n/a
