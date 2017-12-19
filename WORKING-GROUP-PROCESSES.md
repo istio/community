@@ -56,21 +56,21 @@ Once approval has been granted by the steering group to form a working group, th
 steps to establish the working group:
 
 * **Create a Google Drive Folder**. Create a folder to hold your working group documents within this parent
-[folder](https://drive.google.com/corp/drive/u/0/folders/0B7huSKYaiUN5LVdBeElXUGt3UGs). Call your folder <working group name>. 
+[folder](https://drive.google.com/corp/drive/u/0/folders/0B7huSKYaiUN5LVdBeElXUGt3UGs). Call your folder "GROUP_NAME". 
 
-* **Create a Meeting Notes Document**. Create a blank document in the above folder and call it "<working group name> Group Meeting Notes".
+* **Create a Meeting Notes Document**. Create a blank document in the above folder and call it "GROUP_NAME Group Meeting Notes".
 
-* **Create a Roadmap Document**. Create a document in the above folder and call it "<working group name> Group Roadmap". Put your initial
+* **Create a Roadmap Document**. Create a document in the above folder and call it "GROUP_NAME Group Roadmap". Put your initial
 roadmap in the document.
 
-* **Create a Wiki**. Create a wiki page on [GitHub](https://github.com/istio/istio) titled "<working group name> Design Decisions". This page
+* **Create a Wiki**. Create a wiki page on [GitHub](https://github.com/istio/istio) titled "GROUP_NAME Design Decisions". This page
 will be used to track important design decisions made by the working group.
 
 * **Schedule a Recurring Meeting**. Create a recurring meeting (weekly or bi-weekly, 30 or 60 minutes) and call the meeting
-"<working group name> Group Sync-Up". Attach the meeting notes document to the calendar event. Generally schedule these meetings between
+GROUP_NAME Group Sync-Up". Attach the meeting notes document to the calendar event. Generally schedule these meetings between
 9:00AM to 2:59PM Pacific Time. 
 
-* **Create a Public Google Group**. Call the group "istio-<working group name>" (all in lowercase, dashes for spaces). This mailing list
+* **Create a Public Google Group**. Call the group "istio-*group_name*" (all in lowercase, dashes for spaces). This mailing list
 must be open to all.
 
 * **Register the Working Group**. Go to [WORKING-GROUPS.md](https://github.com/istio/community/blob/master/WORKING-GROUPS.md) and
