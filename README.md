@@ -15,6 +15,7 @@ Other Documents
 - [Contributing to Istio](CONTRIBUTING.md) - guidelines and advice on becoming a contributor
 - [Working Groups](WORKING-GROUPS.md) - describes our various working groups
 - [Working Group Processes](WORKING-GROUP-PROCESSES.md) - describes how working groups operate
+- [Steering Committee](STEERING-COMMITTEE.md) - describes our steering committee
 - [Commutity Roles](ROLES.md) - describes the roles individuals can assume within the Istio community
 - [Reviewing and Merging Pull Requests for Istio](REVIEWING.md) - how we manage pull requests
 
