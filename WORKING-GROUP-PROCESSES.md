@@ -66,12 +66,12 @@ roadmap in the document.
 * **Create a Wiki**. Create a wiki page on [GitHub](https://github.com/istio/istio) titled "GROUP_NAME Design Decisions". This page
 will be used to track important design decisions made by the working group.
 
-* **Schedule a Recurring Meeting**. Create a recurring meeting (weekly or bi-weekly, 30 or 60 minutes) and call the meeting
-GROUP_NAME Group Sync-Up". Attach the meeting notes document to the calendar event. Generally schedule these meetings between
-9:00AM to 2:59PM Pacific Time. 
-
 * **Create a Public Google Group**. Call the group "istio-*group_name*" (all in lowercase, dashes for spaces). This mailing list
 must be open to all.
+
+* **Schedule a Recurring Meeting**. Create a recurring meeting (weekly or bi-weekly, 30 or 60 minutes) and call the meeting
+GROUP_NAME Group Sync-Up". Attach the meeting notes document to the calendar event. Generally schedule these meetings between
+9:00AM to 2:59PM Pacific Time. Invite the public Google group to the meeting.
 
 * **Register the Working Group**. Go to [WORKING-GROUPS.md](https://github.com/istio/community/blob/master/WORKING-GROUPS.md) and
 add your working group name, the names of the leads, the working group charter, and a link to the meeting you created.
