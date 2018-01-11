@@ -17,9 +17,9 @@ The current working groups are:
 * [API Management](#api-management)
 * [Config](#config)
 * [Environments](#environments)
-* [Integrations](#integrations)
 * [Networking](#networking)
 * [Performance & Scalability](#performance-and-scalability)
+* [Policies & Telemetry](#policies-and-telemetry)
 * [Security](#security)
 * [Test & Release](#test-and-release)
 
@@ -75,24 +75,6 @@ Document Folder | [Folder](https://drive.google.com/corp/drive/u/0/folders/0BzW5
 &nbsp; | Costin Manolache | Google | [costinm](https://github.com/costinm)
 <img width="30px" src="https://avatars0.githubusercontent.com/u/3664595?s=400&v=4"> | Laurent Demailly | Google | [ldemailly](https://github.com/ldemailly)
 
-## Integrations
-
-Mixer, Adapter Model, Rate Limiting, Tracing, Monitoring, Logging
-
-Artifact | Link
----|---
-Forum | [istio-integrations@](https://groups.google.com/forum/#!forum/istio-integrations)
-Community Meeting VC | [Wednesdays at 11:00 PT - Weekly](https://plus.google.com/hangouts/_/google.com/wxz-scww-uwf)
-Community Meeting Calendar | [Calendar Invitation](https://calendar.google.com/event?action=TEMPLATE&tmeid=bGJpMm9icGFzYnJrMTgxczlxY2Z2aDEyMWNfMjAxNzExMTVUMTkwMDAwWiBtdGFpbEBnb29nbGUuY29t&tmsrc=mtail%40google.com&scp=ALL)
-Meeting Notes | [Notes](https://docs.google.com/document/d/1pn9QdRcoyT_nxOwzklsiYpt7OQraaSDfmtN14XTOrN0/edit)
-Document Folder | [Folder](https://drive.google.com/corp/drive/u/0/folders/0BzW5bSyKst8JbWtHOEo1STc1dGM)
-
-&nbsp; | Leads | Company | Profile
----|---|---|---
-<img width="30px" src="https://avatars2.githubusercontent.com/u/21148125?s=400&v=4"> | Douglas Reid | Google | [douglas-reid](https://github.com/douglas-reid)
-&nbsp; | Mandar Jog | Google | [mandarjog](https://github.com/mandarjog)
-<img width="30px" src="https://avatars3.githubusercontent.com/u/22780957?s=400&v=4"> | Martin Taillefer | Google | [geeknoid](https://github.com/geeknoid)
-
 ## Networking
 
 Pilot integration, TCP Support, Additional L7 protocols, Proxy injection
@@ -128,6 +110,24 @@ Document Folder | [Folder](https://drive.google.com/corp/drive/u/0/folders/1Zpi5
 ---|---|---|---
 <img width="30px" src="https://avatars0.githubusercontent.com/u/3664595?s=400&v=4"> | Laurent Demailly | Google | [ldemailly](https://github.com/ldemailly)
 <img width="30px" src="https://avatars0.githubusercontent.com/u/13684010?s=400&v=4"> | Surya V Duggirala | IBM | [suryadu](https://github.com/suryadu)
+
+## Policies and Telemetry
+
+Mixer, Mixer Adapters, Rate Limiting, Tracing, Monitoring, Logging
+
+Artifact | Link
+---|---
+Forum | [istio-policies-and-telemetry@](https://groups.google.com/forum/#!forum/istio-policies-and-telemetry)
+Community Meeting VC | [Wednesdays at 11:00 PT - Weekly](https://plus.google.com/hangouts/_/google.com/wxz-scww-uwf)
+Community Meeting Calendar | [Calendar Invitation](https://calendar.google.com/event?action=TEMPLATE&tmeid=bGJpMm9icGFzYnJrMTgxczlxY2Z2aDEyMWNfMjAxNzExMTVUMTkwMDAwWiBtdGFpbEBnb29nbGUuY29t&tmsrc=mtail%40google.com&scp=ALL)
+Meeting Notes | [Notes](https://docs.google.com/document/d/1pn9QdRcoyT_nxOwzklsiYpt7OQraaSDfmtN14XTOrN0/edit)
+Document Folder | [Folder](https://drive.google.com/corp/drive/u/0/folders/0BzW5bSyKst8JbWtHOEo1STc1dGM)
+
+&nbsp; | Leads | Company | Profile
+---|---|---|---
+<img width="30px" src="https://avatars2.githubusercontent.com/u/21148125?s=400&v=4"> | Douglas Reid | Google | [douglas-reid](https://github.com/douglas-reid)
+&nbsp; | Mandar Jog | Google | [mandarjog](https://github.com/mandarjog)
+<img width="30px" src="https://avatars3.githubusercontent.com/u/22780957?s=400&v=4"> | Martin Taillefer | Google | [geeknoid](https://github.com/geeknoid)
 
 ## Security
 
