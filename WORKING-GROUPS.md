@@ -37,7 +37,6 @@ Document Folder | [Folder](https://drive.google.com/corp/drive/u/0/folders/0BzW5
 
 &nbsp; | Leads | Company | Profile
 ---|---|---|---
-<img width="30px" src="https://avatars2.githubusercontent.com/u/29082566?s=400&v=4"> | Chengliang Zhang | Google | [apicl](https://github.com/apicl)
 <img width="30px" src="https://avatars3.githubusercontent.com/u/22780957?s=400&v=4"> | Martin Taillefer | Google | [geeknoid](https://github.com/geeknoid)
 
 ## Config
@@ -55,7 +54,6 @@ Document Folder | [Folder](https://drive.google.com/corp/drive/folders/0B5CC9KT6
 &nbsp; | Leads | Company | Profile
 ---|---|---|---
 <img width="30px" src="https://avatars3.githubusercontent.com/u/28876302?s=400&v=4"> | Joy Zhang | Google | [xiaolanz](https://github.com/xiaolanz)
-<img width="30px" src="https://avatars0.githubusercontent.com/u/890669?s=400&v=4"> | Jian Guan | Google | [gjwestlife](https://github.com/gjwestlife)
 <img width="30px" src="https://avatars3.githubusercontent.com/u/4790487?s=400&v=4"> | Christopher M Luciano | IBM | [cmluciano](https://github.com/cmluciano)
 
 ## Environments
