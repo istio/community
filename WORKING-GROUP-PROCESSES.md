@@ -22,7 +22,7 @@ initiatives over Istio’s lifetime.
 Some working groups focus on specific technologies. For example, the Integrations working group primarily focuses on Mixer. Other working
 groups are cross-cutting in nature such as the Performance and Scalability working group.
 
-The Steering working group is responsible for the Istio project as a whole. It sets the overall direction of the project,
+The technical oversight committee is responsible for the Istio project as a whole. It sets the overall direction of the project,
 helps make crosscutting architectural decisions, helps establish and dissolve working groups, and helps ensure all working
 groups are generally rowing in the same direction
 
@@ -47,12 +47,13 @@ for information on the responsibilities of leads and requirements for nominating
 
 * **Prepare a Roadmap**. Create a preliminary 3 month roadmap for what the working group would focus on.
 
-* **Send an Email**. Write up an email with your charter, nominated leads, and roadmap, and send it to [istio-steering@](mailto:istio-steering@googlegroups.com). The steering working group will evaluate the request and decide whether the working group should be
+* **Send an Email**. Write up an email with your charter, nominated leads, and roadmap, and send it to [istio-tech-oversight@](mailto:istio-tech-oversight@googlegroups.com).
+The technical oversight committee will evaluate the request and decide whether the working group should be
 formed, whether it should be merely a subgroup of an existing working group, or whether it should be subsumed by an existing working group.
 
 ## Setting up a working group
 
-Once approval has been granted by the steering group to form a working group, the working group leads need to take a few
+Once approval has been granted by the technical oversight committee to form a working group, the working group leads need to take a few
 steps to establish the working group:
 
 * **Create a Google Drive Folder**. Create a folder to hold your working group documents within this parent
@@ -77,7 +78,7 @@ GROUP_NAME Group Sync-Up". Attach the meeting notes document to the calendar eve
 add your working group name, the names of the leads, the working group charter, and a link to the meeting you created.
 
 * **Announce your Working Group**. Send a note to [istio-dev@](mailto:istio-dev@googlegroups.com)
-and [istio-steering@](mailto:istio-steering@googlegroups.com) to announce your new
+and [istio-tech-oversight@](mailto:istio-tech-oversight@googlegroups.com) to announce your new
 working group. Include your charter in the email and provide links to the meeting invitation.
 
 Congratulations, you now have a fully formed working group!
@@ -85,8 +86,8 @@ Congratulations, you now have a fully formed working group!
 ### Dissolving a working group
 
 Some working groups are ephemeral or naturally reach the end of their useful life. Working group leads can petition to dissolve their working
-groups by emailing [istio-steering@googlegroups.com](mailto:istio-steering@googlegroups.com). The steering working group also reserves the
-right to dissolve or recharter working groups over time as necessary.
+groups by emailing [istio-tech-oversight@googlegroups.com](mailto:istio-tech-oversight@googlegroups.com). The 
+technical oversight committee also reserves the right to dissolve or recharter working groups over time as necessary.
 
 ## Leads
 
