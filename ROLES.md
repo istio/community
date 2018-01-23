@@ -73,7 +73,7 @@ Here is the set of roles we use within the Istio community, the general responsi
         <p>Triage incoming issues, set milestones, repo labels</p>
         <p>Run their working group</p>
     </td>
-    <td>Sponsored by the Steering working group as documented <a href="./WORKING-GROUP-PROCESSES.md">here</a></td>
+    <td>Sponsored by the technical oversight committee as documented <a href="./WORKING-GROUP-PROCESSES.md">here</a></td>
     <td>Write permissions on one or more repos, allowing issues to be manipulated.</td>
     <td>Working Group</td>
   </tr>
@@ -81,7 +81,7 @@ Here is the set of roles we use within the Istio community, the general responsi
   <tr>
     <td>Administrator</td>
     <td>Manage & control permissions</td>
-    <td>Sponsored by the Steering working group</td>
+    <td>Sponsored by the technical oversight committee</td>
     <td>
         <p>Admin privileges on the GitHub Istio org and all its repos</p>
         <p>Admin privileges on the Istio Slack workspace</p>
@@ -253,7 +253,7 @@ Getting to be a lead of an existing working group:
 
 * Reviewed or merged at least 50 PRs
 
-* Sponsored by the steering working group
+* Sponsored by the technical oversight committee
 
 Establishing the leads for a new working group:
 
@@ -269,7 +269,7 @@ Establishing the leads for a new working group:
 
 * Reviewed or merged at least 50 PRs
 
-* Sponsored by the steering working group
+* Sponsored by the technical oversight committee
 
 ### Responsibilities and privileges
 
@@ -277,7 +277,7 @@ The following apply to the area / component for which one would be an owner.
 
 * Run their working group as outlined in the [Working Group Processes](https://docs.google.com/document/d/1uKtyw0zMqTtWz9s9erbHHEoFkIXOUMkB5-XAKIDRT5c/edit#) document.
 
-* Design/proposal approval authority over the area / component, though escalation to the steering working group is possible.
+* Design/proposal approval authority over the area / component, though escalation to the technical oversight committee is possible.
 
 * Perform issue triage on GitHub.
 
@@ -303,7 +303,7 @@ Administrators are responsible for the bureaucratic aspects of the project.
 
 ### Requirements
 
-* Assigned by steering working group.
+* Assigned by technical oversight committee.
 
 ### Responsibilities and privileges
 
