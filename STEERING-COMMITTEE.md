@@ -1,6 +1,6 @@
-# Istio Steering Committee
+# Istio Technical Oversight Committee
 
-The Istio steering committee is responsible for cross-cutting product and design decisions.
+The Istio Technical Oversight Committee (TOC) is responsible for cross-cutting product and design decisions.
 
 Artifact | Link
 ---|---
@@ -10,7 +10,7 @@ Document Folder | [Folder](https://drive.google.com/corp/drive/u/0/folders/0BzW5
 
 &nbsp; | Leads | Company | Profile
 ---|---|---|---
-&nbsp; | Dan Berg | IBM | n/a
+<img width="30px" src="https://avatars0.githubusercontent.com/u/3277917?s=400&v=4"> | Dan Berg | IBM | [dcberg](https://github.com/dcberg)
 <img width="30px" src="https://avatars1.githubusercontent.com/u/1588319?s=400&v=4">  | Lin Sun | IBM | [linsun](https://github.com/linsun)
 &nbsp; | Louis Ryan | Google | [lryan](https://github.com/lryan)
 <img width="30px" src="https://avatars3.githubusercontent.com/u/22780957?s=400&v=4"> | Martin Taillefer | Google | [geeknoid](https://github.com/geeknoid)
