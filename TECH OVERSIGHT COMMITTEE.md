@@ -4,7 +4,7 @@ The Istio Technical Oversight Committee (TOC) is responsible for cross-cutting p
 
 Artifact | Link
 ---|---
-Forum | [istio-steering@](https://groups.google.com/forum/#!forum/istio-steering)
+Forum | [istio-tech-oversight@](https://groups.google.com/forum/#!forum/istio-tech-oversight)
 Meeting Notes | [Notes](https://docs.google.com/document/d/13lxJqtlaQhmV2EwsNnS6h-_O4pobZQZuMjrzOeMgVI0/edit#heading=h.ipnfbx7g04vg)
 Document Folder | [Folder](https://drive.google.com/corp/drive/u/0/folders/0BzW5bSyKst8JOXRyZVNaVFZuRUk)
 
