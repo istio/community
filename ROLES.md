@@ -229,7 +229,7 @@ The following apply to the part of the codebase for which one would be an approv
 
     * Focus on holistic acceptance of contribution such as dependencies with other features, backwards / forwards compatibility, API and flag definitions, etc
 
-* Expected to be responsive to review requests as per [community expectations](https://github.com/kubernetes/community/blob/master/contributors/devel/community-expectations.md);
+* Expected to be responsive to review requests as per [community expectations](https://github.com/istio/community/blob/master/REVIEWING.md);
 
 * Mentor contributors and reviewers
 
@@ -275,7 +275,7 @@ Establishing the leads for a new working group:
 
 The following apply to the area / component for which one would be an owner.
 
-* Run their working group as outlined in the [Working Group Processes](https://docs.google.com/document/d/1uKtyw0zMqTtWz9s9erbHHEoFkIXOUMkB5-XAKIDRT5c/edit#) document.
+* Run their working group as outlined in the [Working Group Processes](https://github.com/istio/community/blob/master/WORKING-GROUP-PROCESSES.md) document.
 
 * Design/proposal approval authority over the area / component, though escalation to the technical oversight committee is possible.
 
