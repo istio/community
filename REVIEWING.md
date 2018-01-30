@@ -78,20 +78,13 @@ review, withdraws their hold, or is overruled by a preponderance of maintainers.
 Merging of PRs is done by the project maintainers.
 
 Like many open source projects, becoming a maintainer is based on contributions
-to the project. Active contributors to the project will eventually get noticed
-by the maintainers, and one of the existing maintainers will nominate the
-contributor to become a maintainer.  A 'yes' vote from >75% of
-the existing maintainers is required for approval.
-
-Removing a maintainer requires a 'yes' vote from >75% of the exsiting
-maintainers. Note that inactive maintainers might periodically be removed
-simply to keep the membership list accurate.
+to the project. Please see our [community roles](https://github.com/istio/community/blob/master/ROLES.md)
+document for information on how this is done.
 
 ## Merging PRs
 
 PRs may only be merged after the following criteria are met:
 
-1. It has been open for at least 1 business day.
 1. It has no `NO LGTM` comment from a reviewer.
 1. It has been `LGTM`-ed by at least one of the maintainers of that repository.
 1. It has all appropriate corresponding documentation and tests.

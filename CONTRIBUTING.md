@@ -48,7 +48,10 @@ permission to use and redistribute your contributions as part of the project.
 Any substantial design deserves a design document. Design documents are written with Google Docs and
 should be shared with the community by adding the doc to our [Team Drive](https://drive.google.com/corp/drive/u/0/folders/0AIS5p3eW9BCtUk9PVA)
 and sending a note to the appropriate working group to let people know the doc is there. To get write access
-to the drive, you'll need to be an official contributor to the Istio project per GitHub.
+to the drive, you'll need to be a [member](ROLES.md#member) of the Istio organization.
+
+We have a common [design document template](https://docs.google.com/document/d/1cpolPNH_RtSobUjTkXyyxsCJT7EKD8fGiN2TgYLeJu8/edit#heading=h.7zgnj8bwqfld).
+Just open the template and select "Make Copy" from the File menu in order to bootstrap your document.
 
 Anybody can access the team drive for reading and commenting. If you are part of any of the Istio groups such
 as [istio-dev@](https://groups.google.com/forum/#!forum/istio-dev), you automatically get permission to access the team drive.
@@ -59,14 +62,32 @@ but there is a human involved there, so please forgive any delays.
 ## Contributing a feature
 
 In order to contribute a feature to Istio you'll need to go through the following steps:
-- Discuss your idea with the appropriate [working groups](WORKING-GROUPS.md).
+
+- Discuss your idea with the appropriate [working groups](WORKING-GROUPS.md) on the working 
+group's mailing list.
+
 - Once there is general agreement that the feature is useful, create a GitHub issue to track the discussion. The issue should include information
-about the requirements and use cases that it is trying to address.
-- Include a discussion of the proposed design and technical details of the implementation in the issue.
-- If the feature is substantial enough, create a design document as outlined in the previous section. Link this design document within
-the GitHub issue.
-- Once there is general agreement on the technical direction, submit a PR.
-- Contribute documentation of the feature to the [istio.io](https://istio.io) repo (https://github.com/istio/istio.github.io).
+about the requirements and use cases that it is trying to address. Include a discussion of the proposed design and technical details of the
+implementation in the issue.
+
+- If the feature is substantial enough:
+
+  - Working group leads will ask for a design document as outlined in the previous section.
+  Create the design document and add a link to it in the GitHub issue. Don't forget to send a note to the 
+  working group to let everyone know your document is ready for review.
+
+  - Depending of the breath of the design and how contentious it is, the working group leads may decide
+  the feature needs to be discussed in one or more working group meetings before being approved.
+
+  - Once the major technical issues are resolved and agreed upon, post a note to the working group's mailing
+  list with the design decision and the general execution plan.
+
+- Submit PRs to istio/istio with your code changes.
+
+- Submit PRs to istio/istio.github.io with documentation for your feature, including usage examples when possible.
+
+> Note that we prefer bite-sized PRs instead of giant monster PRs. It's therefore preferable if you
+can introduce large features in smaller reviewable changes that build on top of one another.
 
 If you would like to skip the process of submitting an issue and
 instead would prefer to just submit a pull request with your desired
