@@ -3,7 +3,7 @@
 This document describes the set of roles individuals may have within the Istio community, the requirements of each role, and the privileges that each role grants.
 
 * [Role Summary](#role-summary)
-* [Contributor](#contributor)
+* [Collaborator](#collaborator)
 * [Member](#member)
 * [Reviewer](#reviewer)
 * [Approver](#approver)
