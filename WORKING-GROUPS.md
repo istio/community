@@ -56,25 +56,6 @@ Document Folder | [Folder](https://drive.google.com/corp/drive/folders/0B5CC9KT6
 <img width="30px" src="https://avatars3.githubusercontent.com/u/28876302?s=400&v=4"> | Joy Zhang | Google | [xiaolanz](https://github.com/xiaolanz)
 <img width="30px" src="https://avatars3.githubusercontent.com/u/4790487?s=400&v=4"> | Christopher M Luciano | IBM | [cmluciano](https://github.com/cmluciano)
 
-## Config
-
-Config API, Config management/rollout
-
-Artifact | Link
----|---
-Forum | [istio-config@](https://groups.google.com/forum/#!forum/istio-config)
-Community Meeting VC | [Wednesdays at 14:00 PT - Biweekly](https://meet.google.com/istio-config)
-Community Meeting Calendar | [Calendar Invitation](https://calendar.google.com/event?action=TEMPLATE&tmeid=NmtjanE3am1uYmxqcGFldG10MHI2NzBnZnVfMjAxNzExMTVUMjIwMDAwWiB4aWFvbGFuQGdvb2dsZS5jb20&tmsrc=xiaolan%40google.com&scp=ALL)
-Meeting Notes | [Notes](https://docs.google.com/document/d/1P3p7zOpX66hPoZBi_CiC36JW7JmoaLWqE2sgHvdq5tY/edit?ts=5a0b7200)
-Document Folder | [Folder](https://drive.google.com/corp/drive/folders/0B5CC9KT63DznUUQtSU9HTHBnb1E)
-
-&nbsp; | Leads | Company | Profile
----|---|---|---
-<img width="30px" src="https://avatars0.githubusercontent.com/u/1562325?s=400&v=4"> | Sven Mawson | Google | [smawson](https://github.com/smawson)
-<img width="30px" src="https://avatars3.githubusercontent.com/u/28876302?s=400&v=4"> | Joy Zhang | Google | [xiaolanz](https://github.com/xiaolanz)
-&nbsp; | Jian Guan | Google | [gjwestlife](https://github.com/gjwestlife)
-<img width="30px" src="https://avatars3.githubusercontent.com/u/4790487?s=400&v=4"> | Christopher M Luciano | IBM | [cmluciano](https://github.com/cmluciano)
-
 ## Environments
 
 Raw VM support, Hybrid Mesh, Mac/Windows support, Cloud Foundry integration
