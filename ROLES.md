@@ -133,7 +133,7 @@ All members are encouraged to help with the code review burden, although each PR
 
     * Contributing to working group or community discussions
 
-* Subscribed to i[stio-dev@googlegroups.com](https://groups.google.com/forum/#!forum/istio-dev)
+* Subscribed to [istio-dev@googlegroups.com](https://groups.google.com/forum/#!forum/istio-dev)
 
 * Actively contributing to 1 or more areas.
 
