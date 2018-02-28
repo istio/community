@@ -66,4 +66,4 @@ A Beta feature can be officially labeled as Stable once it meets the following a
 
 * *Perf*: Performance (latency/scale) is quantified and documented.
 
-* *Tests*: Tests to prevent performance regressions.
+* *Tests*: Automated tests are in place to prevent performance regressions.
