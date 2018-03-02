@@ -2,9 +2,15 @@
 
 The Istio Technical Oversight Committee (TOC) is responsible for cross-cutting product and design decisions.
 
+Community members are encouraged to suggest topics for discussion ahead of the TOC meetings, and are invited
+to observe these meetings and engage with the TOC during the community feedback period at the end of each
+meeting.
+
 Artifact | Link
 ---|---
 Forum | [istio-tech-oversight@](https://groups.google.com/forum/#!forum/istio-tech-oversight)
+Community Meeting VC | [Friday at 10:00 PT - weekly](https://meet.google.com/dsa-qqig-kwq)
+Community Meeting Calendar | [Calendar Invitation](https://calendar.google.com/event?action=TEMPLATE&tmeid=YmN0a2x0bmw0Mmg2ZjluMDRnbWJkZ242MXNfMjAxODAzMDJUMTgwMDAwWiBtdGFpbEBnb29nbGUuY29t&tmsrc=mtail%40google.com&scp=ALL)
 Meeting Notes | [Notes](https://docs.google.com/document/d/13lxJqtlaQhmV2EwsNnS6h-_O4pobZQZuMjrzOeMgVI0/edit#heading=h.ipnfbx7g04vg)
 Document Folder | [Folder](https://drive.google.com/corp/drive/u/0/folders/0BzW5bSyKst8JOXRyZVNaVFZuRUk)
 
