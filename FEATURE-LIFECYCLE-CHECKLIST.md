@@ -1,7 +1,8 @@
 # Feature Lifecycle Checklist
 
 This is the checklist describing the essential requirements for a feature to
-be labeled as Alpha, Beta, or Stable.
+be labeled as Alpha, Beta, or Stable. This is a shortened version of the full
+[Feature Lifecycle](FEATURE-LIFECYCLE.md) document.
 
 - [Alpha](#alpha)
 - [Beta](#beta)
