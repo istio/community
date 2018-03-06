@@ -18,7 +18,8 @@ Other Documents
 - [Technical Oversight Committee](TECH-OVERSIGHT-COMMITTEE.md) - describes our technical oversight steering committee
 - [Commutity Roles](ROLES.md) - describes the roles individuals can assume within the Istio community
 - [Reviewing and Merging Pull Requests for Istio](REVIEWING.md) - how we manage pull requests
-- [Feature Lifecycle Checklist](FEATURE-LIFECYCLE-CHECKLIST.md) - requirements for features to be labeled Alpha, Beta or Stable
+- [Feature Lifecycle](FEATURE-LIFECYCLE.md) - requirements for features to be labeled Alpha, Beta or Stable
+- [Feature Lifecycle Checklist](FEATURE-LIFECYCLE-CHECKLIST.md) - checklist-form of requirements for features to be labeled Alpha, Beta or Stable
 
 ## Introduction
 
