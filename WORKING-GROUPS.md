@@ -99,8 +99,8 @@ Performance and scalability characterization and improvements
 Artifact | Link
 ---|---
 Forum | [istio-perf@](https://groups.google.com/forum/#!forum/istio-perf)
-Community Meeting VC | [Wednesdays 9:00-9:30 PT - Weekly](https://plus.google.com/hangouts/_/google.com/istio-perf)
-Community Meeting Calendar | [Calendar Invitation](https://calendar.google.com/event?action=TEMPLATE&tmeid=NnVuN3BtaTlpbzVmZGIxYm4zc3ZwcnRyc2NfMjAxNzExMTVUMTcwMDAwWiBsZGVtYWlsbHlAZ29vZ2xlLmNvbQ&tmsrc=ldemailly%40google.com&scp=ALL)
+Community Meeting VC | [Wednesdays 9:30-10:00 PT - Weekly](https://meet.google.com/njo-sthe-fqv)
+Community Meeting Calendar | [Calendar Invitation](https://calendar.google.com/event?action=TEMPLATE&tmeid=MnI3OTcya3FiYXBuaTEzcDdjMzYxNmFsZ3NfMjAxODAzMTRUMTYzMDAwWiBsZGVtYWlsbHlAZ29vZ2xlLmNvbQ&tmsrc=ldemailly%40google.com&scp=ALL)
 Meeting Notes | [Notes](https://goo.gl/ENFQWb)
 Document Folder | [Folder](https://drive.google.com/corp/drive/u/0/folders/1Zpi5TcBPSqGno96WAq5QkcNKi16opaTL)
 
