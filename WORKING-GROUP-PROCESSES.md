@@ -140,5 +140,6 @@ to progress.
 Sometimes, different working groups can have conflicting goals or requirements. Leads from all affected working groups generally work
 together and come to an agreeable conclusion.
 
-In all cases, remaining blocking issues can be raised to the techincal oversight committee to help resolve the situation.
-Simply email [istio-tech-oversight@](mailto:istio-tech-oversight@googlegroups.com) to get the TOC involved.
+In all cases, remaining blocking issues can be raised to the [technical oversight committee](TECH-OVERSIGHT-COMMITTEE.md) to help
+resolve the situation. To trigger an escalation, create an issue in the `istio/istio` repo and assign it to the
+istio/tech-oversight-committee team.
