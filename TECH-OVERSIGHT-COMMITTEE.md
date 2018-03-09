@@ -71,7 +71,7 @@ The members of the TOC are shown below. Membership in the TOC is determined by t
 ---|---|---|---
 <img width="30px" src="https://avatars0.githubusercontent.com/u/3277917?s=400&v=4"> | Dan Berg | IBM | [dcberg](https://github.com/dcberg)
 <img width="30px" src="https://avatars1.githubusercontent.com/u/1588319?s=400&v=4">  | Lin Sun | IBM | [linsun](https://github.com/linsun)
-&nbsp; | Louis Ryan | Google | [lryan](https://github.com/lryan)
+&nbsp; | Louis Ryan | Google | [louiscryan](https://github.com/louiscryan)
 <img width="30px" src="https://avatars3.githubusercontent.com/u/22780957?s=400&v=4"> | Martin Taillefer | Google | [geeknoid](https://github.com/geeknoid)
 <img width="30px" src="https://avatars3.githubusercontent.com/u/8202871?s=400&v=4"> | Shriram Rajagopalan | VMware | [rshriram](https://github.com/rshriram)
 <img width="30px" src="https://avatars0.githubusercontent.com/u/1562325?s=400&v=4"> | Sven Mawson | Google | [smawson](https://github.com/smawson)
