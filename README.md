@@ -15,7 +15,7 @@ Other Documents
 - [Contributing to Istio](CONTRIBUTING.md) - guidelines and advice on becoming a contributor
 - [Working Groups](WORKING-GROUPS.md) - describes our various working groups
 - [Working Group Processes](WORKING-GROUP-PROCESSES.md) - describes how working groups operate
-- [Technical Oversight Committee](TECH-OVERSIGHT-COMMITTEE.md) - describes our technical oversight steering committee
+- [Technical Oversight Committee](TECH-OVERSIGHT-COMMITTEE.md) - describes our technical oversight committee
 - [Commutity Roles](ROLES.md) - describes the roles individuals can assume within the Istio community
 - [Reviewing and Merging Pull Requests for Istio](REVIEWING.md) - how we manage pull requests
 - [Feature Lifecycle](FEATURE-LIFECYCLE.md) - requirements for features to be labeled Alpha, Beta or Stable
