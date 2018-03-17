@@ -34,6 +34,7 @@ Community Meeting VC | [Wednesdays at 13:00 PT - Biweekly](https://istio.zoom.us
 Community Meeting Calendar | [Calendar Invitation](https://calendar.google.com/event?action=TEMPLATE&tmeid=MmphaThpYTFuMzM2bjcxNTR0cG51cG92bGFfMjAxNzEyMjBUMjEwMDAwWiBjaGVuZ2xpYW5nQGdvb2dsZS5jb20&tmsrc=chengliang%40google.com&scp=ALL)
 Meeting Notes | [Notes](https://docs.google.com/document/d/1Hh-MC2uxctT-oqQvwPIc7tUTEbOpzFHdJS2Y5l2Go6g/edit)
 Document Folder | [Folder](https://drive.google.com/corp/drive/u/0/folders/0BzW5bSyKst8JRFJXWTZjMXY5MDQ)
+Recorded Meetings | [YouTube](https://www.youtube.com/watch?v=yEKFNAeHrBA&list=PL7wB27eZmdfe2819aE1NawcPeWZanM-26)
 
 &nbsp; | Leads | Company | Profile
 ---|---|---|---
@@ -41,7 +42,7 @@ Document Folder | [Folder](https://drive.google.com/corp/drive/u/0/folders/0BzW5
 
 ## Config
 
-Config API, config format, config management server/storage, config distribution/rollout, API documentation/style guide governance
+Config API, config format, config management server/storage, config distribution/rollout, API documentation/style guide/governance
 
 Artifact | Link
 ---|---
@@ -50,6 +51,7 @@ Community Meeting VC | [Thursdays at 10:15 PT - Weekly](https://istio.zoom.us/j/
 Community Meeting Calendar | [Calendar Invitation](https://calendar.google.com/event?action=TEMPLATE&tmeid=ZGJzYmVnanBmaXN2ZTI1azR2MDl2bDdvdWNfMjAxODAyMDhUMTgxNTAwWiB4aWFvbGFuQGdvb2dsZS5jb20&tmsrc=xiaolan%40google.com&scp=ALL)
 Meeting Notes | [Notes](https://docs.google.com/document/d/1P3p7zOpX66hPoZBi_CiC36JW7JmoaLWqE2sgHvdq5tY/edit?ts=5a0b7200)
 Document Folder | [Folder](https://drive.google.com/corp/drive/folders/0B5CC9KT63DznUUQtSU9HTHBnb1E)
+Recorded Meetings | [YouTube](https://www.youtube.com/watch?v=ITqXFvdznWA&list=PL7wB27eZmdffOC_hPQhaIDf8v1TxMboJj)
 
 &nbsp; | Leads | Company | Profile
 ---|---|---|---
@@ -139,13 +141,13 @@ Community Meeting VC | [Wednesdays at 11:00 PT - Biweekly](https://plus.google.c
 Community Meeting Calendar | [Calendar Invitation](https://calendar.google.com/event?action=TEMPLATE&tmeid=NXRlZXU2Yzk3b3RqNG1tYXNlYW44Yzc1MWJfMjAxNzExMjJUMTkwMDAwWiBtdGFpbEBnb29nbGUuY29t&tmsrc=mtail%40google.com&scp=ALL)
 Meeting Notes | [Notes](https://docs.google.com/document/d/1-Z7nSDV8f9psp5chO6H9PAUAinIVapOhQRaUIxbf0dk/edit#heading=h.ppfvkxi2bzdh)
 Document Folder | [Folder](https://drive.google.com/corp/drive/u/0/folders/0BzW5bSyKst8Jb2hhRWQ2eTJYVzQ)
+Recorded Meetings | [YouTube](https://www.youtube.com/watch?v=eGABEjKn0YE&list=PL7wB27eZmdfd8ZbUNlZe-RYQKYTxTNJTR)
 
 &nbsp; | Leads | Company | Profile
 ---|---|---|---
 <img width="30px" src="https://avatars1.githubusercontent.com/u/13645998?s=400&v=4"> | Etai Lev-Ran | IBM | [elevran](https://github.com/elevran)
 <img width="30px" src="https://avatars1.githubusercontent.com/u/5375600?s=400&v=4"> | Spike Curtis | Tigera | [spikecurtis](https://github.com/spikecurtis)
 <img width="30px" src="https://avatars0.githubusercontent.com/u/24381542?s=400&v=4"> | Tao Li | Google | [wattli](https://github.com/wattli)
-
 
 ## Test and Release
 
