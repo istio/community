@@ -128,7 +128,6 @@ Document Folder | [Folder](https://drive.google.com/corp/drive/u/0/folders/0BzW5
 ---|---|---|---
 <img width="30px" src="https://avatars2.githubusercontent.com/u/21148125?s=400&v=4"> | Douglas Reid | Google | [douglas-reid](https://github.com/douglas-reid)
 &nbsp; | Mandar Jog | Google | [mandarjog](https://github.com/mandarjog)
-<img width="30px" src="https://avatars3.githubusercontent.com/u/22780957?s=400&v=4"> | Martin Taillefer | Google | [geeknoid](https://github.com/geeknoid)
 
 ## Security
 

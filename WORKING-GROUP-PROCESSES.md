@@ -19,12 +19,12 @@ Istio working groups are organizations responsible for the design and implementa
 Working groups operate with a fair amount of autonomy within the broader scope of the project. They tend to be long-lived, representing major
 initiatives over Istio’s lifetime.
 
-Some working groups focus on specific technologies. For example, the Integrations working group primarily focuses on Mixer. Other working
-groups are cross-cutting in nature such as the Performance and Scalability working group.
+Some working groups focus on specific technologies. For example, the Policy and Telemetry working group primarily focuses on Mixer. Other
+working groups are cross-cutting in nature such as the Performance and Scalability working group.
 
-The technical oversight committee is responsible for the Istio project as a whole. It sets the overall direction of the project,
-helps make crosscutting architectural decisions, helps establish and dissolve working groups, and helps ensure all working
-groups are generally rowing in the same direction
+The [technical oversight committee](TECH-OVERSIGHT-COMMITTEE.md) is responsible for the Istio project as a whole. It sets the overall direction
+of the project, helps make crosscutting architectural decisions, helps establish and dissolve working groups, and helps ensure all working
+groups are generally rowing in the same direction.
 
 Although working groups are relatively lightweight structures, we want to keep the number of working groups low in order to keep things
 manageable.
@@ -42,8 +42,8 @@ consider creating a new working group. To do so, you need to:
 
     * The scope of the working group (topics, subsystems, code repos, areas of responsibility)
 
-* **Nominate an initial set of leads**. The leads set the agenda for the working group and serve as final arbiters on any technical decision. See [below](#heading=h.xodnjuc790rs)
-for information on the responsibilities of leads and requirements for nominating them.
+* **Nominate an initial set of leads**. The leads set the agenda for the working group and serve as final arbiters on any technical decision.
+See [below](#running-a-working-group) for information on the responsibilities of leads and requirements for nominating them.
 
 * **Prepare a Roadmap**. Create a preliminary 3 month roadmap for what the working group would focus on.
 
@@ -64,9 +64,6 @@ steps to establish the working group:
 * **Create a Roadmap Document**. Create a document in the above folder and call it "GROUP_NAME Group Roadmap". Put your initial
 roadmap in the document.
 
-* **Create a Wiki**. Create a wiki page on [GitHub](https://github.com/istio/istio) titled "GROUP_NAME Design Decisions". This page
-will be used to track important design decisions made by the working group.
-
 * **Create a Public Google Group**. Call the group "istio-*group_name*" (all in lowercase, dashes for spaces). This mailing list
 must be open to all.
 
@@ -86,12 +83,12 @@ Congratulations, you now have a fully formed working group!
 ### Dissolving a working group
 
 Some working groups are ephemeral or naturally reach the end of their useful life. Working group leads can petition to dissolve their working
-groups by emailing [istio-tech-oversight@googlegroups.com](mailto:istio-tech-oversight@googlegroups.com). The 
+groups by emailing [istio-tech-oversight@](mailto:istio-tech-oversight@googlegroups.com). The
 technical oversight committee also reserves the right to dissolve or recharter working groups over time as necessary.
 
 ## Leads
 
-Each working group must have 2 or 3 leads, with at least two different organizations represented. Working group leads must be Members of the
+Each working group must have 2 or 3 leads, with at least two different organizations represented. Working group leads must be members of the
 Istio project (that is, have made multiple contributions to the project in the form of code, design, or documentation).
 
 Please see the [Community Roles](https://github.com/istio/community/blob/master/ROLES.md) document for a
@@ -101,14 +98,11 @@ description of a lead’s role and requirements.
 
 Leads are responsible for running a working group. Running the group involves a few activities:
 
-* **Meetings**. Prepare the agenda and run the regular working group meetings. Ensure the meetings are recorded, and properly archived.
+* **Meetings**. Prepare the agenda and run the regular working group meetings. Ensure the meetings are recorded, and properly archived
+on YouTube.
 
 * **Notes**. Ensure that meeting notes are kept up to date. Provide a link to the recorded meeting in the notes. The lead may delegate
 note-taking duties.
-
-* **Wiki**. Ensure that significant design decisions are captured in the Wiki. In the Wiki, include links to useful design documents, any
-interesting GitHub issues or PRs, posts to the mailing lists, etc. The wiki should provide a good feel for where the mind of the working
-group is at and where things are headed.
 
 * **Roadmap**. Establish **and maintain** a roadmap for the working group outlining the areas of focus for the working group over the next
 3 months.
@@ -118,7 +112,7 @@ group is at and where things are headed.
 ### Be open
 
 The community design process is done in the open. Working groups should communicate primarily through the public
-working group meetings, through design documents in the working group’s folder, through GitHub issues, and GitHub PRs.
+working group mailing list and meetings, through design documents in the working group’s folder, through GitHub issues, and GitHub PRs.
 Avoid private emails and/or meeting when possible.
 
 ### Making decisions
@@ -142,4 +136,4 @@ together and come to an agreeable conclusion.
 
 In all cases, remaining blocking issues can be raised to the [technical oversight committee](TECH-OVERSIGHT-COMMITTEE.md) to help
 resolve the situation. To trigger an escalation, create an issue in the `istio/istio` repo and assign it to the
-istio/tech-oversight-committee team.
+`istio/tech-oversight-committee` team.

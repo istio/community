@@ -2,7 +2,7 @@
 
 Welcome to the Istio community!
 
-This is the starting point for becoming a contributor - improving  code, improving docs, giving talks, etc.
+This is the starting point for becoming a contributor - improving code, improving docs, giving talks, etc.
 
 - [Introduction](#introduction)
 - [Istio authors](#istio-authors)

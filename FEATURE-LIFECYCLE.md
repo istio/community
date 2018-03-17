@@ -27,13 +27,6 @@ of this information at [Feature Lifecycle Checklist](FEATURE-LIFECYCLE-CHECKLIST
     <td>Code is well tested and stable. Safe for widespread deployment in production.</td>
   </tr>
   <tr>
-    <td>Support</td>
-    <td>None</td>
-    <td>No guarantees on backward compatibility. The feature may be dropped at any time without notice.</td>
-    <td>The overall feature will not be dropped, though details may change.</td>
-    <td>The feature will appear in released software for many subsequent versions.</td>
-  </tr>
-  <tr>
     <td>Performance</td>
     <td>Unknown</td>
     <td>Performance requirements are assessed as part of design.</td>
@@ -41,11 +34,18 @@ of this information at [Feature Lifecycle Checklist](FEATURE-LIFECYCLE-CHECKLIST
     <td>Perf (latency/scale) is quantified and documented, with guarantees against regression.</td>
   </tr>
   <tr>
+    <td>Support</td>
+    <td>None</td>
+    <td>No guarantees on backward compatibility. The feature may be dropped at any time without notice.</td>
+    <td>The overall feature will not be dropped, though details may change.</td>
+    <td>The feature will appear in released software for many subsequent versions.</td>
+  </tr>
+  <tr>
     <td>Deprecation Policy</td>
-    <td>None</td>
-    <td>None</td>
-    <td>Weak - 3 months</td>
-    <td>Firm - 1 year</td>
+    <td>None, feature can be removed at any time</td>
+    <td>None, feature can be removed at any time</td>
+    <td>Weak, feature can be removed with 3 months of advanced notice</td>
+    <td>Strong, feature can be removed with 1 year of advanced notice, but there will usually be a supported upgrade path to a replacement feature</td>
   </tr>
   <tr>
     <td>Versioning</td>

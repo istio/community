@@ -15,10 +15,10 @@ values we hold as a team:
     good state, but less work overall for the team.
 
 - Be **specific**, **respectful** and **courteous**
-  - Disagreements are welcome and encouraged, but don't use broad
+  - Disagreements are expected, but don't use broad
     generalizations, exaggerations, or judgement words that can be taken
-    personally. Consider other people’s perspective (including the wide range of
-    applicability of Istio). Empathize with our users. Focus on the specific
+    personally. Consider other people’s perspectives (including the wide range of
+    use for Istio). Empathize with our users. Focus on the specific
     issue at hand, and remember that we all care about the project, first and
     foremost.
   - Emails to the [mailing lists](CONTRIBUTING.md#contributing-a-feature),
@@ -26,9 +26,9 @@ values we hold as a team:
     communicate complex and nuanced design issues, as opposed to protracted
     heated live chats.
   - Be mindful of the terminology you are using, it may not be the same as
-    someone else and cause misunderstanding. To promote clear and precise
+    someone else's and cause misunderstanding. To promote clear and precise
     communication, please define the terms you are using in context.
-  - See also the
+  - See the
     [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/master/code-of-conduct.md)
     which everyone must abide by.
 

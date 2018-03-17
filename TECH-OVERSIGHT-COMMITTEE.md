@@ -3,9 +3,9 @@
 The Istio Technical Oversight Committee (TOC) is responsible for cross-cutting product and design decisions.
 
 * [Charter](#charter)
-* [Committee Mechanics](#committee-mechanics)
-* [Committee Meeting](#committee-meeting)
-* [Committee Members](#committee-members)
+* [Committee mechanics](#committee-mechanics)
+* [Committee meetings](#committee-meetings)
+* [Committee members](#committee-members)
 
 ## Charter
 
@@ -29,13 +29,14 @@ The Istio Technical Oversight Committee (TOC) is responsible for cross-cutting p
 
     * Establish and maintain the overall technical governance guidelines for the project.
 
-    * Decide which sub-projects are part of the Istio project, including accepting new sub-projects and pruning existing sub-projects to maintain community focus
+    * Decide which sub-projects are part of the Istio project, including accepting new sub-projects and pruning existing sub-projects to
+    maintain community focus.
 
-    * Ensure the team adheres to our [code of conduct](https://github.com/istio/community/blob/master/CONTRIBUTING.md#code-of-conduct) and respects our [values](https://github.com/istio/community/blob/master/VALUES.md).
+    * Ensure the team adheres to our [code of conduct](CONTRIBUTING.md#code-of-conduct) and respects our [values](VALUES.md).
 
     * Foster an environment for a healthy and happy community of developers and contributors.
 
-## Committee Mechanics
+## Committee mechanics
 
 The TOC’s work includes:
 
@@ -49,11 +50,11 @@ The TOC’s work includes:
 
 * Act as a high-level sounding board for technical questions or designs bubbled up by the working groups.
 
-## Committee Meeting
+## Committee meetings
 
 Community members are encouraged to suggest topics for discussion ahead of the TOC meetings, and are invited
 to observe these meetings and engage with the TOC during the community feedback period at the end of each
-meeting.
+meeting. To suggest a topic, add it to the agenda in the [meeting notes](https://docs.google.com/document/d/13lxJqtlaQhmV2EwsNnS6h-_O4pobZQZuMjrzOeMgVI0/edit#heading=h.ipnfbx7g04vg).
 
 Artifact | Link
 ---|---
@@ -63,7 +64,7 @@ Community Meeting Calendar | [Calendar Invitation](https://calendar.google.com/e
 Meeting Notes | [Notes](https://docs.google.com/document/d/13lxJqtlaQhmV2EwsNnS6h-_O4pobZQZuMjrzOeMgVI0/edit#heading=h.ipnfbx7g04vg)
 Document Folder | [Folder](https://drive.google.com/corp/drive/u/0/folders/0BzW5bSyKst8JOXRyZVNaVFZuRUk)
 
-## Committee Members
+## Committee members
 
 The members of the TOC are shown below. Membership in the TOC is determined by the Steering committee.
 

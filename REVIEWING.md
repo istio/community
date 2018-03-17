@@ -4,14 +4,14 @@ As a community we believe in the value of code reviews for all contributions.
 Code reviews increase both the quality and readability of our code base, which
 in turn produces high quality software.
 
-This document provides guidelines for how the project's maintainers review
+This document provides guidelines for how we review
 issues and merge pull requests (PRs).
 
 - [Pull requests welcome](#pull-requests-welcome)
 - [Code reviewers](#code-reviewers)
 - [Reviewing changes](#reviewing-changes)
   - [Holds](#holds)
-- [Project maintainers](#project-maintainers)
+- [Approvers](#approvers)
 - [Merging PRs](#merging-prs)
 
 ## Pull requests welcome
@@ -73,12 +73,12 @@ and offering an ETA measured in single-digit days at most. Any PR that has a
 hold shall not be merged until the person who requested the hold acks the
 review, withdraws their hold, or is overruled by a preponderance of maintainers.
 
-## Project maintainers
+## Approvers
 
-Merging of PRs is done by the project maintainers.
+Merging of PRs is done by [approvers](ROLES.md#approver) or by robots triggered by approvers.
 
-Like many open source projects, becoming a maintainer is based on contributions
-to the project. Please see our [community roles](https://github.com/istio/community/blob/master/ROLES.md)
+Like many open source projects, becoming an approver is based on contributions
+to the project. Please see our [community roles](ROLES.md)
 document for information on how this is done.
 
 ## Merging PRs
