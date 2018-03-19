@@ -153,7 +153,7 @@ The following apply to the part of the codebase for which one would be an approv
 
 * Member for at least 3 months
 
-* Merged at least 30 substantial PRs to the codebase
+* Contributed at least 30 substantial PRs to the codebase
 
 * Knowledgeable about the codebase
 

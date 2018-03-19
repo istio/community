@@ -139,7 +139,9 @@ merge process that we use.
 
 ## Issues
 
-GitHub issues can be used to report bugs or submit feature requests.
+GitHub issues can be used to report bugs or submit feature requests. If you're an Istio user, please
+report bugs [here](https://github.com/istio/issues/issues). If you're a contributor to the Istio project,
+please submit bugs [here](https://github.com/istio/istio/issues) instead.
 
 When reporting a bug please include the following key pieces of information:
 
