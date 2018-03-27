@@ -48,7 +48,8 @@ permission to use and redistribute your contributions as part of the project.
 Any substantial design deserves a design document. Design documents are written with Google Docs and
 should be shared with the community by adding the doc to our [Team Drive](https://drive.google.com/corp/drive/u/0/folders/0AIS5p3eW9BCtUk9PVA)
 and sending a note to the appropriate working group to let people know the doc is there. To get write access
-to the drive, you'll need to be a [member](ROLES.md#member) of the Istio organization.
+to the drive, you'll need to be a [member](ROLES.md#member) of the Istio organization, but anybody can read and
+comment existing docs.
 
 We have a common [design document template](https://docs.google.com/document/d/1cpolPNH_RtSobUjTkXyyxsCJT7EKD8fGiN2TgYLeJu8/edit#heading=h.7zgnj8bwqfld).
 Just open the template and select "Make Copy" from the File menu in order to bootstrap your document.
@@ -82,9 +83,11 @@ implementation in the issue.
   - Once the major technical issues are resolved and agreed upon, post a note to the working group's mailing
   list with the design decision and the general execution plan.
 
-- Submit PRs to istio/istio with your code changes.
+- Submit PRs to [istio/istio](https://github.com/istio/istio) with your code changes.
 
-- Submit PRs to istio/istio.github.io with documentation for your feature, including usage examples when possible.
+- Submit PRs to [istio/istio.github.io](https://github.com/istio/istio.github.io) with
+documentation for your feature, including usage examples when possible. See [here](https://istio.io/about/contribute/)
+to learn how to write docs for istio.io.
 
 > Note that we prefer bite-sized PRs instead of giant monster PRs. It's therefore preferable if you
 can introduce large features in smaller reviewable changes that build on top of one another.
@@ -108,14 +111,20 @@ interest in working on it. This helps other people know that the issue is
 active, and hopefully prevents duplicated efforts.
 
 To submit a proposed change:
+
 - Fork the affected repository.
+
 - Create a new branch for your changes.
+
 - Develop the code/fix.
+
 - Add new test cases. In the case of a bug fix, the tests should fail
   without your code changes. For new features try to cover as many
   variants as reasonably possible.
+
 - Modify the documentation as necessary.
-- Verify the entire CI process (building and testing) work.
+
+- Verify the entire CI process (building and testing) works.
 
 While there may be exceptions, the general rule is that all PRs should
 be 100% complete - meaning they should include all test cases and documentation
@@ -126,16 +135,21 @@ When ready, if you have not already done so, sign a
 the PR.
 
 See [Reviewing and Merging Pull Requests for Istio](REVIEWING.md) for the PR review and
-merge process that is used by the maintainers of the project.
+merge process that we use.
 
 ## Issues
 
-GitHub issues can be used to report bugs or submit feature requests.
+GitHub issues can be used to report bugs or submit feature requests. If you're an Istio user, please
+report bugs [here](https://github.com/istio/issues/issues). If you're a contributor to the Istio project,
+please submit bugs [here](https://github.com/istio/istio/issues) instead.
 
 When reporting a bug please include the following key pieces of information:
-- the version of the project you were using (e.g. version number,
-  git commit, ...)
-- operating system you are using
-- the exact, minimal, steps needed to reproduce the issue.
+
+- The version of the project you were using (e.g. version number,
+  or git commit)
+
+- Operating system you are using.
+
+- The exact, minimal, steps needed to reproduce the issue.
   Submitting a 5 line script will get a much faster response from the team
   than one that's hundreds of lines long.
