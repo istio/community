@@ -155,8 +155,8 @@ Build, test, release
 Artifact | Link
 ---|---
 Forum | [istio-test-release@](https://groups.google.com/forum/#!forum/istio-test-release)
-Community Meeting VC | [Monday at 10:00 PT - Weekly](https://plus.google.com/hangouts/_/google.com/istio-test)
-Community Meeting Calendar | [Calendar Invitation](https://calendar.google.com/event?action=TEMPLATE&tmeid=YjkwZGxpaGFpajJnMDZpb2w0a3Qxa2kwdmdfMjAxNzExMzBUMjEwMDAwWiBoa2xhaUBnb29nbGUuY29t&tmsrc=hklai%40google.com)
+Community Meeting VC | [Monday at 11:00 PT - Weekly](https://plus.google.com/hangouts/_/google.com/istio-test)
+Community Meeting Calendar | [Calendar Invitation](https://calendar.google.com/event?action=TEMPLATE&tmeid=cjZuMnJlYW8wYmphaWtyaTVzZDN0ajhhaWtfMjAxODA0MDJUMTgwMDAwWiBoa2xhaUBnb29nbGUuY29t&tmsrc=hklai%40google.com&scp=ALL)
 Meeting Notes | [Notes](https://docs.google.com/document/d/18QgpvBH9N8Io5xU-0piysyOYif65U03m8GabpvHb4IQ/edit)
 Document Folder | [Folder](https://drive.google.com/corp/drive/u/0/folders/0B_ObhNOUiqZ0UWo1ODBVTkRkSzg)
 
