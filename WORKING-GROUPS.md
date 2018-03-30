@@ -8,9 +8,11 @@ their needs and workflow.
 When the need arises, a new working group can be created, please contact the [istio-tech-oversight](https://groups.google.com/forum/#!forum/istio-tech-oversight)
 working group if you think a new group is necessary.
 
-The working groups generate design docs which are kept in a [shared drive](https://drive.google.com/drive/u/0/folders/0AIS5p3eW9BCtUk9PVA) and
-are available for anyone to read. You have to request access to the drive, something we're stuck with sadly, but once you do
-you'll have access to all the docs and won't need to request access for each of them individually.
+The working groups generate design docs which are kept in a [Team Drive](https://drive.google.com/drive/u/0/folders/0AIS5p3eW9BCtUk9PVA).
+Anybody can access the team drive for reading and commenting. To get access simply join the
+[istio-team-drive-access@](https://groups.google.com/forum/#!forum/istio-team-drive-access) group.
+Once you've done that, head to [Team Drive](https://drive.google.com/corp/drive/u/0/folders/0AIS5p3eW9BCtUk9PVA) and
+behold all the docs.
 
 The current working groups are:
 

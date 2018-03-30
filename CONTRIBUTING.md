@@ -48,17 +48,15 @@ permission to use and redistribute your contributions as part of the project.
 Any substantial design deserves a design document. Design documents are written with Google Docs and
 should be shared with the community by adding the doc to our [Team Drive](https://drive.google.com/corp/drive/u/0/folders/0AIS5p3eW9BCtUk9PVA)
 and sending a note to the appropriate working group to let people know the doc is there. To get write access
-to the drive, you'll need to be a [member](ROLES.md#member) of the Istio organization, but anybody can read and
-comment existing docs.
+to the drive, you'll need to be a [member](ROLES.md#member) of the Istio organization.
+
+Anybody can access the team drive for reading and commenting. To get access simply join the
+[istio-team-drive-access@](https://groups.google.com/forum/#!forum/istio-team-drive-access) group.
+Once you've done that, head to [Team Drive](https://drive.google.com/corp/drive/u/0/folders/0AIS5p3eW9BCtUk9PVA) and
+behold all the docs.
 
 We have a common [design document template](https://docs.google.com/document/d/1cpolPNH_RtSobUjTkXyyxsCJT7EKD8fGiN2TgYLeJu8/edit#heading=h.7zgnj8bwqfld).
 Just open the template and select "Make Copy" from the File menu in order to bootstrap your document.
-
-Anybody can access the team drive for reading and commenting. If you are part of any of the Istio groups such
-as [istio-dev@](https://groups.google.com/forum/#!forum/istio-dev), you automatically get permission to access the team drive.
-If you're not part of one of these groups however, the first time you try to access the team drive you'll be asked to
-request permission. This permission will always be granted and we do our best to grant access as fast as we can,
-but there is a human involved there, so please forgive any delays.
 
 ## Contributing a feature
 
