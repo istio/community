@@ -92,7 +92,6 @@ Document Folder | [Folder](https://drive.google.com/corp/drive/u/0/folders/0BzW5
 ---|---|---|---
 <img width="30px" src="https://avatars2.githubusercontent.com/u/10883640?s=400&v=4"> | Andra Cismaru | Google | [andraxylia](https://github.com/andraxylia)
 <img width="30px" src="https://avatars3.githubusercontent.com/u/4790487?s=400&v=4"> | Christopher Luciano | IBM | [cmluciano](https://github.com/cmluciano)
-<img width="30px" src="https://avatars1.githubusercontent.com/u/9537734?s=400&v=4"> | Kuat Yessenov | Google | [kyessenov](https://githun.com/kyessenov)
 <img width="30px" src="https://avatars3.githubusercontent.com/u/8202871?s=400&v=4"> | Shriram Rajagopalan | IBM | [rshriram](https://github.com/rshriram)
 
 ## Performance and Scalability
