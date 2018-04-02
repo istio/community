@@ -85,8 +85,8 @@ Pilot integration, TCP Support, Additional L7 protocols, Proxy injection
 Artifact | Link
 ---|---
 Forum | [istio-networking@](https://groups.google.com/forum/#!forum/istio-networking)
-Community Meeting VC | [Thursdays at 11:00 PT - Biweekly](meet.google.com/xjj-ujhi-qfk)
-Community Meeting Calendar | [Calendar Invitation](https://calendar.google.com/event?action=TEMPLATE&tmeid=N25xazQxdmh2YjRnMXEyb2Nzc3Bqbjcyc3BfMjAxODA0MTJUMTgwMDAwWiBhbmRyYWNpc0Bt&tmsrc=andracis%40gmail.com&scp=ALL)
+Community Meeting VC | [Thursdays at 11:00 PT - Biweekly](https://meet.google.com/xjj-ujhi-qfk)
+Community Meeting Calendar | [Calendar Invitation](https://calendar.google.com/event?action=TEMPLATE&tmeid=N25xazQxdmh2YjRnMXEyb2Nzc3Bqbjcyc3BfMjAxODA0MTJUMTgwMDAwWiBhbmRyYWNpc0Bnb29nbGUuY29t&tmsrc=andracis%40google.com&scp=ALL)
 Meeting Notes | [Notes](https://docs.google.com/document/d/1xHy2jQ8oiwMponMVY2zJr2eUAmHW_Hi9JK42a7cg5Pc/edit#heading=h.2ju2wl4o5jbc)
 Document Folder | [Folder](https://drive.google.com/corp/drive/u/0/folders/0BzW5bSyKst8Jb1QwTXl1WTRqWHM)
 
