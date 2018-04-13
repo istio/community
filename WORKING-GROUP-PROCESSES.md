@@ -22,7 +22,7 @@ initiatives over Istio’s lifetime.
 Some working groups focus on specific technologies. For example, the Policy and Telemetry working group primarily focuses on Mixer. Other
 working groups are cross-cutting in nature such as the Performance and Scalability working group.
 
-The [technical oversight committee](TECH-OVERSIGHT-COMMITTEE.md) is responsible for the Istio project as a whole. It sets the overall direction
+The [Technical Oversight Committee](TECH-OVERSIGHT-COMMITTEE.md) (a.k.a. TOC) is responsible for the Istio project as a whole. It sets the overall direction
 of the project, helps make crosscutting architectural decisions, helps establish and dissolve working groups, and helps ensure all working
 groups are generally rowing in the same direction.
 
@@ -108,6 +108,13 @@ note-taking duties.
 3 months.
 
 * **Report**. Report current status to the main community meeting every 6 weeks.
+
+* **Hot Topics**. Maintain a Hot Topics [wiki page](https://github.com/istio/istio/wiki) for the group. This page
+should hold the top-of-mind items for the working group.
+
+* **Design Decisions**. Maintain a design decision [wiki page](https://github.com/istio/istio/wiki) for the group.
+This page captures the main decisions the group has reached lately. This might include mentions of approved
+designs, changed in direction, new functionality being added, etc.
 
 ### Be open
 
