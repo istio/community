@@ -44,7 +44,7 @@ Map that to your local time with this [timezone table](https://www.google.com/se
 
 ## How can I help ?
 
-See our [community page](https://istio.io/community) for ways to get involved
+See our [community page](https://istio.io/community.html) for ways to get involved
 in our community.
 
 To dig deeper, check the [architecture](https://istio.io/docs/concepts/what-is-istio/overview.html#architecture)
