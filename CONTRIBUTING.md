@@ -100,7 +100,7 @@ exact code change can help focus discussions, so the choice is up to you.
 ## Setting up to contribute to Istio
 
 Check out this [README](https://github.com/istio/istio/blob/master/README.md) to learn about 
-the Istio source base and setting up your [development environment](https://github.com/istio/istio/blob/master/DEV-GUIDE.md).
+the Istio source base and setting up your [development environment](https://github.com/istio/istio/wiki/Dev-Guide).
 
 ## Pull requests
 
