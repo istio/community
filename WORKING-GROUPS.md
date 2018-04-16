@@ -37,6 +37,8 @@ Community Meeting Calendar | [Calendar Invitation](https://calendar.google.com/e
 Meeting Notes | [Notes](https://docs.google.com/document/d/1Hh-MC2uxctT-oqQvwPIc7tUTEbOpzFHdJS2Y5l2Go6g/edit)
 Document Folder | [Folder](https://drive.google.com/corp/drive/u/0/folders/0BzW5bSyKst8JRFJXWTZjMXY5MDQ)
 Recorded Meetings | [YouTube](https://www.youtube.com/watch?v=yEKFNAeHrBA&list=PL7wB27eZmdfe2819aE1NawcPeWZanM-26)
+Decisions Wiki | [Decisions Wiki](https://github.com/istio/istio/wiki/API-Management-WG)
+Hot Topics Wiki | [Hot Topics Wiki](https://github.com/istio/istio/wiki/API-Management-Hot-Topics)
 
 &nbsp; | Leads | Company | Profile
 ---|---|---|---
@@ -54,6 +56,8 @@ Community Meeting Calendar | [Calendar Invitation](https://calendar.google.com/e
 Meeting Notes | [Notes](https://docs.google.com/document/d/1P3p7zOpX66hPoZBi_CiC36JW7JmoaLWqE2sgHvdq5tY/edit?ts=5a0b7200)
 Document Folder | [Folder](https://drive.google.com/corp/drive/folders/0B5CC9KT63DznUUQtSU9HTHBnb1E)
 Recorded Meetings | [YouTube](https://www.youtube.com/watch?v=ITqXFvdznWA&list=PL7wB27eZmdffOC_hPQhaIDf8v1TxMboJj)
+Decisions Wiki | [Decisions Wiki](https://github.com/istio/istio/wiki/Config-WG)
+Hot Topics Wiki | [Hot Topics Wiki](https://github.com/istio/istio/wiki/Config-Hot-Topics)
 
 &nbsp; | Leads | Company | Profile
 ---|---|---|---
@@ -72,6 +76,8 @@ Community Meeting VC | [Wednesdays at 10:00 PT - Biweekly](https://plus.google.c
 Community Meeting Calendar | [Calendar Invitation](https://calendar.google.com/event?action=TEMPLATE&tmeid=MXZzam9kcGZmcXVxcnF1czI2bDJmdHN1dHVfMjAxNzExMTVUMTgwMDAwWiBtdGFpbEBnb29nbGUuY29t&tmsrc=mtail%40google.com&scp=ALL)
 Meeting Notes | [Notes](https://docs.google.com/document/d/1Ot9AeoiNYnI3fbQrq3w_-cyGxOqS8AD0RChkQfVxyhs/edit)
 Document Folder | [Folder](https://drive.google.com/corp/drive/u/0/folders/0BzW5bSyKst8JQWtfaS1MVk1pOHc)
+Decisions Wiki | [Decisions Wiki](https://github.com/istio/istio/wiki/Environments-WG)
+Hot Topics Wiki | [Hot Topics Wiki](https://github.com/istio/istio/wiki/Environments-Hot-Topics)
 
 &nbsp; | Leads | Company | Profile
 ---|---|---|---
@@ -89,6 +95,8 @@ Community Meeting VC | [Thursdays at 11:00 PT - Biweekly](https://meet.google.co
 Community Meeting Calendar | [Calendar Invitation](https://calendar.google.com/event?action=TEMPLATE&tmeid=N25xazQxdmh2YjRnMXEyb2Nzc3Bqbjcyc3BfMjAxODA0MTJUMTgwMDAwWiBhbmRyYWNpc0Bnb29nbGUuY29t&tmsrc=andracis%40google.com&scp=ALL)
 Meeting Notes | [Notes](https://docs.google.com/document/d/1xHy2jQ8oiwMponMVY2zJr2eUAmHW_Hi9JK42a7cg5Pc/edit#heading=h.2ju2wl4o5jbc)
 Document Folder | [Folder](https://drive.google.com/corp/drive/u/0/folders/0BzW5bSyKst8Jb1QwTXl1WTRqWHM)
+Decisions Wiki | [Decisions Wiki](https://github.com/istio/istio/wiki/Networking-WG)
+Hot Topics Wiki | [Hot Topics Wiki](https://github.com/istio/istio/wiki/Networking-Hot-Topics)
 
 &nbsp; | Leads | Company | Profile
 ---|---|---|---
@@ -107,6 +115,8 @@ Community Meeting VC | [Wednesdays 9:30-10:00 PT - Weekly](https://meet.google.c
 Community Meeting Calendar | [Calendar Invitation](https://calendar.google.com/event?action=TEMPLATE&tmeid=MnI3OTcya3FiYXBuaTEzcDdjMzYxNmFsZ3NfMjAxODAzMTRUMTYzMDAwWiBsZGVtYWlsbHlAZ29vZ2xlLmNvbQ&tmsrc=ldemailly%40google.com&scp=ALL)
 Meeting Notes | [Notes](https://goo.gl/ENFQWb)
 Document Folder | [Folder](https://drive.google.com/corp/drive/u/0/folders/1Zpi5TcBPSqGno96WAq5QkcNKi16opaTL)
+Decisions Wiki | [Decisions Wiki](https://github.com/istio/istio/wiki/Perf-and-Scalability-WG)
+Hot Topics Wiki | [Hot Topics Wiki](https://github.com/istio/istio/wiki/Perf-and-Scalability-Hot-Topics)
 
 &nbsp; | Leads | Company | Profile
 ---|---|---|---
@@ -124,6 +134,9 @@ Community Meeting VC | [Wednesdays at 11:00 PT - Weekly](https://plus.google.com
 Community Meeting Calendar | [Calendar Invitation](https://calendar.google.com/event?action=TEMPLATE&tmeid=bGJpMm9icGFzYnJrMTgxczlxY2Z2aDEyMWNfMjAxNzExMTVUMTkwMDAwWiBtdGFpbEBnb29nbGUuY29t&tmsrc=mtail%40google.com&scp=ALL)
 Meeting Notes | [Notes](https://docs.google.com/document/d/1pn9QdRcoyT_nxOwzklsiYpt7OQraaSDfmtN14XTOrN0/edit)
 Document Folder | [Folder](https://drive.google.com/corp/drive/u/0/folders/0BzW5bSyKst8JbWtHOEo1STc1dGM)
+Recorded Meetings | [YouTube](https://www.youtube.com/watch?v=z-z6MqIalN4&list=PL7wB27eZmdffF-9nyaw01Ni_0GOWBzaF4)
+Decisions Wiki | [Decisions Wiki](https://github.com/istio/istio/wiki/Policies-and-Telemetry-WG)
+Hot Topics Wiki | [Hot Topics Wiki](https://github.com/istio/istio/wiki/Policies-and-Telemetry-Hot-Topics)
 
 &nbsp; | Leads | Company | Profile
 ---|---|---|---
@@ -142,6 +155,8 @@ Community Meeting Calendar | [Calendar Invitation](https://calendar.google.com/e
 Meeting Notes | [Notes](https://docs.google.com/document/d/1-Z7nSDV8f9psp5chO6H9PAUAinIVapOhQRaUIxbf0dk/edit#heading=h.ppfvkxi2bzdh)
 Document Folder | [Folder](https://drive.google.com/corp/drive/u/0/folders/0BzW5bSyKst8Jb2hhRWQ2eTJYVzQ)
 Recorded Meetings | [YouTube](https://www.youtube.com/watch?v=eGABEjKn0YE&list=PL7wB27eZmdfd8ZbUNlZe-RYQKYTxTNJTR)
+Decisions Wiki | [Decisions Wiki](https://github.com/istio/istio/wiki/Security-WG)
+Hot Topics Wiki | [Hot Topics Wiki](https://github.com/istio/istio/wiki/Security-Hot-Topics)
 
 &nbsp; | Leads | Company | Profile
 ---|---|---|---
@@ -160,6 +175,8 @@ Community Meeting VC | [Monday at 11:00 PT - Weekly](https://plus.google.com/han
 Community Meeting Calendar | [Calendar Invitation](https://calendar.google.com/event?action=TEMPLATE&tmeid=cjZuMnJlYW8wYmphaWtyaTVzZDN0ajhhaWtfMjAxODA0MDJUMTgwMDAwWiBoa2xhaUBnb29nbGUuY29t&tmsrc=hklai%40google.com&scp=ALL)
 Meeting Notes | [Notes](https://docs.google.com/document/d/18QgpvBH9N8Io5xU-0piysyOYif65U03m8GabpvHb4IQ/edit)
 Document Folder | [Folder](https://drive.google.com/corp/drive/u/0/folders/0B_ObhNOUiqZ0UWo1ODBVTkRkSzg)
+Decisions Wiki | [Decisions Wiki](https://github.com/istio/istio/wiki/Test-and-Release-WG)
+Hot Topics Wiki | [Hot Topics Wiki](https://github.com/istio/istio/wiki/Test-and-Release-Hot-Topics)
 
 &nbsp; | Leads | Company | Profile
 ---|---|---|---
