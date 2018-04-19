@@ -1,24 +1,25 @@
 # Istio Community Chat Platform
 
-This document describes the guidelines for the Istio community chat platform. 
-/
-- [Getting Started](#getting-started)
-- [Creating Channels](#creating-channels)
-- [Escalating and/or Reporting a Problem](#escalating-andor-reporting-a-problem)
-- [Admin Moderation Guidelines](#admin-moderation-guidelines)
-- [Inactivating Accounts](#inactivating-accounts)
-- [Specific Channel Rules](#specific-channel-rules)
-- [Direct Message Conversations](#dm-direct-message-conversations)
+This document describes the guidelines for the Istio community chat platform.
+
+- [Getting started](#getting-started)
+- [Creating channels](#creating-channels)
+- [Escalating and/or reporting a problem](#escalating-andor-reporting-a-problem)
+- [Admin moderation guidelines](#admin-moderation-guidelines)
+- [Deactivating accounts](#deactivating-accounts)
+- [Specific channel rules](#specific-channel-rules)
+- [Direct message conversations](#dm-direct-message-conversations)
 
 ## Getting started
 
-Mailing lists ([istio-users@](istio-users@googlegroups.com) or [istio-dev@](istio-dev@googlegroups.com) are the primary communication
+Mailing lists ([istio-users@](https://groups.google.com/forum/#!forum/istio-users) or
+[istio-dev@](https://groups.google.com/forum/#!forum/istio-dev) are the primary communication
 channel for the Istio project. All design discussions and decisions take place there. The Istio
 community has requested a chat communication platform to supplement the mailing lists. Chat can be useful as a tool for getting unstuck, to
 share ideas, and to build camaraderie.
 
-Istio uses [Rocket.Chat](https://istio.rocket.chat) as our official community chat platform. All are welcome to [join the community here]
-(https://istio.rocket.chat/home) and get involved. It is important that conversations stay on topic in each channel, and that we all abide by
+Istio uses [Rocket.Chat](https://istio.rocket.chat) as our official community chat platform. All are welcome to
+[join the community](https://istio.rocket.chat) and get involved. It is important that conversations stay on topic in each channel, and that we all abide by
 the [Code of Conduct](https://github.com/cncf/foundation/blob/master/code-of-conduct.md). Chat is searchable and public. Do not make comments
 that you would not say on a video recording or in another public space. Be courteous to others so all have a positive experience.
 
@@ -49,11 +50,11 @@ We may make special accommodations where necessary.
 
 ## Escalating and/or reporting a problem
 
-Join the #radmins channel or contact one of the admins in the closest timezone via DM directly and describe the situation. If the issue can be documented,
+Join the #admins channel or contact one of the admins in the closest timezone via DM directly and describe the situation. If the issue can be documented,
 please take a screenshot to include in your message.
 
 What if you have a problem with an admin? Send a DM to another listed admin and describe the situation or if it’s a code of conduct issue,
-please send an email  to [istio-steering@](istio-steering@googlegroups.com) and describe the situation.
+please send an email  to [istio-steering@](mailto:istio-steering@groups.google.com) and describe the situation.
 
 ## Admin moderation guidelines
 
@@ -67,13 +68,13 @@ to review.
 Content will be automatically removed if it violates code of conduct or is a sales pitch. Admins will take a screenshot of such
 behavior in order to document the situation. The community takes such violations extremely seriously, and they will be handled swiftly.
 
-## Inactivating accounts
+## Deactivating accounts
 
-For reasons listed below, admins may inactivate/remove individual Rocket.Chat accounts:
+For reasons listed below, admins may deactivate/remove individual Rocket.Chat accounts:
 
 - Spreading spam content in DMs and/or channels
 - Not adhering to the code of conduct in DMs and/or channels
-- Overtly selling products, related or unrelated to Istio
+- Overtly selling products, whether related or unrelated to Istio
 
 ## Specific channel rules
 
