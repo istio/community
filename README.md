@@ -20,6 +20,7 @@ Other Documents
 - [Reviewing and Merging Pull Requests for Istio](REVIEWING.md) - how we manage pull requests
 - [Feature Lifecycle](FEATURE-LIFECYCLE.md) - requirements for features to be labeled Alpha, Beta or Stable
 - [Feature Lifecycle Checklist](FEATURE-LIFECYCLE-CHECKLIST.md) - checklist-form of requirements for features to be labeled Alpha, Beta or Stable
+- [Rocket Chat](ROCKETCHAT.md) - describes the Istio community chat platform
 
 ## Introduction
 
