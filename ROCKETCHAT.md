@@ -1,3 +1,8 @@
+This document describes the guidelines for the Istio community chat platform. 
+
+
+
+
 Mailing Lists are the primary communication channel for the Istio project. All design discussions and decisions take place there. The Istio community has requested a chat communication platform to supplement the mailing lists. Chat can be useful as a tool for getting unstuck, to share ideas, and to build camaraderie. 
 
 Istio utilizes [Rocket.Chat](https://istio.rocket.chat/home) as the official community chat platform. All are welcome to [join the community here](https://istio.rocket.chat/home) and get involved. It is important that conversation stays on topic in each channel, and that we all abide by the [Code of Conduct](https://github.com/cncf/foundation/blob/master/code-of-conduct.md). Chat is searchable and public. Do not make comments that you would not say on a video recording or in another public space. Be courteous to others so all have a positive experience. 
@@ -7,7 +12,7 @@ Istio chat discussions are not staffed or continuously monitored. You should not
 ## CREATING CHANNELS
 Please reach out to the #admins group with your request to create a new channel.
 
-Channels are dedicated to WGs, community topics, and platforms.
+Channels are dedicated to working groups, community topics, and platforms.
 
 Channels are not: 
 - company specific; cloud providers are ok with product names as the channel. Discourse will be about Istio-related topics and not proprietary information of the provider.
