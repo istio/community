@@ -2,13 +2,13 @@
 
 This document describes the guidelines for the Istio community chat platform. 
 
-- Getting Started
-- [Creating Channels](/blob/644030b62cd94b40042fce9461994e66e89777a7/ROCKETCHAT.md#creating-channels)
+- [Getting Started](https://github.com/istio/community/blob/378f79c7227bb8ff959e3c0164f5ad0cc5a85c74/ROCKETCHAT.md#getting-started)
+- [Creating Channels](https://github.com/istio/community/blob/378f79c7227bb8ff959e3c0164f5ad0cc5a85c74/ROCKETCHAT.md#creating-channels)
 - [Escalating and/or Reporting a Problem](https://github.com/istio/community/blob/644030b62cd94b40042fce9461994e66e89777a7/ROCKETCHAT.md#escalating-andor-reporting-a-problem)
-- Admin Moderation Guidelines
-- Inactivating Accounts
-- Specific Channel Rules
-- Direct Message Conversations
+- [Admin Moderation Guidelines](https://github.com/istio/community/blob/378f79c7227bb8ff959e3c0164f5ad0cc5a85c74/ROCKETCHAT.md#admin-moderation-guidelines)
+- [Inactivating Accounts](https://github.com/istio/community/blob/378f79c7227bb8ff959e3c0164f5ad0cc5a85c74/ROCKETCHAT.md#inactivating-accounts)
+- [Specific Channel Rules](https://github.com/istio/community/blob/378f79c7227bb8ff959e3c0164f5ad0cc5a85c74/ROCKETCHAT.md#specific-channel-rules)
+- [Direct Message Conversations](https://github.com/istio/community/blob/378f79c7227bb8ff959e3c0164f5ad0cc5a85c74/ROCKETCHAT.md#dm-direct-message-conversations)
 
 
 ## GETTING STARTED
