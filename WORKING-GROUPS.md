@@ -34,7 +34,7 @@ Artifact | Link
 Forum | [istio-api-management@](https://groups.google.com/forum/#!forum/istio-api-management)
 Community Meeting VC | [Wednesdays at 13:00 PT - Biweekly](https://istio.zoom.us/j/274692275)
 Community Meeting Calendar | [Calendar Invitation](https://calendar.google.com/event?action=TEMPLATE&tmeid=MmphaThpYTFuMzM2bjcxNTR0cG51cG92bGFfMjAxNzEyMjBUMjEwMDAwWiBjaGVuZ2xpYW5nQGdvb2dsZS5jb20&tmsrc=chengliang%40google.com&scp=ALL)
-Meeting Notes | [Notes](https://docs.google.com/document/d/1Hh-MC2uxctT-oqQvwPIc7tUTEbOpzFHdJS2Y5l2Go6g/edit)
+Meeting Notes | [Notes](https://docs.google.com/document/d/1ub9jIKGGQitivYOeT3AgIGDhEZF7qq9jznC6DVhsozs/edit)
 Document Folder | [Folder](https://drive.google.com/corp/drive/u/0/folders/0BzW5bSyKst8JRFJXWTZjMXY5MDQ)
 Recorded Meetings | [YouTube](https://www.youtube.com/watch?v=yEKFNAeHrBA&list=PL7wB27eZmdfe2819aE1NawcPeWZanM-26)
 Decisions Wiki | [Decisions Wiki](https://github.com/istio/istio/wiki/API-Management-WG)
