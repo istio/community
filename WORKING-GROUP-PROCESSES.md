@@ -57,7 +57,7 @@ Once approval has been granted by the technical oversight committee to form a wo
 steps to establish the working group:
 
 * **Create a Google Drive Folder**. Create a folder to hold your working group documents within this parent
-[folder](https://drive.google.com/corp/drive/u/0/folders/0B7huSKYaiUN5LVdBeElXUGt3UGs). Call your folder "GROUP_NAME". 
+[folder](https://drive.google.com/corp/drive/u/0/folders/0B7huSKYaiUN5LVdBeElXUGt3UGs). Call your folder "GROUP_NAME".
 
 * **Create a Meeting Notes Document**. Create a blank document in the above folder and call it "GROUP_NAME Group Meeting Notes".
 
