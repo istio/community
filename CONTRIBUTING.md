@@ -40,7 +40,7 @@ to fill out the [Google CLA](https://cla.developers.google.com).
 
 Once you are CLA'ed, we'll be able to accept your pull requests. This is
 necessary because you own the copyright to your changes, even after your
-contribution becomes part of this project. So this agreement simply gives us
+contribution becomes part of this project. So this agreement simply gives Google
 permission to use and redistribute your contributions as part of the project.
 
 ## Design documents
