@@ -171,10 +171,11 @@ Build, test, release
 Artifact | Link
 ---|---
 Forum | [istio-test-release@](https://groups.google.com/forum/#!forum/istio-test-release)
-Community Meeting VC | [Monday at 11:00 PT - Weekly](https://plus.google.com/hangouts/_/google.com/istio-test)
-Community Meeting Calendar | [Calendar Invitation](https://calendar.google.com/event?action=TEMPLATE&tmeid=cjZuMnJlYW8wYmphaWtyaTVzZDN0ajhhaWtfMjAxODA0MDJUMTgwMDAwWiBoa2xhaUBnb29nbGUuY29t&tmsrc=hklai%40google.com&scp=ALL)
+Community Meeting VC | [Monday at 11:00 PT - Weekly](https://meet.google.com/ust-tkqv-idm)
+Community Meeting Calendar | [Calendar Invitation](https://calendar.google.com/event?action=TEMPLATE&tmeid=NWlvaWkzZDkzMHRxaDZjMDVydHZrdHNiamxfMjAxODA1MjFUMTgwMDAwWiBoa2xhaUBnb29nbGUuY29t&tmsrc=hklai%40google.com&scp=ALL)
 Meeting Notes | [Notes](https://docs.google.com/document/d/18QgpvBH9N8Io5xU-0piysyOYif65U03m8GabpvHb4IQ/edit)
 Document Folder | [Folder](https://drive.google.com/corp/drive/u/0/folders/0B_ObhNOUiqZ0UWo1ODBVTkRkSzg)
+Recorded Meetings | [YouTube](https://www.youtube.com/watch?v=8pkEpVtkSx4&list=PL7wB27eZmdfckNxJRS1ac9rqsx5b16NU)
 Decisions Wiki | [Decisions Wiki](https://github.com/istio/istio/wiki/Test-and-Release-WG)
 Hot Topics Wiki | [Hot Topics Wiki](https://github.com/istio/istio/wiki/Test-and-Release-Hot-Topics)
 
