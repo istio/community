@@ -61,7 +61,6 @@ Hot Topics Wiki | [Hot Topics Wiki](https://github.com/istio/istio/wiki/Config-H
 
 &nbsp; | Leads | Company | Profile
 ---|---|---|---
-<img width="30px" src="https://avatars3.githubusercontent.com/u/28876302?s=400&v=4"> | Joy Zhang | Google | [xiaolanz](https://github.com/xiaolanz)
 <img width="30px" src="https://avatars3.githubusercontent.com/u/4790487?s=400&v=4"> | Christopher M Luciano | IBM | [cmluciano](https://github.com/cmluciano)
 <img width="30px" src="https://avatars2.githubusercontent.com/u/17071139?s=400&v=4"> | Oz Evren | Google | [ozevren](https://github.com/ozevren)
 
