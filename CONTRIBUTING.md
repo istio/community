@@ -62,7 +62,7 @@ Just open the template and select "Make Copy" from the File menu in order to boo
 
 In order to contribute a feature to Istio you'll need to go through the following steps:
 
-- Discuss your idea with the appropriate [working groups](WORKING-GROUPS.md) on the working 
+- Discuss your idea with the appropriate [working groups](WORKING-GROUPS.md) on the working
 group's mailing list.
 
 - Once there is general agreement that the feature is useful, create a GitHub issue to track the discussion. The issue should include information
@@ -72,7 +72,7 @@ implementation in the issue.
 - If the feature is substantial enough:
 
   - Working group leads will ask for a design document as outlined in the previous section.
-  Create the design document and add a link to it in the GitHub issue. Don't forget to send a note to the 
+  Create the design document and add a link to it in the GitHub issue. Don't forget to send a note to the
   working group to let everyone know your document is ready for review.
 
   - Depending of the breath of the design and how contentious it is, the working group leads may decide
@@ -99,7 +99,7 @@ exact code change can help focus discussions, so the choice is up to you.
 
 ## Setting up to contribute to Istio
 
-Check out this [README](https://github.com/istio/istio/blob/master/README.md) to learn about 
+Check out this [README](https://github.com/istio/istio/blob/master/README.md) to learn about
 the Istio source base and setting up your [development environment](https://github.com/istio/istio/wiki/Dev-Guide).
 
 ## Pull requests

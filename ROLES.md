@@ -22,7 +22,7 @@ necessary to join or stay in a given role, and the concrete manifestation of the
     <td>Requirements</td>
     <td>Privileges</td>
   </tr>
-  
+
   <tr>
     <td><a href="#collaborator">Collaborator</a></td>
     <td>Casual contributor to the project</td>
@@ -33,7 +33,7 @@ necessary to join or stay in a given role, and the concrete manifestation of the
         <p>Read and commenting permission on the Istio Team drive</p>
     </td>
   </tr>
-  
+
   <tr>
     <td><a href="#member">Member</a></td>
     <td>Regular active contributor in the community</td>
@@ -47,14 +47,14 @@ necessary to join or stay in a given role, and the concrete manifestation of the
         <p>Edit permission on the Istio Team drive</p>
     </td>
   </tr>
-  
+
   <tr>
     <td><a href="#approver">Approver</a></td>
     <td>Approve contributions from other members</td>
     <td>Highly experienced and active reviewer and contributor to an area</td>
     <td>‘approver’ entry in one or more OWNERS file in GitHub</td>
   </tr>
-  
+
   <tr>
     <td><a href="#lead">Lead</a></td>
     <td>
@@ -65,7 +65,7 @@ necessary to join or stay in a given role, and the concrete manifestation of the
     <td>Sponsored by the technical oversight committee as documented <a href="./WORKING-GROUP-PROCESSES.md">here</a></td>
     <td>Write permissions on one or more repos, allowing issues to be manipulated.</td>
   </tr>
-  
+
   <tr>
     <td><a href="#administrator">Administrator</a></td>
     <td>Manage & control permissions</td>
@@ -78,7 +78,7 @@ necessary to join or stay in a given role, and the concrete manifestation of the
         <p>Admin privilege to the Istio email lists.</p>
     </td>
   </tr>
-  
+
   <tr>
     <td><a href="#vendor">Vendor</a></td>
     <td>Contribute extensions to the Istio project</td>
