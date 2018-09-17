@@ -10,7 +10,7 @@ e.g. (at)example_user
 ### Organization you are requesting membership in
 e.g. (at)istio
 
-### Company Affiliation
+### Company Affiliation or Individual
 e.g. Google, IBM, VMware, Red Hat or XX etc, otherwise, Individual
 
 ### Requirements
@@ -33,9 +33,10 @@ e.g. Google, IBM, VMware, Red Hat or XX etc, otherwise, Individual
 - (at)sponsor-2
 
 ### List of contributions to the Istio project
-- PRs reviewed / authored
+- PRs reviewed 
+- PRs authored
 - Issues responded to
-- WG I am involved with
+- Workgroup(s) I am involved with
 
 ### Slack access:
 - What is your email address associated with Slack?
