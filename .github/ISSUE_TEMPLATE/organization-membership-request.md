@@ -14,7 +14,7 @@ e.g. (at)istio
 e.g. Google, IBM, VMware, Red Hat or XX etc, otherwise, Individual
 
 ### Requirements
-- Subscribed to istio-dev@googlegroups.com (istio-dev@googlegroups.com)
+- Subscribed to istio-dev@googlegroups.com (istio-dev@googlegroups.com).
 - Actively contributing to 1 or more areas.
 - Sponsored by 2 members.
 
