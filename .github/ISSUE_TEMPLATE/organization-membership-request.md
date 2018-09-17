@@ -7,20 +7,17 @@ about: Request membership in an Istio Org
 ### GitHub Username
 e.g. (at)example_user
 
-### Organization you are requesting membership in
-e.g. (at)istio
-
 ### Company Affiliation or Individual
 e.g. Google, IBM, VMware, Red Hat or XX etc, otherwise, Individual
 
 ### Requirements
-- Subscribed to istio-dev@googlegroups.com (istio-dev@googlegroups.com).
+- Subscribed to istio-dev@googlegroups.com (https://groups.google.com/forum/#!forum/istio-dev).
 - Actively contributing to 1 or more areas.
 - Sponsored by 2 members.
 
 - [ ] I have reviewed the community membership guidelines (https://github.com/istio/community/blob/master/ROLES.md#member & https://github.com/istio/community/blob/master/CONTRIBUTING.md)
 - [ ] I have enabled 2FA on my GitHub account (https://github.com/settings/security)
-- [ ] I have subscribed to the istio-dev@googlegroups.com email list
+- [ ] I have subscribed to the istio-dev@googlegroups.com (https://groups.google.com/forum/#!forum/istio-dev) email list
 - [ ] I have made multiple contributions to the project or community. Contributions may include, but are not limited to:
     - Authoring or reviewing PRs on GitHub
     - Filing or commenting on issues on GitHub
@@ -28,7 +25,7 @@ e.g. Google, IBM, VMware, Red Hat or XX etc, otherwise, Individual
 - [ ] I have two sponsors that meet the sponsor requirements listed in the community membership guidelines.
 - [ ] I have spoken to my sponsors ahead of this application, and they have agreed to sponsor my application
 
-### Sponsors (Please mention sponsors’ github ids here)
+### Sponsor GitHub Ids
 - (at)sponsor-1
 - (at)sponsor-2
 
@@ -38,5 +35,5 @@ e.g. Google, IBM, VMware, Red Hat or XX etc, otherwise, Individual
 - Issues responded to
 - Workgroup(s) I am involved with
 
-### Slack access:
-- What is your email address associated with Slack?
+### Slack access
+- If you'd like to join our developer Slack workspace, what is the email address you have associated with Slack?
