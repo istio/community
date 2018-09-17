@@ -1,36 +1,32 @@
 ---
 name: Organization Membership Request
-about: Request membership in an Istio Org
-
+about: Request membership in Istio's GitHub organization.
 ---
 
-### GitHub Username
-e.g. (at)example_user
+### GitHub user id
+- List your GitHub user id
 
-### Company Affiliation or Individual
-e.g. Google, IBM, VMware, Red Hat or XX etc, otherwise, Individual
+### Company affiliation
+- List your company name, or indicate Individual if you're not affiliated with a company
 
 ### Requirements
-- Subscribed to istio-dev@googlegroups.com (https://groups.google.com/forum/#!forum/istio-dev).
-- Actively contributing to 1 or more areas.
-- Sponsored by 2 members.
-
-- [ ] I have reviewed the community membership guidelines (https://github.com/istio/community/blob/master/ROLES.md#member & https://github.com/istio/community/blob/master/CONTRIBUTING.md)
-- [ ] I have enabled 2FA on my GitHub account (https://github.com/settings/security)
-- [ ] I have subscribed to the istio-dev@googlegroups.com (https://groups.google.com/forum/#!forum/istio-dev) email list
+- [ ] I have reviewed the [community membership guidelines](https://github.com/istio/community/blob/master/ROLES.md#member)
+- [ ] I have reviewed the [contribution guidelines](https://github.com/istio/community/blob/master/CONTRIBUTING.md)
+- [ ] I have enabled [2FA on my GitHub account](https://github.com/settings/security)
+- [ ] I have subscribed to the [istio-dev@](https://groups.google.com/forum/#!forum/istio-dev) mailing list
 - [ ] I have made multiple contributions to the project or community. Contributions may include, but are not limited to:
     - Authoring or reviewing PRs on GitHub
     - Filing or commenting on issues on GitHub
     - Contributing to working group or community discussions
-- [ ] I have two sponsors that meet the sponsor requirements listed in the community membership guidelines.
+- [ ] I have two sponsors that meet the sponsorship requirements listed in the community membership guidelines
 - [ ] I have spoken to my sponsors ahead of this application, and they have agreed to sponsor my application
 
-### Sponsor GitHub Ids
-- (at)sponsor-1
-- (at)sponsor-2
+### List of sponsors
+- @sponsor-1
+- @sponsor-2
 
 ### List of contributions to the Istio project
-- PRs reviewed 
+- PRs reviewed
 - PRs authored
 - Issues responded to
 - Workgroup(s) I am involved with
