@@ -12,7 +12,7 @@ This document describes the set of roles individuals may have within the Istio c
 
 ## Role Summary
 
-Here is the set of roles we use within the Istio community, the general responsibilities expected by individuals in each role, the requirements necessary to join or stay in a given role, and the concrete manifestation of the role in terms of permissions and privileges.  You may self-nominate to be a member or approver via a PR with a list of your key contributions.
+Here is the set of roles we use within the Istio community, the general responsibilities expected by individuals in each role, the requirements necessary to join or stay in a given role, and the concrete manifestation of the role in terms of permissions and privileges.  To request to be a member of the Istio organization, you can [open an issue](https://github.com/istio/community/issues/new?template=organization-membership-request.md&title=REQUEST%3A%20New%20membership%20for%20%3Cyour-GH-handle%3E) and fill out the required template within the issue.  Further, you may self-nominate to be an approver by opening an issue with a list of your key contributions.
 <table>
   <tr>
     <td>Role</td>
