@@ -93,7 +93,7 @@ Hot Topics Wiki | [Hot Topics Wiki](https://github.com/istio/istio/wiki/Networki
 ---|---|---|---
 <img width="30px" src="https://avatars2.githubusercontent.com/u/10883640?s=400&v=4"> | Andra Cismaru | Google | [andraxylia](https://github.com/andraxylia)
 <img width="30px" src="https://avatars3.githubusercontent.com/u/4790487?s=400&v=4"> | Christopher Luciano | IBM | [cmluciano](https://github.com/cmluciano)
-<img width="30px" src="https://avatars3.githubusercontent.com/u/8202871?s=400&v=4"> | Shriram Rajagopalan | IBM | [rshriram](https://github.com/rshriram)
+<img width="30px" src="https://avatars3.githubusercontent.com/u/8202871?s=400&v=4"> | Shriram Rajagopalan | VMware | [rshriram](https://github.com/rshriram)
 
 ## Performance and Scalability
 
