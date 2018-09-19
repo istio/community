@@ -9,6 +9,7 @@ This document describes the set of roles individuals may have within the Istio c
 * [Lead](#lead)
 * [Administrator](#administrator)
 * [Vendor](#vendor)
+* [Sponsor](#sponsor)
 
 ## Role Summary
 
@@ -83,6 +84,17 @@ Here is the set of roles we use within the Istio community, the general responsi
     <td>n/a</td>
     <td>‘approver’ entry in one or more OWNERS files within the istio/contrib repo</td>
   </tr>
+
+  <tr>
+    <td><a href="#sponsor">Sponsor</a></td>
+    <td>Existing member that vouches for another GitHub user that wishes to become a member of the Istio organization</td>
+    <td>
+        <p>Must have close interactions with the prospective member - e.g. code/design/proposal review, coordinating on issues, etc.</p>
+        <p>Must be reviewers or approvers in at least 1 OWNERS file (in any repo in the Istio GitHub organization).</p>
+    </td>
+    <td>n/a</td>
+  </tr>
+
 </table>
 
 ## Collaborator
@@ -252,9 +264,10 @@ Administrators are responsible for the bureaucratic aspects of the project.
 
 ### Responsibilities and privileges
 
-* Manage the Istio GitHub repo, including granting membership and controlling repo read/write permissions
+* Manage the Istio GitHub repo, including granting membership, controlling repo read/write permissions,
+and team membership.
 
-* Manage the Istio Slack workspace
+* Manage the Istio developer Slack workspace.
 
 * Manage the Istio Google group forums
 
@@ -272,3 +285,13 @@ Vendors contribute extensions to the Istio project in the form of new adapters, 
 
 * Each vendor receives access to a subdirectory in the contrib repo, and each directory has got a distinct OWNERS file granting
 approver permissions to the vendor.
+
+## Sponsor
+
+A sponsor is a member that wishes to vouch for another user to become a member.
+
+### Requirements
+
+* Sponsors must have close interactions with the prospective member - e.g. code/design/proposal review, coordinating on issues, etc.
+
+* Sponsors must be reviewers or approvers in at least 1 OWNERS file (in any repo in the Istio GitHub organization).

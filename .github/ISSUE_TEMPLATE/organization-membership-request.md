@@ -18,10 +18,7 @@ about: Request membership in Istio's GitHub organization.
     - Authoring or reviewing PRs on GitHub
     - Filing or commenting on issues on GitHub
     - Contributing to working group or community discussions
-- [ ] I have two sponsors that meet the sponsorship requirements listed in the community membership guidelines.  Sponsor requirements:
-    - Sponsors must have close interactions with the prospective member - e.g. code/design/proposal review, coordinating on issues, etc.
-    - Sponsors must be reviewers or approvers in at least 1 OWNERS file (in any repo in the Istio GitHub organization)
-    - Sponsors must be from multiple member companies to demonstrate integration across community.
+- [ ] I have two sponsors that meet the sponsorship requirements listed in the [community roles](./ROLES/#sponsor].
 - [ ] I have spoken to my sponsors ahead of this application, and they have agreed to sponsor my application
 
 ### List of sponsors
