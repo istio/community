@@ -2,7 +2,7 @@
 
 This document describes the set of roles individuals may have within the Istio community, the requirements of each role, and the privileges that each role grants.
 
-* [Role Summary](#role-summary)
+* [Role summary](#role-summary)
 * [Collaborator](#collaborator)
 * [Member](#member)
 * [Approver](#approver)
@@ -11,7 +11,7 @@ This document describes the set of roles individuals may have within the Istio c
 * [Vendor](#vendor)
 * [Sponsor](#sponsor)
 
-## Role Summary
+## Role summary
 
 Here is the set of roles we use within the Istio community, the general responsibilities expected by individuals in each role, the requirements necessary to join or stay in a given role, and the concrete manifestation of the role in terms of permissions and privileges.  To request to be a member of the Istio organization, you can [open an issue](https://github.com/istio/community/issues/new?template=organization-membership-request.md&title=REQUEST%3A%20New%20membership%20for%20%3Cyour-GH-handle%3E) and fill out the required template within the issue.  Further, you may self-nominate to be an approver by opening an issue with a list of your key contributions.
 <table>
@@ -37,7 +37,7 @@ Here is the set of roles we use within the Istio community, the general responsi
     <td><a href="#member">Member</a></td>
     <td>Regular active contributor in the community</td>
     <td>
-        <p>Sponsored by 2 existing members</p>
+        <p><a href="sponsor">Sponsored</a> by 2 existing members</p>
         <p>Has made multiple contributions to the project</p>
     </td>
     <td>
@@ -51,7 +51,7 @@ Here is the set of roles we use within the Istio community, the general responsi
     <td><a href="#approver">Approver</a></td>
     <td>Approve contributions from other members</td>
     <td>Highly experienced and active reviewer and contributor to an area</td>
-    <td>‘approver’ entry in one or more OWNERS file in GitHub</td>
+    <td>‘approver’ entry in one or more OWNERS file in GitHub (istio.github.io excluded)</td>
   </tr>
 
   <tr>
@@ -61,14 +61,14 @@ Here is the set of roles we use within the Istio community, the general responsi
         <p>Triage incoming issues, set milestones, repo labels</p>
         <p>Run their working group</p>
     </td>
-    <td>Sponsored by the technical oversight committee as documented <a href="./WORKING-GROUP-PROCESSES.md">here</a></td>
+    <td>Appointed by the <a href="./TECH-OVERSIGHT-COMMITTEE.md">technical oversight committee</a> as documented in <a href="./WORKING-GROUP-PROCESSES.md">Istio Working Group Processes</a></td>
     <td>Write permissions on one or more repos, allowing issues to be manipulated.</td>
   </tr>
 
   <tr>
     <td><a href="#administrator">Administrator</a></td>
     <td>Manage & control permissions</td>
-    <td>Sponsored by the technical oversight committee</td>
+    <td>Appointed by the <a href="./TECH-OVERSIGHT-COMMITTEE.md">technical oversight committee</a></td>
     <td>
         <p>Admin privileges on the GitHub Istio org and all its repos</p>
         <p>Admin privileges on the Istio Slack workspace</p>
@@ -90,7 +90,7 @@ Here is the set of roles we use within the Istio community, the general responsi
     <td>Existing member that vouches for another GitHub user that wishes to become a member of the Istio organization</td>
     <td>
         <p>Must have close interactions with the prospective member - e.g. code/design/proposal review, coordinating on issues, etc.</p>
-        <p>Must be reviewers or approvers in at least 1 OWNERS file (in any repo in the Istio GitHub organization).</p>
+        <p>Must be reviewers or approvers in at least 1 OWNERS file (in any repo in the Istio GitHub organization, excluding istio.github.io).</p>
     </td>
     <td>n/a</td>
   </tr>
@@ -107,7 +107,7 @@ nor allow them to interact with the PR bot.
 
 * Working on some contribution to the project that would benefit from the ability to have PRs or Issues to be assigned to the contributor
 
-* Sponsored by 1 member
+* <a href="#sponsor">Sponsored</a> by 1 member
 
 ## Member
 
@@ -134,7 +134,7 @@ the area.
 
 * Actively contributing to 1 or more areas.
 
-* Sponsored by 2 members.
+* <a href="#sponsor">Sponsored</a> by 2 members.
 
 ### Responsibilities and privileges
 
@@ -210,7 +210,7 @@ Getting to be a lead of an existing working group:
 
 * Reviewed or merged at least 50 PRs
 
-* Sponsored by the technical oversight committee
+* Appointed by the <a href="./TECH-OVERSIGHT-COMMITTEE.md">technical oversight committee</a>
 
 Establishing the leads for a new working group:
 
@@ -226,7 +226,7 @@ Establishing the leads for a new working group:
 
 * Reviewed or merged at least 50 PRs
 
-* Sponsored by the technical oversight committee
+* Appointed by the <a href="./TECH-OVERSIGHT-COMMITTEE.md">technical oversight committee</a>
 
 ### Responsibilities and privileges
 
@@ -234,9 +234,9 @@ The following apply to the area / component for which one would be an owner.
 
 * Run their working group as outlined in the [Working Group Processes](WORKING-GROUP-PROCESSES.md) document.
 
-* Design/proposal approval authority over the area / component, though escalation to the technical oversight committee is possible.
+* Design/proposal approval authority over the area / component, though escalation to the <a href="./TECH-OVERSIGHT-COMMITTEE.md">technical oversight committee</a> is possible
 
-* Perform issue triage on GitHub.
+* Perform issue triage on GitHub
 
 * Apply/remove/create/delete GitHub labels and milestones
 
@@ -260,14 +260,14 @@ Administrators are responsible for the bureaucratic aspects of the project.
 
 ### Requirements
 
-* Assigned by technical oversight committee
+* Appointed by the <a href="./TECH-OVERSIGHT-COMMITTEE.md">technical oversight committee</a>
 
 ### Responsibilities and privileges
 
 * Manage the Istio GitHub repo, including granting membership, controlling repo read/write permissions,
-and team membership.
+and team membership
 
-* Manage the Istio developer Slack workspace.
+* Manage the Istio developer Slack workspace
 
 * Manage the Istio Google group forums
 
@@ -279,7 +279,7 @@ Vendors contribute extensions to the Istio project in the form of new adapters, 
 
 ### Requirements
 
-* Sponsored by a member
+* <a href="#sponsor">Sponsored</a> by a member
 
 ### Responsibilities and privileges
 
@@ -295,3 +295,5 @@ A sponsor is a member that wishes to vouch for another user to become a member.
 * Sponsors must have close interactions with the prospective member - e.g. code/design/proposal review, coordinating on issues, etc.
 
 * Sponsors must be reviewers or approvers in at least 1 OWNERS file (in any repo in the Istio GitHub organization).
+
+* Sponsors are responsible for assessing whether a new potential member behaves in accordance to our <a href="./CONTRIBUTING.md">contribution guidelines</a>.

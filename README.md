@@ -48,7 +48,7 @@ Map that to your local time with this [timezone table](https://www.google.com/se
 See our [community page](https://istio.io/about/community/) for ways to get involved
 in our community.
 
-To dig deeper, check the [architecture](https://istio.io/docs/concepts/what-is-istio/#architecture)
+To dig deeper, check out the [architecture](https://istio.io/docs/concepts/what-is-istio/#architecture)
 and read some [design docs](./CONTRIBUTING.md#design-documents).
 
 If you're looking for something to do to get your feet wet working on Istio, look for GitHub issues
