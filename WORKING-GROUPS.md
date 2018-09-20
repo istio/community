@@ -75,7 +75,6 @@ Hot Topics Wiki | [Hot Topics Wiki](https://github.com/istio/istio/wiki/Environm
 &nbsp; | Leads | Company | Profile
 ---|---|---|---
 &nbsp; | Costin Manolache | Google | [costinm](https://github.com/costinm)
-<img width="30px" src="https://avatars0.githubusercontent.com/u/3664595?s=400&v=4"> | Laurent Demailly | Google | [ldemailly](https://github.com/ldemailly)
 
 ## Networking
 
@@ -109,7 +108,7 @@ Hot Topics Wiki | [Hot Topics Wiki](https://github.com/istio/istio/wiki/Perf-and
 
 &nbsp; | Leads | Company | Profile
 ---|---|---|---
-<img width="30px" src="https://avatars0.githubusercontent.com/u/3664595?s=400&v=4"> | Laurent Demailly | Google | [ldemailly](https://github.com/ldemailly)
+<img width="30px" src="https://avatars0.githubusercontent.com/u/3664595?s=400&v=4"> | Laurent Demailly | N/A | [ldemailly](https://github.com/ldemailly)
 <img width="30px" src="https://avatars0.githubusercontent.com/u/13684010?s=400&v=4"> | Surya V Duggirala | IBM | [suryadu](https://github.com/suryadu)
 
 ## Policies and Telemetry

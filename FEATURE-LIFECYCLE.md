@@ -113,13 +113,15 @@ When manual conversion is necessary, the project will provide documentation on t
     <td>The presence of the feature must not affect any released features.</td>
     <td>The feature is covered by unit tests and integration tests where the feature is enabled and the tests are non-flaky.
 Tests may not cover all corner cases, but the most common cases have been covered.
-Testing code coverage at least 90%.
+Testing code coverage >= 70%.
 When the feature is disabled it does not regress performance of the system.</td>
     <td>Integration tests cover edge cases as well as common use cases.
 Integration tests cover all issues reported on the feature.
 The feature has end-to-end tests covering the samples/tutorials for the feature.
-Test code coverage is at least 95%.</td>
-    <td>Same as Beta, including tests for any issues discovered during Beta.</td>
+Test code coverage is >= 80%.</td>
+    <td>Superset of Beta, including tests for any issues discovered during Beta.
+Test code coverage is >= 90%.
+    </td>
   </tr>
   <tr>
     <td>Reliability</td>

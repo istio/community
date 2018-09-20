@@ -45,10 +45,10 @@ Map that to your local time with this [timezone table](https://www.google.com/se
 
 ## How can I help ?
 
-See our [community page](https://istio.io/community.html) for ways to get involved
+See our [community page](https://istio.io/about/community/) for ways to get involved
 in our community.
 
-To dig deeper, check the [architecture](https://istio.io/docs/concepts/what-is-istio/overview.html#architecture)
+To dig deeper, check out the [architecture](https://istio.io/docs/concepts/what-is-istio/#architecture)
 and read some [design docs](./CONTRIBUTING.md#design-documents).
 
 If you're looking for something to do to get your feet wet working on Istio, look for GitHub issues
@@ -60,11 +60,12 @@ marked with the Help Wanted label:
 Of course, even if there's not an issue opened for it, we can always use more
 testing throughout the platform. Similarly, we can always use more docs, richer docs,
 insightful docs. Or maybe a cool blog post?
-And if you're a web developer, we could use your help in spiffing up our public-facing web site.
 
 ## Questions and issues
 
-If you've got questions or issues with using Istio, checkout our [help page](https://istio.io/help).
+If you've got questions or issues with using Istio, checkout our [help page](https://istio.io/help)
+and be sure to connect to our [community](https://istio.io/about/community) where there's always
+someone ready to lend a hand.
 
 If you're a developer trying to hack on or use the Istio code, head to
 [istio-dev@](https://groups.google.com/forum/#!forum/istio-dev) for help.
