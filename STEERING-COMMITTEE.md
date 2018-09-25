@@ -16,15 +16,28 @@ The Istio Steering Committee was formed to oversee the administrative aspects of
 
 Seats in Steering are held by a company, not by the individual users. Currently Steering consists of members from Google & IBM. These are:
 
+#### Google
+
 * [April Nassi](https://github.com/thisisnotapril) (Google)
-* [Dan Berg](https://github.com/dcberg) (IBM)
 * [Dan Ciruli](https://github.com/oaktowner) (Google)
 * Jennifer Lin (Google)
-* [Lin Sun](https://github.com/linsun) (IBM)
 * [Louis Ryan](https://github.com/louiscryan) (Google)
 * [Martin Taillefer](https://github.com/geeknoid) (Google)
-* Nilesh Patel (IBM)
 * [Sven Mawson](https://github.com/smawson) (Google)
+
+#### IBM
+* [Dan Berg](https://github.com/dcberg) (IBM)
+* [Lin Sun](https://github.com/linsun) (IBM)
+* Nilesh Patel (IBM)
+
+## Meetings
+
+The Istio Steering Committee meets weekly; currently on Tuesday mornings. 
+
+Given the nature of the discussions in Steering, meetings are not currently open to the public. Questions around governance are listed as issues in the community repo, and we invite your feedback there. 
+
+If you wish to present to the Steering committee or have a topic you'd like Steering to review, please file an issue here or reach out via [istio-steering@](https://groups.google.com/forum/#!forum/istio-steering). 
+
 
 ## General Questions
 
@@ -32,13 +45,13 @@ Seats in Steering are held by a company, not by the individual users. Currently 
 
 Steering was created as the Istio project was in infancy, in order to tackle governance and overall project strategy. To date Istio 1.0 has the bulk of contributions coming from the project founders, Google & IBM. Together it was decided that having strong corporate leadership was needed for the project to ensure continued velocity. Steering was created with 9 seats held, and with 11 being planned.
 
-*Will Steering Always Be Just IBM & Google?*
+*How Are Steering Seats Allocated?*
 
-That is not the intent. The plan is to add additional seats to Steering. We have not yet decided how that will be done. Your feedback is appreciated. We do want to ensure that those contributing to the project are properly represented. At a minimum, the membership is reviewed once a year.
+Allocation is based upon corporate contributions, although no final decision has been made on the exact formula. We do plan to add additional seats to Steering. Community feedback on the process and allocation formula is very welcome! We do want to ensure that those contributing to the project are properly represented. At a minimum, the membership is reviewed once a year.
 
 *Why Does Google Have The Most Seats?*
 
-This is weighted to reflect the bulk of project contributions.
+This is weighted to reflect project contributions.
 
 *What Happens If Someone Leaves the Company They Represent?*
 
@@ -48,18 +61,10 @@ In that case, the company will select another represenative to hold the seat. Th
 
 The same applies; the company will select another represenative to hold the seat. 
 
-*Is It This Way Forever?*
+*Is This Steering Model Permanent?*
 
 We recognize that governance of an open source project is a living document, and evolves as the community and project grows. This is the model that works for the project now. As it matures, and as the community grows, we expect that needs will change. 
 
 *How Are Things Decided By Steering?*
 
-We currently decide by general consensous. 
-
-## Meetings
-
-The Istio Steering Committee meets weekly; currently on Tuesday mornings. 
-
-Given the nature of the discussions in Steering, meetings are not currently open to the public. Questions around governance are listed as issues in the community repo, and we invite your feedback there. 
-
-If you wish to present to the Steering committee or have a topic you'd like Steering to review, please file an issue here or reach out via [istio-steering@](https://groups.google.com/forum/#!forum/istio-steering). 
+We strive to find a path to consensus. Decisions are made in meetings when a quorum is present, and may pass with majority vote.
