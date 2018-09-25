@@ -51,7 +51,7 @@ Here is the set of roles we use within the Istio community, the general responsi
     <td><a href="#approver">Approver</a></td>
     <td>Approve contributions from other members</td>
     <td>Highly experienced and active reviewer and contributor to an area</td>
-    <td>‘approver’ entry in one or more OWNERS file in GitHub (istio.github.io excluded)</td>
+    <td>‘approver’ entry in one or more OWNERS file in GitHub (istio/istio.io excluded)</td>
   </tr>
 
   <tr>
@@ -90,7 +90,7 @@ Here is the set of roles we use within the Istio community, the general responsi
     <td>Existing member that vouches for another GitHub user that wishes to become a member of the Istio organization</td>
     <td>
         <p>Must have close interactions with the prospective member - e.g. code/design/proposal review, coordinating on issues, etc.</p>
-        <p>Must be reviewers or approvers in at least 1 OWNERS file (in any repo in the Istio GitHub organization, excluding istio.github.io).</p>
+        <p>Must be reviewers or approvers in at least 1 OWNERS file (in any repo in the Istio GitHub organization, excluding istio/istio.io).</p>
     </td>
     <td>n/a</td>
   </tr>

@@ -83,7 +83,7 @@ implementation in the issue.
 
 - Submit PRs to [istio/istio](https://github.com/istio/istio) with your code changes.
 
-- Submit PRs to [istio/istio.github.io](https://github.com/istio/istio.github.io) with
+- Submit PRs to [istio/istio.io](https://github.com/istio/istio.io) with
 documentation for your feature, including usage examples when possible. See [here](https://istio.io/about/contribute/)
 to learn how to write docs for istio.io.
 
