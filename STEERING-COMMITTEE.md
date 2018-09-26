@@ -1,13 +1,13 @@
 # Istio Steering Committee
 
-The Istio Steering Committee was formed to oversee the administrative aspects of the project, including governance, branding, and marketing. Steering was created to allow the Techincal Oversight Committee to exclusively focus on the technical aspects of the project. 
+The Istio Steering Committee was formed to oversee the administrative aspects of the project, including governance, branding, and marketing. Steering was created to allow the Technical Oversight Committee to exclusively focus on the technical aspects of the project. 
 
 ## Steering Committee Charter
 
-1. Define, evolve, and defend the vision, values, mission, and scope of the project - to establish and maintain the soul of Istio
+1. Define, evolve, and defend the vision, values, mission, and scope of the project - to establish and maintain the soul of Istio.
 2. Define and evolve project governance structures and policies, including how contributors become committers/maintainers, approvers, reviewers, members, code of conduct, etc.
-3. Control access to, establish processes regarding, and provide a final escalation path for any Istio repository
-4. Control and delegate access to and establish processes regarding other project resources/assets, including artifact repositories, build and test infrastructure, web sites and their domains, blogs, social-media accounts, etc.
+3. Control access to, establish processes regarding, and provide a final escalation path for any Istio repository.
+4. Control and delegate access to and establish processes regarding other project resources and assets, including artifact repositories, build and test infrastructure, web sites and their domains, blogs, social-media accounts, etc.
 5. Manage the Istio brand to decide which things can be called “Istio” and how that mark can be used in relation to other efforts or vendors.
 6. Resolve any dispute from the Technical Oversight Committee.
 
@@ -42,7 +42,7 @@ If you wish to present to the Steering committee or have a topic you'd like Stee
 
 *Why Are Seats Company Held?*
 
-Steering was created as the Istio project was in infancy, in order to tackle governance and overall project strategy. To date Istio 1.0 has the bulk of contributions coming from the project founders, Google & IBM. Together it was decided that having strong corporate leadership was needed for the project to ensure continued velocity. Steering was created with 9 seats held, and with 11 being planned.
+The Steering Committee was created as the Istio project was in infancy, in order to tackle governance and overall project strategy. To date Istio 1.0 has the bulk of contributions coming from the project founders, Google & IBM. Together it was decided that having strong corporate leadership was needed for the project to ensure continued velocity. Steering was created with 9 seats held, and with 11 being planned.
 
 *How Are Steering Seats Allocated?*
 
