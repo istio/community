@@ -37,7 +37,7 @@ Here is the set of roles we use within the Istio community, the general responsi
     <td><a href="#member">Member</a></td>
     <td>Regular active contributor in the community</td>
     <td>
-        <p><a href="sponsor">Sponsored</a> by 2 existing members</p>
+        <p><a href="#sponsor">Sponsored</a> by 2 existing members</p>
         <p>Has made multiple contributions to the project</p>
     </td>
     <td>
