@@ -19,7 +19,7 @@ about: Request membership in Istio's GitHub organization.
     - Filing or commenting on issues on GitHub
     - Contributing to working group or community discussions
 - [ ] I have two sponsors that meet the sponsorship requirements listed in the [community roles](./ROLES/#sponsor].
-- [ ] I have spoken to my sponsors ahead of this application, and they have agreed to sponsor my application
+- [ ] I have spoken to my sponsors ahead of this application, and they have agreed to +1 on this issue to confirm they agree to sponsor this application.
 
 ### List of sponsors
 - @sponsor-1
