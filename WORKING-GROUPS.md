@@ -108,7 +108,7 @@ Hot Topics Wiki | [Hot Topics Wiki](https://github.com/istio/istio/wiki/Perf-and
 
 &nbsp; | Leads | Company | Profile
 ---|---|---|---
-<img width="30px" src="https://avatars0.githubusercontent.com/u/3664595?s=400&v=4"> | Laurent Demailly | N/A | [ldemailly](https://github.com/ldemailly)
+&nbsp; | Mandar Jog | Google | [mandarjog](https://github.com/mandarjog)
 <img width="30px" src="https://avatars0.githubusercontent.com/u/13684010?s=400&v=4"> | Surya V Duggirala | IBM | [suryadu](https://github.com/suryadu)
 
 ## Policies and Telemetry
