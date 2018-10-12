@@ -27,9 +27,15 @@ about: Request membership in Istio's GitHub organization.
 
 ### List of contributions to the Istio project
 - PRs reviewed
-- PRs authored
+- PRs merged
 - Issues responded to
 - Workgroup(s) I am involved with
 
 ### Slack access
 - If you'd like to join our developer Slack workspace, what is the email address you have associated with Slack?
+
+### **NOTE TO SPONSORS**
+
+Please assess the list of contributions and provide a short few sentences as a comment to this issue why you approve
+sponsorship, and include an /lgtm in the comment.
+
