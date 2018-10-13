@@ -75,6 +75,7 @@ Hot Topics Wiki | [Hot Topics Wiki](https://github.com/istio/istio/wiki/Environm
 &nbsp; | Leads | Company | Profile
 ---|---|---|---
 &nbsp; | Costin Manolache | Google | [costinm](https://github.com/costinm)
+<img width="30px" src="https://avatars0.githubusercontent.com/u/755849?s=400&v=4"> | Steven Dake | Cisco Systems | [sdake](https://github.com/sdake)
 
 ## Networking
 
