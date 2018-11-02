@@ -18,7 +18,7 @@ about: Request membership in Istio's GitHub organization.
     - Authoring or reviewing PRs on GitHub
     - Filing or commenting on issues on GitHub
     - Contributing to working group or community discussions
-- [ ] I have two sponsors that meet the sponsorship requirements listed in the [community roles](./ROLES/#sponsor].
+- [ ] I have two sponsors that meet the sponsorship requirements listed in the [community roles](https://github.com/istio/community/blob/master/ROLES.md#sponsor).
 - [ ] I have spoken to my sponsors ahead of this application, and they have agreed to +1 on this issue to confirm they agree to sponsor this application.
 
 ### List of sponsors
@@ -37,5 +37,5 @@ about: Request membership in Istio's GitHub organization.
 ### **NOTE TO SPONSORS**
 
 Please assess the list of contributions and provide a short few sentences as a comment to this issue why you approve
-sponsorship, and include an /lgtm in the comment.
+sponsorship, and include an `/lgtm` in the comment.
 
