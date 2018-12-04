@@ -27,7 +27,7 @@ Seats in Steering are held by a company, not by the individual users. Currently 
 #### IBM
 * [Dan Berg](https://github.com/dcberg) (IBM)
 * [Lin Sun](https://github.com/linsun) (IBM)
-* Nilesh Patel (IBM)
+* [Ram Vennam](https://github.com/rvennam) (IBM)
 
 ## Meetings
 
