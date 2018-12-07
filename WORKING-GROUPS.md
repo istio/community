@@ -143,7 +143,7 @@ Hot Topics Wiki | [Hot Topics Wiki](https://github.com/istio/istio/wiki/Security
 
 &nbsp; | Leads | Company | Profile
 ---|---|---|---
-<img width="30px" src="https://avatars1.githubusercontent.com/u/13645998?s=400&v=4"> | Etai Lev-Ran | IBM | [elevran](https://github.com/elevran)
+<img width="30px" src="https://avatars1.githubusercontent.com/u/20001914?s=400&v=4"> | Limin Wang | Google | [liminw](https://github.com/liminw)
 <img width="30px" src="https://avatars1.githubusercontent.com/u/5375600?s=400&v=4"> | Spike Curtis | Tigera | [spikecurtis](https://github.com/spikecurtis)
 <img width="30px" src="https://avatars0.githubusercontent.com/u/24381542?s=400&v=4"> | Tao Li | Google | [wattli](https://github.com/wattli)
 
