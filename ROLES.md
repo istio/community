@@ -42,7 +42,7 @@ Further, you may self-nominate to be an approver by opening an issue with a list
     <td><a href="#member">Member</a></td>
     <td>Regular active contributor in the community</td>
     <td>
-        <p><a href="#sponsor">Sponsored</a> by 2 existing members</p>
+        <p><a href="#sponsor">Sponsored</a> by 2 existing members, from more than 1 company</p>
         <p>Has made multiple contributions to the project</p>
     </td>
     <td>
