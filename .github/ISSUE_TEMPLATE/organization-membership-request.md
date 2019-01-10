@@ -13,7 +13,7 @@ about: Request membership in Istio's GitHub organization.
 - [ ] I have reviewed the [community membership guidelines](https://github.com/istio/community/blob/master/ROLES.md#member)
 - [ ] I have reviewed the [contribution guidelines](https://github.com/istio/community/blob/master/CONTRIBUTING.md)
 - [ ] I have enabled [2FA on my GitHub account](https://github.com/settings/security)
-- [ ] I have subscribed to the [istio-dev@](https://groups.google.com/forum/#!forum/istio-dev) mailing list
+- [ ] I have subscribed to [contributors](https://discuss.istio.io/c/contributors)
 - [ ] I have made multiple contributions to the project or community. Contributions may include, but are not limited to:
     - Authoring or reviewing PRs on GitHub
     - Filing or commenting on issues on GitHub

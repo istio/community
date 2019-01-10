@@ -47,7 +47,7 @@ See [below](#running-a-working-group) for information on the responsibilities of
 
 * **Prepare a Roadmap**. Create a preliminary 3 month roadmap for what the working group would focus on.
 
-* **Send an Email**. Write up an email with your charter, nominated leads, and roadmap, and send it to [istio-tech-oversight@](mailto:istio-tech-oversight@googlegroups.com).
+* **Send an Email**. Write up an email with your charter, nominated leads, and roadmap, and post it to [technical-oversight-committee](https://discuss.istio.io/c/technical-oversight-committee).
 The technical oversight committee will evaluate the request and decide whether the working group should be
 formed, whether it should be merely a subgroup of an existing working group, or whether it should be subsumed by an existing working group.
 
@@ -64,8 +64,7 @@ steps to establish the working group:
 * **Create a Roadmap Document**. Create a document in the above folder and call it "GROUP_NAME Group Roadmap". Put your initial
 roadmap in the document.
 
-* **Create a Public Google Group**. Call the group "istio-*group_name*" (all in lowercase, dashes for spaces). This mailing list
-must be open to all.
+* **Create a Discourse Category**. Create a new category on <https://discuss.istio.io> and give it the name of your working group.
 
 * **Schedule a Recurring Meeting**. Create a recurring meeting (weekly or bi-weekly, 30 or 60 minutes) and call the meeting
 GROUP_NAME Group Sync-Up". Attach the meeting notes document to the calendar event. Generally schedule these meetings between
@@ -74,16 +73,16 @@ GROUP_NAME Group Sync-Up". Attach the meeting notes document to the calendar eve
 * **Register the Working Group**. Go to [WORKING-GROUPS.md](https://github.com/istio/community/blob/master/WORKING-GROUPS.md) and
 add your working group name, the names of the leads, the working group charter, and a link to the meeting you created.
 
-* **Announce your Working Group**. Send a note to [istio-dev@](mailto:istio-dev@googlegroups.com)
-and [istio-tech-oversight@](mailto:istio-tech-oversight@googlegroups.com) to announce your new
-working group. Include your charter in the email and provide links to the meeting invitation.
+* **Announce your Working Group**. Post a note [contributors](https://discuss.istio.io/c/contributors)
+to announce your new
+working group. Include your charter in the post.
 
 Congratulations, you now have a fully formed working group!
 
 ### Dissolving a working group
 
 Some working groups are ephemeral or naturally reach the end of their useful life. Working group leads can petition to dissolve their working
-groups by emailing [istio-tech-oversight@](mailto:istio-tech-oversight@googlegroups.com). The
+groups by posting to  [technical-oversight-committee](https://discuss.istio.io/c/technical-oversight-committee). The
 technical oversight committee also reserves the right to dissolve or recharter working groups over time as necessary.
 
 ## Leads

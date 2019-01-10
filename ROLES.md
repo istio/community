@@ -135,7 +135,7 @@ the area.
 
     * Contributing to working group or community discussions
 
-* Subscribed to [istio-dev@googlegroups.com](https://groups.google.com/forum/#!forum/istio-dev)
+* Subscribed to [contributors](https://discuss.istio.io/c/contributors)
 
 * Actively contributing to 1 or more areas.
 
