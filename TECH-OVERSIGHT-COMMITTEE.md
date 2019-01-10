@@ -58,7 +58,7 @@ meeting. To suggest a topic, add it to the agenda in the [meeting notes](https:/
 
 Artifact | Link
 ---|---
-Forum | [istio-tech-oversight@](https://groups.google.com/forum/#!forum/istio-tech-oversight)
+Forum | [technical-oversight-committee](https://discuss.istio.io/c/technical-oversight-committee)
 Community Meeting VC | [Friday at 10:00 PT - weekly](https://meet.google.com/dsa-qqig-kwq)
 Community Meeting Calendar | [Calendar Invitation](https://calendar.google.com/event?action=TEMPLATE&tmeid=YmN0a2x0bmw0Mmg2ZjluMDRnbWJkZ242MXNfMjAxODAzMDJUMTgwMDAwWiBtdGFpbEBnb29nbGUuY29t&tmsrc=mtail%40google.com&scp=ALL)
 Meeting Notes | [Notes](https://docs.google.com/document/d/13lxJqtlaQhmV2EwsNnS6h-_O4pobZQZuMjrzOeMgVI0/edit#heading=h.ipnfbx7g04vg)

@@ -21,7 +21,6 @@ Other Documents
 - [Onboarding Technologies to Istio](ONBOARDING-TECH-TO-ISTIO.md) - how we work to onboard new technologies to the Istio project
 - [Feature Lifecycle](FEATURE-LIFECYCLE.md) - requirements for features to be labeled Alpha, Beta or Stable
 - [Feature Lifecycle Checklist](FEATURE-LIFECYCLE-CHECKLIST.md) - checklist-form of requirements for features to be labeled Alpha, Beta or Stable
-- [Rocket Chat](ROCKETCHAT.md) - describes the Istio community chat platform
 
 ## Introduction
 
@@ -69,4 +68,4 @@ and be sure to connect to our [community](https://istio.io/about/community) wher
 someone ready to lend a hand.
 
 If you're a developer trying to hack on or use the Istio code, head to
-[istio-dev@](https://groups.google.com/forum/#!forum/istio-dev) for help.
+[contributors](https://discuss.istio.io/c/contributors) for help.
