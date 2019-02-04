@@ -1,0 +1,182 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Istio Working Groups Calendar
+X-WR-TIMEZONE:America/Los_Angeles
+X-WR-CALDESC:Events for the Istio project
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20170824T110000
+DTEND;TZID=America/Los_Angeles:20170824T120000
+RRULE:FREQ=WEEKLY;INTERVAL=2;BYDAY=TH
+DTSTAMP:20190204T195844Z
+UID:6rq4hjbonsd3cn49sci0sus0h3@google.com
+CREATED:20190130T162521Z
+DESCRIPTION:\nTopic: Istio Community Meeting\n\n\nJoin from PC\, Mac\, Linu
+ x\, iOS or Android: https://zoom.us/j/986657835\n\nOr iPhone one-tap (US To
+ ll):  +16465588656\,\,986657835# or +14086380968\,\,986657835#\n\nOr Teleph
+ one:\n    Dial: +1 646 558 8656 (US Toll) or +1 408 638 0968 (US Toll)\n   
+  +1 855 880 1246 (US Toll Free)\n    +1 877 369 0926 (US Toll Free)\n\n\n  
+  Meeting ID: 986 657 835 \n\n    International numbers available: https://z
+ oom.us/zoomconference?m=O1IqUz9yqa76FqbMAF3omo91HnZ5jVUj
+LAST-MODIFIED:20190130T162521Z
+LOCATION:https://zoom.us/j/986657835
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Istio Community Video Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20180726T100000
+DTEND;TZID=America/Los_Angeles:20180726T110000
+RRULE:FREQ=WEEKLY;INTERVAL=2;BYDAY=TH
+DTSTAMP:20190204T195844Z
+UID:3fsoeo3a7r7bocalltuan2f0uu@google.com
+CREATED:20190130T175222Z
+DESCRIPTION:Bi-weekly 30min Istio config group meeting. \n\nTHE MEETING IS 
+ ON HANGOUTS/GOOGLE MEET STARTING ON October 4th\, 2018.\n\nThe meeting link
+  is <a href="https://www.google.com/url?q=https://meet.google.com/uqh-cyie-
+ hbp&amp\;sa=D&amp\;ust=1549302484050000&amp\;usg=AOvVaw3DL577IHhSOei4ebRcH0
+ lq" target="_blank">https://meet.google.com/uqh-cyie-hbp</a> \n\nMeeting no
+ tes: <a href="https://www.google.com/url?q=https://docs.google.com/document
+ /d/1P3p7zOpX66hPoZBi_CiC36JW7JmoaLWqE2sgHvdq5tY/edit?ts%3D5a0b7200&amp\;sa=
+ D&amp\;ust=1549302484050000&amp\;usg=AOvVaw0A3Va01520MDL9XaPK6gOk" target="
+ _blank">https://docs.google.com/document/d/1P3p7zOpX66hPoZBi_CiC36JW7JmoaLW
+ qE2sgHvdq5tY/edit?ts=5a0b7200</a>\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this 
+ section of the description.\n\nThis event has a video call.\nJoin: https://
+ meet.google.com/uqh-cyie-hbp\n+1 440-561-6573 PIN: 206266#\nView more phone
+  numbers: https://tel.meet/uqh-cyie-hbp?pin=1622158663319&hs=7\n-::~:~::~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::
+ -
+LAST-MODIFIED:20190130T175222Z
+LOCATION:SVL-MP3-8-Olbers (7) [GVC]
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Istio Config  working group meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20180523T110000
+DTEND;TZID=America/Los_Angeles:20180523T120000
+RRULE:FREQ=WEEKLY;INTERVAL=2;BYDAY=WE
+DTSTAMP:20190204T195844Z
+UID:60r5a0gb87q13ps0vfelcloaok@google.com
+CREATED:20190130T182357Z
+DESCRIPTION:<a href="https://www.google.com/url?q=https://meet.google.com/s
+ fi-kwtp-jfj&amp\;sa=D&amp\;ust=1549303429048000&amp\;usg=AOvVaw2sEzWUcvjxrW
+ -nG5Ov_rqF" target="_blank">https://meet.google.com/sfi-kwtp-jfj</a>\n\n\nD
+ ial-in: (US) +1 318-565-6540 PIN: 989 816#
+LAST-MODIFIED:20190130T182357Z
+LOCATION:SEA-PKV-3-Creep (2) [GVC\, Phone]\, SVL-MP3-8-Nebula (12) [GVC]
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Policies & Telemetry Group Sync-Up
+TRANSP:OPAQUE
+ATTACH;FILENAME=Policies & Telemetry Group Meeting Notes;FMTTYPE=applicatio
+ n/vnd.google-apps.document:https://docs.google.com/a/google.com/document/d/
+ 1pn9QdRcoyT_nxOwzklsiYpt7OQraaSDfmtN14XTOrN0/edit?usp=drive_web
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190214T190000Z
+DTEND:20190214T200000Z
+DTSTAMP:20190204T195844Z
+UID:7hv24h0n8ngqms53543cbs6pd9@google.com
+CREATED:20190130T182624Z
+DESCRIPTION:Open community meeting to discuss Istio networking aspects\, ta
+ king place every other week.\n\nAgenda &amp\; minutes\, please add items:\n
+ <a href="https://www.google.com/url?q=https://docs.google.com/document/d/1x
+ Hy2jQ8oiwMponMVY2zJr2eUAmHW_Hi9JK42a7cg5Pc/edit%23&amp\;sa=D&amp\;ust=15493
+ 04588049000&amp\;usg=AOvVaw3iGUGLfp2lct8O2gCfNNaY" target="_blank">https://
+ docs.google.com/document/d/1xHy2jQ8oiwMponMVY2zJr2eUAmHW_Hi9JK42a7cg5Pc/edi
+ t#</a>\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the description.
+ \n\nThis event has a video call.\nJoin: https://meet.google.com/xjj-ujhi-qf
+ k\n+1 502-610-3021 PIN: 3007#\nView more phone numbers: https://tel.meet/xj
+ j-ujhi-qfk?pin=9742584560227&hs=7\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20190130T182624Z
+LOCATION:KIR-6THD-1-Sound-Adna (9) [GVC]\, CAM-5CC-7-Battle School (16) [GV
+ C\, Jamboard\, Phone]\, SVL-MP3-8-Vendelinus (6) [GVC]
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Istio Networking working group meeting 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20190123T110000
+DTEND;TZID=America/Los_Angeles:20190123T115000
+RRULE:FREQ=WEEKLY;COUNT=13;INTERVAL=2;BYDAY=WE
+DTSTAMP:20190204T195844Z
+UID:61c4l4lu71gim716h7h4ivncf1@google.com
+CREATED:20190130T182736Z
+DESCRIPTION:<br>Hi there\, <br><br>Istio Security Working Group is inviting
+  you to a scheduled Zoom meeting. <br><br>Topic: Istio Security Group Sync-
+ up<br>Time: Apr 24\, 2018 10:30 AM Pacific Time (US and Canada)<br>    Ever
+ y 2 weeks on Tue\, until May 07\, 2019\, 28 occurrence(s) <br><br>Join from
+  PC\, Mac\, Linux\, iOS or Android: <a href="https://www.google.com/url?q=h
+ ttps://istio.zoom.us/j/117159906&amp\;sa=D&amp\;ust=1549302943047000&amp\;u
+ sg=AOvVaw1s2bB0B29DfKTryOYIi4MP" target="_blank">https://istio.zoom.us/j/11
+ 7159906</a><br><br>Or iPhone one-tap :<br>    US: +14086380968\,\,117159906
+ #  or +16468769923\,\,117159906# <br>Or Telephone:<br>    Dial(for higher q
+ uality\, dial a number based on your current location): <br>        US: +1 
+ 408 638 0968  or +1 646 876 9923  or +1 669 900 6833 <br>    Meeting ID: 11
+ 7 159 906<br>    International numbers available: <a href="https://www.goog
+ le.com/url?q=https://zoom.us/u/bd8hKBi08&amp\;sa=D&amp\;ust=154930294304700
+ 0&amp\;usg=AOvVaw05Ei4vJQjDw-9NS6RWZnk5" target="_blank">https://zoom.us/u/
+ bd8hKBi08</a><br><br>Agenda doc: <a href="https://www.google.com/url?q=http
+ s://docs.google.com/document/d/12Xz8fCuql2tPL-cpdLXGGE44kYT4o9NB6mljSiS_01U
+ /edit&amp\;sa=D&amp\;ust=1549302943047000&amp\;usg=AOvVaw2GZYLD3699q8J5evRF
+ BbpU" target="_blank">https://docs.google.com/document/d/12Xz8fCuql2tPL-cpd
+ LXGGE44kYT4o9NB6mljSiS_01U/edit</a>
+LAST-MODIFIED:20190130T182737Z
+LOCATION:SVL-MP3-7-Arduino (18) [GVC\, Phone]
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Istio Security Working Group meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20180216T100000
+DTEND;TZID=America/Los_Angeles:20180216T110000
+RRULE:FREQ=WEEKLY;BYDAY=FR
+DTSTAMP:20190204T195844Z
+UID:5hgcsrrfs9uonc3kvpsa2937ed@google.com
+CREATED:20190131T155854Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descriptio
+ n.\n\nThis event has a video call.\nJoin: https://meet.google.com/dsa-qqig-
+ kwq\n+1 402-519-4641 PIN: 2115#\nView more phone numbers: https://tel.meet/
+ dsa-qqig-kwq?pin=9548140225071&hs=7\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20190131T155854Z
+LOCATION:KIR-6THD-1-Valley-Black Diamond (1) [GVC\, Phone]\, SVL-MP3-8-Nebu
+ la (12) [GVC]
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Technical Oversight Committee Sync-Up
+TRANSP:OPAQUE
+ATTACH;FILENAME=Technical Oversight Committee Meeting Notes;FMTTYPE=applica
+ tion/vnd.google-apps.document:https://docs.google.com/a/google.com/document
+ /d/13lxJqtlaQhmV2EwsNnS6h-_O4pobZQZuMjrzOeMgVI0/edit?usp=drive_web
+END:VEVENT
+END:VCALENDAR
