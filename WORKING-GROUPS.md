@@ -24,6 +24,7 @@ The current working groups are:
 * [Policies & Telemetry](#policies-and-telemetry)
 * [Security](#security)
 * [Test & Release](#test-and-release)
+* [User Experience](#user-experience)
 
 ## Meeting Schedule
 
@@ -174,3 +175,16 @@ Hot Topics Wiki | [Hot Topics Wiki](https://github.com/istio/istio/wiki/Test-and
 ---|---|---|---
 <img width="30px" src="https://avatars1.githubusercontent.com/u/31747472?s=400&v=4"> | Andy Lai | Google | [hklai](https://github.com/hklai)
 <img width="30px" src="https://avatars1.githubusercontent.com/u/1588319?s=400&v=4">  | Lin Sun | IBM | [linsun](https://github.com/linsun)
+
+## User Experience
+
+User experience across Istio
+
+Artifact | Link
+---|---
+Forum | [UX](https://discuss.istio.io/c/UX)
+Meeting Notes | [Notes](https://docs.google.com/document/d/1raZOoeYz3APZdQRlJlFA-zgfmEJu2YLaGa4_3KwbNRs/edit#heading=h.i71zsi7n759v)
+
+&nbsp; | Leads | Company | Profile
+---|---|---|---
+<img width="30px" src="https://avatars3.githubusercontent.com/u/3237651?s=400&v=4"> | Ed Snible | IBM | [esnible](https://github.com/esnible)
