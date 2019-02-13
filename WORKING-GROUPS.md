@@ -41,8 +41,8 @@ directly togit  your account.
 Each working group has one or more leads which coordinate the activities of the group:
 
 &nbsp; | Name | Company | Profile | Groups
----|---|---|---
-<img width="30px" src="https://avatars2.githubusercontent.com/u/10883640?s=400&v=4"> | Andra Cismaru | Google | [andraxylia](https://github.com/andraxylia) | Networking
+-------|------|---------|---------|----
+&nbsp; | Andra Cismaru | Google | [andraxylia](https://github.com/andraxylia) | Networking
 <img width="30px" src="https://avatars1.githubusercontent.com/u/5375600?s=400&v=4"> | Spike Curtis | Tigera | [spikecurtis](https://github.com/spikecurtis) | Security
 <img width="30px" src="https://avatars0.githubusercontent.com/u/755849?s=400&v=4"> | Steven Dake | NetApp | [sdake](https://github.com/sdake) | Environments
 <img width="30px" src="https://avatars0.githubusercontent.com/u/13684010?s=400&v=4"> | Surya V Duggirala | IBM | [suryadu](https://github.com/suryadu) | Performance and Scalability
