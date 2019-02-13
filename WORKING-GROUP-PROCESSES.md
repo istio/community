@@ -108,13 +108,6 @@ note-taking duties.
 
 * **Report**. Report current status to the main community meeting every 6 weeks.
 
-* **Hot Topics**. Maintain a Hot Topics [wiki page](https://github.com/istio/istio/wiki) for the group. This page
-should hold the top-of-mind items for the working group.
-
-* **Design Decisions**. Maintain a design decision [wiki page](https://github.com/istio/istio/wiki) for the group.
-This page captures the main decisions the group has reached lately. This might include mentions of approved
-designs, changed in direction, new functionality being added, etc.
-
 ### Be open
 
 The community design process is done in the open. Working groups should communicate primarily through the public

@@ -46,8 +46,6 @@ Forum | [api-management](https://discuss.istio.io/c/api-management)
 Meeting Notes | [Notes](https://docs.google.com/document/d/1ub9jIKGGQitivYOeT3AgIGDhEZF7qq9jznC6DVhsozs/edit)
 Document Folder | [Folder](https://drive.google.com/corp/drive/u/0/folders/0BzW5bSyKst8JRFJXWTZjMXY5MDQ)
 Recorded Meetings | [YouTube](https://www.youtube.com/watch?v=yEKFNAeHrBA&list=PL7wB27eZmdfe2819aE1NawcPeWZanM-26)
-Decisions Wiki | [Decisions Wiki](https://github.com/istio/istio/wiki/API-Management-WG)
-Hot Topics Wiki | [Hot Topics Wiki](https://github.com/istio/istio/wiki/API-Management-Hot-Topics)
 
 &nbsp; | Leads | Company | Profile
 ---|---|---|---
@@ -63,8 +61,6 @@ Forum | [config](https://discuss.istio.io/c/config)
 Meeting Notes | [Notes](https://docs.google.com/document/d/1P3p7zOpX66hPoZBi_CiC36JW7JmoaLWqE2sgHvdq5tY/edit?ts=5a0b7200)
 Document Folder | [Folder](https://drive.google.com/corp/drive/folders/0B5CC9KT63DznUUQtSU9HTHBnb1E)
 Recorded Meetings | [YouTube](https://www.youtube.com/watch?v=ITqXFvdznWA&list=PL7wB27eZmdffOC_hPQhaIDf8v1TxMboJj)
-Decisions Wiki | [Decisions Wiki](https://github.com/istio/istio/wiki/Config-WG)
-Hot Topics Wiki | [Hot Topics Wiki](https://github.com/istio/istio/wiki/Config-Hot-Topics)
 
 &nbsp; | Leads | Company | Profile
 ---|---|---|---
@@ -79,8 +75,6 @@ Artifact | Link
 Forum | [environments](https://discuss.istio.io/c/environments)
 Meeting Notes | [Notes](https://docs.google.com/document/d/1Ot9AeoiNYnI3fbQrq3w_-cyGxOqS8AD0RChkQfVxyhs/edit)
 Document Folder | [Folder](https://drive.google.com/corp/drive/u/0/folders/0BzW5bSyKst8JQWtfaS1MVk1pOHc)
-Decisions Wiki | [Decisions Wiki](https://github.com/istio/istio/wiki/Environments-WG)
-Hot Topics Wiki | [Hot Topics Wiki](https://github.com/istio/istio/wiki/Environments-Hot-Topics)
 
 &nbsp; | Leads | Company | Profile
 ---|---|---|---
@@ -96,8 +90,6 @@ Artifact | Link
 Forum | [networking](https://discuss.istio.io/c/networking)
 Meeting Notes | [Notes](https://docs.google.com/document/d/1xHy2jQ8oiwMponMVY2zJr2eUAmHW_Hi9JK42a7cg5Pc/edit#heading=h.2ju2wl4o5jbc)
 Document Folder | [Folder](https://drive.google.com/corp/drive/u/0/folders/0BzW5bSyKst8Jb1QwTXl1WTRqWHM)
-Decisions Wiki | [Decisions Wiki](https://github.com/istio/istio/wiki/Networking-WG)
-Hot Topics Wiki | [Hot Topics Wiki](https://github.com/istio/istio/wiki/Networking-Hot-Topics)
 
 &nbsp; | Leads | Company | Profile
 ---|---|---|---
@@ -113,8 +105,6 @@ Artifact | Link
 Forum | [performance-and-scalability](https://discuss.istio.io/c/performance-and-scalability)
 Meeting Notes | [Notes](https://goo.gl/ENFQWb)
 Document Folder | [Folder](https://drive.google.com/corp/drive/u/0/folders/1Zpi5TcBPSqGno96WAq5QkcNKi16opaTL)
-Decisions Wiki | [Decisions Wiki](https://github.com/istio/istio/wiki/Perf-and-Scalability-WG)
-Hot Topics Wiki | [Hot Topics Wiki](https://github.com/istio/istio/wiki/Perf-and-Scalability-Hot-Topics)
 
 &nbsp; | Leads | Company | Profile
 ---|---|---|---
@@ -131,8 +121,6 @@ Forum | [policies-and-telemetry](https://discuss.istio.io/c/policies-and-telemet
 Meeting Notes | [Notes](https://docs.google.com/document/d/1pn9QdRcoyT_nxOwzklsiYpt7OQraaSDfmtN14XTOrN0/edit)
 Document Folder | [Folder](https://drive.google.com/corp/drive/u/0/folders/0BzW5bSyKst8JbWtHOEo1STc1dGM)
 Recorded Meetings | [YouTube](https://www.youtube.com/watch?v=z-z6MqIalN4&list=PL7wB27eZmdffF-9nyaw01Ni_0GOWBzaF4)
-Decisions Wiki | [Decisions Wiki](https://github.com/istio/istio/wiki/Policies-and-Telemetry-WG)
-Hot Topics Wiki | [Hot Topics Wiki](https://github.com/istio/istio/wiki/Policies-and-Telemetry-Hot-Topics)
 
 &nbsp; | Leads | Company | Profile
 ---|---|---|---
@@ -149,8 +137,6 @@ Forum | [security](https://discuss.istio.io/c/security)
 Meeting Notes | [Notes](https://docs.google.com/document/d/1-Z7nSDV8f9psp5chO6H9PAUAinIVapOhQRaUIxbf0dk/edit#heading=h.ppfvkxi2bzdh)
 Document Folder | [Folder](https://drive.google.com/corp/drive/u/0/folders/0BzW5bSyKst8Jb2hhRWQ2eTJYVzQ)
 Recorded Meetings | [YouTube](https://www.youtube.com/watch?v=eGABEjKn0YE&list=PL7wB27eZmdfd8ZbUNlZe-RYQKYTxTNJTR)
-Decisions Wiki | [Decisions Wiki](https://github.com/istio/istio/wiki/Security-WG)
-Hot Topics Wiki | [Hot Topics Wiki](https://github.com/istio/istio/wiki/Security-Hot-Topics)
 
 &nbsp; | Leads | Company | Profile
 ---|---|---|---
@@ -168,12 +154,9 @@ Forum | [test-and-release](https://discuss.istio.io/c/test-and-release)
 Meeting Notes | [Notes](https://docs.google.com/document/d/18QgpvBH9N8Io5xU-0piysyOYif65U03m8GabpvHb4IQ/edit)
 Document Folder | [Folder](https://drive.google.com/corp/drive/u/0/folders/0B_ObhNOUiqZ0UWo1ODBVTkRkSzg)
 Recorded Meetings | [YouTube](https://www.youtube.com/watch?v=8pkEpVtkSx4&list=PL7wB27eZmdfckNxJRS1ac9rqsx5b16NU)
-Decisions Wiki | [Decisions Wiki](https://github.com/istio/istio/wiki/Test-and-Release-WG)
-Hot Topics Wiki | [Hot Topics Wiki](https://github.com/istio/istio/wiki/Test-and-Release-Hot-Topics)
 
 &nbsp; | Leads | Company | Profile
 ---|---|---|---
-<img width="30px" src="https://avatars1.githubusercontent.com/u/31747472?s=400&v=4"> | Andy Lai | Google | [hklai](https://github.com/hklai)
 <img width="30px" src="https://avatars1.githubusercontent.com/u/1588319?s=400&v=4">  | Lin Sun | IBM | [linsun](https://github.com/linsun)
 
 ## User Experience
