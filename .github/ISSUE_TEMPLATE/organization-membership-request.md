@@ -1,6 +1,7 @@
 ---
 name: Organization Membership Request
 about: Request membership in Istio's GitHub organization.
+title: 'REQUEST: New membership for <your-GH-handle>'
 ---
 
 ### GitHub user id
