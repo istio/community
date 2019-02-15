@@ -1,6 +1,7 @@
 ---
 name: Early Security Vulnerability Disclosure Membership Request
 about: Request membership in Istio's early vulnerability disclosure program.
+title: REQUEST: New Security Vulnerability Disclosure
 ---
 
 As described in [Security Vulnerabilities](/about/security-vulnerabilities/), Istio maintains a mailing
