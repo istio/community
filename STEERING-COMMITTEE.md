@@ -1,8 +1,15 @@
 # Istio Steering Committee
 
-The Istio Steering Committee was formed to oversee the administrative aspects of the project, including governance, branding, and marketing. Steering was created to allow the Technical Oversight Committee to exclusively focus on the technical aspects of the project. 
+The Istio Steering Committee was formed to oversee the administrative aspects of the project, including governance, branding, and marketing.
+Steering was created to allow the Technical Oversight Committee to exclusively focus on the technical aspects of the project. 
 
-## Steering Committee Charter
+* [Charter](#charter)
+* [Committee meetings](#committee-meetings)
+* [Committee members](#committee-members)
+* [General questions](#general-questions)
+* [Getting in touch](#getting-in-touch)
+
+## Charter
 
 1. Define, evolve, and defend the vision, values, mission, and scope of the project - to establish and maintain the soul of Istio.
 2. Define and evolve project governance structures and policies, including how contributors become committers/maintainers, approvers, reviewers, members, code of conduct, etc.
@@ -11,33 +18,28 @@ The Istio Steering Committee was formed to oversee the administrative aspects of
 5. Manage the Istio brand to decide which things can be called “Istio” and how that mark can be used in relation to other efforts or vendors.
 6. Resolve any dispute from the Technical Oversight Committee.
 
-## Steering Committee Members
+## Committee meetings
+
+The Istio Steering Committee meets weekly; currently on Tuesday mornings. 
+Given the nature of the discussions in Steering, meetings are not currently open to the public. Questions around governance are listed as [issues in the community repo](https://github.com/istio/community/labels/steering-governance), and we invite your feedback there. 
+
+## Committee members
 
 Seats in Steering are held by a company, not by the individual users. Currently Steering consists of members from Google & IBM. These are:
 
-#### Google
+&nbsp; | Name | Company | Profile
+---|---|---|---
+<img width="30px" src="https://avatars0.githubusercontent.com/u/3277917?s=400&v=4"> | Dan Berg | IBM | [dcberg](https://github.com/dcberg)
+&nbsp; | Dan Ciruli | Google | [oaktowner](https://github.com/oaktowner)
+&nbsp; | Jennifer Lin | Google | &nbsp;
+<img width="30px" src="https://avatars0.githubusercontent.com/u/1562325?s=400&v=4"> | Sven Mawson | Google | [smawson](https://github.com/smawson)
+&nbsp; | Louis Ryan | Google | [louiscryan](https://github.com/louiscryan)
+<img width="30px" src="https://avatars3.githubusercontent.com/u/1934555?s=400&v=4">  | Sean Suchter | Google | [ssuchter](https://github.com/ssuchter)
+<img width="30px" src="https://avatars1.githubusercontent.com/u/1588319?s=400&v=4">  | Lin Sun | IBM | [linsun](https://github.com/linsun)
+<img width="30px" src="https://avatars3.githubusercontent.com/u/22780957?s=400&v=4"> | Martin Taillefer | Google | [geeknoid](https://github.com/geeknoid)
+<img width="30px" src="https://avatars1.githubusercontent.com/u/5502967?s=400&v=4">  | Ram Vennam | Google | [rvennam](https://github.com/rvennam)
 
-* [April Nassi](https://github.com/thisisnotapril) (Google)
-* [Dan Ciruli](https://github.com/oaktowner) (Google)
-* Jennifer Lin (Google)
-* [Louis Ryan](https://github.com/louiscryan) (Google)
-* [Martin Taillefer](https://github.com/geeknoid) (Google)
-* [Sven Mawson](https://github.com/smawson) (Google)
-
-#### IBM
-* [Dan Berg](https://github.com/dcberg) (IBM)
-* [Lin Sun](https://github.com/linsun) (IBM)
-* [Ram Vennam](https://github.com/rvennam) (IBM)
-
-## Meetings
-
-The Istio Steering Committee meets weekly; currently on Tuesday mornings. 
-
-Given the nature of the discussions in Steering, meetings are not currently open to the public. Questions around governance are listed as [issues in the community repo](https://github.com/istio/community/labels/steering-governance), and we invite your feedback there. 
-
-If you wish to present to the Steering committee or have a topic you'd like Steering to review, please reach out via [steering@discuss.istio.io](mailto:steering@discuss.istio.io). 
-
-## General Questions
+## General questions
 
 *Why Are Seats Company Held?*
 
@@ -66,3 +68,7 @@ We recognize that governance of an open source project is a living document, and
 *How Are Things Decided By Steering?*
 
 We strive to find a path to consensus. Decisions are made in meetings when a quorum is present, and may pass with majority vote.
+
+## Getting in touch
+
+If you'd like to reach out to the committee, please drop a note to [steering@discuss.istio.io](mailto:steering@discuss.istio.io).
