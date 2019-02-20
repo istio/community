@@ -35,8 +35,7 @@ The Istio Steering Committee meets weekly; currently on Tuesday mornings.
 
 Given the nature of the discussions in Steering, meetings are not currently open to the public. Questions around governance are listed as [issues in the community repo](https://github.com/istio/community/labels/steering-governance), and we invite your feedback there. 
 
-If you wish to present to the Steering committee or have a topic you'd like Steering to review, please file an issue here or reach out via [istio-steering@googlegroups.com](https://groups.google.com/forum/#!forum/istio-steering). 
-
+If you wish to present to the Steering committee or have a topic you'd like Steering to review, please reach out via [steering@discuss.istio.io](mailto:steering@discuss.istio.io). 
 
 ## General Questions
 
