@@ -34,7 +34,7 @@ Working groups meet regularly. You can view the schedule of upcoming working gro
 You can download [an ICS file](https://calendar.google.com/calendar/ical/4uhe8fi8sf1e3tvmvh6vrq2dog%40group.calendar.google.com/public/basic.ics)
 to import the working group meetings into your favorite iCal client.
 And finally, if you have a Google account, you can link the [working group event calendar](https://calendar.google.com/calendar?cid=NHVoZThmaThzZjFlM3R2bXZoNnZycTJkb2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
-directly togit  your account.
+directly to your account.
 
 ## Working Group Leads
 
