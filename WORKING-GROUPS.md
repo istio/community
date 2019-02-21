@@ -2,6 +2,10 @@
 
 Most community activity is organized into *working groups*.
 
+* [Working group meetings](#working-group-meetings)
+* [Working group leads](#working-group-leads)
+* [Getting in touch](#getting-in-touch)
+
 Working groups follow the [contributing](CONTRIBUTING.md) guidelines although each of these groups may operate a little differently depending on
 their needs and workflow.
 
@@ -17,7 +21,7 @@ behold all the docs.
 The current working groups are:
 
 | Group | Forum | Meeting Notes | Doc Folder | Recorded Meetings | Description
-|------|-------|---------------|------------|-------------------|-------------
+|-------|-------|---------------|------------|-------------------|-------------
 | API Management | [Forum](https://discuss.istio.io/c/api-management) | [Notes](https://docs.google.com/document/d/1ub9jIKGGQitivYOeT3AgIGDhEZF7qq9jznC6DVhsozs/edit) | [Folder](https://drive.google.com/corp/drive/u/0/folders/0BzW5bSyKst8JRFJXWTZjMXY5MDQ)\ | [YouTube](https://www.youtube.com/watch?v=yEKFNAeHrBA&list=PL7wB27eZmdfe2819aE1NawcPeWZanM-26) | API Keys, Content Mediation, Content Translation, OpenAPI Ingestion
 | Config | [Forum](https://discuss.istio.io/c/config) | [Notes](https://docs.google.com/document/d/1P3p7zOpX66hPoZBi_CiC36JW7JmoaLWqE2sgHvdq5tY/edit?ts=5a0b7200) | [Folder](https://drive.google.com/corp/drive/folders/0B5CC9KT63DznUUQtSU9HTHBnb1E) | [YouTube](https://www.youtube.com/watch?v=ITqXFvdznWA&list=PL7wB27eZmdffOC_hPQhaIDf8v1TxMboJj) | Config API, config format, config management server/storage, config distribution/rollout, API documentation/style guide/governance
 | Environments | [Forum](https://discuss.istio.io/c/environments) | [Notes](https://docs.google.com/document/d/1Ot9AeoiNYnI3fbQrq3w_-cyGxOqS8AD0RChkQfVxyhs/edit) | [Folder](https://drive.google.com/corp/drive/u/0/folders/0BzW5bSyKst8JQWtfaS1MVk1pOHc) | n/a | Raw VM support, Hybrid Mesh, Mac/Windows support, Cloud Foundry integration
@@ -28,7 +32,7 @@ The current working groups are:
 | Test and Release | [Forum](https://discuss.istio.io/c/test-and-release) | [Notes](https://docs.google.com/document/d/18QgpvBH9N8Io5xU-0piysyOYif65U03m8GabpvHb4IQ/edit) | [Folder](https://drive.google.com/corp/drive/u/0/folders/0B_ObhNOUiqZ0UWo1ODBVTkRkSzg) | [YouTube](https://www.youtube.com/watch?v=8pkEpVtkSx4&list=PL7wB27eZmdfckNxJRS1ac9rqsx5b16NU) | Build, test, release
 | User Experience | [Forum](https://discuss.istio.io/c/UX) | [Notes](https://docs.google.com/document/d/1raZOoeYz3APZdQRlJlFA-zgfmEJu2YLaGa4_3KwbNRs/edit#heading=h.i71zsi7n759v) | [Folder](https://drive.google.com/drive/u/0/folders/1r3MDokrMU1R-jxrZh1rxBV3dYChAprJg) | n/a | User experience across Istio
 
-## Working Group Meetings
+## Working group meetings
 
 Working groups meet regularly. You can view the schedule of upcoming working group meetings in this [calendar](https://calendar.google.com/calendar/embed?src=4uhe8fi8sf1e3tvmvh6vrq2dog%40group.calendar.google.com&ctz=America%2FLos_Angeles).
 You can download [an ICS file](https://calendar.google.com/calendar/ical/4uhe8fi8sf1e3tvmvh6vrq2dog%40group.calendar.google.com/public/basic.ics)
@@ -36,7 +40,7 @@ to import the working group meetings into your favorite iCal client.
 And finally, if you have a Google account, you can link the [working group event calendar](https://calendar.google.com/calendar?cid=NHVoZThmaThzZjFlM3R2bXZoNnZycTJkb2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 directly to your account.
 
-## Working Group Leads
+## Working group leads
 
 Each working group has one or more leads which coordinate the activities of the group:
 
@@ -56,3 +60,7 @@ Each working group has one or more leads which coordinate the activities of the 
 <img width="30px" src="https://avatars1.githubusercontent.com/u/1588319?s=400&v=4">  | [Lin Sun](https://github.com/linsun) | IBM | Test and Release
 <img width="30px" src="https://avatars3.githubusercontent.com/u/22780957?s=400&v=4"> | [Martin Taillefer](https://github.com/geeknoid) | Google  | API Management
 &nbsp; | [Limin Wang](https://github.com/liminw) | Google | Security
+
+## Getting in touch
+
+If you'd like to reach out to the working group leads, please drop a note to [wg-leads@discuss.istio.io](mailto:wg-leads@discuss.istio.io).

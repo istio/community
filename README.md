@@ -21,6 +21,7 @@ Other Documents
 - [Onboarding Technologies to Istio](ONBOARDING-TECH-TO-ISTIO.md) - how we work to onboard new technologies to the Istio project
 - [Feature Lifecycle](FEATURE-LIFECYCLE.md) - requirements for features to be labeled Alpha, Beta or Stable
 - [Feature Lifecycle Checklist](FEATURE-LIFECYCLE-CHECKLIST.md) - checklist-form of requirements for features to be labeled Alpha, Beta or Stable
+- [Admins for Istio Stuff](ADMINS-FOR-ISTIO.md) - lists who handles which part of the Istio infrastructure
 
 ## Introduction
 
@@ -40,6 +41,8 @@ by teams from Google and IBM, in partnership with the Envoy team at Lyft.
 ## Community meeting
 
 We have [PUBLIC](https://zoom.us/j/986657835) and [RECORDED](https://www.youtube.com/channel/UC-zVlo1F3mUbExQ96fABWcQ) bi-weekly community meetings every other Thursday at 11am US Pacific Time. Meeting agendas and notes can be accessed in the [working doc](http://bit.ly/istiocommunitymeet).
+
+This calendar highlights [major Istio community events](https://calendar.google.com/calendar/embed?src=i10ogf58krfbrsjai5qi16g4do%40group.calendar.google.com&ctz=America%2FLos_Angeles)
 
 Map that to your local time with this [timezone table](https://www.google.com/search?q=1100+am+in+pst&hl=en).
 
