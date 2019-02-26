@@ -46,6 +46,7 @@ Each working group has one or more leads which coordinate the activities of the 
 
 &nbsp; | Name | Company | Groups
 -------|------|---------|----
+&nbsp; | [Joshua Blatt](https://github.com/duderino) | Google | Test and Release
 &nbsp; | [Andra Cismaru](https://github.com/andraxylia) | Google | Networking
 <img width="30px" src="https://avatars1.githubusercontent.com/u/5375600?s=400&v=4"> | [Spike Curtis](https://github.com/spikecurtis) | Tigera | Security
 <img width="30px" src="https://avatars0.githubusercontent.com/u/755849?s=400&v=4"> | [Steven Dake](https://github.com/sdake) | NetApp | Environments
