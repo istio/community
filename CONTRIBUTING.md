@@ -132,7 +132,7 @@ When ready, if you have not already done so, sign a
 [contributor license agreements](#contributor-license-agreements) and submit
 the PR.
 
-See [Reviewing and Merging Pull Requests for Istio](REVIEWING.md) for the PR review and
+See [Reviewing and Merging Pull Requests for Istio](https://github.com/istio/istio/wiki/Reviewing-and-Merging-Pull-Requests) for the PR review and
 merge process that we use.
 
 ## Issues
