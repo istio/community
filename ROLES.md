@@ -42,12 +42,10 @@ Further, you may self-nominate to be an approver by opening an issue with a list
     <td><a href="#member">Member</a></td>
     <td>Regular active contributor in the community</td>
     <td>
-        <p><a href="#sponsor">Sponsored</a> by 2 existing members, from more than 1 company</p>
-        <p>Has made multiple contributions to the project</p>
+        <p>Has pushed at least one PR to an Istio repository</p>
     </td>
     <td>
         <p>Member of the GitHub Istio organization</p>
-        <p>Member of the Istio Slack workspace</p>
         <p>Edit permission on the Istio Team drive</p>
     </td>
   </tr>
@@ -127,19 +125,11 @@ the area.
 
 ### Requirements
 
-* Has made multiple contributions to the project or community. Contributions may include, but are not limited to:
-
-    * Authoring or reviewing PRs on GitHub
-
-    * Filing or commenting on issues on GitHub
-
-    * Contributing to working group or community discussions
+* Has pushed at least one PR to the Istio repositories
 
 * Subscribed to [contributors](https://discuss.istio.io/c/contributors)
 
 * Actively contributing to 1 or more areas.
-
-* <a href="#sponsor">Sponsored</a> by 2 members.
 
 ### Responsibilities and privileges
 
@@ -272,7 +262,7 @@ Administrators are responsible for the bureaucratic aspects of the project.
 * Manage the Istio GitHub repo, including granting membership, controlling repo read/write permissions,
 and team membership
 
-* Manage the Istio developer Slack workspace
+* Manage the Istio Slack workspace
 
 * Manage the Istio Google group forums
 
