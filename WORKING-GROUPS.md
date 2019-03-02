@@ -20,10 +20,31 @@ behold all the docs.
 
 The current working groups are:
 
-| Group | Forum | Meeting Notes | Doc Folder | Recorded Meetings | Description
-|-------|-------|---------------|------------|-------------------|-------------
-| API Management | [Forum](https://discuss.istio.io/c/api-management) | [Notes](https://docs.google.com/document/d/1ub9jIKGGQitivYOeT3AgIGDhEZF7qq9jznC6DVhsozs/edit) | [Folder](https://drive.google.com/corp/drive/u/0/folders/0BzW5bSyKst8JRFJXWTZjMXY5MDQ) | [YouTube](https://www.youtube.com/playlist?list=PL7wB27eZmdfe2819aE1NawcPeWZanM-26) | API Keys, Content Mediation, Content Translation, OpenAPI Ingestion
-| Config | [Forum](https://discuss.istio.io/c/config) | [Notes](https://docs.google.com/document/d/1P3p7zOpX66hPoZBi_CiC36JW7JmoaLWqE2sgHvdq5tY/edit?ts=5a0b7200) | [Folder](https://drive.google.com/corp/drive/folders/0B5CC9KT63DznUUQtSU9HTHBnb1E) | [YouTube](https://www.youtube.com/playlist?list=PL7wB27eZmdffOC_hPQhaIDf8v1TxMboJj) | Config API, config format, config management server/storage, config distribution/rollout, API documentation/style guide/governance
+| Working Group | API Management
+| Topics | API Keys, Content Mediation, Content Translation, OpenAPI Ingestion
+| Leads | Foo
+| Design Docs | [Team Drive Folder](https://drive.google.com/corp/drive/u/0/folders/0BzW5bSyKst8JRFJXWTZjMXY5MDQ)
+| Discussion Forum | [API Management Forum](https://discuss.istio.io/c/api-management)
+| Slack Channel | [#api-management](https://istio.slack.com/messages/CGLNADW81/)
+| Meeting Notes | [Notes](https://docs.google.com/document/d/1ub9jIKGGQitivYOeT3AgIGDhEZF7qq9jznC6DVhsozs/edit)
+| Meeting Link | [Hangouts Meet](https://meet.google.com/hot-gios-ynw?hs=122)
+| Meeting Recordings | [YouTube](https://www.youtube.com/playlist?list=PL7wB27eZmdfe2819aE1NawcPeWZanM-26)
+
+| Working Group | Config
+| Topic | Config API, config format, config management server/storage, config distribution/rollout, API documentation/style guide/governance
+| Design Docs | [Folder](https://drive.google.com/corp/drive/folders/0B5CC9KT63DznUUQtSU9HTHBnb1E)
+| Discussion Forum | [Forum](https://discuss.istio.io/c/config)
+| Slack Channel | [#config](https://istio.slack.com/messages/C7KSV4AHJ/)
+| Meeting Notes | [Notes](https://docs.google.com/document/d/1P3p7zOpX66hPoZBi_CiC36JW7JmoaLWqE2sgHvdq5tY/edit?ts=5a0b7200)
+| Meeting Link | [Hangouts Meet](https://meet.google.com/uqh-cyie-hbp?hs=122)
+| Meeting Recordings | [YouTube](https://www.youtube.com/playlist?list=PL7wB27eZmdffOC_hPQhaIDf8v1TxMboJj)
+
+
+| Group | Design Docs | Discussion Forum | Slack Channel | Meeting Notes | Meeting Link | Meeting Recordings | Description
+|-------|-------------|-------|-------|---------------|--------------|--------------------|------------
+| API Management | [Folder](https://drive.google.com/corp/drive/u/0/folders/0BzW5bSyKst8JRFJXWTZjMXY5MDQ) | [Forum](https://discuss.istio.io/c/api-management) | [#api-management](https://istio.slack.com/messages/CGLNADW81/) | [Notes](https://docs.google.com/document/d/1ub9jIKGGQitivYOeT3AgIGDhEZF7qq9jznC6DVhsozs/edit) | [Hangouts Meet](https://meet.google.com/hot-gios-ynw?hs=122) | [YouTube](https://www.youtube.com/playlist?list=PL7wB27eZmdfe2819aE1NawcPeWZanM-26) |  API Keys, Content Mediation, Content Translation, OpenAPI Ingestion
+| Config | [Folder](https://drive.google.com/corp/drive/folders/0B5CC9KT63DznUUQtSU9HTHBnb1E) | [Forum](https://discuss.istio.io/c/config) | [#config](https://istio.slack.com/messages/C7KSV4AHJ/) | [Notes](https://docs.google.com/document/d/1P3p7zOpX66hPoZBi_CiC36JW7JmoaLWqE2sgHvdq5tY/edit?ts=5a0b7200) | [Hangouts Meet](https://meet.google.com/uqh-cyie-hbp?hs=122) | [YouTube](https://www.youtube.com/playlist?list=PL7wB27eZmdffOC_hPQhaIDf8v1TxMboJj) |  Config API, config format, config management server/storage, config distribution/rollout, API documentation/style guide/governance
+
 | Docs | [Forum](https://discuss.istio.io/c/contributors/docs) | [Notes](https://docs.google.com/document/d/1RGb0NOp0J9QSIrMrZ6wokl16RbSfKHy-6NyTpOQdPa8/edit#heading=h.xjlp01fjb1kv) | [Folder](https://drive.google.com/corp/drive/u/0/folders/1C6X-UyN008fjBrGcWmRGxnliq0Jkpbih) | n/a | User docs, information architecture, istio.io infrastructure
 | Environments | [Forum](https://discuss.istio.io/c/environments) | [Notes](https://docs.google.com/document/d/1Ot9AeoiNYnI3fbQrq3w_-cyGxOqS8AD0RChkQfVxyhs/edit) | [Folder](https://drive.google.com/corp/drive/u/0/folders/0BzW5bSyKst8JQWtfaS1MVk1pOHc) | [YouTube](https://www.youtube.com/playlist?list=PL7wB27eZmdfelYS1XmTO1IaX4crk79tye) | Raw VM support, Hybrid Mesh, Mac/Windows support, Cloud Foundry integration
 | Networking | [Forum](https://discuss.istio.io/c/networking) | [Notes](https://docs.google.com/document/d/1xHy2jQ8oiwMponMVY2zJr2eUAmHW_Hi9JK42a7cg5Pc/edit#heading=h.2ju2wl4o5jbc) | [Folder](https://drive.google.com/corp/drive/u/0/folders/0BzW5bSyKst8Jb1QwTXl1WTRqWHM) | [YouTube](https://www.youtube.com/playlist?list=PL7wB27eZmdffpmIKb5tVthiiQLSXenCK-) | Traffic Management, TCP Support, Additional L7 protocols, Proxy injection
@@ -35,11 +56,21 @@ The current working groups are:
 
 ## Working group meetings
 
-Working groups meet regularly. You can view the schedule of upcoming working group meetings in this [calendar](https://calendar.google.com/calendar/embed?src=4uhe8fi8sf1e3tvmvh6vrq2dog%40group.calendar.google.com&ctz=America%2FLos_Angeles).
-You can download [an ICS file](https://calendar.google.com/calendar/ical/4uhe8fi8sf1e3tvmvh6vrq2dog%40group.calendar.google.com/public/basic.ics)
+Working groups meet regularly. The meetings are open to anyone interested, so please join us. There's a number of ways to track the
+meeting schedules:
+
+* You can view the schedule of upcoming working group meetings in this [calendar](https://calendar.google.com/calendar/embed?src=4uhe8fi8sf1e3tvmvh6vrq2dog%40group.calendar.google.com&ctz=America%2FLos_Angeles).
+
+* You can download [an ICS file](https://calendar.google.com/calendar/ical/4uhe8fi8sf1e3tvmvh6vrq2dog%40group.calendar.google.com/public/basic.ics)
 to import the working group meetings into your favorite iCal client.
-And finally, if you have a Google account, you can link the [working group event calendar](https://calendar.google.com/calendar?cid=NHVoZThmaThzZjFlM3R2bXZoNnZycTJkb2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
+
+If you have a Google acount, you can also:
+
+* Link the [working group event calendar](https://calendar.google.com/calendar?cid=NHVoZThmaThzZjFlM3R2bXZoNnZycTJkb2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 directly to your account.
+
+* Add yourself to the [istio-working-group-calendar-invites@](https://groups.google.com/forum/#!forum/istio-working-group-calendar-invites) group. This will
+automatically invite you to all of the working group meetings on your primary Google calendar.
 
 ## Working group leads
 

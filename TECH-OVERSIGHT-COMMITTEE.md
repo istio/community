@@ -51,17 +51,19 @@ The TOC’s work includes:
 
 * Act as a high-level sounding board for technical questions or designs bubbled up by the working groups.
 
-## Committee meetings
-
-Community members are encouraged to suggest topics for discussion ahead of the TOC meetings, and are invited
-to observe these meetings and engage with the TOC during the community feedback period at the end of each
-meeting. To suggest a topic, add it to the agenda in the [meeting notes](https://docs.google.com/document/d/13lxJqtlaQhmV2EwsNnS6h-_O4pobZQZuMjrzOeMgVI0/edit#heading=h.ipnfbx7g04vg).
-
 Artifact | Link
 ---|---
 Forum | [technical-oversight-committee](https://discuss.istio.io/c/technical-oversight-committee)
 Meeting Notes | [Notes](https://docs.google.com/document/d/13lxJqtlaQhmV2EwsNnS6h-_O4pobZQZuMjrzOeMgVI0/edit#heading=h.ipnfbx7g04vg)
 Document Folder | [Folder](https://drive.google.com/corp/drive/u/0/folders/0BzW5bSyKst8JOXRyZVNaVFZuRUk)
+
+## Committee meetings
+
+The TOC meets regularly. The meetings are open to anyone interested, so please join us. The meeting schedule is tracked
+on the [working group calendar](WORKING-GROUPS.md#working-group-meetings), please follow the link for more details.
+
+Community members are encouraged to suggest topics for discussion ahead of the TOC meetings, and are invited
+to observe these meetings and engage with the TOC. To suggest a topic, add it to the [agenda](https://docs.google.com/document/d/13lxJqtlaQhmV2EwsNnS6h-_O4pobZQZuMjrzOeMgVI0/edit#heading=h.ipnfbx7g04vg).
 
 ## Committee members
 
