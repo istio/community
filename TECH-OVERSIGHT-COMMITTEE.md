@@ -67,7 +67,7 @@ Document Folder | [Folder](https://drive.google.com/corp/drive/u/0/folders/0BzW5
 
 The members of the TOC are shown below. Membership in the TOC is determined by the [Steering committee](./STEERING-COMMITTEE.md).
 
-&nbsp; | Name | Company | Profile
+&nbsp; | Name | Company
 ---|---|---|---
 <img width="30px" src="https://avatars0.githubusercontent.com/u/3277917?s=400&v=4"> | [Dan Berg](https://github.com/dcberg) | IBM
 <img width="30px" src="https://avatars0.githubusercontent.com/u/1562325?s=400&v=4"> | [Sven Mawson](https://github.com/smawson) | Google
