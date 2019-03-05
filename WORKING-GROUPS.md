@@ -33,6 +33,8 @@ The current working groups are:
 | Test and Release |[Folder](https://drive.google.com/corp/drive/u/0/folders/0B_ObhNOUiqZ0UWo1ODBVTkRkSzg) |[Forum](https://discuss.istio.io/c/test-and-release) |[#test-and-release](https://istio.slack.com/messages/C6FCV6WN4/) | [Notes](https://docs.google.com/document/d/18QgpvBH9N8Io5xU-0piysyOYif65U03m8GabpvHb4IQ/edit) [Zoom](https://istio.zoom.us/j/3078179526) | [YouTube](https://www.youtube.com/playlist?list=PL7wB27eZmdfckNxJRS1ac9rqsx5b16NU_) |Build, test, release
 | User Experience | [Folder](https://drive.google.com/drive/u/0/folders/1r3MDokrMU1R-jxrZh1rxBV3dYChAprJg) | [Forum](https://discuss.istio.io/c/UX) | [#user-experience](https://istio.slack.com/messages/CFTRP8NTW/) | [Notes](https://docs.google.com/document/d/1raZOoeYz3APZdQRlJlFA-zgfmEJu2YLaGa4_3KwbNRs/edit#heading=h.i71zsi7n759v) | [WebEx](https://ibm.webex.com/meet/snible) | n/a | User experience across Istio
 
+To join Istio's Slack workspace, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSfdsupDfOWBtNVvVvXED6ULxtR4UIsYGCH_cQcRr0VcG1ZqQQ/viewform).
+
 ## Working group meetings
 
 Working groups meet regularly. The meetings are open to anyone interested, so please join us. There's a number of ways to track the
