@@ -17,7 +17,7 @@ access.
 | [Google Custom Search Engine](https://cse.google.com) | [geeknoid](https://github.com/geeknoid), [rshriram](https://github.com/rshriram)
 | [Google Search Console](https://search.google.com/search-console) | [geeknoid](https://github.com/geeknoid), [ayj](https://github.com/ayj)
 | [Google Analytics](https://analytics.google.com/analytics/web/) | [geeknoid](https://github.com/geeknoid)
-| [Istio Twitter](https://twitter.com/IstioMesh) | [oaktowner](https://github.com/oaktowner)
+| [Istio Twitter](https://twitter.com/IstioMesh) | [oaktowner](https://github.com/oaktowner), [linsun](https://github.com/linsun), [rvennam](https://github.com/rvennam)
 | [Working Group Calendar](https://calendar.google.com/calendar/embed?src=4uhe8fi8sf1e3tvmvh6vrq2dog%40group.calendar.google.com&ctz=America%2FLos_Angeles) | All working group leads
 | [Community Event Calendar](https://calendar.google.com/calendar/embed?src=i10ogf58krfbrsjai5qi16g4do%40group.calendar.google.com&ctz=America%2FLos_Angeles) | [oaktowner](https://github.com/oaktowner)
 | [CircleCi](https://circleci.com/gh/istio) | [rshriram](https://github.com/rshriram), [linsun](https://github.com/linsun), [louiscryan](https://github.com/louiscryan), [smawson](https://github.com/smawson), [geeknoid](https://github.com/geeknoid)
