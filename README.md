@@ -21,6 +21,7 @@ Other Documents
 - [Feature Lifecycle](FEATURE-LIFECYCLE.md) - requirements for features to be labeled Alpha, Beta or Stable
 - [Feature Lifecycle Checklist](FEATURE-LIFECYCLE-CHECKLIST.md) - checklist-form of requirements for features to be labeled Alpha, Beta or Stable
 - [Admins for Istio Stuff](ADMINS-FOR-ISTIO.md) - lists who handles which part of the Istio infrastructure
+- [Early Disclosure for Security Vulnerabilities](EARLY-DISCLOSURE.md) - getting early notification of security vulnerabilities 
 
 ## Introduction
 
