@@ -23,3 +23,4 @@ access.
 | [CircleCi](https://circleci.com/gh/istio) | [rshriram](https://github.com/rshriram), [linsun](https://github.com/linsun), [louiscryan](https://github.com/louiscryan), [smawson](https://github.com/smawson), [geeknoid](https://github.com/geeknoid)
 | [Docker Hub](https://hub.docker.com) | [rshriram](https://github.com/rshriram), [costinm](https://github.com/costinm), [mandarjog](https://github.com/mandarjog), [vadimeisenbergibm](https://github.com/vadimeisenbergibm), [frankbu](https://github.com/frankbu)
 | [Prow](https://prow.istio.io) | [utka](https://github.com/utka)
+| [YouTube](https://www.youtube.com/channel/UC-zVlo1F3mUbExQ96fABWcQ) | [geeknoid](https://github.com/geeknoid)
