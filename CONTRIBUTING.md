@@ -100,7 +100,7 @@ exact code change can help focus discussions, so the choice is up to you.
 ## Setting up to contribute to Istio
 
 Check out this [README](https://github.com/istio/istio/blob/master/README.md) to learn about
-the Istio source base and setting up your [development environment](https://github.com/istio/istio/wiki/Dev-Guide).
+the Istio source base and setting up your [development environment](https://github.com/istio/istio/wiki/Preparing-for-Development).
 
 ## Pull requests
 
@@ -132,8 +132,9 @@ When ready, if you have not already done so, sign a
 [contributor license agreements](#contributor-license-agreements) and submit
 the PR.
 
-See [Reviewing and Merging Pull Requests for Istio](https://github.com/istio/istio/wiki/Reviewing-and-Merging-Pull-Requests) for the PR review and
-merge process that we use.
+See [Writing Good Pull Requests](https://github.com/istio/istio/wiki/Writing-Good-Pull-Requests) for guidance on creating
+pull requests, and [Reviewing Pull Requests](https://github.com/istio/istio/wiki/Reviewing-Pull-Requests) for the PR review
+we use.
 
 ## Issues
 

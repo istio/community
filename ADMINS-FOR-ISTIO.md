@@ -14,8 +14,8 @@ access.
 | Domain registration for *istio.io | [geeknoid](https://github.com/geeknoid), [ayj](https://github.com/ayj)
 | DNS hosting for *istio.io | [geeknoid](https://github.com/geeknoid), [ayj](https://github.com/ayj)
 | Site hosting for *.istio.io | [geeknoid](https://github.com/geeknoid), [ayj](https://github.com/ayj)
-| [Google Custom Search Engine](https://cse.google.com) | [geeknoid](https://github.com/geeknoid), [rshriram](https://github.com/rshriram)
-| [Google Search Console](https://search.google.com/search-console) | [geeknoid](https://github.com/geeknoid), [ayj](https://github.com/ayj)
+| [Google Custom Search Engine](https://cse.google.com/cse/) | [geeknoid](https://github.com/geeknoid), [rshriram](https://github.com/rshriram)
+| [Google Search Console](https://search.google.com/search-console/about) | [geeknoid](https://github.com/geeknoid), [ayj](https://github.com/ayj)
 | [Google Analytics](https://analytics.google.com/analytics/web/) | [geeknoid](https://github.com/geeknoid)
 | [Istio Twitter](https://twitter.com/IstioMesh) | [oaktowner](https://github.com/oaktowner), [linsun](https://github.com/linsun), [rvennam](https://github.com/rvennam)
 | [Working Group Calendar](https://calendar.google.com/calendar/embed?src=4uhe8fi8sf1e3tvmvh6vrq2dog%40group.calendar.google.com&ctz=America%2FLos_Angeles) | All working group leads

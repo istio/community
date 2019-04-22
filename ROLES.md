@@ -176,13 +176,13 @@ The following apply to the part of the codebase for which one would be an approv
 
 * Demonstrate sound technical judgement
 
-* Responsible for project quality control via [code reviews](https://github.com/istio/istio/wiki/Reviewing-and-Merging-Pull-Requests)
+* Responsible for project quality control via [code reviews](https://github.com/istio/istio/wiki/Reviewing-Pull-Requests)
 
     * Focus on code quality and correctness, including testing and factoring
 
     * Focus on holistic acceptance of contribution such as dependencies with other features, backwards / forwards compatibility, API and flag definitions, etc
 
-* Expected to be responsive to review requests as per [community expectations](https://github.com/istio/istio/wiki/Reviewing-and-Merging-Pull-Requests);
+* Expected to be responsive to review requests as per [community expectations](https://github.com/istio/istio/wiki/Reviewing-Pull-Requests);
 
 * May approve code contributions for acceptance
 

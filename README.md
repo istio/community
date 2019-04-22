@@ -66,8 +66,8 @@ insightful docs. Or maybe a cool blog post?
 
 ## Questions and issues
 
-If you've got questions or issues with using Istio, checkout our [help page](https://istio.io/help)
-and be sure to connect to our [community](https://istio.io/about/community) where there's always
+If you've got questions or issues with using Istio, checkout our [help page](https://istio.io/help/)
+and be sure to connect to our [community](https://istio.io/about/community/) where there's always
 someone ready to lend a hand.
 
 If you're a developer trying to hack on or use the Istio code, head to
