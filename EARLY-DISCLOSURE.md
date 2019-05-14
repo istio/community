@@ -10,6 +10,12 @@ The list is used to provide actionable information to close Istio partners.
 The list is *NOT* intended for individuals to find out about
 security issues.
 
+Istio has upstream dependencies of its own. In certain situations, we may need to make emergency 
+Istio releases to address vulnerabilities in these upstream dependencies. Due to embargo policies of
+these dependencies, we may not be allowed to share any details about the vulnerabilities. In that
+case, Istio's early disclosure will be strictly focused on the mechanics of an upcoming patch
+release, rather than on the details of the discovered vulnerabilities.
+
 ## Embargo policy
 
 The information members receive from the mailing list must not be
@@ -36,9 +42,7 @@ will be removed from the early disclosure list.
 
 | Email		| Organization	|
 | ------------- |:-------------:|
-| | |
-
-TBD: List email addresses used to report early disclosure
+| istio-security-team@aspenmesh.io | Aspen Mesh |
 
 ### Membership criteria
 
