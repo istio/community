@@ -1,9 +1,9 @@
 version: 2
 jobs:
   lint:
-    docker:
-      - image: gcr.io/istio-testing/circleci:2019-04-22
-    working_directory: /go/src/istio.io/community
+    machine:
+      ruby:
+        version: 2.4.1
     steps:
       - checkout
       - run:
@@ -11,7 +11,7 @@ jobs:
           command: gem install awesome_bot
       - run:
           name: Linting
-          command: awesome_bot --skip-save-results --allow_ssl --allow-timeout --allow-dupe --allow-redirect --white-list *.md
+          command: awesome_bot --skip-save-result --allow-ssl --allow-timeout --allow-dupe --allow-redirect --white-list *.md
 
 workflows:
   version: 2
