@@ -62,7 +62,7 @@ Each working group has one or more leads which coordinate the activities of the 
 <img width="30px" src="https://avatars0.githubusercontent.com/u/2752495?s=400&v=4"> | [Frank Budinsky](https://github.com/frankbu) | IBM | Docs
 &nbsp; | [Andra Cismaru](https://github.com/andraxylia) | Google | Networking
 <img width="30px" src="https://avatars1.githubusercontent.com/u/5375600?s=400&v=4"> | [Spike Curtis](https://github.com/spikecurtis) | Tigera | Security
-<img width="30px" src="https://avatars0.githubusercontent.com/u/755849?s=400&v=4"> | [Steven Dake](https://github.com/sdake) | NetApp | Environments
+<img width="30px" src="https://avatars0.githubusercontent.com/u/755849?s=400&v=4"> | [Steven Dake](https://github.com/sdake) | Independent | Environments
 <img width="30px" src="https://avatars0.githubusercontent.com/u/13684010?s=400&v=4"> | [Surya V Duggirala](https://github.com/suryadu) | IBM | Performance and Scalability
 <img width="30px" src="https://avatars2.githubusercontent.com/u/17071139?s=400&v=4"> | [Oz Evren](https://github.com/ozevren) | Google | Config
 &nbsp; | [Mandar Jog](https://github.com/mandarjog) | Google | Policies and Telemetry, Performance and Scalability
