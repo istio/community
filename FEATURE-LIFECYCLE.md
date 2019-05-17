@@ -27,6 +27,13 @@ of this information at [Feature Lifecycle Checklist](FEATURE-LIFECYCLE-CHECKLIST
     <td>Code is well tested and stable. Safe for widespread deployment in production.</td>
   </tr>
   <tr>
+    <td>Security</td>
+    <td>Unknown</td>
+    <td>Using the feature may have obvious security vulnerabilities. Discovered vulnerabilities will not necessarily be communicated broadly.</td>
+    <td>Any discovered security vulnerabilities will be publically disclosed and patched.</td>
+    <td>Any discovered security vulnerabilities will be publically disclosed and patched.</td>
+  </tr>
+  <tr>
     <td>Performance</td>
     <td>Unknown</td>
     <td>Performance requirements are assessed as part of design.</td>
