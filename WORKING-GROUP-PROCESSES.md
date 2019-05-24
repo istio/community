@@ -133,6 +133,11 @@ to progress.
 Sometimes, different working groups can have conflicting goals or requirements. Leads from all affected working groups generally work
 together and come to an agreeable conclusion.
 
+If a community member disagrees with decisions or designs made by a working group, the first recourse is to consult the working group
+leads and try to hash things out. If that's not satisfactory, then the community member is invited to prepare an alternate proposal
+that can be shared with the community.
+
 In all cases, remaining blocking issues can be raised to the [technical oversight committee](TECH-OVERSIGHT-COMMITTEE.md) to help
-resolve the situation. To trigger an escalation, create an issue in the `istio/istio` repo and assign it to the
-`istio/tech-oversight-committee` team.
+resolve the situation. To trigger an escalation, add an entry to the [TOC's agenda](https://docs.google.com/document/d/13lxJqtlaQhmV2EwsNnS6h-_O4pobZQZuMjrzOeMgVI0/edit#heading=h.o8pz6aqnzzgk)
+and come to a Friday TOC meeting. Come prepared with an explanation of the underlying problem as well as 
+cogent arguments for both sides.
