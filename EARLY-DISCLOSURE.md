@@ -49,7 +49,8 @@ will be removed from the early disclosure list.
 To be eligible for the early disclosure mailing list, your
 organization must:
 
-1. Have an actively monitored security email alias for our project.
+1. Have an actively monitored security email alias for our project. This cannot be a personal
+email address, it must be a corporate address owned by the organization.
 2. Be involved in redistributing Istio or have a product with close coupling to Istio.
 3. Have a user base not limited to your own organization.
 4. Be a participant and active contributor in the Istio community.
