@@ -5,19 +5,21 @@ This document describes the set of roles individuals may have within the Istio c
 * [Role summary](#role-summary)
 * [Collaborator](#collaborator)
 * [Member](#member)
-* [Approver](#approver)
+* [Maintainer](#maintainer)
 * [Lead](#lead)
 * [Administrator](#administrator)
-* [Vendor](#vendor)
+
+Transient roles
+
+* [Release manager](#release-manager)
+* [Oncall](#oncall)
 * [Sponsor](#sponsor)
 
 ## Role summary
 
 Here is the set of roles we use within the Istio community, the general responsibilities expected by individuals in each role,
 the requirements necessary to join or stay in a given role, and the concrete manifestation of the role in terms of permissions and
-privileges.  To request membership to the Istio organization, please [open an issue](https://github.com/istio/community/issues/new?template=organization-membership-request.md&title=REQUEST%3A%20New%20membership%20for%20%3Cyour-GH-handle%3E)
-and fill out the required template within the issue.
-Further, you may self-nominate to be an approver by opening an issue with a list of your key contributions.
+privileges.
 
 <table>
   <tr>
@@ -47,14 +49,18 @@ Further, you may self-nominate to be an approver by opening an issue with a list
     <td>
         <p>Member of the GitHub Istio organization</p>
         <p>Edit permission on the Istio Team drive</p>
+        <p>Write permissions on the Istio repos, allowing issues to be manipulated.</p>
     </td>
   </tr>
 
   <tr>
-    <td><a href="#approver">Approver</a></td>
+    <td><a href="#maintainer">Maintainer</a></td>
     <td>Approve contributions from other members</td>
     <td>Highly experienced and active reviewer and contributor to an area</td>
-    <td>‘approver’ entry in one or more OWNERS file in GitHub (istio/istio.io excluded)</td>
+    <td>Like a member, plus:
+        <p>Able to approve code changes in GitHub</p>
+        <p>Voting rights in the context of working group decision-making</p>
+    </td>
   </tr>
 
   <tr>
@@ -65,7 +71,7 @@ Further, you may self-nominate to be an approver by opening an issue with a list
         <p>Run their working group</p>
     </td>
     <td>Appointed by the <a href="./TECH-OVERSIGHT-COMMITTEE.md">technical oversight committee</a> as documented in <a href="./WORKING-GROUP-PROCESSES.md">Istio Working Group Processes</a></td>
-    <td>Write permissions on one or more repos, allowing issues to be manipulated.</td>
+    <td>Like a maintainer
   </tr>
 
   <tr>
@@ -73,27 +79,29 @@ Further, you may self-nominate to be an approver by opening an issue with a list
     <td>Manage & control permissions</td>
     <td>Appointed by the <a href="./TECH-OVERSIGHT-COMMITTEE.md">technical oversight committee</a></td>
     <td>
-        <p>Admin privileges on the GitHub Istio org and all its repos</p>
-        <p>Admin privileges on the Istio Slack workspace</p>
-        <p>Admin privileges on the Istio Team Drive</p>
-        <p>Admin privileges on the Google Search Console for istio.io</p>
-        <p>Admin privilege to the Istio email lists.</p>
+        <p>Admin privileges on varous Istio-related resources, as defined in <a href="./ADMINS-FOR-ISTIO.md">ADMINS-FOR-ISTIO</a></p>
     </td>
   </tr>
 
   <tr>
-    <td><a href="#vendor">Vendor</a></td>
-    <td>Contribute extensions to the Istio project</td>
-    <td>n/a</td>
-    <td>‘approver’ entry in one or more OWNERS files within the istio/contrib repo</td>
+    <td><a href="#release-manager">Release manager</a></td>
+    <td>Sheperd a release through to general availability</td>
+    <td>Appointed by the <a href="./TECH-OVERSIGHT-COMMITTEE.md">technical oversight committee</a></td>
+    <td>Admin privilege over the GitHub repos</td>
+  </tr>
+
+  <tr>
+    <td><a href="#oncall">Oncall</a></td>
+    <td>Handle a number of support functions in the project</td>
+    <td>See <a href="https://github.com/istio/istio/wiki/Oncall%20Playbook">Oncall Playbook</a> for details</td>
+    <td>Admin privilege over the GitHub repos</td>
   </tr>
 
   <tr>
     <td><a href="#sponsor">Sponsor</a></td>
-    <td>Existing member that vouches for another GitHub user that wishes to become a member of the Istio organization</td>
+    <td>Vouch for another GitHub user in order to let the user get more privilege within the project</td>
     <td>
-        <p>Must have close interactions with the prospective member - e.g. code/design/proposal review, coordinating on issues, etc.</p>
-        <p>Must be reviewers or approvers in at least 1 OWNERS file (in any repo in the Istio GitHub organization, excluding istio/istio.io).</p>
+        <p>Must have close interactions with the user</p>
     </td>
     <td>n/a</td>
   </tr>
@@ -120,12 +128,12 @@ organization, roles, policies, procedures, conventions, etc., and technical and/
 Members are continuously active contributors in the community. They can have issues and PRs assigned to them, participate in working group
 meetings, and pre-submit tests are automatically run for their PRs. Members are expected to remain active contributors to the community.
 
-All members are encouraged to help with the code review burden, although each PR must be reviewed by one or more official approvers for
-the area.
+All members are encouraged to help with the code review burden, although each PR must be reviewed by one or more official maintainers for
+the area before being accepted into the source base.
 
 ### Requirements
 
-* Has pushed at least one PR to the Istio repositories
+* Has pushed at least one PR to the Istio repositories within the last 6 months.
 
 * Subscribed to [contributors](https://discuss.istio.io/c/contributors)
 
@@ -145,36 +153,35 @@ the area.
 
 Members who frequently contribute code are expected to proactively perform code reviews for the area that they are active in.
 
-## Approver
+## Maintainer
 
-Code approvers are able to both review and approve code contributions. While code review is focused on code quality and correctness,
+Maintainers review and approve code contributions. While code review is focused on code quality and correctness,
 approval is focused on holistic acceptance of a contribution including: backwards / forwards compatibility, adhering to API and flag
-conventions, subtle performance and correctness issues, interactions with other parts of the system, etc. Approver status is scoped to a
-part of the codebase.
+conventions, subtle performance and correctness issues, interactions with other parts of the system, etc. Maintainer status is scoped to a
+part of the codebase and is reflected in a GitHub CODEOWNERS file or a prow OWNERS file.
 
 ### Requirements
 
-The following apply to the part of the codebase for which one would be an approver in an OWNERS file:
+The following apply to the part of the codebase for which one would be a maintainer:
 
 * Member for at least 3 months
 
 * Contributed at least 30 substantial PRs to the codebase
 
+* Must remain an active participant in the community by contributing
+code, performing reviews, triaging issues, etc.
+
 * Knowledgeable about the codebase
 
-* Nominated by an area lead
-
-    * With no objections from other leads
-
-    * Done through PR to update an OWNERS file
+* Sponsored by a working group lead with no objections from other leads
 
 ### Responsibilities and privileges
 
-The following apply to the part of the codebase for which one would be an approver in an OWNERS file:
+The following apply to the part of the codebase for which one would be a maintainer:
 
-* Approver status may be a precondition to accepting large code contributions
+* Maintainer status may be a precondition to accepting large code contributions
 
-* Demonstrate sound technical judgement
+* Demonstrates sound technical judgement
 
 * Responsible for project quality control via [code reviews](https://github.com/istio/istio/wiki/Reviewing-Pull-Requests)
 
@@ -186,10 +193,22 @@ The following apply to the part of the codebase for which one would be an approv
 
 * May approve code contributions for acceptance
 
+* Maintainers in an area get a stronger voice when a working group needs to make decisions.
+
+### Emeritus status
+
+If a maintainer becomes inactive in the project for an extended period of time, the individual will transition to being a
+emeritus maintainer. Emeritus maintainers lose their ability to approve code contributions, but retain their voting rights
+for up to one year. After one year, emeritus maintainers revert back to being normal members. 
+
+A maintainer becomes an emeritus maintainer if the individual hasn't contributed a PR to the project in 3 months. An emeritus 
+maintainer can regain full maintainer status by submitting 5 PRs to the project.
+
 ## Lead
 
-Working group leads, or just ‘leads’, are approvers of an entire area that have demonstrated good judgement and responsibility.
-Leads accept design proposals and approve design decisions for their area of ownership.
+Working group leads, or just ‘leads’, are maintainers of an entire area that have demonstrated good judgement and responsibility.
+Leads accept design proposals and approve design decisions for their area of ownership, triage issues, and run regular working group
+meetings.
 
 ### Requirements
 
@@ -197,9 +216,9 @@ Getting to be a lead of an existing working group:
 
 * Recognized as having expertise in the group’s subject matter
 
-* Approver for some part of the codebase for at least 3 months
+* Maintainer for some part of the codebase for at least 3 months
 
-* Member for at least 1 year (relevant as Istio ages a bit more)
+* Member for at least 1 year
 
 * Primary reviewer for 20 substantial PRs
 
@@ -211,9 +230,9 @@ Establishing the leads for a new working group:
 
 * Originally authored or contributed major functionality to an area
 
-* An approver in the top-level OWNERS file for the group’s code
+* A maintainer in the top-level OWNERS file for the group’s code
 
-* Approver for some part of the codebase for at least 3 months
+* Maintainer for some part of the codebase for at least 3 months
 
 * Member for at least 1 year
 
@@ -235,19 +254,13 @@ The following apply to the area / component for which one would be an owner.
 
 * Apply/remove/create/delete GitHub labels and milestones
 
-* Write access to repo (assign issues/PRs, add/remove labels and milestones, edit issues and PRs, edit wiki, create/delete labels and milestones)
-
-* Capable of directly applying lgtm + approve labels for any PR
-
-    * Expected to respect OWNERS files approvals and use standard procedure for merging code
-
 * Expected to work to holistically maintain the health of the project through:
 
     * Reviewing PRs
 
     * Fixing bugs
 
-    * Mentoring and guiding approvers, members, and contributors
+    * Mentoring and guiding maintainers, members, and contributors
 
 ## Administrator
 
@@ -259,36 +272,42 @@ Administrators are responsible for the bureaucratic aspects of the project.
 
 ### Responsibilities and privileges
 
-* Manage the Istio GitHub repo, including granting membership, controlling repo read/write permissions,
-and team membership
+* Manage a variety of infrastructure support for the Istio project as described in [ADMINS-FOR-ISTIO](./ADMINS-FOR-ISTIO.md)
 
-* Manage the Istio Slack workspace
+* Although admins may have the authority to override any policy and cut corners, we expect admins to generally abide
+by the overall rules of the project. For example, unless strictly necessary, admins should not approve and/or commit
+PRs they aren't entitled to if they were not admins.
 
-* Manage the Istio Google group forums
+## Release manager
 
-* Manage the Google Search Console settings for istio.io
-
-## Vendor
-
-Vendors contribute extensions to the Istio project in the form of new adapters, translated documentation, interesting examples, etc.
+Individual responsible for a particular release of the product. This person takes ownership of the
+release processes and knocks down obstacles in order to drive to a successful timely general availability of
+the release.
 
 ### Requirements
 
-* <a href="#sponsor">Sponsored</a> by a member
+* Appointed by the <a href="./TECH-OVERSIGHT-COMMITTEE.md">technical oversight committee</a>
 
 ### Responsibilities and privileges
 
-* Each vendor receives access to a subdirectory in the contrib repo, and each directory has got a distinct OWNERS file granting
-approver permissions to the vendor.
+* Get a release out the door.
+
+* Admin privilege over the GitHub repos.
+
+## Oncall
+
+Istio maintains an oncall rotation. Individuals whose turn it is to be on-call are responsible for
+handling a number of support functions in the project to ensure day-to-day operstions are running 
+smoothly.
+
+Please see the [Oncall Playbook](https://github.com/istio/istio/wiki/Oncall%20Playbook) for all the details.
 
 ## Sponsor
 
-A sponsor is a member that wishes to vouch for another user to become a member.
+A sponsor is a member that wishes to vouch for another user to support a user being assigned a specific role.
 
 ### Requirements
 
-* Sponsors must have close interactions with the prospective member - e.g. code/design/proposal review, coordinating on issues, etc.
+* Sponsors must have close interactions with the user - e.g. code/design/proposal review, coordinating on issues, etc.
 
-* Sponsors must be reviewers or approvers in at least 1 OWNERS file (in any repo in the Istio GitHub organization).
-
-* Sponsors are responsible for assessing whether a new potential member behaves in accordance to our <a href="./CONTRIBUTING.md">contribution guidelines</a>.
+* Sponsors are responsible for assessing whether a new potential user behaves in accordance to our <a href="./CONTRIBUTING.md">contribution guidelines</a>.

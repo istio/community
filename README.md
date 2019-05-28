@@ -20,6 +20,7 @@ Other Documents
 - [Working Group Processes](WORKING-GROUP-PROCESSES.md) - describes how working groups operate
 - [Technical Oversight Committee](TECH-OVERSIGHT-COMMITTEE.md) - describes our technical oversight committee
 - [Community Roles](ROLES.md) - describes the roles individuals can assume within the Istio community
+- [Our Maintainers](MAINTAINERS.md) - lists the individuals that valiantly maintain and enhance Istio
 - [Onboarding Technologies to Istio](ONBOARDING-TECH-TO-ISTIO.md) - how we work to onboard new technologies to the Istio project
 - [Feature Lifecycle](FEATURE-LIFECYCLE.md) - requirements for features to be labeled Alpha, Beta or Stable
 - [Feature Lifecycle Checklist](FEATURE-LIFECYCLE-CHECKLIST.md) - checklist-form of requirements for features to be labeled Alpha, Beta or Stable
