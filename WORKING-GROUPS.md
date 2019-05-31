@@ -68,7 +68,7 @@ Each working group has one or more leads which coordinate the activities of the 
 &nbsp; | [Mandar Jog](https://github.com/mandarjog) | Google | Policies and Telemetry, Performance and Scalability
 <img width="30px" src="https://avatars0.githubusercontent.com/u/24381542?s=400&v=4"> | [Tao Li](https://github.com/wattli) | Google | Security
 &nbsp; | [Costin Manolache](https://github.com/costinm) | Google | Environments
-<img width="30px" src="https://avatars3.githubusercontent.com/u/8202871?s=400&v=4"> | [Shriram Rajagopalan](https://github.com/rshriram) | VMware | Networking
+<img width="30px" src="https://avatars3.githubusercontent.com/u/8202871?s=400&v=4"> | [Shriram Rajagopalan](https://github.com/rshriram) | Tetrate | Networking
 <img width="30px" src="https://avatars2.githubusercontent.com/u/21148125?s=400&v=4"> | [Douglas Reid](https://github.com/douglas-reid) | Google | Policies and Telemetry
 <img width="30px" src="https://avatars3.githubusercontent.com/u/3237651?s=400&v=4"> | [Ed Snible](https://github.com/esnible) | IBM  | User Experience
 <img width="30px" src="https://avatars1.githubusercontent.com/u/1588319?s=400&v=4">  | [Lin Sun](https://github.com/linsun) | IBM | Test and Release
