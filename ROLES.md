@@ -12,7 +12,6 @@ This document describes the set of roles individuals may have within the Istio c
 Transient roles
 
 * [Release manager](#release-manager)
-* [Oncall](#oncall)
 * [Sponsor](#sponsor)
 
 ## Role summary
@@ -87,13 +86,6 @@ privileges.
     <td><a href="#release-manager">Release manager</a></td>
     <td>Sheperd a release through to general availability</td>
     <td>Appointed by the <a href="./TECH-OVERSIGHT-COMMITTEE.md">technical oversight committee</a></td>
-    <td>Admin privilege over the GitHub repos</td>
-  </tr>
-
-  <tr>
-    <td><a href="#oncall">Oncall</a></td>
-    <td>Handle a number of support functions in the project</td>
-    <td>See <a href="https://github.com/istio/istio/wiki/Oncall%20Playbook">Oncall Playbook</a> for details</td>
     <td>Admin privilege over the GitHub repos</td>
   </tr>
 
@@ -293,14 +285,6 @@ the release.
 * Get a release out the door.
 
 * Admin privilege over the GitHub repos.
-
-## Oncall
-
-Istio maintains an oncall rotation. Individuals whose turn it is to be on-call are responsible for
-handling a number of support functions in the project to ensure day-to-day operstions are running 
-smoothly.
-
-Please see the [Oncall Playbook](https://github.com/istio/istio/wiki/Oncall%20Playbook) for all the details.
 
 ## Sponsor
 
