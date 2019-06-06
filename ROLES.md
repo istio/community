@@ -6,6 +6,7 @@ This document describes the set of roles individuals may have within the Istio c
 * [Collaborator](#collaborator)
 * [Member](#member)
 * [Maintainer](#maintainer)
+* [Triager](#triager)
 * [Lead](#lead)
 * [Administrator](#administrator)
 
@@ -48,7 +49,7 @@ privileges.
     <td>
         <p>Member of the GitHub Istio organization</p>
         <p>Edit permission on the Istio Team drive</p>
-        <p>Write permissions on the Istio repos, allowing issues to be manipulated.</p>
+        <p>Triage permission on the Istio repos, allowing issues to be manipulated.</p>
     </td>
   </tr>
 
@@ -63,11 +64,21 @@ privileges.
   </tr>
 
   <tr>
+    <td><a href="#trigger">Triager</a></td>
+    <td>
+        <p>Triage incoming issues, set milestones, set labels</p>
+    </td>
+    <td>Appointed by the <a href="./TECH-OVERSIGHT-COMMITTEE.md">technical oversight committee</a></td>
+    <td>Triage permissions on the Istio repos, allowing issues to be manipulated.</td>
+  </tr>
+
+  <tr>
     <td><a href="#lead">Lead</a></td>
     <td>
         <p>Set priorities for a functional area and approve proposals</p>
-        <p>Triage incoming issues, set milestones, repo labels</p>
+        <p>Triage incoming issues, set milestones, set labels</p>
         <p>Run their working group</p>
+        <p>Write permission on the Istio repos.</p>
     </td>
     <td>Appointed by the <a href="./TECH-OVERSIGHT-COMMITTEE.md">technical oversight committee</a> as documented in <a href="./WORKING-GROUP-PROCESSES.md">Istio Working Group Processes</a></td>
     <td>Like a maintainer
@@ -195,6 +206,22 @@ for up to one year. After one year, emeritus maintainers revert back to being no
 
 A maintainer becomes an emeritus maintainer if the individual hasn't contributed a PR to the project in 3 months. An emeritus 
 maintainer can regain full maintainer status by submitting 5 PRs to the project.
+
+## Triager
+
+Triagers are members that help triage issues. They can set priority, assignment, milestones, and labels.
+
+### Requirements
+
+Triagers are appointed by the <a href="./TECH-OVERSIGHT-COMMITTEE.md">technical oversight committee</a>
+
+### Responsibilities and privileges
+
+The following apply to the area / component for which one would be an owner.
+
+* Perform issue triage on GitHub
+
+* Apply/remove/create/delete GitHub labels and milestones
 
 ## Lead
 
