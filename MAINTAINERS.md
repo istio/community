@@ -52,3 +52,4 @@ be what it is without these dedicated folks, so thanks!
 <img width="30px" src="https://avatars0.githubusercontent.com/u/13374016?s=400&v=4"> | [Zhonghu Xu](https://github.com/hzxuzhonghu) | n/a
 <img width="30px" src="https://avatars1.githubusercontent.com/u/9537734?s=400&v=4"> | [Kuat Yessenov](https://github.com/kyessenov) | Google
 <img width="30px" src="https://avatars1.githubusercontent.com/u/25786429?s=400&v=4"> | [Yutong Zhang](https://github.com/yutongz) | Google
+<img width="30px" src="https://avatars1.githubusercontent.com/u/2189160?s=400&v=4"> | [Yangmin Zhu](https://github.com/yangminzhu) | Google
