@@ -43,6 +43,7 @@ will be removed from the early disclosure list.
 | Email		| Organization	|
 | ------------- |:-------------:|
 | istio-security-team@aspenmesh.io | Aspen Mesh |
+| istio-security@redhat.com | RedHat |
 
 ### Membership criteria
 
