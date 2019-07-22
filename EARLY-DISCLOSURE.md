@@ -45,6 +45,7 @@ will be removed from the early disclosure list.
 | istio-security-team-inbox@aspenmesh.io | Aspen Mesh |
 | istio-security@redhat.com | RedHat |
 | argoprod@us.ibm.com | IBM |
+| istio-security-vulnerability-notifications@google.com | Google |
 
 ### Membership criteria
 
