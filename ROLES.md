@@ -142,6 +142,14 @@ the area before being accepted into the source base.
 
 * Actively contributing to 1 or more areas.
 
+Members are expected to be active participants in the project on an on-going basis. If an individual doesn't contribute to the project for 
+a 180 day period, than that individual may lose membership. On-going contributions include:
+
+- Successfully merging pull requests 
+- Triaging issues or pull requests
+- Commenting on issues or pull requests
+- Closing issues or pull requests
+
 ### Responsibilities and privileges
 
 * Responsive to issues and PRs assigned to them
@@ -178,6 +186,16 @@ code, performing reviews, triaging issues, etc.
 
 * Sponsored by a working group lead with no objections from other leads
 
+If a maintainer becomes inactive in the project for an extended period of time, the individual will transition to being an
+emeritus maintainer. Emeritus maintainers lose their ability to approve code contributions, but retain their voting rights
+for up to one year. After one year, emeritus maintainers revert back to being normal members with no voting rights. 
+
+Maintainers contribute to the parts of the project they are responsible for by:
+
+- Successfully merging pull requests 
+- Triaging issues or pull requests
+- Closing issues or pull requests
+
 ### Responsibilities and privileges
 
 The following apply to the part of the codebase for which one would be a maintainer:
@@ -197,15 +215,6 @@ The following apply to the part of the codebase for which one would be a maintai
 * May approve code contributions for acceptance
 
 * Maintainers in an area get a stronger voice when a working group needs to make decisions.
-
-### Emeritus status
-
-If a maintainer becomes inactive in the project for an extended period of time, the individual will transition to being a
-emeritus maintainer. Emeritus maintainers lose their ability to approve code contributions, but retain their voting rights
-for up to one year. After one year, emeritus maintainers revert back to being normal members. 
-
-A maintainer becomes an emeritus maintainer if the individual hasn't contributed a PR to the project in 3 months. An emeritus 
-maintainer can regain full maintainer status by submitting 5 PRs to the project.
 
 ## Triager
 
