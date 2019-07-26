@@ -1,6 +1,3 @@
-[![CircleCI](https://circleci.com/gh/istio/community.svg?style=svg)](https://circleci.com/gh/istio/community)
-[![Mergify Status](https://gh.mergify.io/badges/istio/community.png?style=cut)](https://mergify.io)
-
 # Istio Community
 
 Welcome to the Istio community!
