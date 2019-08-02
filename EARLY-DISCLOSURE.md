@@ -64,7 +64,7 @@ after joining the list then you will be unsubscribed.
 
 ### Request to join
 
-New membership requests should be emailed to get-early-disclosures@discuss.istio.io
+New membership requests should be emailed to [istio-early-disclosure-requests@googlegroups.com](mailto:istio-early-disclosure-requests@googlegroups.com)
 
 In the body of your email please specify how you qualify and fulfill each
 criterion listed in [Membership criteria](#membership-criteria).
@@ -72,7 +72,7 @@ criterion listed in [Membership criteria](#membership-criteria).
 Here is an example:
 
 ```
-To: get-early-disclosures@discuss.istio.io
+To: istio-early-disclosure-requests@googlegroups.com
 Subject: Seven-Corp Membership to Early Disclosure Mailing List
 
 Below are each criterion and why I think we, Seven-Corp, qualify.
