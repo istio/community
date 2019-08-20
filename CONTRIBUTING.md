@@ -17,6 +17,8 @@ same process and are given the same level of review.
 - [Pull requests](#pull-requests)
 - [Issues](#issues)
 
+You can find additional contributor material on the [Istio Wiki](https://github.com/istio/istio/wiki)
+
 ## Working groups
 
 The Istio community is organized into a set of [working groups](WORKING-GROUPS.md).
