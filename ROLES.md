@@ -81,7 +81,7 @@ privileges.
         <p>Write permission on the Istio repos.</p>
     </td>
     <td>Appointed by the <a href="./TECH-OVERSIGHT-COMMITTEE.md">technical oversight committee</a> as documented in <a href="./WORKING-GROUP-PROCESSES.md">Istio Working Group Processes</a></td>
-    <td>Like a maintainer
+    <td>Like a maintainer</td>
   </tr>
 
   <tr>
@@ -169,7 +169,7 @@ Members who frequently contribute code are expected to proactively perform code 
 Maintainers review and approve code contributions. While code review is focused on code quality and correctness,
 approval is focused on holistic acceptance of a contribution including: backwards / forwards compatibility, adhering to API and flag
 conventions, subtle performance and correctness issues, interactions with other parts of the system, etc. Maintainer status is scoped to a
-part of the codebase and is reflected in a GitHub CODEOWNERS file or a prow OWNERS file.
+part of the codebase and is reflected in a CODEOWNERS file.
 
 ### Requirements
 
@@ -214,7 +214,7 @@ The following apply to the part of the codebase for which one would be a maintai
 
 * May approve code contributions for acceptance
 
-* Maintainers in an area get a stronger voice when a working group needs to make decisions.
+* Maintainers in an area get a vote when a working group needs to make decisions.
 
 ## Triager
 
@@ -258,7 +258,7 @@ Establishing the leads for a new working group:
 
 * Originally authored or contributed major functionality to an area
 
-* A maintainer in the top-level OWNERS file for the group’s code
+* A maintainer in the CODEOWNERS file for the group’s code
 
 * Maintainer for some part of the codebase for at least 3 months
 
@@ -275,6 +275,8 @@ Establishing the leads for a new working group:
 The following apply to the area / component for which one would be an owner.
 
 * Run their working group as outlined in the [Working Group Processes](WORKING-GROUP-PROCESSES.md) document.
+
+* Strive for consensus on technical matters within the working group.
 
 * Design/proposal approval authority over the area / component, though escalation to the <a href="./TECH-OVERSIGHT-COMMITTEE.md">technical oversight committee</a> is possible
 
