@@ -57,7 +57,7 @@ Anybody can access the team drive for reading and commenting. To get access simp
 Once you've done that, head to [Team Drive](https://drive.google.com/corp/drive/u/0/folders/0AIS5p3eW9BCtUk9PVA) and
 behold all the docs.
 
-We have a common [design document template](https://docs.google.com/document/d/1cpolPNH_RtSobUjTkXyyxsCJT7EKD8fGiN2TgYLeJu8/edit#heading=h.7zgnj8bwqfld).
+We have a common [design document template](https://docs.google.com/document/d/16FLQK8uhhic1ovKnnOG3OXJjFKs2aHnSmbximidpKwM/edit).
 Just open the template and select "Make Copy" from the File menu in order to bootstrap your document.
 
 ## Contributing a feature
