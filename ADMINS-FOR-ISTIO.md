@@ -8,7 +8,7 @@ access.
 |-------|-------------------
 | [GitHub](https://github.com/istio) | [geeknoid](https://github.com/geeknoid), [rshriram](https://github.com/rshriram), [linsun](https://github.com/linsun), [louiscryan](https://github.com/louiscryan), [smawson](https://github.com/smawson)
 | [Slack](https://istio.slack.com) | [geeknoid](https://github.com/geeknoid), [linsun](https://github.com/linsun), [louiscryan](https://github.com/louiscryan), [smawson](https://github.com/smawson), [dcberg](https://github.com/dcberg)
-| [discuss.istio.io](https://discuss.istio.io) | [geeknoid](https://github.com/geeknoid), [linsun](https://github.com/linsun), [oaktowner](https://github.com/oaktowner)
+| [discuss.istio.io](https://discuss.istio.io) | [geeknoid](https://github.com/geeknoid), [linsun](https://github.com/linsun), [oaktowner](https://github.com/oaktowner), [rshriram](https://github.com/rshriram)
 | [Google Groups](https://googlegroups.com) | [geeknoid](https://github.com/geeknoid)
 | [Team Drive](https://drive.google.com/corp/drive/u/0/folders/0AIS5p3eW9BCtUk9PVA) | [geeknoid](https://github.com/geeknoid), [rshriram](https://github.com/rshriram), [linsun](https://github.com/linsun), [louiscryan](https://github.com/louiscryan), [smawson](https://github.com/smawson), [jasminejaksic](https://github.com/jasminejaksic)
 | Domain registration for *istio.io | [geeknoid](https://github.com/geeknoid), [ayj](https://github.com/ayj)
@@ -22,5 +22,5 @@ access.
 | [Community Event Calendar](https://calendar.google.com/calendar/embed?src=i10ogf58krfbrsjai5qi16g4do%40group.calendar.google.com&ctz=America%2FLos_Angeles) | [oaktowner](https://github.com/oaktowner)
 | [CircleCi](https://circleci.com) | [geeknoid](https://github.com/geeknoid), [rshriram](https://github.com/rshriram), [linsun](https://github.com/linsun), [louiscryan](https://github.com/louiscryan), [smawson](https://github.com/smawson)
 | [Docker Hub](https://hub.docker.com) | [rshriram](https://github.com/rshriram), [costinm](https://github.com/costinm), [mandarjog](https://github.com/mandarjog), [vadimeisenbergibm](https://github.com/vadimeisenbergibm), [frankbu](https://github.com/frankbu)
-| [Prow](https://prow.istio.io) | [utka](https://github.com/utka)
+| [Prow](https://prow.istio.io) | [fejta](https://github.com/fetja),  [cjwagner](https://github.com/cjwagner)
 | [YouTube](https://www.youtube.com/channel/UC-zVlo1F3mUbExQ96fABWcQ) | [geeknoid](https://github.com/geeknoid)
