@@ -57,8 +57,16 @@ Anybody can access the team drive for reading and commenting. To get access simp
 Once you've done that, head to [Team Drive](https://drive.google.com/corp/drive/u/0/folders/0AIS5p3eW9BCtUk9PVA) and
 behold all the docs.
 
-We have a common [design document template](https://docs.google.com/document/d/16FLQK8uhhic1ovKnnOG3OXJjFKs2aHnSmbximidpKwM/edit).
-Just open the template and select "Make Copy" from the File menu in order to bootstrap your document.
+When documenting a new design, we recommend a 2-step approach:
+
+1. Use the short-form
+[RFC template](https://docs.google.com/document/d/1ewJoCcw5-04crH-M0xw4zFxz1cfwVCPnNyW4K3m4Yyc/template/preview)
+to outline your ideas and get early feedback.
+1. Once you have received sufficient feedback and consensus, you may use the longer-form
+[design doc template](https://docs.google.com/document/d/16FLQK8uhhic1ovKnnOG3OXJjFKs2aHnSmbximidpKwM/template/preview)
+to specify and discuss your design in more details.
+
+To use either template, open the template and select "Use Template" in order to bootstrap your document.
 
 ## Contributing a feature
 
