@@ -60,10 +60,10 @@ behold all the docs.
 When documenting a new design, we recommend a 2-step approach:
 
 1. Use the short-form
-["green doc" design document template](https://docs.google.com/document/d/1ewJoCcw5-04crH-M0xw4zFxz1cfwVCPnNyW4K3m4Yyc/template/preview)
+[RFC template](https://docs.google.com/document/d/1ewJoCcw5-04crH-M0xw4zFxz1cfwVCPnNyW4K3m4Yyc/template/preview)
 to outline your ideas and get early feedback.
 1. Once you have received sufficient feedback and consensus, you may use the longer-form
-["blue doc" design doc template](https://docs.google.com/document/d/16FLQK8uhhic1ovKnnOG3OXJjFKs2aHnSmbximidpKwM/template/preview)
+[design doc template](https://docs.google.com/document/d/16FLQK8uhhic1ovKnnOG3OXJjFKs2aHnSmbximidpKwM/template/preview)
 to specify and discuss your design in more details.
 
 To use either template, open the template and select "Use Template" in order to bootstrap your document.
