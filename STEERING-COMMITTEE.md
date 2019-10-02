@@ -71,4 +71,7 @@ We strive to find a path to consensus. Decisions are made in meetings when a quo
 
 ## Getting in touch
 
-If you'd like to reach out to the committee, please drop a note to [steering@discuss.istio.io](mailto:steering@discuss.istio.io).
+If you'd like to reach out to the committee please drop a note to
+[steering@discuss.istio.io](mailto:steering@discuss.istio.io) or contact any
+of the individuals listed above on [discuss.istio.io](https://discuss.istio.io)
+or on Github.

@@ -16,6 +16,7 @@ Other Documents
 - [Working Groups](WORKING-GROUPS.md) - describes our various working groups
 - [Working Group Processes](WORKING-GROUP-PROCESSES.md) - describes how working groups operate
 - [Technical Oversight Committee](TECH-OVERSIGHT-COMMITTEE.md) - describes our technical oversight committee
+- [Steering Committee](STEERING-COMMITTEE.md) - describes our steering committee
 - [Community Roles](ROLES.md) - describes the roles individuals can assume within the Istio community
 - [Onboarding Technologies to Istio](ONBOARDING-TECH-TO-ISTIO.md) - how we work to onboard new technologies to the Istio project
 - [Feature Lifecycle](FEATURE-LIFECYCLE.md) - requirements for features to be labeled Alpha, Beta or Stable
@@ -34,7 +35,6 @@ Mesos, etc.
 Visit [istio.io](https://istio.io) for in-depth information about using Istio.
 
 ## Istio authors
-
 Istio is an open source project with an active development community. The project was started
 by teams from Google and IBM, in partnership with the Envoy team at Lyft.
 

@@ -22,13 +22,17 @@ You can find additional contributor material on the [Istio Wiki](https://github.
 ## Working groups
 
 The Istio community is organized into a set of [working groups](WORKING-GROUPS.md).
-Any contribution to Istio should be started by first engaging with the appropriate working group.
+Any contribution to Istio should be started by first engaging with the
+appropriate working group.
 
 ## Code of conduct
 
 All members of the Istio community must abide by the
-[CNCF Code of Conduct](https://github.com/cncf/foundation/blob/master/code-of-conduct.md).
-Only by respecting each other can we develop a productive, collaborative community.
+[Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/1/4/code-of-conduct).
+Only by respecting each other can we develop a productive, collaborative
+community. If you would like to report a violation of the code of contact,
+please contact the [Steering committee](STEERING-COMMITTEE.md) (or any member
+of that committee).
 
 ## Team values
 
@@ -37,7 +41,8 @@ productivity and inter-personal interactions.
 
 ## Contributor license agreements
 
-We'd love to accept your contributions! But before we can take them, you will have
+We'd love to accept your contributions! But before we can take them, you will
+have 
 to fill out the [Google CLA](https://cla.developers.google.com).
 
 Once you are CLA'ed, we'll be able to accept your pull requests. This is
