@@ -61,13 +61,12 @@ Each working group has one or more leads which coordinate the activities of the 
 &nbsp; | [Joshua Blatt](https://github.com/duderino) | Google | Test and Release
 <img width="30px" src="https://avatars0.githubusercontent.com/u/2752495?s=400&v=4"> | [Frank Budinsky](https://github.com/frankbu) | IBM | Docs
 &nbsp; | [Andra Cismaru](https://github.com/andraxylia) | Google | Networking
-<img width="30px" src="https://avatars1.githubusercontent.com/u/5375600?s=400&v=4"> | [Spike Curtis](https://github.com/spikecurtis) | Tigera | Security
 <img width="30px" src="https://avatars0.githubusercontent.com/u/755849?s=400&v=4"> | [Steven Dake](https://github.com/sdake) | IBM | Environments
 <img width="30px" src="https://avatars0.githubusercontent.com/u/13684010?s=400&v=4"> | [Surya V Duggirala](https://github.com/suryadu) | IBM | Performance and Scalability
-<img width="30px" src="https://avatars2.githubusercontent.com/u/17071139?s=400&v=4"> | [Oz Evren](https://github.com/ozevren) | Google | Config
+<img width="30px" src="https://avatars1.githubusercontent.com/u/623453?s=400&v=4"> | [John Howard](https://github.com/howardjohn) | Google | Environments
 &nbsp; | [Mandar Jog](https://github.com/mandarjog) | Google | Policies and Telemetry, Performance and Scalability
 <img width="30px" src="https://avatars0.githubusercontent.com/u/24381542?s=400&v=4"> | [Tao Li](https://github.com/wattli) | Google | Security
-&nbsp; | [Costin Manolache](https://github.com/costinm) | Google | Environments
+&nbsp; | [Martin Ostrowski](https://github.com/ostromart) | Google | Environments
 <img width="30px" src="https://avatars3.githubusercontent.com/u/8202871?s=400&v=4"> | [Shriram Rajagopalan](https://github.com/rshriram) | Tetrate | Networking
 <img width="30px" src="https://avatars2.githubusercontent.com/u/21148125?s=400&v=4"> | [Douglas Reid](https://github.com/douglas-reid) | Google | Policies and Telemetry
 &nbsp; | [Piotr Sikora](https://github.com/piotrsikora) | Google | Networking
@@ -75,6 +74,7 @@ Each working group has one or more leads which coordinate the activities of the 
 <img width="30px" src="https://avatars1.githubusercontent.com/u/1588319?s=400&v=4">  | [Lin Sun](https://github.com/linsun) | IBM | Test and Release
 <img width="30px" src="https://avatars3.githubusercontent.com/u/22780957?s=400&v=4"> | [Martin Taillefer](https://github.com/geeknoid) | Google  | Docs
 &nbsp; | [Limin Wang](https://github.com/liminw) | Google | Security
+&nbsp; | [Lizan Zhou](https://github.com/lizan) | Google | Security
 
 ## Getting in touch
 
