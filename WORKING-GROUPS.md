@@ -44,7 +44,7 @@ meeting schedules:
 * You can download [an ICS file](https://calendar.google.com/calendar/ical/4uhe8fi8sf1e3tvmvh6vrq2dog%40group.calendar.google.com/public/basic.ics)
 to import the working group meetings into your favorite iCal client.
 
-If you have a Google acount, you can also:
+If you have a Google account, you can also:
 
 * Link the [working group event calendar](https://calendar.google.com/calendar?cid=NHVoZThmaThzZjFlM3R2bXZoNnZycTJkb2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 directly to your account.
@@ -56,25 +56,27 @@ automatically invite you to all of the working group meetings on your primary Go
 
 Each working group has one or more leads which coordinate the activities of the group:
 
-&nbsp; | Name | Company | Groups
--------|------|---------|----
-&nbsp; | [Joshua Blatt](https://github.com/duderino) | Google | Test and Release
-<img width="30px" src="https://avatars0.githubusercontent.com/u/2752495?s=400&v=4"> | [Frank Budinsky](https://github.com/frankbu) | IBM | Docs
-&nbsp; | [Andra Cismaru](https://github.com/andraxylia) | Google | Networking
-<img width="30px" src="https://avatars0.githubusercontent.com/u/755849?s=400&v=4"> | [Steven Dake](https://github.com/sdake) | IBM | Environments
-<img width="30px" src="https://avatars0.githubusercontent.com/u/13684010?s=400&v=4"> | [Surya V Duggirala](https://github.com/suryadu) | IBM | Performance and Scalability
-<img width="30px" src="https://avatars1.githubusercontent.com/u/623453?s=400&v=4"> | [John Howard](https://github.com/howardjohn) | Google | Environments
-&nbsp; | [Mandar Jog](https://github.com/mandarjog) | Google | Policies and Telemetry, Performance and Scalability
-<img width="30px" src="https://avatars0.githubusercontent.com/u/24381542?s=400&v=4"> | [Tao Li](https://github.com/wattli) | Google | Security
-&nbsp; | [Martin Ostrowski](https://github.com/ostromart) | Google | Environments
-<img width="30px" src="https://avatars3.githubusercontent.com/u/8202871?s=400&v=4"> | [Shriram Rajagopalan](https://github.com/rshriram) | Tetrate | Networking
-<img width="30px" src="https://avatars2.githubusercontent.com/u/21148125?s=400&v=4"> | [Douglas Reid](https://github.com/douglas-reid) | Google | Policies and Telemetry
-&nbsp; | [Piotr Sikora](https://github.com/piotrsikora) | Google | Networking
-<img width="30px" src="https://avatars3.githubusercontent.com/u/3237651?s=400&v=4"> | [Ed Snible](https://github.com/esnible) | IBM  | User Experience
-<img width="30px" src="https://avatars1.githubusercontent.com/u/1588319?s=400&v=4">  | [Lin Sun](https://github.com/linsun) | IBM | Test and Release
-<img width="30px" src="https://avatars3.githubusercontent.com/u/22780957?s=400&v=4"> | [Martin Taillefer](https://github.com/geeknoid) | Google  | Docs
-&nbsp; | [Limin Wang](https://github.com/liminw) | Google | Security
-&nbsp; | [Lizan Zhou](https://github.com/lizan) | Google | Security
+&nbsp;                                                                               | Name                                               | Company | Groups
+-------------------------------------------------------------------------------------|----------------------------------------------------|---------|-------
+<img width="30px" src="https://avatars3.githubusercontent.com/u/8484260?s=400&v=4">  | [Brian Avery](https://github.com/brian-avery)      | Red Hat | Test and Release
+&nbsp;                                                                               | [Joshua Blatt](https://github.com/duderino)        | Google  | Networking
+<img width="30px" src="https://avatars0.githubusercontent.com/u/2752495?s=400&v=4">  | [Frank Budinsky](https://github.com/frankbu)       | IBM     | Docs
+<img width="30px" src="https://avatars0.githubusercontent.com/u/755849?s=400&v=4">   | [Steven Dake](https://github.com/sdake)            | IBM     | Environments
+<img width="30px" src="https://avatars0.githubusercontent.com/u/13684010?s=400&v=4"> | [Surya V Duggirala](https://github.com/suryadu)    | IBM     | Performance and Scalability
+<img width="30px" src="https://avatars1.githubusercontent.com/u/623453?s=400&v=4">   | [John Howard](https://github.com/howardjohn)       | Google  | Environments
+&nbsp;                                                                               | [Mandar Jog](https://github.com/mandarjog)         | Google  | Policies and Telemetry, Performance and Scalability
+<img width="30px" src="https://avatars0.githubusercontent.com/u/24381542?s=400&v=4"> | [Tao Li](https://github.com/wattli)                | Google  | Security
+&nbsp;                                                                               | [Martin Ostrowski](https://github.com/ostromart)   | Google  | Environments
+<img width="30px" src="https://avatars2.githubusercontent.com/u/4336228?s=400&v=4">  | [Francois Pesce](https://github.com/fpesce)        | Google  | Test and Release
+<img width="30px" src="https://avatars3.githubusercontent.com/u/8202871?s=400&v=4">  | [Shriram Rajagopalan](https://github.com/rshriram) | Tetrate | Networking
+<img width="30px" src="https://avatars2.githubusercontent.com/u/21148125?s=400&v=4"> | [Douglas Reid](https://github.com/douglas-reid)    | Google  | Policies and Telemetry
+&nbsp;                                                                               | [Piotr Sikora](https://github.com/piotrsikora)     | Google  | Networking
+<img width="30px" src="https://avatars3.githubusercontent.com/u/3237651?s=400&v=4">  | [Ed Snible](https://github.com/esnible)            | IBM     | User Experience
+<img width="30px" src="https://avatars1.githubusercontent.com/u/1588319?s=400&v=4">  | [Lin Sun](https://github.com/linsun)               | IBM     | Test and Release
+<img width="30px" src="https://avatars3.githubusercontent.com/u/22780957?s=400&v=4"> | [Martin Taillefer](https://github.com/geeknoid)    | Google  | Docs
+&nbsp;                                                                               | [Limin Wang](https://github.com/liminw)            | Google  | Security
+<img width="30px" src="https://avatars3.githubusercontent.com/u/116378?s=400&v=4">   | [Jason Young](https://github.com/ayj)              | Google  | Config
+&nbsp;                                                                               | [Lizan Zhou](https://github.com/lizan)             | Google  | Security
 
 ## Getting in touch
 
