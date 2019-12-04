@@ -73,7 +73,6 @@ Each working group has one or more leads which coordinate the activities of the 
 &nbsp;                                                                               | [Piotr Sikora](https://github.com/piotrsikora)     | Google  | Networking - Data Plane
 <img width="30px" src="https://avatars3.githubusercontent.com/u/3237651?s=400&v=4">  | [Ed Snible](https://github.com/esnible)            | IBM     | User Experience
 <img width="30px" src="https://avatars1.githubusercontent.com/u/1588319?s=400&v=4">  | [Lin Sun](https://github.com/linsun)               | IBM     | Test and Release
-<img width="30px" src="https://avatars3.githubusercontent.com/u/22780957?s=400&v=4"> | [Martin Taillefer](https://github.com/geeknoid)    | Google  | Docs
 &nbsp;                                                                               | [Limin Wang](https://github.com/liminw)            | Google  | Security
 <img width="30px" src="https://avatars3.githubusercontent.com/u/116378?s=400&v=4">   | [Jason Young](https://github.com/ayj)              | Google  | Config
 &nbsp;                                                                               | [Lizan Zhou](https://github.com/lizan)             | Tetrate  | Networking - Data Plane
