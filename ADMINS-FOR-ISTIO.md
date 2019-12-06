@@ -6,10 +6,10 @@ access.
 
 | Service | Purpose | Responsible Adults
 |---------|---------|-------------------
-| [CircleCi](https://circleci.com) | Secondary CI system | [geeknoid](https://github.com/geeknoid), [rshriram](https://github.com/rshriram), [linsun](https://github.com/linsun), [louiscryan](https://github.com/louiscryan), [smawson](https://github.com/smawson)
+| [CircleCi](https://circleci.com) | Secondary CI system | [rshriram](https://github.com/rshriram), [linsun](https://github.com/linsun), [louiscryan](https://github.com/louiscryan), [smawson](https://github.com/smawson)
 | [Discourse](https://discuss.istio.io) | Discussion forums | [askmeegs](https://github.com/askmeegs), [linsun](https://github.com/linsun), [oaktowner](https://github.com/oaktowner), [rshriram](https://github.com/rshriram)
 | [Docker Hub](https://hub.docker.com) | Container registry | [rshriram](https://github.com/rshriram), [costinm](https://github.com/costinm), [mandarjog](https://github.com/mandarjog), [vadimeisenbergibm](https://github.com/vadimeisenbergibm), [frankbu](https://github.com/frankbu)
-| [GitHub](https://github.com/istio) | Source control, bug tracking | [geeknoid](https://github.com/geeknoid), [rshriram](https://github.com/rshriram), [linsun](https://github.com/linsun), [louiscryan](https://github.com/louiscryan), [smawson](https://github.com/smawson)
+| [GitHub](https://github.com/istio) | Source control, bug tracking | [howardjohn](https://github.com/howardjohn), [rshriram](https://github.com/rshriram), [linsun](https://github.com/linsun), [louiscryan](https://github.com/louiscryan), [smawson](https://github.com/smawson)
 | [Google Analytics](https://analytics.google.com/analytics/web/) | Analytics for *istio.io | [jasonall](https://github.com/jasonall)
 | [Google Calendar - Community Events](https://calendar.google.com/calendar/embed?src=i10ogf58krfbrsjai5qi16g4do%40group.calendar.google.com&ctz=America%2FLos_Angeles) | Community event scheduling | [oaktowner](https://github.com/oaktowner)
 | [Google Calendar - Working Groups](https://calendar.google.com/calendar/embed?src=4uhe8fi8sf1e3tvmvh6vrq2dog%40group.calendar.google.com&ctz=America%2FLos_Angeles) | Working group scheduling | All working group leads
