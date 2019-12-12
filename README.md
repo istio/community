@@ -40,7 +40,7 @@ by teams from Google and IBM, in partnership with the Envoy team at Lyft.
 
 ## Community meeting
 
-We have [PUBLIC](https://zoom.us/j/986657835) and [RECORDED](https://www.youtube.com/channel/UC-zVlo1F3mUbExQ96fABWcQ) bi-weekly community meetings every other Thursday at 11am US Pacific Time. Meeting agendas and notes can be accessed in the [working doc](http://bit.ly/istiocommunitymeet).
+We have public and [RECORDED](https://www.youtube.com/channel/UC-zVlo1F3mUbExQ96fABWcQ) bi-weekly community meetings every other Thursday at 11am US Pacific Time. Meeting agendas and notes can be accessed in the [working doc](http://bit.ly/istiocommunitymeet).
 
 This calendar highlights [major Istio community events](https://calendar.google.com/calendar/embed?src=i10ogf58krfbrsjai5qi16g4do%40group.calendar.google.com&ctz=America%2FLos_Angeles)
 
