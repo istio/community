@@ -38,6 +38,7 @@ Seats in Steering are held by a company, not by the individual users. Currently 
 <img width="30px" src="https://avatars1.githubusercontent.com/u/1588319?s=400&v=4">  | Lin Sun | IBM | [linsun](https://github.com/linsun)
 <img width="30px" src="https://avatars3.githubusercontent.com/u/22780957?s=400&v=4"> | Martin Taillefer | Google | [geeknoid](https://github.com/geeknoid)
 <img width="30px" src="https://avatars1.githubusercontent.com/u/5502967?s=400&v=4">  | Ram Vennam | IBM | [rvennam](https://github.com/rvennam)
+&nbsp; | Kevin Conner | Red Hat | [knrc](https://github.com/knrc)
 
 ## General questions
 
