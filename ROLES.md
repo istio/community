@@ -51,10 +51,10 @@ privileges.
       </td>
     </tr>
     <tr>
-      <td><a href="#reviewer">Content Reviewer</a></td>
+      <td><a href="#reviewer">Documentation Reviewer</a></td>
       <td>Content expert helping improve documentation quality.</td>
       <td>
-        Highly experienced content contributor to the Istio documentation.
+        Highly experienced contributor to the Istio documentation.
       </td>
       <td>Like a member, plus:
           <p>Docs Maintainers and WG Leads prioritize approval of the content they reviewed.</p>
@@ -165,9 +165,11 @@ a 180 day period, than that individual may lose membership. On-going contributio
 
 Members who frequently contribute code are expected to proactively perform code reviews for the area that they are active in.
 
-## Content Reviewer
+## Documentation Reviewer
 
-A **Reviewer** is trusted to only approve content that meets the acceptance criteria described in the [contribution guides](https://istio.io/about/contribute/).
+A **Documentation Reviewer**, or just **Reviewer**, is trusted to only approve
+content that meets the acceptance criteria described in the
+[contribution guides](https://istio.io/about/contribute/).
 
 ### Requirements
 
