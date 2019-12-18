@@ -22,94 +22,95 @@ the requirements necessary to join or stay in a given role, and the concrete man
 privileges.
 
 <table>
-  <tr>
-    <td>Role</td>
-    <td>Responsibilities</td>
-    <td>Requirements</td>
-    <td>Privileges</td>
-  </tr>
-
-  <tr>
-    <td><a href="#collaborator">Collaborator</a></td>
-    <td>Casual contributor to the project</td>
-    <td>n/a</td>
-    <td>
-        <p>Outside collaborator of the GitHub Istio organization</p>
-        <p>Can submit PRs</p>
-        <p>Read and commenting permission on the Istio Team drive</p>
-    </td>
-  </tr>
-
-  <tr>
-    <td><a href="#member">Member</a></td>
-    <td>Regular active contributor in the community</td>
-    <td>
-        <p>Has pushed at least one PR to an Istio repository</p>
-    </td>
-    <td>
-        <p>Member of the GitHub Istio organization</p>
-        <p>Edit permission on the Istio Team drive</p>
-        <p>Triage permission on the Istio repos, allowing issues to be manipulated.</p>
-    </td>
-  </tr>
-
-  <tr>
-    <td><a href="#maintainer">Maintainer</a></td>
-    <td>Approve contributions from other members</td>
-    <td>Highly experienced and active reviewer and contributor to an area</td>
-    <td>Like a member, plus:
-        <p>Able to approve code changes in GitHub</p>
-        <p>Voting rights in the context of working group decision-making</p>
-    </td>
-  </tr>
-
-  <tr>
-    <td><a href="#trigger">Triager</a></td>
-    <td>
-        <p>Triage incoming issues, set milestones, set labels</p>
-    </td>
-    <td>Appointed by the <a href="./TECH-OVERSIGHT-COMMITTEE.md">technical oversight committee</a></td>
-    <td>Triage permissions on the Istio repos, allowing issues to be manipulated.</td>
-  </tr>
-
-  <tr>
-    <td><a href="#lead">Lead</a></td>
-    <td>
-        <p>Set priorities for a functional area and approve proposals</p>
-        <p>Triage incoming issues, set milestones, set labels</p>
-        <p>Run their working group</p>
-        <p>Write permission on the Istio repos.</p>
-    </td>
-    <td>Appointed by the <a href="./TECH-OVERSIGHT-COMMITTEE.md">technical oversight committee</a> as documented in <a href="./WORKING-GROUP-PROCESSES.md">Istio Working Group Processes</a></td>
-    <td>Like a maintainer</td>
-  </tr>
-
-  <tr>
-    <td><a href="#administrator">Administrator</a></td>
-    <td>Manage & control permissions</td>
-    <td>Appointed by the <a href="./TECH-OVERSIGHT-COMMITTEE.md">technical oversight committee</a></td>
-    <td>
-        <p>Admin privileges on varous Istio-related resources, as defined in <a href="./ADMINS-FOR-ISTIO.md">ADMINS-FOR-ISTIO</a></p>
-    </td>
-  </tr>
-
-  <tr>
-    <td><a href="#release-manager">Release manager</a></td>
-    <td>Sheperd a release through to general availability</td>
-    <td>Appointed by the <a href="./TECH-OVERSIGHT-COMMITTEE.md">technical oversight committee</a></td>
-    <td>Admin privilege over the GitHub repos</td>
-  </tr>
-
-  <tr>
-    <td><a href="#sponsor">Sponsor</a></td>
-    <td>Vouch for another GitHub user in order to let the user get more privilege within the project</td>
-    <td>
-        <p>Must have close interactions with the user</p>
-    </td>
-    <td>n/a</td>
-  </tr>
-
-</table>
+    <tr>
+      <td>Role</td>
+      <td>Responsibilities</td>
+      <td>Requirements</td>
+      <td>Privileges</td>
+    </tr>
+    <tr>
+      <td><a href="#collaborator">Collaborator</a></td>
+      <td>Casual contributor to the project</td>
+      <td>n/a</td>
+      <td>
+          <p>Outside collaborator of the GitHub Istio organization</p>
+          <p>Can submit PRs</p>
+          <p>Read and commenting permission on the Istio Team drive</p>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="#member">Member</a></td>
+      <td>Regular active contributor in the community</td>
+      <td>
+          <p>Has pushed at least one PR to an Istio repository</p>
+      </td>
+      <td>
+          <p>Member of the GitHub Istio organization</p>
+          <p>Edit permission on the Istio Team drive</p>
+          <p>Triage permission on the Istio repos, allowing issues to be manipulated.</p>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="#reviewer">Content Reviewer</a></td>
+      <td>Content expert helping improve documentation quality.</td>
+      <td>
+        Highly experienced content contributor to the Istio documentation.
+      </td>
+      <td>Like a member, plus:
+          <p>Docs Maintainers and WG Leads prioritize approval of the content they reviewed.</p>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="#maintainer">Maintainer</a></td>
+      <td>Approve contributions from other members</td>
+      <td>Highly experienced and active reviewer and contributor to an area</td>
+      <td>Like a member, plus:
+          <p>Able to approve code changes in GitHub</p>
+          <p>Voting rights in the context of working group decision-making</p>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="#trigger">Triager</a></td>
+      <td>
+          <p>Triage incoming issues, set milestones, set labels</p>
+      </td>
+      <td>Appointed by the <a href="./TECH-OVERSIGHT-COMMITTEE.md">technical oversight committee</a></td>
+      <td>Triage permissions on the Istio repos, allowing issues to be manipulated.</td>
+    </tr>
+    <tr>
+      <td><a href="#lead">Lead</a></td>
+      <td>
+          <p>Set priorities for a functional area and approve proposals</p>
+          <p>Triage incoming issues, set milestones, set labels</p>
+          <p>Run their working group</p>
+          <p>Write permission on the Istio repos.</p>
+      </td>
+      <td>Appointed by the <a href="./TECH-OVERSIGHT-COMMITTEE.md">technical oversight committee</a> as documented in <a href="./WORKING-GROUP-PROCESSES.md">Istio Working Group Processes</a></td>
+      <td>Like a maintainer</td>
+    </tr>
+    <tr>
+      <td><a href="#administrator">Administrator</a></td>
+      <td>Manage & control permissions</td>
+      <td>Appointed by the <a href="./TECH-OVERSIGHT-COMMITTEE.md">technical oversight committee</a></td>
+      <td>
+          <p>Admin privileges on varous Istio-related resources, as defined in <a href="./ADMINS-FOR-ISTIO.md">ADMINS-FOR-ISTIO</a></p>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="#release-manager">Release manager</a></td>
+      <td>Sheperd a release through to general availability</td>
+      <td>Appointed by the <a href="./TECH-OVERSIGHT-COMMITTEE.md">technical oversight committee</a></td>
+      <td>Admin privilege over the GitHub repos</td>
+    </tr>
+    <tr>
+      <td><a href="#sponsor">Sponsor</a></td>
+      <td>Vouch for another GitHub user in order to let the user get more privilege within the project</td>
+      <td>
+          <p>Must have close interactions with the user</p>
+      </td>
+      <td>n/a</td>
+    </tr>
+  </table>
 
 ## Collaborator
 
@@ -164,6 +165,45 @@ a 180 day period, than that individual may lose membership. On-going contributio
 
 Members who frequently contribute code are expected to proactively perform code reviews for the area that they are active in.
 
+## Content Reviewer
+
+A **Reviewer** is trusted to only approve content that meets the acceptance criteria described in the [contribution guides](https://istio.io/about/contribute/).
+
+### Requirements
+
+To become a **Reviewer**, contributors must meet the following **requirements**:
+
+* Be a **Member** of the Istio community.
+* Perform 5 substantial contributions to the `istio.io` repo. Substantial
+  contributions include the following examples:
+
+    * New content
+    * Content reviews
+    * Content improvements
+
+* Demonstrate a solid commitment to documentation quality and use of our style
+  guide.
+* Be sponsored by a Istio Maintainer or WG Lead.
+
+### Responsibilities
+
+A **Reviewer** would have the following **responsibilities** in Istio:
+
+* Review PRs in `istio/istio.io` following the process described in the
+  [How to review content](https://istio.io/about/contribute/github/#review) guide.
+* Ensure the relevant technical Working Group is added as a reviewer and ensure
+  a WG lead or maintainer has approved the PR.
+
+### Privileges
+
+A **Reviewer** would have the following **privileges**:
+
+* Content approved by a **Reviewer** gets prioritized by Maintainers and WG Leads.
+* Reviewers can place a `pre-reviewed` label to notify the Docs WG Leads and
+  Maintainers to expedite publication of the pre-reviewed content.
+
+Only Docs Maintainers and WG Leads can merge content into the `istio/istio.io` master.  
+
 ## Maintainer
 
 Maintainers review and approve code contributions. While code review is focused on code quality and correctness,
@@ -188,11 +228,11 @@ code, performing reviews, triaging issues, etc.
 
 If a maintainer becomes inactive in the project for an extended period of time, the individual will transition to being an
 emeritus maintainer. Emeritus maintainers lose their ability to approve code contributions, but retain their voting rights
-for up to one year. After one year, emeritus maintainers revert back to being normal members with no voting rights. 
+for up to one year. After one year, emeritus maintainers revert back to being normal members with no voting rights.
 
 Maintainers contribute to the parts of the project they are responsible for by:
 
-- Successfully merging pull requests 
+- Successfully merging pull requests
 - Triaging issues or pull requests
 - Closing issues or pull requests
 
