@@ -167,7 +167,7 @@ Members who frequently contribute code are expected to proactively perform code 
 
 ## Documentation Reviewer
 
-A **Documentation Reviewer**, or just **Reviewer**, is trusted to only approve
+A **Documentation Reviewer** is trusted to only approve
 content that meets the acceptance criteria described in the
 [contribution guides](https://istio.io/about/contribute/).
 
