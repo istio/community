@@ -6,6 +6,7 @@ admins:
 - google-admin
 - googlebot
 - howardjohn
+- istio-testing
 - linsun
 - louiscryan
 - rshriram
@@ -83,7 +84,6 @@ members:
 - islinwb
 - istio-policy-bot
 - istio-release-robot
-- istio-testing
 - jasminejaksic
 - Jason-ZW
 - jasonall
@@ -219,183 +219,183 @@ teams:
   Developers:
     description: Folks actively working on the Istio code base.
     maintainers:
-    - howardjohn
-    - smawson
-    - linsun
     - dcberg
     - google-admin
     - googlebot
-    - rshriram
-    - louiscryan
-    members:
-    - dmitri-d
-    - vii
-    - christian-posta
-    - cwocwo
-    - costinm
-    - myidpt
-    - ayj
-    - dwradcliffe
-    - jwendell
-    - rlenglet
-    - tvieira
-    - objectiser
-    - stewartbutler
-    - PiotrSikora
-    - munnerz
-    - lambdai
-    - jplevyak
-    - loewenstein
-    - holgero
-    - zhongfox
-    - davidebbo
-    - swade1987
-    - zachgersh
-    - knrc
-    - listx
-    - sdake
-    - hex108
-    - theganyo
-    - selmanj
-    - mandarjog
-    - therealmitchconnors
-    - rcernich
-    - cgilmour
-    - fejta
-    - lizan
-    - duderino
-    - icygalz
-    - zhaohuabing
-    - chases2
-    - adammil2000
-    - mangchiandjjoe
-    - XanderStrike
-    - martonsereg
-    - elfinhe
-    - pipejakob
-    - incfly
-    - venilnoronha
-    - waret
-    - ChenLingPeng
-    - utako
-    - ZackButcher
-    - jmazzitelli
-    - dreadbird
-    - yangminzhu
-    - abhide
-    - gbaufake
-    - frankbu
-    - pmichali
-    - rcurran1
-    - baodongli
-    - esnible
-    - bochunz
-    - edussx
-    - rootsongjc
-    - supereagle
-    - yxue
-    - dgn
-    - tiswanso
-    - ldemailly
-    - loverto
-    - rosenhouse
-    - zerobfd
-    - fpesce
-    - gyliu513
-    - cmluciano
-    - m1093782566
-    - cjwagner
-    - spikecurtis
-    - lookuptable
-    - morvencao
-    - rvennam
-    - john-a-joyce
-    - draveness
-    - nmittler
-    - mbanikazemi
-    - idouba
-    - fleeto
-    - oaktowner
-    - jasonwzm
-    - leecalcote
-    - clyang82
-    - doonhammer
-    - huang195
-    - knightXun
-    - irisdingbj
-    - brian-avery
-    - SataQiu
-    - kyessenov
-    - x15zhang
-    - clarketm
-    - rlenferink
-    - rcaballeromx
-    - ruigulala
-    - Nino-K
-    - ericvn
-    - pitlv2109
-    - richardwxn
-    - andraxylia
-    - johnma14
-    - jsPlachetka
-    - lichuqiang
-    - nrjpoddar
-    - waynz0r
-    - hwdef
-    - kramerul
-    - hzxuzhonghu
-    - elevran
-    - c0d1ngm0nk3y
-    - suryadu
-    - liamawhite
-    - jsenon
-    - wenchenglu
-    - leowucn
-    - sbezverk
-    - vadimeisenbergibm
-    - ramaraochavali
-    - caohe
-    - tanjunchen
-    - GregHanson
-    - liminw
-    - xieydd
-    - saumoh
-    - douglas-reid
-    - Mr-Linus
-    - tangiel
-    - zehuaiWANG
-    - nmnellis
-    - withlin
-    - islinwb
-    - axel7born
-    - wattli
-    - phil9909
-    - mrshengzyzy
-    - diemtvu
+    - howardjohn
     - istio-testing
-    - kimikowang
-    - ymesika
-    - JimmyCYJ
-    - fisherxu
-    - cesarlbf
-    - carolynhu
-    - ostromart
-    - stewart-yu
-    - ChangyuWang
-    - lei-tang
-    - mattdelco
-    - quanjielin
-    - bianpengyuan
-    - munrodg
-    - gargnupur
-    - ibm-jason
-    - yuxiaobo96
+    - linsun
+    - louiscryan
+    - rshriram
+    - smawson
+    members:
     - aattuluri
-    - jkbschmid
-    - sushicw
-    - philrud
-    - istio-policy-bot
+    - abhide
+    - adammil2000
+    - andraxylia
+    - axel7born
+    - ayj
+    - baodongli
+    - bianpengyuan
     - Biwwie
+    - bochunz
+    - brian-avery
+    - c0d1ngm0nk3y
+    - caohe
+    - carolynhu
+    - cesarlbf
+    - cgilmour
+    - ChangyuWang
+    - chases2
+    - ChenLingPeng
+    - christian-posta
+    - cjwagner
+    - clarketm
+    - clyang82
+    - cmluciano
+    - costinm
+    - cwocwo
+    - davidebbo
+    - dgn
+    - diemtvu
+    - dmitri-d
+    - doonhammer
+    - douglas-reid
+    - draveness
+    - dreadbird
+    - duderino
+    - dwradcliffe
+    - edussx
+    - elevran
+    - elfinhe
+    - ericvn
+    - esnible
+    - fejta
+    - fisherxu
+    - fleeto
+    - fpesce
+    - frankbu
+    - gargnupur
+    - gbaufake
+    - GregHanson
+    - gyliu513
+    - hex108
+    - holgero
+    - huang195
+    - hwdef
+    - hzxuzhonghu
+    - ibm-jason
+    - icygalz
+    - idouba
+    - incfly
+    - irisdingbj
+    - islinwb
+    - istio-policy-bot
+    - jasonwzm
+    - JimmyCYJ
+    - jkbschmid
+    - jmazzitelli
+    - john-a-joyce
+    - johnma14
+    - jplevyak
+    - jsenon
+    - jsPlachetka
+    - jwendell
+    - kimikowang
+    - knightXun
+    - knrc
+    - kramerul
+    - kyessenov
+    - lambdai
+    - ldemailly
+    - leecalcote
+    - lei-tang
+    - leowucn
+    - liamawhite
+    - lichuqiang
+    - liminw
+    - listx
+    - lizan
+    - loewenstein
+    - lookuptable
+    - loverto
+    - m1093782566
+    - mandarjog
+    - mangchiandjjoe
+    - martonsereg
+    - mattdelco
+    - mbanikazemi
+    - morvencao
+    - Mr-Linus
+    - mrshengzyzy
+    - munnerz
+    - munrodg
+    - myidpt
+    - Nino-K
+    - nmittler
+    - nmnellis
+    - nrjpoddar
+    - oaktowner
+    - objectiser
+    - ostromart
+    - phil9909
+    - philrud
+    - PiotrSikora
+    - pipejakob
+    - pitlv2109
+    - pmichali
+    - quanjielin
+    - ramaraochavali
+    - rcaballeromx
+    - rcernich
+    - rcurran1
+    - richardwxn
+    - rlenferink
+    - rlenglet
+    - rootsongjc
+    - rosenhouse
+    - ruigulala
+    - rvennam
+    - SataQiu
+    - saumoh
+    - sbezverk
+    - sdake
+    - selmanj
+    - spikecurtis
+    - stewart-yu
+    - stewartbutler
+    - supereagle
+    - suryadu
+    - sushicw
+    - swade1987
+    - tangiel
+    - tanjunchen
+    - theganyo
+    - therealmitchconnors
+    - tiswanso
+    - tvieira
+    - utako
+    - vadimeisenbergibm
+    - venilnoronha
+    - vii
+    - waret
+    - wattli
+    - waynz0r
+    - wenchenglu
+    - withlin
+    - x15zhang
+    - XanderStrike
+    - xieydd
+    - yangminzhu
+    - ymesika
+    - yuxiaobo96
+    - yxue
+    - zachgersh
+    - ZackButcher
+    - zehuaiWANG
+    - zerobfd
+    - zhaohuabing
+    - zhongfox
     privacy: closed
     repos:
       api: write
@@ -418,68 +418,68 @@ teams:
   Maintainers:
     description: Maintainers of the Istio project.
     maintainers:
+    - geeknoid
     - howardjohn
     - linsun
     - rshriram
-    - geeknoid
     members:
-    - costinm
-    - myidpt
-    - ayj
-    - jwendell
-    - rlenglet
-    - PiotrSikora
-    - lambdai
-    - sdake
-    - mandarjog
-    - therealmitchconnors
-    - rcernich
-    - fejta
-    - lizan
-    - duderino
     - adammil2000
+    - andraxylia
+    - ayj
+    - bianpengyuan
+    - brian-avery
+    - clarketm
+    - clyang82
+    - costinm
+    - diemtvu
+    - douglas-reid
+    - duderino
     - elfinhe
+    - ericvn
+    - esnible
+    - fejta
+    - fleeto
+    - fpesce
+    - frankbu
+    - gargnupur
+    - gbaufake
+    - GregHanson
+    - hzxuzhonghu
     - incfly
+    - irisdingbj
+    - jasonwzm
+    - JimmyCYJ
+    - john-a-joyce
+    - jwendell
+    - kyessenov
+    - lambdai
+    - liamawhite
+    - liminw
+    - lizan
+    - loverto
+    - mandarjog
+    - morvencao
+    - myidpt
+    - Nino-K
+    - nmittler
+    - ostromart
+    - PiotrSikora
+    - rcaballeromx
+    - rcernich
+    - richardwxn
+    - rlenglet
+    - rootsongjc
+    - SataQiu
+    - sbezverk
+    - sdake
+    - suryadu
+    - sushicw
+    - therealmitchconnors
+    - tiswanso
+    - vadimeisenbergibm
     - venilnoronha
     - yangminzhu
-    - gbaufake
-    - frankbu
-    - esnible
-    - rootsongjc
     - yxue
-    - tiswanso
-    - loverto
-    - fpesce
-    - morvencao
-    - john-a-joyce
-    - nmittler
-    - fleeto
-    - jasonwzm
-    - clyang82
-    - irisdingbj
-    - brian-avery
-    - SataQiu
-    - kyessenov
-    - clarketm
-    - rcaballeromx
-    - Nino-K
-    - ericvn
-    - richardwxn
-    - andraxylia
-    - hzxuzhonghu
-    - suryadu
-    - liamawhite
-    - sbezverk
-    - vadimeisenbergibm
-    - GregHanson
-    - liminw
-    - douglas-reid
-    - diemtvu
-    - JimmyCYJ
-    - ostromart
-    - bianpengyuan
-    - gargnupur
-    - sushicw
     privacy: closed
     repos:
       api: write
@@ -504,8 +504,8 @@ teams:
         description: Maintainers for the Config working group.
         members:
         - ayj
-        - nmittler
         - jasonwzm
+        - nmittler
         - sushicw
         privacy: closed
         repos:
@@ -531,16 +531,16 @@ teams:
         maintainers:
         - geeknoid
         members:
-        - sdake
         - adammil2000
-        - gbaufake
-        - frankbu
-        - rootsongjc
-        - loverto
-        - fleeto
-        - SataQiu
-        - rcaballeromx
         - ericvn
+        - fleeto
+        - frankbu
+        - gbaufake
+        - loverto
+        - rcaballeromx
+        - rootsongjc
+        - SataQiu
+        - sdake
         privacy: closed
         repos:
           api: write
@@ -564,11 +564,11 @@ teams:
           WG - Docs  Maintainers/English:
             description: Maintainers of the English documentation.
             members:
-            - sdake
             - adammil2000
+            - ericvn
             - frankbu
             - rcaballeromx
-            - ericvn
+            - sdake
             privacy: closed
             repos:
               api: write
@@ -591,9 +591,9 @@ teams:
           WG - Docs Maintainers/Chinese:
             description: Maintainers of the Chinese documentation.
             members:
-            - rootsongjc
-            - loverto
             - fleeto
+            - loverto
+            - rootsongjc
             - SataQiu
             privacy: closed
             repos:
@@ -666,17 +666,17 @@ teams:
         - howardjohn
         - linsun
         members:
-        - costinm
         - ayj
-        - sdake
-        - rcernich
+        - clyang82
+        - costinm
         - elfinhe
+        - irisdingbj
         - morvencao
         - nmittler
-        - clyang82
-        - irisdingbj
-        - richardwxn
         - ostromart
+        - rcernich
+        - richardwxn
+        - sdake
         privacy: closed
         repos:
           api: write
@@ -703,25 +703,25 @@ teams:
         - linsun
         - rshriram
         members:
-        - rlenglet
-        - PiotrSikora
+        - andraxylia
+        - bianpengyuan
+        - duderino
+        - GregHanson
+        - hzxuzhonghu
+        - JimmyCYJ
+        - john-a-joyce
+        - kyessenov
         - lambdai
         - lizan
-        - duderino
+        - Nino-K
+        - nmittler
+        - PiotrSikora
+        - rlenglet
+        - sbezverk
+        - tiswanso
+        - vadimeisenbergibm
         - venilnoronha
         - yxue
-        - tiswanso
-        - john-a-joyce
-        - nmittler
-        - kyessenov
-        - Nino-K
-        - andraxylia
-        - hzxuzhonghu
-        - sbezverk
-        - vadimeisenbergibm
-        - GregHanson
-        - JimmyCYJ
-        - bianpengyuan
         privacy: closed
         repos:
           api: write
@@ -748,15 +748,15 @@ teams:
             - linsun
             - rshriram
             members:
-            - PiotrSikora
+            - bianpengyuan
+            - duderino
+            - JimmyCYJ
+            - kyessenov
             - lambdai
             - lizan
-            - duderino
+            - PiotrSikora
             - venilnoronha
             - yxue
-            - kyessenov
-            - JimmyCYJ
-            - bianpengyuan
             privacy: closed
             repos:
               api: write
@@ -829,11 +829,11 @@ teams:
       WG - Policies and Telemetry  Maintainers:
         description: Maintainers for the Policy and Telemetry working group.
         members:
-        - mandarjog
-        - kyessenov
-        - douglas-reid
         - bianpengyuan
+        - douglas-reid
         - gargnupur
+        - kyessenov
+        - mandarjog
         privacy: closed
         repos:
           api: write
@@ -856,12 +856,12 @@ teams:
       WG - Security Maintainers:
         description: Maintainers for the Security working group
         members:
-        - myidpt
-        - incfly
-        - yangminzhu
-        - liminw
         - diemtvu
+        - incfly
         - JimmyCYJ
+        - liminw
+        - myidpt
+        - yangminzhu
         privacy: closed
         repos:
           api: write
@@ -887,16 +887,16 @@ teams:
         - howardjohn
         - linsun
         members:
-        - jwendell
-        - mandarjog
-        - therealmitchconnors
-        - fejta
-        - duderino
-        - fpesce
-        - nmittler
         - brian-avery
         - clarketm
+        - duderino
         - ericvn
+        - fejta
+        - fpesce
+        - jwendell
+        - mandarjog
+        - nmittler
+        - therealmitchconnors
         privacy: closed
         repos:
           api: write
@@ -921,9 +921,9 @@ teams:
         members:
         - ayj
         - esnible
-        - nmittler
         - irisdingbj
         - liamawhite
+        - nmittler
         privacy: closed
         repos:
           api: write
@@ -948,11 +948,11 @@ teams:
     maintainers:
     - howardjohn
     members:
+    - brian-avery
+    - ericvn
     - jwendell
     - rlenglet
     - sdake
-    - brian-avery
-    - ericvn
     privacy: closed
     repos:
       api: write
@@ -971,9 +971,9 @@ teams:
       Release Managers - 1.3:
         description: Release managers for Istio 1.3
         members:
+        - brian-avery
         - rlenglet
         - sdake
-        - brian-avery
         privacy: closed
         repos:
           api: write
@@ -993,8 +993,8 @@ teams:
         maintainers:
         - howardjohn
         members:
-        - jwendell
         - ericvn
+        - jwendell
         privacy: closed
         repos:
           api: write
@@ -1013,14 +1013,14 @@ teams:
     description: Folks with admin permission on all repos.
     maintainers:
     - howardjohn
+    - istio-testing
     - linsun
     - rshriram
     members:
     - duderino
     - fpesce
-    - istio-testing
-    - istio-release-robot
     - istio-policy-bot
+    - istio-release-robot
     privacy: closed
     repos:
       api: admin
@@ -1099,24 +1099,24 @@ teams:
   Steering Committee:
     description: members of istio steering committee
     maintainers:
-    - smawson
-    - linsun
     - dcberg
+    - linsun
     - louiscryan
+    - smawson
     members:
     - knrc
-    - rvennam
     - oaktowner
+    - rvennam
     privacy: closed
   Technical Oversight Committee:
     description: Members of the Istio TOC.
     maintainers:
-    - smawson
-    - linsun
     - dcberg
-    - rshriram
-    - louiscryan
     - geeknoid
+    - linsun
+    - louiscryan
+    - rshriram
+    - smawson
     privacy: closed
     repos:
       api: none
@@ -1164,28 +1164,28 @@ teams:
     - linsun
     - rshriram
     members:
-    - myidpt
     - ayj
-    - PiotrSikora
-    - sdake
-    - mandarjog
-    - lizan
+    - brian-avery
+    - douglas-reid
     - duderino
-    - frankbu
+    - ericvn
     - esnible
     - fpesce
-    - brian-avery
-    - ericvn
-    - suryadu
+    - frankbu
     - liminw
-    - douglas-reid
+    - lizan
+    - mandarjog
+    - myidpt
     - ostromart
+    - PiotrSikora
+    - sdake
+    - suryadu
     privacy: closed
   enhancements-maintainers:
     description: ""
     maintainers:
-    - linsun
     - dcberg
+    - linsun
     - louiscryan
     members:
     - jdumars
