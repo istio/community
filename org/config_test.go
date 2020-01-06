@@ -122,10 +122,15 @@ func TestIstioOrg(t *testing.T) {
 	if err != nil {
 		t.Fatalf("Failed to read config: %v", err)
 	}
-	var org org.Config
-	if err := yaml.Unmarshal(raw, &org); err != nil {
+	var full org.FullConfig
+	if err := yaml.Unmarshal(raw, &full); err != nil {
 		t.Fatalf("cannot read istio.yaml: %v", err)
 	}
+	org, f := full.Orgs["istio"]
+	if !f {
+		t.Fatalf("istio org not found")
+	}
+
 	members := normalize(sets.NewString(org.Members...))
 	admins := normalize(sets.NewString(org.Admins...))
 	allOrgMembers := members.Union(admins)
