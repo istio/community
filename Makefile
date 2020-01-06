@@ -8,4 +8,5 @@ test:
 	go test ./...
 
 sync:
+	(cd /tmp; go get k8s.io/test-infra/prow/cmd/peribolos)
 	peribolos --fix-org --fix-org-members --fix-teams --fix-team-members --config-path org/istio.yaml  --github-token-path /etc/github-token/oauth --confirm
