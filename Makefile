@@ -3,3 +3,6 @@ docker := docker run -e -t -i --sig-proxy=true --rm -v $(shell pwd):/foo -w /foo
 
 lint:
 	@$(docker) prow/community-lint.sh
+
+test:
+	go test ./...
