@@ -74,10 +74,10 @@ The members of the TOC are shown below. Membership in the TOC is determined by t
 ---|---|---
 <img width="30px" src="https://avatars0.githubusercontent.com/u/3277917?s=400&v=4"> | [Dan Berg](https://github.com/dcberg) | IBM
 <img width="30px" src="https://avatars0.githubusercontent.com/u/1562325?s=400&v=4"> | [Sven Mawson](https://github.com/smawson) | Google
-<img width="30px" src="https://avatars3.githubusercontent.com/u/8202871?s=400&v=4"> | [Shriram Rajagopalan](https://github.com/rshriram) | VMware
+<img width="30px" src="https://avatars3.githubusercontent.com/u/8202871?s=400&v=4"> | [Shriram Rajagopalan](https://github.com/rshriram) | Tetrate
 &nbsp; | [Louis Ryan](https://github.com/louiscryan) | Google
 <img width="30px" src="https://avatars1.githubusercontent.com/u/1588319?s=400&v=4"> | [Lin Sun](https://github.com/linsun) | IBM
-<img width="30px" src="https://avatars3.githubusercontent.com/u/22780957?s=400&v=4"> | [Martin Taillefer](https://github.com/geeknoid) | Google
+<img width="30px" src="https://avatars3.githubusercontent.com/u/22780957?s=400&v=4"> | [Martin Taillefer](https://github.com/geeknoid) | Microsoft
 
 ## Getting in touch
 
