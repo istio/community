@@ -219,6 +219,7 @@ orgs:
     - zhaohuabing
     - zhongfox
     - zhranklin
+    - zqzzq
     - zyfjeff
     teams:
       Developers:
@@ -400,6 +401,7 @@ orgs:
         - zerobfd
         - zhaohuabing
         - zhongfox
+        - zqzzq
         privacy: closed
         repos:
           api: write
