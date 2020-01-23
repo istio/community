@@ -468,6 +468,7 @@ orgs:
         - nmittler
         - ostromart
         - PiotrSikora
+        - ramaraochavali
         - rcaballeromx
         - rcernich
         - richardwxn
@@ -719,6 +720,7 @@ orgs:
             - Nino-K
             - nmittler
             - PiotrSikora
+            - ramaraochavali
             - rlenglet
             - sbezverk
             - tiswanso
@@ -785,6 +787,7 @@ orgs:
                 - rshriram
                 members:
                 - hzxuzhonghu
+                - ramaraochavali
                 privacy: closed
                 repos:
                   api: write
