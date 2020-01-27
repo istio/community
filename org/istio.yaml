@@ -952,7 +952,10 @@ orgs:
         - howardjohn
         members:
         - brian-avery
+        - dgn
         - ericvn
+        - fpesce
+        - johnma14
         - jwendell
         - rlenglet
         - sdake
@@ -998,6 +1001,26 @@ orgs:
             members:
             - ericvn
             - jwendell
+            privacy: closed
+            repos:
+              api: write
+              client-go: write
+              cni: write
+              common-files: write
+              installer: write
+              istio: write
+              istio.io: write
+              operator: write
+              pkg: write
+              proxy: write
+              release-builder: write
+              tools: write
+          Release Managers - 1.5:
+            description: Release managers for Istio 1.5
+            members:
+            - dgn
+            - fpesce
+            - johnma14
             privacy: closed
             repos:
               api: write
