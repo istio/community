@@ -87,6 +87,7 @@ orgs:
     - islinwb
     - istio-policy-bot
     - istio-release-robot
+    - jackkleeman
     - jasminejaksic
     - Jason-ZW
     - jasonall
@@ -294,6 +295,7 @@ orgs:
         - irisdingbj
         - islinwb
         - istio-policy-bot
+        - jackkleeman
         - jasonwzm
         - JimmyCYJ
         - jkbschmid
