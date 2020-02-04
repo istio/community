@@ -25,26 +25,26 @@ Given the nature of the discussions in Steering, meetings are not currently open
 
 ## Committee members
 
-Seats in Steering are held by a company, not by the individual users. Currently Steering consists of members from Google & IBM. These are:
+Seats in Steering are held by a company, not by the individual users. Currently Steering consists of members from Google, IBM & Red Hat. These are:
 
 &nbsp; | Name | Company | Profile
 ---|---|---|---
 <img width="30px" src="https://avatars0.githubusercontent.com/u/3277917?s=400&v=4"> | Dan Berg | IBM | [dcberg](https://github.com/dcberg)
-&nbsp; | Dan Ciruli | Google | [oaktowner](https://github.com/oaktowner)
+<img width="30px" src="https://avatars0.githubusercontent.com/u/132510?s=460&v=4"> | Craig Box | Google | [craigbox](https://github.com/craigbox)
+<img width="30px" src="https://avatars0.githubusercontent.com/u/7143347?s=460&v=4"> | Dan Ciruli | Google | [oaktowner](https://github.com/oaktowner)
+&nbsp; | Kevin Conner | Red Hat | [knrc](https://github.com/knrc)
 &nbsp; | Jennifer Lin | Google | &nbsp;
 <img width="30px" src="https://avatars0.githubusercontent.com/u/1562325?s=400&v=4"> | Sven Mawson | Google | [smawson](https://github.com/smawson)
-&nbsp; | Louis Ryan | Google | [louiscryan](https://github.com/louiscryan)
+<img width="30px" src="https://pbs.twimg.com/profile_images/838075233445695489/o2eAYJAV_400x400.jpg"> | Louis Ryan | Google | [louiscryan](https://github.com/louiscryan)
 <img width="30px" src="https://avatars3.githubusercontent.com/u/1934555?s=400&v=4">  | Sean Suchter | Google | [ssuchter](https://github.com/ssuchter)
 <img width="30px" src="https://avatars1.githubusercontent.com/u/1588319?s=400&v=4">  | Lin Sun | IBM | [linsun](https://github.com/linsun)
-<img width="30px" src="https://avatars3.githubusercontent.com/u/22780957?s=400&v=4"> | Martin Taillefer | Google | [geeknoid](https://github.com/geeknoid)
 <img width="30px" src="https://avatars1.githubusercontent.com/u/5502967?s=400&v=4">  | Ram Vennam | IBM | [rvennam](https://github.com/rvennam)
-&nbsp; | Kevin Conner | Red Hat | [knrc](https://github.com/knrc)
 
 ## General questions
 
 *Why Are Seats Company Held?*
 
-The Steering Committee was created as the Istio project was in infancy, in order to tackle governance and overall project strategy. To date Istio 1.0 has the bulk of contributions coming from the project founders, Google & IBM. Together it was decided that having strong corporate leadership was needed for the project to ensure continued velocity. Steering was created with 9 seats held, and with 11 being planned.
+The Steering Committee was created as the Istio project was in infancy, in order to tackle governance and overall project strategy. To date Istio has the bulk of contributions coming from the project founders, Google & IBM. Together it was decided that having strong corporate leadership was needed for the project to ensure continued velocity. Steering was created with 9 seats held, and with 11 being planned.
 
 *How Are Steering Seats Allocated?*
 
@@ -56,11 +56,11 @@ This is weighted to reflect project contributions.
 
 *What Happens If Someone Leaves the Company They Represent?*
 
-In that case, the company will select another represenative to hold the seat. This has happened twice to date. Dan Berg filled a seat vacated by Shriram Rajagopalan, and Dan Ciruli filled a seat vacated by Varun Talwar. 
+In that case, the company will select another representative to hold the seat. 
 
 *What Happens If Someone Leaves the Project or Decides to Leave Steering?*
 
-The same applies; the company will select another represenative to hold the seat. 
+The same applies; the company will select another representative to hold the seat. 
 
 *Is This Steering Model Permanent?*
 
@@ -75,4 +75,4 @@ We strive to find a path to consensus. Decisions are made in meetings when a quo
 If you'd like to reach out to the committee please drop a note to
 [steering@discuss.istio.io](mailto:steering@discuss.istio.io) or contact any
 of the individuals listed above on [discuss.istio.io](https://discuss.istio.io)
-or on Github.
+or on GitHub.
