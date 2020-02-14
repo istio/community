@@ -474,6 +474,7 @@ orgs:
         - myidpt
         - Nino-K
         - nmittler
+        - nrjpoddar
         - ostromart
         - PiotrSikora
         - ramaraochavali
@@ -848,6 +849,7 @@ orgs:
             - gargnupur
             - kyessenov
             - mandarjog
+            - nrjpoddar
             privacy: closed
             repos:
               api: write
