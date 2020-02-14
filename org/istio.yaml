@@ -848,6 +848,7 @@ orgs:
             - gargnupur
             - kyessenov
             - mandarjog
+            - nrjpoddar
             privacy: closed
             repos:
               api: write
