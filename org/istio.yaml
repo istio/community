@@ -634,6 +634,7 @@ orgs:
                 - ericvn
                 - frankbu
                 - rcaballeromx
+                - sdake
                 privacy: closed
                 repos:
                   api: write
