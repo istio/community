@@ -629,6 +629,12 @@ orgs:
                 description: Maintainers of the doc build & site infrastructure
                 maintainers:
                 - geeknoid
+                members:
+                - adammil2000
+                - ericvn
+                - frankbu
+                - rcaballeromx
+                - sdake
                 privacy: closed
                 repos:
                   api: write
