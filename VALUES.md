@@ -28,9 +28,6 @@ values we hold as a team:
   - Be mindful of the terminology you are using, it may not be the same as
     someone else's and cause misunderstanding. To promote clear and precise
     communication, please define the terms you are using in context.
-  - See the
-    [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/master/code-of-conduct.md)
-    which everyone must abide by.
 
 - Raising issues is great, suggesting solutions is even better
   - Think of a proposed alternative and improvement rather than just what you
