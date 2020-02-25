@@ -769,6 +769,7 @@ orgs:
                 members:
                 - bianpengyuan
                 - duderino
+                - gargnupur
                 - JimmyCYJ
                 - kyessenov
                 - lambdai
@@ -776,7 +777,6 @@ orgs:
                 - PiotrSikora
                 - venilnoronha
                 - yxue
-                - gargnupur
                 privacy: closed
                 repos:
                   api: write
