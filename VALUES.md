@@ -3,6 +3,9 @@
 We want to make sure every member has a shared understanding of the goals and
 values we hold as a team:
 
+- Istio may not endanger a consuming organization's objectives or, through
+  inaction, allow the consuming organization's objectives to come to harm.
+
 - Optimize for the **overall project**, not your own area or feature
   - A shortcut for one individual can mean a lot of extra work or disruption for
     the rest of the team.
