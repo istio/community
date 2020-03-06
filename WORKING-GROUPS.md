@@ -60,7 +60,7 @@ Each working group has one or more leads which coordinate the activities of the 
 &nbsp;                                                                               | Name                                               | Company    | Groups
 -------------------------------------------------------------------------------------|----------------------------------------------------|------------|-------
 <img width="30px" src="https://avatars3.githubusercontent.com/u/8484260?s=400&v=4">  | [Brian Avery](https://github.com/brian-avery)      | Red Hat    | Test and Release
-&nbsp;                                                                               | [Costin Manolache](https://github.com/costinm)     | Google     | Networking
+&nbsp;                                                                               | [Costin Manolache](https://github.com/costinm)     | Google     | Networking - Control Plane
 <img width="30px" src="https://avatars0.githubusercontent.com/u/2752495?s=400&v=4">  | [Frank Budinsky](https://github.com/frankbu)       | IBM        | Docs
 <img width="30px" src="https://avatars0.githubusercontent.com/u/755849?s=400&v=4">   | [Steven Dake](https://github.com/sdake)            | IBM        | Environments
 <img width="30px" src="https://avatars0.githubusercontent.com/u/13684010?s=400&v=4"> | [Surya V Duggirala](https://github.com/suryadu)    | IBM        | Performance and Scalability
@@ -75,7 +75,7 @@ Each working group has one or more leads which coordinate the activities of the 
 <img width="30px" src="https://avatars1.githubusercontent.com/u/10537847?s=400&v=4"> | [Eric Van Norman](https://github.com/ericvn)       | IBM        | Test and Release
 &nbsp;                                                                               | [Limin Wang](https://github.com/liminw)            | Google     | Security
 <img width="30px" src="https://avatars3.githubusercontent.com/u/116378?s=400&v=4">   | [Jason Young](https://github.com/ayj)              | Google     | User Experience
-<img width="30px" src="https://avatars3.githubusercontent.com/u/12534779?s=400&v=4"> | [Neeraj Poddar](https://github.com/nrjpoddar)      | Aspen Mesh | Networking
+<img width="30px" src="https://avatars3.githubusercontent.com/u/12534779?s=400&v=4"> | [Neeraj Poddar](https://github.com/nrjpoddar)      | Aspen Mesh | Networking - Control Plane
 &nbsp;                                                                               | [Lizan Zhou](https://github.com/lizan)             | Tetrate    | Networking - Data Plane
 
 ## Getting in touch
