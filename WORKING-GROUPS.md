@@ -57,26 +57,26 @@ automatically invite you to all of the working group meetings on your primary Go
 
 Each working group has one or more leads which coordinate the activities of the group:
 
-&nbsp;                                                                               | Name                                               | Company | Groups
--------------------------------------------------------------------------------------|----------------------------------------------------|---------|-------
-<img width="30px" src="https://avatars3.githubusercontent.com/u/8484260?s=400&v=4">  | [Brian Avery](https://github.com/brian-avery)      | Red Hat | Test and Release
-&nbsp;                                                                               | [Costin Manolache](https://github.com/costinm)     | Google  | Networking
-<img width="30px" src="https://avatars0.githubusercontent.com/u/2752495?s=400&v=4">  | [Frank Budinsky](https://github.com/frankbu)       | IBM     | Docs
-<img width="30px" src="https://avatars0.githubusercontent.com/u/755849?s=400&v=4">   | [Steven Dake](https://github.com/sdake)            | IBM     | Environments
-<img width="30px" src="https://avatars0.githubusercontent.com/u/13684010?s=400&v=4"> | [Surya V Duggirala](https://github.com/suryadu)    | IBM     | Performance and Scalability
-<img width="30px" src="https://avatars1.githubusercontent.com/u/623453?s=400&v=4">   | [John Howard](https://github.com/howardjohn)       | Google  | Environments
-&nbsp;                                                                               | [Mandar Jog](https://github.com/mandarjog)         | Google  | Policies and Telemetry, Performance and Scalability
-<img width="30px" src="https://avatars0.githubusercontent.com/u/102881?s=400&v=4">   | [Oliver Liu](https://github.com/myidpt)            | Google  | Security
-&nbsp;                                                                               | [Martin Ostrowski](https://github.com/ostromart)   | Google  | Environments
-<img width="30px" src="https://avatars2.githubusercontent.com/u/4336228?s=400&v=4">  | [Francois Pesce](https://github.com/fpesce)        | Google  | Test and Release
-<img width="30px" src="https://avatars3.githubusercontent.com/u/8202871?s=400&v=4">  | [Shriram Rajagopalan](https://github.com/rshriram) | Tetrate | Networking
-<img width="30px" src="https://avatars2.githubusercontent.com/u/21148125?s=400&v=4"> | [Douglas Reid](https://github.com/douglas-reid)    | Google  | Policies and Telemetry
-&nbsp;                                                                               | [Piotr Sikora](https://github.com/piotrsikora)     | Google  | Networking - Data Plane
-<img width="30px" src="https://avatars3.githubusercontent.com/u/3237651?s=400&v=4">  | [Ed Snible](https://github.com/esnible)            | IBM     | User Experience
-<img width="30px" src="https://avatars1.githubusercontent.com/u/10537847?s=400&v=4"> | [Eric Van Norman](https://github.com/ericvn)       | IBM     | Test and Release
-&nbsp;                                                                               | [Limin Wang](https://github.com/liminw)            | Google  | Security
-<img width="30px" src="https://avatars3.githubusercontent.com/u/116378?s=400&v=4">   | [Jason Young](https://github.com/ayj)              | Google  | User Experience
-&nbsp;                                                                               | [Lizan Zhou](https://github.com/lizan)             | Tetrate  | Networking - Data Plane
+&nbsp;                                                                               | Name                                               | Company    | Groups
+-------------------------------------------------------------------------------------|----------------------------------------------------|------------|-------
+<img width="30px" src="https://avatars3.githubusercontent.com/u/8484260?s=400&v=4">  | [Brian Avery](https://github.com/brian-avery)      | Red Hat    | Test and Release
+&nbsp;                                                                               | [Costin Manolache](https://github.com/costinm)     | Google     | Networking
+<img width="30px" src="https://avatars0.githubusercontent.com/u/2752495?s=400&v=4">  | [Frank Budinsky](https://github.com/frankbu)       | IBM        | Docs
+<img width="30px" src="https://avatars0.githubusercontent.com/u/755849?s=400&v=4">   | [Steven Dake](https://github.com/sdake)            | IBM        | Environments
+<img width="30px" src="https://avatars0.githubusercontent.com/u/13684010?s=400&v=4"> | [Surya V Duggirala](https://github.com/suryadu)    | IBM        | Performance and Scalability
+<img width="30px" src="https://avatars1.githubusercontent.com/u/623453?s=400&v=4">   | [John Howard](https://github.com/howardjohn)       | Google     | Environments
+&nbsp;                                                                               | [Mandar Jog](https://github.com/mandarjog)         | Google     | Policies and Telemetry, Performance and Scalability
+<img width="30px" src="https://avatars0.githubusercontent.com/u/102881?s=400&v=4">   | [Oliver Liu](https://github.com/myidpt)            | Google     | Security
+&nbsp;                                                                               | [Martin Ostrowski](https://github.com/ostromart)   | Google     | Environments
+<img width="30px" src="https://avatars2.githubusercontent.com/u/4336228?s=400&v=4">  | [Francois Pesce](https://github.com/fpesce)        | Google     | Test and Release
+<img width="30px" src="https://avatars2.githubusercontent.com/u/21148125?s=400&v=4"> | [Douglas Reid](https://github.com/douglas-reid)    | Google     | Policies and Telemetry
+&nbsp;                                                                               | [Piotr Sikora](https://github.com/piotrsikora)     | Google     | Networking - Data Plane
+<img width="30px" src="https://avatars3.githubusercontent.com/u/3237651?s=400&v=4">  | [Ed Snible](https://github.com/esnible)            | IBM        | User Experience
+<img width="30px" src="https://avatars1.githubusercontent.com/u/10537847?s=400&v=4"> | [Eric Van Norman](https://github.com/ericvn)       | IBM        | Test and Release
+&nbsp;                                                                               | [Limin Wang](https://github.com/liminw)            | Google     | Security
+<img width="30px" src="https://avatars3.githubusercontent.com/u/116378?s=400&v=4">   | [Jason Young](https://github.com/ayj)              | Google     | User Experience
+<img width="30px" src="https://avatars3.githubusercontent.com/u/12534779?s=400&v=4"> | [Neeraj Poddar](https://github.com/nrjpoddar)      | Aspen Mesh | Networking
+&nbsp;                                                                               | [Lizan Zhou](https://github.com/lizan)             | Tetrate    | Networking - Data Plane
 
 ## Getting in touch
 
