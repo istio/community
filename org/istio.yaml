@@ -412,6 +412,7 @@ orgs:
         - zhaohuabing
         - zhongfox
         - zqzzq
+        - jpapejr
         privacy: closed
         repos:
           api: write
