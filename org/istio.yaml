@@ -103,6 +103,7 @@ orgs:
     - john-a-joyce
     - johnma14
     - johscheuer
+    - jpapejr
     - jplevyak
     - jsenon
     - jsPlachetka
@@ -226,7 +227,6 @@ orgs:
     - zhranklin
     - zqzzq
     - zyfjeff
-    - jpapejr
     teams:
       Developers:
         description: Folks actively working on the Istio code base.
@@ -312,6 +312,7 @@ orgs:
         - jmazzitelli
         - john-a-joyce
         - johnma14
+        - jpapejr
         - jplevyak
         - jsenon
         - jsPlachetka
@@ -412,7 +413,6 @@ orgs:
         - zhaohuabing
         - zhongfox
         - zqzzq
-        - jpapejr
         privacy: closed
         repos:
           api: write
