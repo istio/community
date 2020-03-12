@@ -226,6 +226,7 @@ orgs:
     - zhranklin
     - zqzzq
     - zyfjeff
+    - jpapejr
     teams:
       Developers:
         description: Folks actively working on the Istio code base.
