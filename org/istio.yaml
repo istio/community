@@ -4,7 +4,7 @@ orgs:
     description: Connect, secure, control, and observe services.
     admins:
     - dcberg
-    - geeknoid
+    - duderino
     - google-admin
     - googlebot
     - howardjohn
