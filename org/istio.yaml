@@ -917,12 +917,12 @@ orgs:
           WG - Test and Release Maintainers:
             description: Maintainers for the Test and Release working group.
             maintainers:
+            - duderino
             - howardjohn
             - linsun
             members:
             - brian-avery
             - clarketm
-            - duderino
             - ericvn
             - fejta
             - fpesce
@@ -1070,12 +1070,12 @@ orgs:
       Repo Admins:
         description: Folks with admin permission on all repos.
         maintainers:
+        - duderino
         - howardjohn
         - istio-testing
         - linsun
         - rshriram
         members:
-        - duderino
         - fpesce
         - istio-policy-bot
         - istio-release-robot
@@ -1104,7 +1104,7 @@ orgs:
         teams:
           Release Managers - 1.1:
             description: Release managers for Istio 1.1
-            members:
+            maintainers:
             - duderino
             privacy: closed
             repos:
@@ -1220,6 +1220,7 @@ orgs:
       Working Group Leads:
         description: Working group leads - for easy communication in github
         maintainers:
+        - duderino
         - howardjohn
         - linsun
         - rshriram
@@ -1227,7 +1228,6 @@ orgs:
         - ayj
         - brian-avery
         - douglas-reid
-        - duderino
         - ericvn
         - esnible
         - fpesce
