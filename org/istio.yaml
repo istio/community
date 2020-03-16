@@ -1172,7 +1172,7 @@ orgs:
         description: Members of the Istio TOC.
         maintainers:
         - dcberg
-        - geeknoid
+        - duderino
         - linsun
         - louiscryan
         - rshriram
