@@ -987,6 +987,8 @@ orgs:
         - dgn
         - ericvn
         - fpesce
+        - irisdingbj
+        - jacob-delgado
         - johnma14
         - jwendell
         - rlenglet
@@ -1053,6 +1055,26 @@ orgs:
             - dgn
             - fpesce
             - johnma14
+            privacy: closed
+            repos:
+              api: write
+              client-go: write
+              cni: write
+              common-files: write
+              installer: write
+              istio: write
+              istio.io: write
+              operator: write
+              pkg: write
+              proxy: write
+              release-builder: write
+              tools: write
+          Release Managers - 1.6:
+            description: Release managers for Istio 1.6
+            members:
+            - brian-avery
+            - irisdingbj
+            - jacob-delgado
             privacy: closed
             repos:
               api: write
