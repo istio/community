@@ -46,6 +46,7 @@ will be removed from the early disclosure list.
 | istio-security@redhat.com | RedHat |
 | argoprod@us.ibm.com | IBM |
 | istio-security-vulnerability-notifications@google.com | Google |
+| security@rancher.com | Rancher Labs |
 
 ### Membership criteria
 
