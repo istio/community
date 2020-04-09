@@ -966,6 +966,7 @@ orgs:
             - jasonwzm
             - liamawhite
             - nmittler
+            - therealmitchconnors
             privacy: closed
             repos:
               api: write
