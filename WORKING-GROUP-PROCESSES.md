@@ -87,10 +87,9 @@ technical oversight committee also reserves the right to dissolve or recharter w
 
 ## Leads
 
-Each working group must have 2 or 3 leads, with at least two different organizations represented. Working group leads must be members of the
-Istio project (that is, have made multiple contributions to the project in the form of code, design, or documentation).
+Each working group must have 2 or 3 leads, with at least two different organizations represented. Working group leads must meet certain requirements, including having been members of the Istio project for a year, and a maintainer for at least 3 months. 
 
-Please see the [Community Roles](https://github.com/istio/community/blob/master/ROLES.md) document for a
+Please see the [Community Roles](https://github.com/istio/community/blob/master/ROLES.md) document for a full
 description of a lead’s role and requirements.
 
 ## Running a working group
