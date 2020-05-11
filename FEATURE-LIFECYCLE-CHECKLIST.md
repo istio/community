@@ -1,7 +1,10 @@
 # Feature Lifecycle Checklist
 
 This is the checklist describing the essential requirements for a feature to
-be labeled as Alpha, Beta, or Stable. This is a shortened version of the full
+be labeled as Alpha, Beta, or Stable. Once a feature meets the Alpha label
++criteria, the feature may be included in the
++[feature status page](https://istio.io/about/feature-stages/) on
++[Istio's Website](https://istio.io). This is a shortened version of the full
 [Feature Lifecycle](FEATURE-LIFECYCLE.md) document.
 
 - [Alpha](#alpha)
