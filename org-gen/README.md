@@ -8,6 +8,8 @@ To modify the org, simply change the config file and submit a PR. Once the PR is
 
 Changes can be tested with `make test`.
 
-To add yourself to the Org, please add your name under `members.yaml`.
+To add yourself to the Org, please add your name under `members.yaml`. 
 
-Groups, such as working groups and release managers, are controlled by the `members.yaml` file.
+To add yourself as a developer, which is given additional access to repos, add yourself under `developers.yaml` instead.
+
+Teams, such as working groups and release managers, are controlled by the `teams.yaml` file.

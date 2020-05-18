@@ -6,6 +6,7 @@ import (
 	"io/ioutil"
 	"os"
 	"path/filepath"
+	"sort"
 	"strings"
 
 	"github.com/ghodss/yaml"
@@ -14,10 +15,11 @@ import (
 )
 
 type Organization struct {
-	Admins  []string            `json:"admins,omitempty"`
-	Members []string            `json:"members,omitempty"`
-	Repos   map[string]org.Repo `json:"repos,omitempty"`
-	Teams   map[string]org.Team `json:"teams,omitempty"`
+	Admins     []string            `json:"admins,omitempty"`
+	Members    []string            `json:"members,omitempty"`
+	Developers []string            `json:"developers,omitempty"`
+	Repos      map[string]org.Repo `json:"repos,omitempty"`
+	Teams      map[string]org.Team `json:"teams,omitempty"`
 }
 
 func main() {
@@ -88,6 +90,10 @@ var repos = map[string]github.RepoPermissionLevel{
 }
 
 func convertConfig(cfg Organization) org.FullConfig {
+	allMembers := cfg.Members[:]
+	allMembers = append(allMembers, cfg.Developers...)
+	sort.Slice(allMembers, func(i, j int) bool { return strings.ToLower(allMembers[i]) < strings.ToLower(allMembers[j]) })
+
 	istio := org.Config{
 		Metadata: org.Metadata{
 			Name:        strptr("Istio"),
@@ -95,7 +101,7 @@ func convertConfig(cfg Organization) org.FullConfig {
 		},
 		Teams: cfg.Teams,
 		// Members list shouldn't contain admins
-		Members: drop(cfg.Members, cfg.Admins),
+		Members: drop(allMembers, cfg.Admins),
 		Admins:  cfg.Admins,
 		Repos:   cfg.Repos,
 	}
