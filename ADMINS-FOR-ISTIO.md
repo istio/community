@@ -23,4 +23,4 @@ access.
 | [Shared Google Drive](https://drive.google.com/corp/drive/u/0/folders/0AIS5p3eW9BCtUk9PVA) | Design document storage | [rshriram](https://github.com/rshriram), [linsun](https://github.com/linsun), [louiscryan](https://github.com/louiscryan), [smawson](https://github.com/smawson), [jasminejaksic](https://github.com/jasminejaksic)
 | [Slack](https://istio.slack.com) | Chat platform | [crcsmnky](https://github.com/crcsmnky), [linsun](https://github.com/linsun), [louiscryan](https://github.com/louiscryan), [smawson](https://github.com/smawson), [dcberg](https://github.com/dcberg)
 | [Twitter](https://twitter.com/IstioMesh) | Istio Twitter account | [oaktowner](https://github.com/oaktowner), [linsun](https://github.com/linsun), [rvennam](https://github.com/rvennam)
-| [YouTube](https://www.youtube.com/c/istio) | Working group videos | [jdumars](https://github.com/jdumars)
+| [YouTube](https://www.youtube.com/c/istio) | Working group videos | [crcsmnky](https://github.com/crcsmnky)
