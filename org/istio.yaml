@@ -5,7 +5,6 @@ orgs:
     admins:
     - dcberg
     - duderino
-    - geeknoid
     - google-admin
     - googlebot
     - howardjohn
@@ -72,6 +71,7 @@ orgs:
     - frankbu
     - gargnupur
     - gbaufake
+    - geeknoid
     - gorda
     - GregHanson
     - gyliu513
