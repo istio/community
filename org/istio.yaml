@@ -578,7 +578,6 @@ orgs:
             - rcaballeromx
             - rootsongjc
             - SataQiu
-            - sdake
             privacy: closed
             repos:
               api: write
@@ -660,7 +659,6 @@ orgs:
                 - ericvn
                 - frankbu
                 - rcaballeromx
-                - sdake
                 privacy: closed
                 repos:
                   api: write
