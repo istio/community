@@ -909,9 +909,9 @@ orgs:
           WG - Security Maintainers:
             description: Maintainers for the Security working group
             members:
-            - diemtvu
             - incfly
             - JimmyCYJ
+            - lei-tang
             - liminw
             - lizan
             - myidpt
