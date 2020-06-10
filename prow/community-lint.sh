@@ -15,4 +15,5 @@
 # limitations under the License.
 
 set -e
-awesome_bot --skip-save-result --allow-ssl --allow-timeout --allow-dupe --allow-redirect --white-list *.md
+awesome_bot --skip-save-result --allow 429 --allow-ssl --allow-timeout --allow-dupe --allow-redirect --white-list *.md
+
