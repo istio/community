@@ -574,13 +574,13 @@ orgs:
           WG - Docs Maintainers:
             description: Maintainers of the Docs working group.
             maintainers:
-            - frankbu
             members:
             - adammil2000
             - ericvn
             - fleeto
             - frankbu
             - gbaufake
+            - geeknoid
             - loverto
             - rcaballeromx
             - rootsongjc
@@ -660,7 +660,6 @@ orgs:
               WG - Docs Maintainers/Infra:
                 description: Maintainers of the doc build & site infrastructure
                 maintainers:
-                - frankbu
                 members:
                 - adammil2000
                 - ericvn
