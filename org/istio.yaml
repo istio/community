@@ -5,7 +5,6 @@ orgs:
     admins:
     - dcberg
     - duderino
-    - geeknoid
     - google-admin
     - googlebot
     - howardjohn
@@ -74,6 +73,7 @@ orgs:
     - frankbu
     - gargnupur
     - gbaufake
+    - geeknoid
     - GregHanson
     - gyliu513
     - helight
@@ -465,7 +465,6 @@ orgs:
         description: Maintainers of the Istio project.
         maintainers:
         - duderino
-        - geeknoid
         - howardjohn
         - linsun
         - rshriram
@@ -575,13 +574,13 @@ orgs:
           WG - Docs Maintainers:
             description: Maintainers of the Docs working group.
             maintainers:
-            - geeknoid
             members:
             - adammil2000
             - ericvn
             - fleeto
             - frankbu
             - gbaufake
+            - geeknoid
             - loverto
             - rcaballeromx
             - rootsongjc
@@ -661,7 +660,6 @@ orgs:
               WG - Docs Maintainers/Infra:
                 description: Maintainers of the doc build & site infrastructure
                 maintainers:
-                - geeknoid
                 members:
                 - adammil2000
                 - ericvn
