@@ -465,7 +465,6 @@ orgs:
         description: Maintainers of the Istio project.
         maintainers:
         - duderino
-        - geeknoid
         - howardjohn
         - linsun
         - rshriram
@@ -575,7 +574,7 @@ orgs:
           WG - Docs Maintainers:
             description: Maintainers of the Docs working group.
             maintainers:
-            - geeknoid
+            - frankbu
             members:
             - adammil2000
             - ericvn
@@ -661,7 +660,7 @@ orgs:
               WG - Docs Maintainers/Infra:
                 description: Maintainers of the doc build & site infrastructure
                 maintainers:
-                - geeknoid
+                - frankbu
                 members:
                 - adammil2000
                 - ericvn
