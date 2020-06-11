@@ -6,9 +6,3 @@ lint:
 
 test:
 	go test ./...
-
-# Sync the Github organization according to config in org/
-# Must be run by a Github admin (generally in CI)
-sync-org:
-	/app/prow/cmd/peribolos/app.binary --fix-org --fix-org-members --fix-teams --fix-team-members \
-		--config-path org/istio.yaml --github-token-path /etc/github-token/oauth --confirm
