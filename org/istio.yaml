@@ -165,7 +165,6 @@ orgs:
     - niwatorrri
     - nmittler
     - nmnellis
-    - nrjpoddar
     - nschhina
     - oaktowner
     - objectiser
@@ -381,7 +380,6 @@ orgs:
         - Nino-K
         - nmittler
         - nmnellis
-        - nrjpoddar
         - nschhina
         - oaktowner
         - objectiser
@@ -476,6 +474,7 @@ orgs:
         - duderino
         - howardjohn
         - linsun
+        - nrjpoddar
         - rshriram
         members:
         - adammil2000
@@ -517,7 +516,6 @@ orgs:
         - myidpt
         - Nino-K
         - nmittler
-        - nrjpoddar
         - ostromart
         - PiotrSikora
         - ramaraochavali
@@ -759,6 +757,7 @@ orgs:
             - duderino
             - howardjohn
             - linsun
+            - nrjpoddar
             - rshriram
             members:
             - andraxylia
@@ -774,7 +773,6 @@ orgs:
             - lizan
             - Nino-K
             - nmittler
-            - nrjpoddar
             - PiotrSikora
             - ramaraochavali
             - rlenglet
@@ -891,13 +889,14 @@ orgs:
               tools: write
           WG - Policies and Telemetry  Maintainers:
             description: Maintainers for the Policy and Telemetry working group.
+            maintaners:
+            - nrjpoddar
             members:
             - bianpengyuan
             - douglas-reid
             - gargnupur
             - kyessenov
             - mandarjog
-            - nrjpoddar
             privacy: closed
             repos:
               api: write
@@ -1282,6 +1281,7 @@ orgs:
         - duderino
         - howardjohn
         - linsun
+        - nrjpoddar
         - rshriram
         members:
         - ayj
@@ -1295,7 +1295,6 @@ orgs:
         - lizan
         - mandarjog
         - myidpt
-        - nrjpoddar
         - ostromart
         - PiotrSikora
         - sdake
