@@ -78,6 +78,7 @@ The members of the TOC are shown below. Membership in the TOC is determined by t
 <img width="30px" src="https://avatars3.githubusercontent.com/u/9046588?s=400&v=4">| [Louis Ryan](https://github.com/louiscryan) | Google
 <img width="30px" src="https://avatars1.githubusercontent.com/u/1588319?s=400&v=4"> | [Lin Sun](https://github.com/linsun) | IBM
 <img width="30px" src="https://avatars1.githubusercontent.com/u/1043139?s=400&v=4"> | [Joshua Blatt](https://github.com/duderino) | Google
+<img width="30px" src="https://avatars3.githubusercontent.com/u/12534779?s=400&v=4">| [Neeraj Poddar](https://github.com/nrjpoddar) | Aspen Mesh
 
 ## Getting in touch
 

@@ -11,6 +11,7 @@ orgs:
     - istio-testing
     - linsun
     - louiscryan
+    - nrjpoddar
     - rshriram
     - smawson
     members:
@@ -263,6 +264,7 @@ orgs:
         - istio-testing
         - linsun
         - louiscryan
+        - nrjpoddar
         - rshriram
         - smawson
         members:
@@ -1231,6 +1233,7 @@ orgs:
         - duderino
         - linsun
         - louiscryan
+        - nrjpoddar
         - rshriram
         - smawson
         privacy: closed
