@@ -14,10 +14,13 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+WD=$(dirname "$0")
+WD=$(cd "$WD"; pwd)
+
 set -e
 
 # Sync the Github organization according to config in org/
 # Must be run by a Github admin (generally in CI)
 
 /app/prow/cmd/peribolos/app.binary --fix-org --fix-org-members --fix-teams --fix-team-members \
-		--config-path ../org/istio.yaml --github-token-path /etc/github-token/oauth --confirm
+		--config-path "${WD}"/../org/istio.yaml --github-token-path /etc/github-token/oauth --confirm
