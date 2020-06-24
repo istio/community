@@ -891,7 +891,7 @@ orgs:
               tools: write
           WG - Policies and Telemetry  Maintainers:
             description: Maintainers for the Policy and Telemetry working group.
-            maintaners:
+            maintainers:
             - nrjpoddar
             members:
             - bianpengyuan
