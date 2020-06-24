@@ -892,13 +892,12 @@ orgs:
           WG - Policies and Telemetry  Maintainers:
             description: Maintainers for the Policy and Telemetry working group.
             maintainers:
-            - nrjpoddar
-            members:
             - bianpengyuan
             - douglas-reid
             - gargnupur
             - kyessenov
             - mandarjog
+            - nrjpoddar
             privacy: closed
             repos:
               api: write
