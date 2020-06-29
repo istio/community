@@ -38,17 +38,6 @@ we can assess how to not make the same mistake in the future.
 If you continue to leak information and break the policy outlined here, you
 will be removed from the early disclosure list.
 
-## Membership
-
-| Email		| Organization	|
-| ------------- |:-------------:|
-| istio-security-team-inbox@aspenmesh.io | Aspen Mesh |
-| istio-security@redhat.com | RedHat |
-| argoprod@us.ibm.com | IBM |
-| istio-security-vulnerability-notifications@google.com | Google |
-| security@rancher.com | Rancher Labs |
-| istio-security@huawei.com | Huawei |
-
 ### Membership criteria
 
 To be eligible for the early disclosure mailing list, your
