@@ -48,6 +48,9 @@ will be removed from the early disclosure list.
 | istio-security-vulnerability-notifications@google.com | Google |
 | security@rancher.com | Rancher Labs |
 | istio-security@huawei.com | Huawei |
+| istio-security@tetrate.io | Tetrate |
+| security@vmware.com | VMware |
+| istio-security@list.alibaba-inc.com | Alibaba Cloud |
 
 ### Membership criteria
 
