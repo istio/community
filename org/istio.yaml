@@ -1092,6 +1092,7 @@ orgs:
             - dgn
             - fpesce
             - johnma14
+            - ericvn
             privacy: closed
             repos:
               api: write
