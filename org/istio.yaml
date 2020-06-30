@@ -1090,6 +1090,7 @@ orgs:
             description: Release managers for Istio 1.5
             members:
             - dgn
+            - ericvn
             - fpesce
             - johnma14
             privacy: closed
