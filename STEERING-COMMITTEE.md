@@ -1,9 +1,10 @@
 # Istio Steering Committee
 
 The Istio Steering Committee was formed to oversee the administrative aspects of the project, including governance, branding, and marketing.
-Steering was created to allow the Technical Oversight Committee to exclusively focus on the technical aspects of the project. 
+Steering was created to allow the Technical Oversight Committee to exclusively focus on the technical aspects of the project.
 
 * [Charter](#charter)
+* [Membership and Voting](#membership-and-voting)
 * [Committee meetings](#committee-meetings)
 * [Committee members](#committee-members)
 * [General questions](#general-questions)
@@ -11,17 +12,97 @@ Steering was created to allow the Technical Oversight Committee to exclusively f
 
 ## Charter
 
-1. Define, evolve, and defend the vision, values, mission, and scope of the project - to establish and maintain the soul of Istio.
-2. Define and evolve project governance structures and policies, including how contributors become committers/maintainers, approvers, reviewers, members, code of conduct, etc.
-3. Control access to, establish processes regarding, and provide a final escalation path for any Istio repository.
-4. Control and delegate access to and establish processes regarding other project resources and assets, including artifact repositories, build and test infrastructure, web sites and their domains, blogs, social-media accounts, etc.
-5. Manage the Istio brand to decide which things can be called “Istio” and how that mark can be used in relation to other efforts or vendors.
-6. Resolve any dispute from the Technical Oversight Committee.
+The Steering Committee’s responsibilities include:
+
+1. Establishing rules of governance for the Istio project, including creation
+and ratification of bylaws for the Steering Committee and Technical Oversight
+Committee.
+1. Establishing and enforcing principles to guide the Istio project.
+1. Fostering an environment for a healthy and happy community of developers,
+contributors, and users.
+1. Defining, evolving, and defending a
+[Code of Conduct](CONTRIBUTING.md#code-of-conduct).
+1. Advising the trademark owner on issues relating to the Istio trademark and
+logo.
+1. Setting marketing and advocacy direction for the project; establishing a
+publishing schedule and vetting content, encouraging and assisting in project
+community members, fostering an ecosystem of vendors, creating content for
+conferences, etc.
+1. Controlling and delegating access to, and establishing processes regarding,
+project resources/assets, including but not limited to artifact repositories,
+build and test infrastructure, web sites and their domains, blogs, and social
+media accounts.
+1. Providing neutral mediation as appropriate to try to resolve non-technical
+disputes that arise as part of the project.
+
+## Membership and voting
+1.  The Steering Committee is structured to allow companies who are most
+invested in the success of the Istio project to participate in business and
+non-technical decision-making.
+1.  All members should abide by the project Code of Conduct.
+1.  There are two types of seats on the Steering Committee: Contributor Seats
+and Community Seats.
+1.  Both Contributor and Community Seats will be appointed beginning in
+July 2020. The appointments for the Contribution and Community seat types will
+expire on staggered dates. After the initial term for both seats, all seats
+will have an annual term.
+1.  Contributor Seat terms expire on January 1 and Community Seat terms expire
+on July 1. If necessary, a company holding a Contributor Seat may change the
+appointed individual at any time during the term.
+1.  No Contributing Company can have more than 5 seats in total on the Steering
+Committee.
+    1.  Subsidiaries, an entity in which another company owns more than 50%
+    of the voting or membership interests; and related companies, companies
+    which are controlled by a common third party entity; and affiliate
+    companies, will be treated together as a single entity, referred to as a
+    Contributing Company.
+1.  There shall be nine **Contributor Seats**. Their allocation is determined
+by the approximate effort and expenditure on the Istio project, as approximated
+by the number of merged pull requests on GitHub over the one year period prior
+to the Contributor Seat assignments:
+    1.  The top three contributing companies to Istio are eligible for
+    Contributor Seats, proportional to their contribution.
+        1.  Each company is allocated one seat;
+        1.  The remaining six seats are allocated based on percentage project
+        contribution, with no Contributing Company exceeding 5 seats in total
+        as outlined in section 6.
+1.  There shall be four **Community Seats.**
+    1.  Two **Community Seats** will be elected by the Istio contributors and
+    community, beginning in July 2020.
+        1.  Any [project member](ROLES.md#member) can self-nominate for the
+        election, or nominate another project member with their consent.
+        1.  Elections use time-limited, Condorcet voting.
+        1.  The following are eligible to vote for Community Seats:
+            1.  Project [Members](ROLES.md#member) who have had a merged PR in
+            the 12 months prior to the election; and
+            1.  People who have submitted a voting exception form to the
+            Steering Committee, demonstrating contribution to the Istio project
+            that is of a non-code nature in the 12 months prior to the election,
+            and are granted a vote for the election by a simple majority vote of
+            the Steering Committee.
+        1.  Community Seats are maintained for the term by the individual, even
+        if they change their company affiliation.
+            1.  If an individual changes company affiliation mid-term in a way
+            that is incompatible with the company representation policies in
+            this Charter, the individual may keep their seat for the duration of
+            the term.
+    1.  Two Community Seats will be appointed through a vote of the Steering
+    Committee after the community election.
+        1.  These seats are intended to diversify perspectives and expertise on
+        the Committee.
+    1.  Because the goal of Community Seats is to increase the perspectives on
+    the Steering Committee, employees of a Contributing Company are ineligible
+    to be elected to hold a Community Seat.
+1.  At all meetings of the Steering Committee, at least 60% of the Seats shall
+constitute a quorum for voting purposes. The vote of an affirmative vote of 60%
+of the Seats present at the time of the vote shall be the decision of the
+Steering Committee. However, any changes to the Steering Committee Charter shall
+require both a quorum and a vote of 80% of the Steering Committee Seats.
 
 ## Committee meetings
 
-The Istio Steering Committee meets weekly; currently on Tuesday mornings. 
-Given the nature of the discussions in Steering, meetings are not currently open to the public. Questions around governance are listed as [issues in the community repo](https://github.com/istio/community/labels/steering-governance), and we invite your feedback there. 
+The Istio Steering Committee meets weekly; currently on Tuesday mornings.
+Given the nature of the discussions in Steering, meetings are not currently open to the public. Questions around governance are listed as [issues in the community repo](https://github.com/istio/community/labels/steering-governance), and we invite your feedback there.
 
 ## Committee members
 
@@ -46,29 +127,13 @@ Seats in Steering are held by a company, not by the individual users. Currently 
 
 The Steering Committee was created as the Istio project was in infancy, in order to tackle governance and overall project strategy. To date Istio has the bulk of contributions coming from the project founders, Google & IBM. Together it was decided that having strong corporate leadership was needed for the project to ensure continued velocity. Steering was created with 9 seats held, and with 11 being planned.
 
-*How Are Steering Seats Allocated?*
-
-Allocation is based upon corporate contributions, although no final decision has been made on the exact formula. We do plan to add additional seats to Steering. Community feedback on the process and allocation formula is very welcome! We do want to ensure that those contributing to the project are properly represented. At a minimum, the membership is reviewed once a year.
-
-*Why Does Google Have The Most Seats?*
-
-This is weighted to reflect project contributions.
-
 *What Happens If Someone Leaves the Company They Represent?*
 
-In that case, the company will select another representative to hold the seat. 
+In that case, the company will select another represenative to hold the seat. This has happened twice to date. Dan Berg filled a seat vacated by Shriram Rajagopalan, and Dan Ciruli filled a seat vacated by Varun Talwar.
 
 *What Happens If Someone Leaves the Project or Decides to Leave Steering?*
 
-The same applies; the company will select another representative to hold the seat. 
-
-*Is This Steering Model Permanent?*
-
-We recognize that governance of an open source project is a living document, and evolves as the community and project grows. This is the model that works for the project now. As it matures, and as the community grows, we expect that needs will change. 
-
-*How Are Things Decided By Steering?*
-
-We strive to find a path to consensus. Decisions are made in meetings when a quorum is present, and may pass with majority vote.
+The same applies; the company will select another representative to hold the seat.
 
 ## Getting in touch
 
