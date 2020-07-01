@@ -128,9 +128,13 @@ Seats in Steering are held by a company, not by the individual users. Currently 
 When the Istio project was founded, we decided that having strong corporate
 leadership was needed for the project to ensure continued velocity.
 
-*What Happens If Someone Leaves the Company They Represent?*
+In that case, the company will select another representative to hold the seat.
+This has happened twice to date. Dan Berg filled a seat vacated by Shriram
+Rajagopalan, and Dan Ciruli filled a seat vacated by Varun Talwar.
 
-In that case, the company will select another represenative to hold the seat. This has happened twice to date. Dan Berg filled a seat vacated by Shriram Rajagopalan, and Dan Ciruli filled a seat vacated by Varun Talwar.
+*What Happens If Someone Leaves the Project or Decides to Leave Steering?*
+
+The same applies; the company will select another representative to hold the seat.
 
 *What Happens If Someone Leaves the Project or Decides to Leave Steering?*
 
