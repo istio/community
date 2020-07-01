@@ -19,7 +19,7 @@ and ratification of bylaws for the Steering Committee and Technical Oversight
 Committee.
 1. Establishing and enforcing principles to guide the Istio project.
 1. Fostering an environment for a healthy and happy community of developers,
-contributors, and users.
+contributors, vendors, and users.
 1. Defining, evolving, and defending a
 [Code of Conduct](CONTRIBUTING.md#code-of-conduct).
 1. Advising the trademark owner on issues relating to the Istio trademark and
