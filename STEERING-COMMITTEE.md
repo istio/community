@@ -56,10 +56,11 @@ Committee.
     which are controlled by a common third party entity; and affiliate
     companies, will be treated together as a single entity, referred to as a
     Contributing Company.
-1.  There shall be nine **Contributor Seats**. Their allocation is determined
-by the approximate effort and expenditure on the Istio project, as approximated
-by the number of merged pull requests on GitHub over the one year period prior
-to the Contributor Seat assignments:
+1.  There shall be nine **Contributor Seats** allocated based on contribution to
+the project. The measurements for effort and contributions can change over time
+via the approval process of the Steering committee members. The current
+measurement is based on by the number of merged pull requests on GitHub over the
+one year period prior to the Contributor Seat assignments::
     1.  The top three contributing companies to Istio are eligible for
     Contributor Seats, proportional to their contribution.
         1.  Each company is allocated one seat;
