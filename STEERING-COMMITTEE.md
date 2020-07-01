@@ -136,14 +136,6 @@ Seats in Steering are held by a company, not by the individual users. Currently 
 
 The Steering Committee was created as the Istio project was in infancy, in order to tackle governance and overall project strategy. To date Istio has the bulk of contributions coming from the project founders, Google & IBM. Together it was decided that having strong corporate leadership was needed for the project to ensure continued velocity. Steering was created with 9 seats held, and with 11 being planned.
 
-*How Are Steering Seats Allocated?*
-
-Allocation is based upon corporate contributions, although no final decision has been made on the exact formula. We do plan to add additional seats to Steering. Community feedback on the process and allocation formula is very welcome! We do want to ensure that those contributing to the project are properly represented. At a minimum, the membership is reviewed once a year.
-
-*Why Does Google Have The Most Seats?*
-
-This is weighted to reflect project contributions.
-
 *What Happens If Someone Leaves the Company They Represent?*
 
 In that case, the company will select another representative to hold the seat.
@@ -151,13 +143,6 @@ In that case, the company will select another representative to hold the seat.
 *What Happens If Someone Leaves the Project or Decides to Leave Steering?*
 
 The same applies; the company will select another representative to hold the seat.
-
-*Is This Steering Model Permanent?*
-
-*What Happens If Someone Leaves the Project or Decides to Leave Steering?*
-
-The same applies; the company will select another representative to hold the
-seat.
 
 ## Getting in touch
 
