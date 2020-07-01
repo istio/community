@@ -101,7 +101,7 @@ require both a quorum and a vote of 80% of the Steering Committee Seats.
 
 ## Committee meetings
 
-The Istio Steering Committee meets weekly; currently on Tuesday mornings.
+The Istio Steering Committee meets weekly.
 Given the nature of the discussions in Steering, meetings are not currently open to the public. Questions around governance are listed as [issues in the community repo](https://github.com/istio/community/labels/steering-governance), and we invite your feedback there.
 
 ## Committee members
@@ -125,7 +125,8 @@ Seats in Steering are held by a company, not by the individual users. Currently 
 
 *Why Are Seats Company Held?*
 
-The Steering Committee was created as the Istio project was in infancy, in order to tackle governance and overall project strategy. To date Istio has the bulk of contributions coming from the project founders, Google & IBM. Together it was decided that having strong corporate leadership was needed for the project to ensure continued velocity. Steering was created with 9 seats held, and with 11 being planned.
+When the Istio project was founded, we decided that having strong corporate
+leadership was needed for the project to ensure continued velocity.
 
 *What Happens If Someone Leaves the Company They Represent?*
 
