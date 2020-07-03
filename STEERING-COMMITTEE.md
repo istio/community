@@ -40,14 +40,14 @@ disputes that arise as part of the project.
 invested in the success of the Istio project to participate in business and
 non-technical decision-making.
 1.  All members should abide by the project Code of Conduct.
-1.  There are two types of seats on the Steering Committee: Contributor Seats
+1.  There are two types of seats on the Steering Committee: Contribution Seats
 and Community Seats.
-1.  Both Contributor and Community Seats will be appointed beginning in
+1.  Both Contribution and Community Seats will be appointed beginning in
 July 2020. The appointments for the Contribution and Community seat types will
 expire on staggered dates. After the initial term for both seats, all seats
 will have an annual term.
-1.  Contributor Seat terms expire on January 1 and Community Seat terms expire
-on July 1. If necessary, a company holding a Contributor Seat may change the
+1.  Contribution Seat terms expire on January 1 and Community Seat terms expire
+on July 1. If necessary, a company holding a Contribution Seat may change the
 appointed individual at any time during the term.
 1.  No Contributing Company can have more than 5 seats in total on the Steering
 Committee.
@@ -56,13 +56,13 @@ Committee.
     which are controlled by a common third party entity; and affiliate
     companies, will be treated together as a single entity, referred to as a
     Contributing Company.
-1.  There shall be nine **Contributor Seats** allocated based on contribution to
+1.  There shall be nine **Contribution Seats** allocated based on contribution to
 the project. The measurements for effort and contributions can change over time
 via the approval process of the Steering committee members. The current
 measurement is based on by the number of merged pull requests on GitHub over the
-one year period prior to the Contributor Seat assignments::
+one year period prior to the Contribution Seat assignments:
     1.  The top three contributing companies to Istio are eligible for
-    Contributor Seats, proportional to their contribution.
+    Contribution Seats, proportional to their contribution.
         1.  Each company is allocated one seat;
         1.  The remaining six seats are allocated based on percentage project
         contribution, with no Contributing Company exceeding 5 seats in total
