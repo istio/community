@@ -1028,11 +1028,11 @@ orgs:
         - fpesce
         - irisdingbj
         - jacob-delgado
+        - JimmyCYJ
         - johnma14
         - jwendell
         - rlenglet
         - sdake
-        - JimmyCYJ
         - SecurityInsanity
         privacy: closed
         repos:
@@ -1134,9 +1134,9 @@ orgs:
           Release Managers - 1.7:
             description: Release managers for Istio 1.7
             members:
+            - JimmyCYJ
             - jwendell
             - SecurityInsanity
-            - JimmyCYJ
             privacy: closed
             repos:
               api: write
