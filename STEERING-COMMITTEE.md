@@ -19,11 +19,7 @@ and ratification of bylaws for the Steering Committee and Technical Oversight
 Committee.
 1. Establishing and enforcing principles to guide the Istio project.
 1. Fostering an environment for a healthy and happy community of developers,
-<<<<<<< HEAD
 contributors, vendors, and users.
-=======
-contributors, and users.
->>>>>>> 94726b0... Update STEERING-COMMITTEE.md
 1. Defining, evolving, and defending a
 [Code of Conduct](CONTRIBUTING.md#code-of-conduct).
 1. Advising the trademark owner on issues relating to the Istio trademark and
@@ -44,7 +40,6 @@ disputes that arise as part of the project.
 invested in the success of the Istio project to participate in business and
 non-technical decision-making.
 1.  All members should abide by the project Code of Conduct.
-<<<<<<< HEAD
 1.  There are two types of seats on the Steering Committee: Contribution Seats
 and Community Seats.
 1.  Both Contribution and Community Seats will be appointed beginning in
@@ -53,16 +48,6 @@ expire on staggered dates. After the initial term for both seats, all seats
 will have an annual term.
 1.  Contribution Seat terms expire on January 1 and Community Seat terms expire
 on July 1. If necessary, a company holding a Contribution Seat may change the
-=======
-1.  There are two types of seats on the Steering Committee: Contributor Seats
-and Community Seats.
-1.  Both Contributor and Community Seats will be appointed beginning in
-July 2020. The appointments for the Contribution and Community seat types will
-expire on staggered dates. After the initial term for both seats, all seats
-will have an annual term.
-1.  Contributor Seat terms expire on January 1 and Community Seat terms expire
-on July 1. If necessary, a company holding a Contributor Seat may change the
->>>>>>> 94726b0... Update STEERING-COMMITTEE.md
 appointed individual at any time during the term.
 1.  No Contributing Company can have more than 5 seats in total on the Steering
 Committee.
@@ -71,22 +56,13 @@ Committee.
     which are controlled by a common third party entity; and affiliate
     companies, will be treated together as a single entity, referred to as a
     Contributing Company.
-<<<<<<< HEAD
-1.  There shall be nine **Contribution Seats** allocated based on contribution to
-the project. The measurements for effort and contributions can change over time
-via the approval process of the Steering committee members. The current
+1.  There shall be nine **Contribution Seats** allocated based on contribution
+to the project. The measurements for effort and contributions can change over
+time via the approval process of the Steering committee members. The current
 measurement is based on by the number of merged pull requests on GitHub over the
 one year period prior to the Contribution Seat assignments:
     1.  The top three contributing companies to Istio are eligible for
     Contribution Seats, proportional to their contribution.
-=======
-1.  There shall be nine **Contributor Seats**. Their allocation is determined
-by the approximate effort and expenditure on the Istio project, as approximated
-by the number of merged pull requests on GitHub over the one year period prior
-to the Contributor Seat assignments:
-    1.  The top three contributing companies to Istio are eligible for
-    Contributor Seats, proportional to their contribution.
->>>>>>> 94726b0... Update STEERING-COMMITTEE.md
         1.  Each company is allocated one seat;
         1.  The remaining six seats are allocated based on percentage project
         contribution, with no Contributing Company exceeding 5 seats in total
@@ -153,26 +129,17 @@ Seats in Steering are held by a company, not by the individual users. Currently 
 When the Istio project was founded, we decided that having strong corporate
 leadership was needed for the project to ensure continued velocity.
 
-<<<<<<< HEAD
 In that case, the company will select another representative to hold the seat.
 This has happened twice to date. Dan Berg filled a seat vacated by Shriram
 Rajagopalan, and Dan Ciruli filled a seat vacated by Varun Talwar.
-=======
-*What Happens If Someone Leaves the Company They Represent?*
-
-In that case, the company will select another represenative to hold the seat. This has happened twice to date. Dan Berg filled a seat vacated by Shriram Rajagopalan, and Dan Ciruli filled a seat vacated by Varun Talwar.
->>>>>>> 94726b0... Update STEERING-COMMITTEE.md
 
 *What Happens If Someone Leaves the Project or Decides to Leave Steering?*
 
 The same applies; the company will select another representative to hold the seat.
-<<<<<<< HEAD
 
 *What Happens If Someone Leaves the Project or Decides to Leave Steering?*
 
 The same applies; the company will select another representative to hold the seat.
-=======
->>>>>>> 94726b0... Update STEERING-COMMITTEE.md
 
 ## Getting in touch
 
