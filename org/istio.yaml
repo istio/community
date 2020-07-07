@@ -1028,10 +1028,12 @@ orgs:
         - fpesce
         - irisdingbj
         - jacob-delgado
+        - JimmyCYJ
         - johnma14
         - jwendell
         - rlenglet
         - sdake
+        - SecurityInsanity
         privacy: closed
         repos:
           api: write
@@ -1115,6 +1117,26 @@ orgs:
             - brian-avery
             - irisdingbj
             - jacob-delgado
+            privacy: closed
+            repos:
+              api: write
+              client-go: write
+              cni: write
+              common-files: write
+              installer: write
+              istio: write
+              istio.io: write
+              operator: write
+              pkg: write
+              proxy: write
+              release-builder: write
+              tools: write
+          Release Managers - 1.7:
+            description: Release managers for Istio 1.7
+            members:
+            - JimmyCYJ
+            - jwendell
+            - SecurityInsanity
             privacy: closed
             repos:
               api: write
