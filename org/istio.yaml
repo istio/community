@@ -25,7 +25,6 @@ orgs:
     - andraxylia
     - AsCat
     - axel7born
-    - ayj
     - baodongli
     - bcheung
     - bettyjunod
@@ -280,7 +279,6 @@ orgs:
         - adammil2000
         - andraxylia
         - axel7born
-        - ayj
         - baodongli
         - bcheung
         - bianpengyuan
@@ -493,7 +491,6 @@ orgs:
         members:
         - adammil2000
         - andraxylia
-        - ayj
         - bianpengyuan
         - brian-avery
         - clyang82
@@ -569,7 +566,6 @@ orgs:
           WG - Config Maintainers:
             description: Maintainers for the Config working group.
             members:
-            - ayj
             - jasonwzm
             - nmittler
             privacy: closed
@@ -733,7 +729,6 @@ orgs:
             - howardjohn
             - linsun
             members:
-            - ayj
             - clyang82
             - costinm
             - dgn
@@ -774,7 +769,6 @@ orgs:
             - rshriram
             members:
             - andraxylia
-            - ayj
             - bianpengyuan
             - costinm
             - GregHanson
@@ -999,7 +993,6 @@ orgs:
           WG - User Experience Maintainers:
             description: Maintainers for the User Experience working group.
             members:
-            - ayj
             - esnible
             - irisdingbj
             - jasonwzm
@@ -1319,7 +1312,6 @@ orgs:
         - nrjpoddar
         - rshriram
         members:
-        - ayj
         - brian-avery
         - douglas-reid
         - ericvn
