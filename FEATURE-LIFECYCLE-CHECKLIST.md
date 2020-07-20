@@ -16,7 +16,7 @@ be labeled as Alpha, Beta, or Stable. Once a feature meets the Alpha label
 A development feature can be officially labeled as Alpha once it meets the following
 requirements:
 
-* Development
+* Design
     * Requires Approved RFC in order to merge.
 * Config
     * Requires explicit user action to enable (e.g. a config field, config resource, or installation action).
@@ -41,7 +41,7 @@ requirements:
 
 An Alpha feature can be officially labeled as Beta once it meets the following additional requirements:
 
-* Development
+* Design
     * Requires Approved Design Doc in order to merge.
 * Config
     * Can be enabled by default without requiring explicit user action.
