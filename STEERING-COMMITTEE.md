@@ -98,7 +98,8 @@ one year period prior to the Contribution Seat assignments:
 constitute a quorum for voting purposes. The vote of an affirmative vote of 60%
 of the Seats present at the time of the vote shall be the decision of the
 Steering Committee. However, any changes to the Steering Committee Charter shall
-require a vote of 80% of the Steering Committee Seats.
+require a super-majority vote of at least two-thirds of the Steering Committee
+seats.
 
 ## Committee meetings
 
