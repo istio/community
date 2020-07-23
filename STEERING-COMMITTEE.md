@@ -22,8 +22,8 @@ Committee.
 contributors, vendors, and users.
 1. Defining, evolving, and defending a
 [Code of Conduct](CONTRIBUTING.md#code-of-conduct).
-1. Advising the trademark owner on issues relating to the Istio trademark and
-logo.
+1. Advising the Open Usage Commons on issues relating to the Istio trademark and
+logo, as well as related conformance programs.
 1. Setting marketing and advocacy direction for the project; establishing a
 publishing schedule and vetting content, encouraging and assisting in project
 community members, fostering an ecosystem of vendors, creating content for
@@ -39,15 +39,16 @@ disputes that arise as part of the project.
 1.  The Steering Committee is structured to allow companies who are most
 invested in the success of the Istio project to participate in business and
 non-technical decision-making.
-1.  All members should abide by the project Code of Conduct.
-1.  There are two types of seats on the Steering Committee: Contribution Seats
+1.  All members should abide by the project
+[Code of Conduct](CONTRIBUTING.md#code-of-conduct).
+1.  There are two types of seats on the Steering Committee: Contributor Seats
 and Community Seats.
-1.  Both Contribution and Community Seats will be appointed beginning in
+1.  Both Contributor and Community Seats will be appointed beginning in
 July 2020. The appointments for the Contribution and Community seat types will
 expire on staggered dates. After the initial term for both seats, all seats
 will have an annual term.
-1.  Contribution Seat terms expire on January 1 and Community Seat terms expire
-on July 1. If necessary, a company holding a Contribution Seat may change the
+1.  Contributor Seat terms expire on January 31 and Community Seat terms expire
+on July 31. If necessary, a company holding a Contributor Seat may change the
 appointed individual at any time during the term.
 1.  No Contributing Company can have more than 5 seats in total on the Steering
 Committee.
@@ -56,11 +57,12 @@ Committee.
     which are controlled by a common third party entity; and affiliate
     companies, will be treated together as a single entity, referred to as a
     Contributing Company.
-1.  There shall be nine **Contribution Seats** allocated based on contribution
-to the project. The measurements for effort and contributions can change over
-time via the approval process of the Steering committee members. The current
-measurement is based on by the number of merged pull requests on GitHub over the
-one year period prior to the Contribution Seat assignments:
+1.  There shall be nine **Contributor Seats**.  Their allocation is determined
+by the approximate effort and expenditure on the Istio project.  Each year, the
+Steering Committee will meet and vote on an exact formula and procedure for
+determining allocation, and publish this to the istio/community repository;
+modifications subsequent to the annual publication of rules shall be considered
+modifications to the Steering Committee Charter.
     1.  The top three contributing companies to Istio are eligible for
     Contribution Seats, proportional to their contribution.
         1.  Each company is allocated one seat;
@@ -81,25 +83,30 @@ one year period prior to the Contribution Seat assignments:
             that is of a non-code nature in the 12 months prior to the election,
             and are granted a vote for the election by a simple majority vote of
             the Steering Committee.
+        1.  No Contributing Company can hold more than one Community Seat.
         1.  Community Seats are maintained for the term by the individual, even
         if they change their company affiliation.
             1.  If an individual changes company affiliation mid-term in a way
             that is incompatible with the company representation policies in
-            this Charter, the individual may keep their seat for the duration of
-            the term.
-    1.  Two Community Seats will be appointed through a vote of the Steering
-    Committee after the community election.
-        1.  These seats are intended to diversify perspectives and expertise on
-        the Committee.
-    1.  Because the goal of Community Seats is to increase the perspectives on
-    the Steering Committee, employees of a Contributing Company are ineligible
-    to be elected to hold a Community Seat.
-1.  At all meetings of the Steering Committee, at least 60% of the Seats shall
-constitute a quorum for voting purposes. The vote of an affirmative vote of 60%
-of the Seats present at the time of the vote shall be the decision of the
-Steering Committee. However, any changes to the Steering Committee Charter shall
-require a super-majority vote of at least two-thirds of the Steering Committee
-seats.
+            this Charter, the individual will be considered to have resigned
+            their seat and the first eligible runner-up from the previous
+            election will replace them for the duration of the term. If there
+            is no first runner-up eligible to serve in the as per these rules,
+            then the Steering Committee shall vote by simple majority to replace
+            the seat for the term.
+            1.  Because the goal of Community Seats is to increase the
+            perspectives on the Steering Committee, employees of a Contributing
+            Company are ineligible to be elected to hold a Community Seat.
+1.  A simple majority of Seats shall be sufficient to convene a meeting of the
+Steering Committee, one nominating, and the rest agreeing, over email. Meeting
+proposals shall be circulated to all Seats, and time, location, and medium shall
+be selected to be as convenient as possible. All Seats shall be given at least
+one week written notice that a meeting of the Steering Committee will be held.
+1. At all meetings of the Steering Committee convened under this charter, at
+least 60% of the Seats shall constitute a quorum for voting purposes. The vote
+of an affirmative vote of 60% of the Seats present at the time of the vote shall
+be the decision of the Steering Committee. However, any changes to the Steering
+Committee Charter shall require a vote of 80% of the Steering Committee Seats.
 
 ## Committee meetings
 
