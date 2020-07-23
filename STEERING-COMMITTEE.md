@@ -41,14 +41,14 @@ invested in the success of the Istio project to participate in business and
 non-technical decision-making.
 1.  All members should abide by the project
 [Code of Conduct](CONTRIBUTING.md#code-of-conduct).
-1.  There are two types of seats on the Steering Committee: Contributor Seats
+1.  There are two types of seats on the Steering Committee: Contribution Seats
 and Community Seats.
 1.  Both Contributor and Community Seats will be appointed beginning in
 July 2020. The appointments for the Contribution and Community seat types will
 expire on staggered dates. After the initial term for both seats, all seats
 will have an annual term.
-1.  Contributor Seat terms expire on January 31 and Community Seat terms expire
-on July 31. If necessary, a company holding a Contributor Seat may change the
+1.  Contribution Seat terms expire on January 31 and Community Seat terms expire
+on July 31. If necessary, a company holding a Contribution Seat may change the
 appointed individual at any time during the term.
 1.  No Contributing Company can have more than 5 seats in total on the Steering
 Committee.
@@ -57,7 +57,7 @@ Committee.
     which are controlled by a common third party entity; and affiliate
     companies, will be treated together as a single entity, referred to as a
     Contributing Company.
-1.  There shall be nine **Contributor Seats**.  Their allocation is determined
+1.  There shall be nine **Contribution Seats**.  Their allocation is determined
 by the approximate effort and expenditure on the Istio project.  Each year, the
 Steering Committee will meet and vote on an exact formula and procedure for
 determining allocation, and publish this to the istio/community repository;
