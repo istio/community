@@ -143,10 +143,10 @@ the area before being accepted into the source base.
 
 * Actively contributing to 1 or more areas.
 
-Members are expected to be active participants in the project on an on-going basis. If an individual doesn't contribute to the project for 
+Members are expected to be active participants in the project on an on-going basis. If an individual doesn't contribute to the project for
 a 180 day period, than that individual may lose membership. On-going contributions include:
 
-- Successfully merging pull requests 
+- Successfully merging pull requests
 - Triaging issues or pull requests
 - Commenting on issues or pull requests
 - Closing issues or pull requests
@@ -185,11 +185,9 @@ To become a **Reviewer**, contributors must meet the following **requirements**:
 
 * Demonstrate a solid commitment to documentation quality and use of our style
   guide.
-* Be sponsored by a Istio Maintainer or WG Lead.
+* Be sponsored by an Istio Maintainer or WG Lead.
 
 ### Responsibilities
-
-A **Reviewer** would have the following **responsibilities** in Istio:
 
 * Review PRs in `istio/istio.io` following the process described in the
   [How to review content](https://istio.io/about/contribute/github/#review) guide.
@@ -198,13 +196,12 @@ A **Reviewer** would have the following **responsibilities** in Istio:
 
 ### Privileges
 
-A **Reviewer** would have the following **privileges**:
-
 * Content approved by a **Reviewer** gets prioritized by Maintainers and WG Leads.
 * Reviewers can place a `pre-reviewed` label to notify the Docs WG Leads and
   Maintainers to expedite publication of the pre-reviewed content.
 
-Only Docs Maintainers and WG Leads can merge content into the `istio/istio.io` master.  
+Content reviewers can't merge content into the `istio/istio.io` master; only
+Docs Maintainers and WG Leads can merge content into master.
 
 ## Maintainer
 
