@@ -16,6 +16,7 @@ same process and are given the same level of review.
 - [Setting up to contribute to Istio](#setting-up-to-contribute-to-istio)
 - [Pull requests](#pull-requests)
 - [Issues](#issues)
+- [Contributing a blog](#contributing-a-blog)
 
 You can find additional contributor material on the [Istio Wiki](https://github.com/istio/istio/wiki)
 
@@ -165,3 +166,7 @@ When reporting a bug please include the following key pieces of information:
 - The exact, minimal, steps needed to reproduce the issue.
   Submitting a 5 line script will get a much faster response from the team
   than one that's hundreds of lines long.
+  
+## Contributing a blog
+
+In order to contribute a blog to Istio you'll need to open an [istio.io PR]((https://github.com/istio/istio.io/pulls]).  The proposed blog should be related to Istio and not be vendor focused.  The blog must be reviewed and approved by at least one of the Istio Steering Committee members and at least one of the Documentation maintainers before it can be merged.
