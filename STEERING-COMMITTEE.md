@@ -91,7 +91,7 @@ and community, beginning in August 2020.
     1. Because the goal of Community Seats is to increase the perspectives on
     the Steering Committee, employees of a Company that holds Contribution
     Seats are ineligible to be elected to hold a Community Seat.
-1. A simple majority of Seats shall be sufficient to convene a meeting of the
+1. A simple majority of Seats shall be sufficient to call a vote of the
 Steering Committee, one nominating, and the rest agreeing, over email. Voting
 shall be done electronically, in a manner agreed on by the Steering Committee.
 Voting shall be open for nine calendar days, after which point it shall close.
