@@ -54,15 +54,15 @@ appointed individual at any time during the term.
 1. No Company can have more than 5 seats in total on the Steering Committee.
 1. There shall be nine **Contribution Seats**.  Their allocation is determined
 by the approximate effort and expenditure on the Istio project. Each year, when
-Contribution Seat terms begin, the Steering Committee will meet and vote on an
-exact formula and procedure for determining allocation for the following year.
+Contribution Seat terms begin, the Steering Committee will vote on an exact
+formula and procedure for determining allocation for the following year.
 That procedure will be published to the istio/community repository;
 modifications subsequent to the annual publication of rules shall be considered
 modifications to the Steering Committee Charter.
     1. At least three Companies shall be represented in the Contribution Seat
     membership. If the formula and procedure would not award seats to at least
     three Companies, then the third highest Company shall be awarded a seat,
-    and then the formula and procedure shall be applied to eight Seats instead
+    and then the formula and procedure shall be applied to eight seats instead
     of nine.
 1. There shall be four **Community Seats** elected by the Istio contributors
 and community, beginning in August 2020.
@@ -97,9 +97,9 @@ shall be done electronically, in a manner agreed on by the Steering Committee.
 Voting shall be open for nine calendar days, after which point it shall close.
 If at any point all the Steering Committee members have voted or abstained,
 voting shall close.
-1. The vote of an affirmative vote of 60% of the Seats shall be the decision
-of the Steering Committee. However, any changes to the Steering Committee
-Charter shall require a vote of 80% of the Seats.
+1. An affirmative vote of at least 60% of the Seats shall be the decision of
+the Steering Committee. However, any changes to the Steering Committee charter
+Charter shall require an affirmative vote of at least 80% of the Seats.
 
 ## Committee meetings
 
