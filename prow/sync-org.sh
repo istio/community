@@ -22,5 +22,11 @@ set -e
 # Sync the Github organization according to config in org/
 # Must be run by a Github admin (generally in CI)
 
-/app/prow/cmd/peribolos/app.binary --fix-org --fix-org-members --fix-teams --fix-team-members \
-		--config-path "${WD}"/../org/istio.yaml --github-token-path /etc/github-token/oauth --confirm
+PERIBOLOS="${PERIBOLOS:-peribolos}"
+# Fallback to legacy peribolos binary if not found
+if ! command -v "${PERIBOLOS}" &> /dev/null; then
+	PERIBOLOS=/app/prow/cmd/peribolos/app.binary
+fi
+
+"${PERIBOLOS}" --fix-org --fix-org-members --fix-teams --fix-team-members \
+	--config-path "${WD}"/../org/istio.yaml --github-token-path /etc/github-token/oauth --confirm
