@@ -2,15 +2,19 @@
 # additional access to repos.
 # All members of the org should be present in either `members` or `developers`.
 members:
+- 3ks
+- adiprerepa
 - aliariff
 - anandkumarpatel
 - AsCat
 - bettyjunod
 - canthefason
+- chlins
 - crcsmnky
+- daixiang0
 - devlinmr
 - dzdx
-- gorda
+- heatherzheng
 - helight
 - imjoey
 - istio-release-robot
@@ -19,8 +23,10 @@ members:
 - Jason-ZW
 - jasonall
 - jdumars
+- jgkogan
 - johscheuer
 - josephpeacock
+- justinwei2
 - Katharine
 - kebe7jun
 - kramvan1
@@ -31,12 +37,17 @@ members:
 - mcieplak
 - michelle192837
 - mnktsts2
+- monsteredc
 - Moriadry
 - morningspace
 - mpvl
+- niwatorrri
 - qfel
 - roaldvanloon
+- S-Chan
 - sebastienvas
+- SecurityInsanity
+- Shikugawa
 - shwsingh
 - ssuchter
 - sunshine6
@@ -44,6 +55,8 @@ members:
 - truongnh1992
 - voanhduy1512
 - wusphinx
+- yingzhuivy
 - zcahana
+- ZhengzheYang
 - zhranklin
 - zyfjeff

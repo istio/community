@@ -1,199 +1,9 @@
 teams:
-  Developers:
-    description: Folks actively working on the Istio code base.
-    members:
-      - aattuluri
-      - abhide
-      - adammil2000
-      - andraxylia
-      - axel7born
-      - ayj
-      - baodongli
-      - bianpengyuan
-      - Biwwie
-      - bochunz
-      - brian-avery
-      - c0d1ngm0nk3y
-      - caohe
-      - carolynhu
-      - cesarlbf
-      - cgilmour
-      - ChangyuWang
-      - chases2
-      - ChenLingPeng
-      - christian-posta
-      - cjwagner
-      - clarketm
-      - clyang82
-      - cmluciano
-      - costinm
-      - craigbox
-      - cwocwo
-      - davidebbo
-      - dcberg
-      - dgn
-      - diemtvu
-      - dmitri-d
-      - doonhammer
-      - douglas-reid
-      - draveness
-      - dreadbird
-      - duderino
-      - dwradcliffe
-      - edussx
-      - elevran
-      - elfinhe
-      - ericvn
-      - esnible
-      - fejta
-      - fisherxu
-      - fleeto
-      - fpesce
-      - frankbu
-      - gargnupur
-      - gbaufake
-      - google-admin
-      - googlebot
-      - GregHanson
-      - gyliu513
-      - hex108
-      - holgero
-      - howardjohn
-      - huang195
-      - hwdef
-      - hzxuzhonghu
-      - ibm-jason
-      - icygalz
-      - idouba
-      - incfly
-      - irisdingbj
-      - islinwb
-      - istio-policy-bot
-      - istio-testing
-      - jackkleeman
-      - jasonwzm
-      - JHDST
-      - JimmyCYJ
-      - jkbschmid
-      - jmazzitelli
-      - john-a-joyce
-      - johnma14
-      - jpapejr
-      - jplevyak
-      - jsenon
-      - jsPlachetka
-      - justinpettit
-      - jwendell
-      - kimikowang
-      - knightXun
-      - knrc
-      - kramerul
-      - kyessenov
-      - lambdai
-      - ldemailly
-      - leecalcote
-      - lei-tang
-      - leowucn
-      - liamawhite
-      - lichuqiang
-      - liminw
-      - linsun
-      - lizan
-      - loewenstein
-      - lookuptable
-      - louiscryan
-      - loverto
-      - m1093782566
-      - mandarjog
-      - mangchiandjjoe
-      - martonsereg
-      - mattdelco
-      - mbanikazemi
-      - morvencao
-      - Mr-Linus
-      - mrshengzyzy
-      - munnerz
-      - munrodg
-      - myidpt
-      - nak3
-      - Nino-K
-      - nmittler
-      - nmnellis
-      - nrjpoddar
-      - oaktowner
-      - objectiser
-      - ostromart
-      - phil9909
-      - philrud
-      - PiotrSikora
-      - pipejakob
-      - pitlv2109
-      - pmichali
-      - quanjielin
-      - ramaraochavali
-      - rcaballeromx
-      - rcernich
-      - rcurran1
-      - richardwxn
-      - rlenferink
-      - rlenglet
-      - rootsongjc
-      - rosenhouse
-      - rshriram
-      - ruigulala
-      - rvennam
-      - rytswd
-      - SataQiu
-      - saumoh
-      - sbezverk
-      - scottilee
-      - sdake
-      - seflerZ
-      - selmanj
-      - smawson
-      - sniperking1234
-      - spikecurtis
-      - stevenctl
-      - stewart-yu
-      - stewartbutler
-      - supereagle
-      - suryadu
-      - swade1987
-      - tangiel
-      - tanjunchen
-      - tariq1890
-      - theganyo
-      - therealmitchconnors
-      - tiswanso
-      - tvieira
-      - utako
-      - venilnoronha
-      - vii
-      - waret
-      - wattli
-      - waynz0r
-      - wenchenglu
-      - withlin
-      - x15zhang
-      - XanderStrike
-      - xieydd
-      - yangminzhu
-      - ymesika
-      - yuxiaobo96
-      - yxue
-      - zachgersh
-      - ZackButcher
-      - zehuaiWANG
-      - zerobfd
-      - zhaohuabing
-      - zhongfox
-      - zqzzq
   Maintainers:
     description: Maintainers of the Istio project.
     members:
       - adammil2000
       - andraxylia
-      - ayj
       - bianpengyuan
       - brian-avery
       - clarketm
@@ -257,7 +67,6 @@ teams:
       WG - Config Maintainers:
         description: Maintainers for the Config working group.
         members:
-          - ayj
           - jasonwzm
           - nmittler
       WG - Docs Maintainers:
@@ -305,7 +114,6 @@ teams:
       WG - Environments Maintainers:
         description: Maintainers for the Environments working group.
         members:
-          - ayj
           - clyang82
           - costinm
           - dgn
@@ -323,7 +131,6 @@ teams:
         description: Maintainers for the Networking working group
         members:
           - andraxylia
-          - ayj
           - bianpengyuan
           - costinm
           - duderino
@@ -416,7 +223,6 @@ teams:
       WG - User Experience Maintainers:
         description: Maintainers for the User Experience working group.
         members:
-          - ayj
           - esnible
           - irisdingbj
           - jasonwzm
@@ -588,7 +394,6 @@ teams:
   Working Group Leads:
     description: Working group leads - for easy communication in github
     members:
-      - ayj
       - brian-avery
       - douglas-reid
       - duderino
