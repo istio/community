@@ -67,6 +67,7 @@ privileges.
       <td>Like a member, plus:
           <p>Able to approve code changes in GitHub</p>
           <p>Voting rights in the context of working group decision-making</p>
+          <p>Responsible for making sure that release notes and upgrade notes get added to pull requests with user facing changes</p>
       </td>
     </tr>
     <tr>
@@ -100,7 +101,7 @@ privileges.
       <td><a href="#release-manager">Release manager</a></td>
       <td>Sheperd a release through to general availability</td>
       <td>Appointed by the <a href="./TECH-OVERSIGHT-COMMITTEE.md">technical oversight committee</a></td>
-      <td>Admin privilege over the GitHub repos</td>
+      <td></td>
     </tr>
     <tr>
       <td><a href="#sponsor">Sponsor</a></td>
