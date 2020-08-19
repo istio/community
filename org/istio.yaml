@@ -593,7 +593,6 @@ orgs:
               tools: write
           WG - Docs Maintainers:
             description: Maintainers of the Docs working group.
-            maintainers:
             members:
             - adammil2000
             - ericvn
@@ -679,7 +678,6 @@ orgs:
                   tools: write
               WG - Docs Maintainers/Infra:
                 description: Maintainers of the doc build & site infrastructure
-                maintainers:
                 members:
                 - adammil2000
                 - ericvn

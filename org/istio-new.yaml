@@ -518,6 +518,228 @@ orgs:
         has_projects: false
         has_wiki: false
     teams:
+      Developers:
+        description: Folks actively working on the Istio code base.
+        maintainers:
+        - dcberg
+        - duderino
+        - google-admin
+        - googlebot
+        - howardjohn
+        - istio-testing
+        - linsun
+        - louiscryan
+        - nrjpoddar
+        - rshriram
+        - smawson
+        members:
+        - aattuluri
+        - abhide
+        - adammil2000
+        - andraxylia
+        - axel7born
+        - baodongli
+        - bcheung
+        - bianpengyuan
+        - bison
+        - Biwwie
+        - bochunz
+        - brian-avery
+        - c0d1ngm0nk3y
+        - caohe
+        - carolynhu
+        - cesarlbf
+        - cgilmour
+        - ChangyuWang
+        - chases2
+        - ChenLingPeng
+        - christian-posta
+        - cjwagner
+        - clarketm
+        - clyang82
+        - cmluciano
+        - costinm
+        - craigbox
+        - cwocwo
+        - davidebbo
+        - davidraskin
+        - dgn
+        - diemtvu
+        - dmitri-d
+        - domgoer
+        - doonhammer
+        - douglas-reid
+        - draveness
+        - dreadbird
+        - dwradcliffe
+        - edussx
+        - elevran
+        - elfinhe
+        - ericvn
+        - esnible
+        - fejta
+        - fisherxu
+        - fleeto
+        - fpesce
+        - frankbu
+        - gargnupur
+        - gbaufake
+        - GregHanson
+        - gyliu513
+        - hex108
+        - holgero
+        - huang195
+        - hwdef
+        - hzxuzhonghu
+        - ibm-jason
+        - icygalz
+        - idouba
+        - incfly
+        - irisdingbj
+        - islinwb
+        - istio-policy-bot
+        - jackkleeman
+        - jasonwzm
+        - JHDST
+        - JimmyCYJ
+        - jkbschmid
+        - jmazzitelli
+        - joeyb
+        - john-a-joyce
+        - johnma14
+        - jpapejr
+        - jplevyak
+        - jsenon
+        - jsPlachetka
+        - justinpettit
+        - jwendell
+        - kevin21th
+        - kimikowang
+        - knight42
+        - knightXun
+        - knrc
+        - kramerul
+        - kyessenov
+        - lambdai
+        - ldemailly
+        - leecalcote
+        - lei-tang
+        - leowucn
+        - liamawhite
+        - lichuqiang
+        - liminw
+        - lizan
+        - loewenstein
+        - lookuptable
+        - loverto
+        - m1093782566
+        - mandarjog
+        - mangchiandjjoe
+        - martonsereg
+        - mattdelco
+        - mbanikazemi
+        - morvencao
+        - Mr-Linus
+        - mrshengzyzy
+        - munnerz
+        - munrodg
+        - myidpt
+        - nak3
+        - Nino-K
+        - nmittler
+        - nmnellis
+        - nschhina
+        - oaktowner
+        - objectiser
+        - ostromart
+        - phil9909
+        - philrud
+        - PiotrSikora
+        - pipejakob
+        - pitlv2109
+        - pmichali
+        - quanjielin
+        - qwertyuiop888
+        - ramaraochavali
+        - rcaballeromx
+        - rcernich
+        - rcurran1
+        - richardwxn
+        - rlenferink
+        - rlenglet
+        - rootsongjc
+        - rosenhouse
+        - ruigulala
+        - rvennam
+        - rytswd
+        - SataQiu
+        - saumoh
+        - sbezverk
+        - scottilee
+        - sdake
+        - seflerZ
+        - selmanj
+        - shakti-das
+        - shamsher31
+        - sniperking1234
+        - spikecurtis
+        - stevenctl
+        - stewart-yu
+        - stewartbutler
+        - supereagle
+        - suryadu
+        - swade1987
+        - tangiel
+        - tanjunchen
+        - tariq1890
+        - tbarrella
+        - theganyo
+        - therealmitchconnors
+        - tiswanso
+        - tvieira
+        - utako
+        - venilnoronha
+        - vii
+        - waret
+        - wattli
+        - waynz0r
+        - wenchenglu
+        - williamaronli
+        - withlin
+        - x15zhang
+        - XanderStrike
+        - xieydd
+        - xulingqing
+        - yangminzhu
+        - ymesika
+        - yuxiaobo96
+        - yxue
+        - zachgersh
+        - ZackButcher
+        - zehuaiWANG
+        - zerobfd
+        - zhaohuabing
+        - zhongfox
+        - zqzzq
+        privacy: closed
+        repos:
+          api: write
+          bots: write
+          client-go: write
+          cni: write
+          common-files: write
+          cri: write
+          envoy: write
+          gogo-genproto: write
+          installer: write
+          istio: write
+          istio.io: write
+          operator: write
+          pkg: write
+          proxy: write
+          release-builder: write
+          test-infra: write
+          tools: write
       Maintainers:
         description: Maintainers of the Istio project.
         maintainers:
@@ -531,7 +753,6 @@ orgs:
         - andraxylia
         - bianpengyuan
         - brian-avery
-        - clarketm
         - clyang82
         - costinm
         - dgn
@@ -546,7 +767,6 @@ orgs:
         - frankbu
         - gargnupur
         - gbaufake
-        - geeknoid
         - GregHanson
         - hzxuzhonghu
         - incfly
@@ -640,7 +860,6 @@ orgs:
             - rcaballeromx
             - rootsongjc
             - SataQiu
-            - sdake
             privacy: closed
             repos:
               api: write
@@ -719,9 +938,7 @@ orgs:
                 - adammil2000
                 - ericvn
                 - frankbu
-                - geeknoid
                 - rcaballeromx
-                - sdake
                 privacy: closed
                 repos:
                   api: write
@@ -967,9 +1184,9 @@ orgs:
           WG - Security Maintainers:
             description: Maintainers for the Security working group
             members:
-            - diemtvu
             - incfly
             - JimmyCYJ
+            - lei-tang
             - liminw
             - lizan
             - myidpt
@@ -1002,7 +1219,6 @@ orgs:
             members:
             - brian-avery
             - carolynhu
-            - clarketm
             - ericvn
             - fejta
             - fpesce
@@ -1011,6 +1227,7 @@ orgs:
             - nmittler
             - richardwxn
             - sdake
+            - stevenctl
             - therealmitchconnors
             privacy: closed
             repos:
@@ -1070,10 +1287,12 @@ orgs:
         - fpesce
         - irisdingbj
         - jacob-delgado
+        - JimmyCYJ
         - johnma14
         - jwendell
         - rlenglet
         - sdake
+        - SecurityInsanity
         privacy: closed
         repos:
           api: write
@@ -1149,6 +1368,7 @@ orgs:
             description: Release managers for Istio 1.5
             members:
             - dgn
+            - ericvn
             - fpesce
             - johnma14
             privacy: closed
@@ -1176,6 +1396,31 @@ orgs:
             - brian-avery
             - irisdingbj
             - jacob-delgado
+            privacy: closed
+            repos:
+              api: write
+              bots: write
+              client-go: write
+              cni: write
+              common-files: write
+              cri: write
+              envoy: write
+              gogo-genproto: write
+              installer: write
+              istio: write
+              istio.io: write
+              operator: write
+              pkg: write
+              proxy: write
+              release-builder: write
+              test-infra: write
+              tools: write
+          Release Managers - 1.7:
+            description: Release managers for Istio 1.7
+            members:
+            - JimmyCYJ
+            - jwendell
+            - SecurityInsanity
             privacy: closed
             repos:
               api: write
@@ -1321,6 +1566,7 @@ orgs:
         - duderino
         - linsun
         - louiscryan
+        - nrjpoddar
         - rshriram
         - smawson
         privacy: closed

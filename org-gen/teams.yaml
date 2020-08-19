@@ -6,7 +6,6 @@ teams:
       - andraxylia
       - bianpengyuan
       - brian-avery
-      - clarketm
       - clyang82
       - costinm
       - dgn
@@ -22,7 +21,6 @@ teams:
       - frankbu
       - gargnupur
       - gbaufake
-      - geeknoid
       - GregHanson
       - howardjohn
       - hzxuzhonghu
@@ -82,7 +80,6 @@ teams:
           - rcaballeromx
           - rootsongjc
           - SataQiu
-          - sdake
         teams:
           WG - Docs  Maintainers/English:
             description: Maintainers of the English documentation.
@@ -104,9 +101,7 @@ teams:
               - adammil2000
               - ericvn
               - frankbu
-              - geeknoid
               - rcaballeromx
-              - sdake
           WG - Docs Maintainers/Portuguese:
             description: Maintainers of the Portuguese documentation
             members:
@@ -195,9 +190,9 @@ teams:
       WG - Security Maintainers:
         description: Maintainers for the Security working group
         members:
-          - diemtvu
           - incfly
           - JimmyCYJ
+          - lei-tang
           - liminw
           - lizan
           - myidpt
@@ -207,7 +202,6 @@ teams:
         members:
           - brian-avery
           - carolynhu
-          - clarketm
           - duderino
           - ericvn
           - fejta
@@ -219,6 +213,7 @@ teams:
           - nmittler
           - richardwxn
           - sdake
+          - stevenctl
           - therealmitchconnors
       WG - User Experience Maintainers:
         description: Maintainers for the User Experience working group.
@@ -239,10 +234,12 @@ teams:
       - howardjohn
       - irisdingbj
       - jacob-delgado
+      - JimmyCYJ
       - johnma14
       - jwendell
       - rlenglet
       - sdake
+      - SecurityInsanity
     teams:
       Release Managers - 1.3:
         description: Release managers for Istio 1.3
@@ -260,6 +257,7 @@ teams:
         description: Release managers for Istio 1.5
         members:
           - dgn
+          - ericvn
           - fpesce
           - johnma14
       Release Managers - 1.6:
@@ -268,6 +266,12 @@ teams:
           - brian-avery
           - irisdingbj
           - jacob-delgado
+      Release Managers - 1.7:
+        description: Release managers for Istio 1.7
+        members:
+        - JimmyCYJ
+        - jwendell
+        - SecurityInsanity
   Repo Admins:
     description: Folks with admin permission on all repos.
     members:
@@ -370,6 +374,7 @@ teams:
       - duderino
       - linsun
       - louiscryan
+      - nrjpoddar
       - rshriram
       - smawson
   Triagers:

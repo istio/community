@@ -89,10 +89,24 @@ var repos = map[string]github.RepoPermissionLevel{
 	"tools":           github.Write,
 }
 
+func strPointer(s string) *string {
+	return &s
+}
+
 func convertConfig(cfg Organization) org.FullConfig {
 	allMembers := cfg.Members[:]
 	allMembers = append(allMembers, cfg.Developers...)
 	sort.Slice(allMembers, func(i, j int) bool { return strings.ToLower(allMembers[i]) < strings.ToLower(allMembers[j]) })
+
+	// Insert the developers team, which is handled separately
+	closed := org.Closed
+	cfg.Teams["Developers"] = org.Team{
+		TeamMetadata: org.TeamMetadata{
+			Description: strPointer("Folks actively working on the Istio code base."),
+			Privacy:     &closed,
+		},
+		Members:      cfg.Developers,
+	}
 
 	istio := org.Config{
 		Metadata: org.Metadata{

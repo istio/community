@@ -31,6 +31,7 @@ developers:
 - cwocwo
 - davidebbo
 - davidraskin
+- dcberg
 - dgn
 - diemtvu
 - dmitri-d
@@ -39,6 +40,7 @@ developers:
 - douglas-reid
 - draveness
 - dreadbird
+- duderino
 - dwradcliffe
 - edussx
 - elevran
@@ -52,11 +54,13 @@ developers:
 - frankbu
 - gargnupur
 - gbaufake
-- geeknoid
+- google-admin
+- googlebot
 - GregHanson
 - gyliu513
 - hex108
 - holgero
+- howardjohn
 - huang195
 - hwdef
 - hzxuzhonghu
@@ -67,6 +71,7 @@ developers:
 - irisdingbj
 - islinwb
 - istio-policy-bot
+- istio-testing
 - jackkleeman
 - jasonwzm
 - JHDST
@@ -97,9 +102,11 @@ developers:
 - liamawhite
 - lichuqiang
 - liminw
+- linsun
 - lizan
 - loewenstein
 - lookuptable
+- louiscryan
 - loverto
 - m1093782566
 - mandarjog
@@ -139,6 +146,7 @@ developers:
 - rlenglet
 - rootsongjc
 - rosenhouse
+- rshriram
 - ruigulala
 - rvennam
 - rytswd
@@ -151,6 +159,7 @@ developers:
 - selmanj
 - shakti-das
 - shamsher31
+- smawson
 - sniperking1234
 - spikecurtis
 - stevenctl
