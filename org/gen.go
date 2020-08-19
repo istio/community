@@ -22,9 +22,13 @@ type Organization struct {
 	Teams      map[string]org.Team `json:"teams,omitempty"`
 }
 
+var (
+	input  = flag.String("input", "org", "folder to read config from")
+	output = flag.String("output", "", "file to write config to")
+)
+
 func main() {
-	input := flag.String("input folder", "org-gen", "folder to read config from")
-	output := flag.String("output folder", "org/istio-new.yaml", "file to write config to")
+	flag.Parse()
 	cfg, err := readConfig(*input)
 	if err != nil {
 		exit(err)
@@ -105,7 +109,7 @@ func convertConfig(cfg Organization) org.FullConfig {
 			Description: strPointer("Folks actively working on the Istio code base."),
 			Privacy:     &closed,
 		},
-		Members:      cfg.Developers,
+		Members: cfg.Developers,
 	}
 
 	istio := org.Config{
