@@ -16,9 +16,9 @@ Some direct responsibilities of steering members to consider as you are deciding
 
 ## Schedule
 
-
-| August 24 | Announcement of Election and publication of VOTERS.md |
+| | |
 |-----|-----|
+| August 24 | Announcement of Election and publication of VOTERS.md |
 | August 27 | Istio Community Meeting discussing the election process |
 | September 6 | Candidate bios and voting exception forms due by 0000 UTC (5pm PST)
 | ~1 week | Election prep week (voters.md validation and CIVS setup and testing) | 
@@ -28,7 +28,7 @@ Some direct responsibilities of steering members to consider as you are deciding
 
 ## Candidacy process
 
-Eligibility for candidacy is defined in the Steering Committee charter as a project member who does not work for a Company that holds a Contribution Seat.
+Eligibility for candidacy is defined in the Steering Committee charter as a [project member](../../../ROLES.md#member) who does not work for a Company that holds a Contribution Seat.
 
 Members from Google, IBM, Red Hat and Salesforce are therefore ineligible to stand in this election.
 
@@ -38,9 +38,9 @@ Nominees, if eligible, should submit a Pull Request with a biography with a maxi
 
 ## Voting process
 
-Eligibility to vote is defined in the Steering Committee charter as either:
+Eligibility to vote is defined in the [Steering Committee charter](../../../STEERING-COMMITTEE.md) as either:
 - a project member who has had at least one Pull Request merged in the past 12 months, or
-someone who has submitted the voting exception form and has been accepted by the steering committee as having standing in the community.
+someone who has submitted the [voting exception form](https://forms.gle/jeZd9Qs9smabXod67) and has been accepted by the steering committee as having standing in the community.
 - Elections will be held using time-limited Condorcet ranking on CIVS using the IRV method. 
 The top four candidates who are employed by a unique Company (as defined in the Charter) shall be deemed to be elected.
 
