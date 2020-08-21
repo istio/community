@@ -30,4 +30,4 @@ go run org/gen.go --output "${OUT_DIR}/istio.yaml"
 echo "Generated configuration: $(cat "${OUT_DIR}/istio.yaml")"
 
 peribolos --fix-org --fix-org-members --fix-teams --fix-team-members \
-	--config-path "${WD}"/../org/istio.yaml --github-token-path /etc/github-token/oauth --confirm
+	--config-path "${OUT_DIR}/istio.yaml" --github-token-path /etc/github-token/oauth --confirm
