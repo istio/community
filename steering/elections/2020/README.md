@@ -20,10 +20,10 @@ Some direct responsibilities of steering members to consider as you are deciding
 |-----|-----|
 | August 24 | Announcement of Election and publication of VOTERS.md |
 | August 27 | Istio Community Meeting discussing the election process |
-| September 6 | Candidate bios and voting exception forms due by 0000 UTC (5pm PST)
+| September 6 | Candidate bios and voting exception forms due by 0000 UTC (5pm PDT)
 | ~1 week | Election prep week (voters.md validation and CIVS setup and testing) | 
 | September 14 | Election begins via email ballots
-| September 27 | Election closes by 0000 UTC (5pm PST) | 
+| September 27 | Election closes by 0000 UTC (5pm PDT) | 
 | w/c September 28 | Winners announced
 
 ## Candidacy process
