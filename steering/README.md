@@ -5,7 +5,7 @@ Steering was created to allow the [Technical Oversight Committee](../TECH-OVERSI
 
 ## Charter
 
-See [CHARTER.md](charter.md).
+See [CHARTER.md](CHARTER.md).
 
 ## Members
 
