@@ -1,14 +1,5 @@
 # Istio Steering Committee
 
-The Istio Steering Committee was formed to oversee the administrative aspects of the project, including governance, branding, and marketing.
-Steering was created to allow the Technical Oversight Committee to exclusively focus on the technical aspects of the project.
-
-* [Charter](#charter)
-* [Membership and Voting](#membership-and-voting)
-* [Committee meetings](#committee-meetings)
-* [Committee members](#committee-members)
-* [Getting in touch](#getting-in-touch)
-
 ## Charter
 
 The Steering Committee’s responsibilities include:
@@ -20,7 +11,7 @@ Committee.
 1. Fostering an environment for a healthy and happy community of developers,
 contributors, vendors, and users.
 1. Defining, evolving, and defending a
-[Code of Conduct](CONTRIBUTING.md#code-of-conduct).
+[Code of Conduct](../CONTRIBUTING.md#code-of-conduct).
 1. Advising the Open Usage Commons on issues relating to the Istio trademark and
 logo, as well as related conformance programs.
 1. Setting marketing and advocacy direction for the project; establishing a
@@ -66,11 +57,11 @@ modifications to the Steering Committee Charter.
     of nine.
 1. There shall be four **Community Seats** elected by the Istio contributors
 and community, beginning in August 2020.
-    1. Any [project member](ROLES.md#member) can self-nominate for the
+    1. Any [project member](../ROLES.md#member) can self-nominate for the
     election, or nominate another project member with their consent.
     1. Elections shall use time-limited, Condorcet voting.
     1. The following are eligible to vote for Community Seats:
-        1. [Project members](ROLES.md#member) who have had a merged PR in
+        1. [Project members](../ROLES.md#member) who have had a merged PR in
         the 12 months prior to the election; and
         1. People who have submitted a voting exception form to the
         Steering Committee, demonstrating contribution to the Istio project
@@ -100,30 +91,3 @@ voting shall close.
 1. An affirmative vote of at least 60% of the Seats shall be the decision of
 the Steering Committee. However, any changes to the Steering Committee charter
 Charter shall require an affirmative vote of at least 80% of the Seats.
-
-## Committee meetings
-
-The Istio Steering Committee meets weekly.
-Given the nature of the discussions in Steering, meetings are not currently open to the public. Questions around governance are listed as [issues in the community repo](https://github.com/istio/community/labels/steering-governance), and we invite your feedback there.
-
-## Committee members
-
-&nbsp; | Name | Company | Profile
----|---|---|---
-<img width="30px" src="https://avatars0.githubusercontent.com/u/3277917?s=400&v=4"> | Dan Berg | IBM | [dcberg](https://github.com/dcberg)
-<img width="30px" src="https://avatars0.githubusercontent.com/u/132510?s=460&v=4"> | Craig Box | Google | [craigbox](https://github.com/craigbox)
-<img width="30px" src="https://avatars0.githubusercontent.com/u/7143347?s=460&v=4"> | Dan Ciruli | Google | [oaktowner](https://github.com/oaktowner)
-&nbsp; | Kevin Conner | Red Hat | [knrc](https://github.com/knrc)
-&nbsp; | Jennifer Lin | Google | &nbsp;
-<img width="30px" src="https://avatars0.githubusercontent.com/u/1562325?s=400&v=4"> | Sven Mawson | Google | [smawson](https://github.com/smawson)
-<img width="30px" src="https://pbs.twimg.com/profile_images/838075233445695489/o2eAYJAV_400x400.jpg"> | Louis Ryan | Google | [louiscryan](https://github.com/louiscryan)
-<img width="30px" src="https://avatars3.githubusercontent.com/u/1934555?s=400&v=4">  | Sean Suchter | Google | [ssuchter](https://github.com/ssuchter)
-<img width="30px" src="https://avatars1.githubusercontent.com/u/1588319?s=400&v=4">  | Lin Sun | IBM | [linsun](https://github.com/linsun)
-<img width="30px" src="https://avatars1.githubusercontent.com/u/5502967?s=400&v=4">  | Ram Vennam | IBM | [rvennam](https://github.com/rvennam)
-
-## Getting in touch
-
-If you'd like to reach out to the committee please drop a note to
-[steering@discuss.istio.io](mailto:steering@discuss.istio.io) or contact any
-of the individuals listed above on [discuss.istio.io](https://discuss.istio.io)
-or on GitHub.
