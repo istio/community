@@ -1,6 +1,6 @@
 # 2020 Istio Steering Committee election guide
 
-The Steering Committee is composed of nine (9) Contribution Seats and four (4) Community Seats. The role of this election is to elect the four Community Seats to the Istio Steering Committee.
+The Steering Committee is composed of nine (9) Contribution Seats and four (4) Community Seats. The role of this election is to elect the four Community Seats to the Istio Steering Committee for a one-year term.
 
 ## Background
 
@@ -41,8 +41,9 @@ Nominees, if eligible, should submit a Pull Request with a biography with a maxi
 Eligibility to vote is defined in the [Steering Committee charter](../../CHARTER.md) as either:
 
 - a project member who has had at least one Pull Request merged in the past 12 months, or
-someone who has submitted the [voting exception form](https://forms.gle/jeZd9Qs9smabXod67) and has been accepted by the steering committee as having standing in the community.
-- Elections will be held using time-limited Condorcet ranking on CIVS using the IRV method. 
+- someone who has submitted the [voting exception form](https://forms.gle/jeZd9Qs9smabXod67) and has been accepted by the steering committee as having standing in the community.
+
+Elections will be held using time-limited Condorcet ranking on CIVS using the IRV method.
 The top four candidates who are employed by a unique Company (as defined in the Charter) shall be deemed to be elected.
 
 The election will open for voting starting September 14th via email and end two weeks after on September 27, 2020 at 0000 UTC. You will receive an email to the address on file at the start of the election from `Istio (CIVS Poll Supervisor) <civs@cs.cornell.edu>`. Detailed voting instructions will be provided in the email and on the CIVS polling page. Please note that email can be unreliable, so you are encouraged to contact the election officials if you do not receive a ballot by September 12.
