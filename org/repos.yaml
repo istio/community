@@ -1,0 +1,252 @@
+repos:
+  api:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    allow_squash_merge: false
+    description: API definitions for the Istio project
+    has_projects: false
+    has_wiki: false
+  bots:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    allow_squash_merge: false
+    description: Source code for bots used by the Istio project.
+    has_issues: false
+    has_projects: false
+    has_wiki: false
+  bottestrepo:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    allow_squash_merge: false
+    description: Used for testing the Istio bots
+    has_projects: false
+  client-go:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    allow_squash_merge: false
+    description: Go client libraries for the Istio API.
+    has_issues: false
+    has_projects: false
+    has_wiki: false
+  cni:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    allow_squash_merge: false
+    description: Istio CNI to setup kubernetes pod namespaces to redirect traffic to
+      sidecar proxy.
+    has_issues: false
+    has_projects: false
+    has_wiki: false
+  common-files:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    allow_squash_merge: false
+    description: Contains build files shared by many Istio repos.
+    has_issues: false
+    has_projects: false
+    has_wiki: false
+  community:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    allow_squash_merge: false
+    description: Istio governance material.
+    has_projects: false
+    has_wiki: false
+    homepage: https://istio.io/community
+  cri:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    allow_squash_merge: false
+    description: Istio CRI
+    has_issues: false
+    has_projects: false
+    has_wiki: false
+  enhancements:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    allow_squash_merge: false
+    description: Enhancement Tracking and Backlog Repo for Istio Releases
+    has_projects: false
+  envoy:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    allow_squash_merge: false
+    description: Fork of Envoy used for testing and tinkering as part of the Istio dev
+      process
+    has_issues: false
+    has_projects: false
+    has_wiki: false
+    homepage: https://envoyproxy.github.io/
+  fortio-deployment:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    allow_squash_merge: false
+    description: Deployment files for Fortio.
+    has_issues: false
+    has_projects: false
+    has_wiki: false
+  glog:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    allow_squash_merge: false
+    description: A replacement for the glog package that directs logging to zap.
+    has_issues: false
+    has_projects: false
+    has_wiki: false
+  gogo-genproto:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    allow_squash_merge: false
+    description: Houses generated source code for imported libraries used within Istio.
+    has_issues: false
+    has_projects: false
+    has_wiki: false
+  installer:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    allow_squash_merge: false
+    description: A modular, a-la-carte installer for Istio components
+    has_issues: false
+    has_projects: false
+  istio:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    allow_squash_merge: false
+    description: Connect, secure, control, and observe services.
+    has_projects: false
+    homepage: https://istio.io
+  istio.io:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    allow_squash_merge: false
+    description: Source for the istio.io site
+    has_projects: false
+    has_wiki: false
+    homepage: https://istio.io/
+  klog:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    allow_squash_merge: false
+    description: A replacement for the klog package that directs logging to zap.
+    has_issues: false
+    has_projects: false
+    has_wiki: false
+  old_auth_repo:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    allow_squash_merge: false
+    archived: true
+    description: Deprecated home of Istio authentication components, now in istio/istio's
+      security dir
+    has_projects: false
+  old_broker_repo:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    allow_squash_merge: false
+    archived: true
+    description: Deprecated home of Istio's Service Broker, now in istio/istio's broker
+      dir
+    has_projects: false
+  old_issues_repo:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    allow_squash_merge: false
+    archived: true
+    description: Deprecated issue-tracking repo, please post new issues or feature requests
+      to istio/istio instead.
+    has_projects: false
+    has_wiki: false
+  old_manifest_repo:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    allow_squash_merge: false
+    archived: true
+    has_issues: false
+    has_projects: false
+    has_wiki: false
+  old_mixer_repo:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    allow_squash_merge: false
+    archived: true
+    description: Deprecated home of Istio's Mixer and its adapters, now in istio/istio's
+      mixer dir
+    has_projects: false
+    homepage: https://github.com/istio/istio/tree/master/mixer
+  old_mixerclient_repo:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    allow_squash_merge: false
+    archived: true
+    description: Deprecated home of the C++ client library for Mixer's API, now in istio/proxy
+    has_projects: false
+  old_pilot_repo:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    allow_squash_merge: false
+    archived: true
+    description: Deprecated home of Istio's Pilot, now in istio/istio's pilot dir
+    has_projects: false
+  old_vendor-istio_repo:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    allow_squash_merge: false
+    archived: true
+    description: (former) Vendored dependencies for the main istio repo
+    has_projects: false
+    homepage: https://github.com/istio/istio/wiki/Vendor-FAQ
+  operator:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    allow_squash_merge: false
+    description: Istio operator provides user friendly options to operate the Istio
+      service mesh
+    has_issues: false
+    has_projects: false
+    has_wiki: false
+  pkg:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    allow_squash_merge: false
+    description: Common packages used by other repos.
+    has_issues: false
+    has_projects: false
+    has_wiki: false
+  proxy:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    allow_squash_merge: false
+    description: The Istio proxy components.
+    has_issues: false
+    has_projects: false
+    has_wiki: false
+  release-builder:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    allow_squash_merge: false
+    description: Builds istio releases in a hermetic and reproducible environment
+    has_issues: false
+    has_projects: false
+    has_wiki: false
+  test-infra:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    allow_squash_merge: false
+    has_projects: false
+    has_wiki: false
+  tools:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    allow_squash_merge: false
+    description: Tools shared by several Istio repositories
+    has_issues: false
+    has_projects: false
+    has_wiki: false
+  viper:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    allow_squash_merge: false
+    description: Go configuration with fangs
+    has_issues: false
+    has_projects: false
+    has_wiki: false
