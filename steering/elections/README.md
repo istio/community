@@ -1,5 +1,5 @@
 # Elections
 
-The Steering Committee is composed of Contribution Seats and Community Seats. The role of elections is to elect the Community Seats to the Istio Steering Committee.
+The Istio Steering Committee is composed of Contribution Seats and Community Seats. Each year we hold an election to appoint four community members to the Committee.
 
-[2020 Elections](./2020))
+* [2020 Election](./2020)
