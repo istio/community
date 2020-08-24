@@ -1,0 +1,428 @@
+teams:
+  Maintainers:
+    description: Maintainers of the Istio project.
+    members:
+      - adammil2000
+      - andraxylia
+      - bianpengyuan
+      - brian-avery
+      - clyang82
+      - costinm
+      - dgn
+      - diemtvu
+      - douglas-reid
+      - duderino
+      - elfinhe
+      - ericvn
+      - esnible
+      - fejta
+      - fleeto
+      - fpesce
+      - frankbu
+      - gargnupur
+      - gbaufake
+      - GregHanson
+      - howardjohn
+      - hzxuzhonghu
+      - incfly
+      - irisdingbj
+      - jasonwzm
+      - JimmyCYJ
+      - john-a-joyce
+      - jwendell
+      - kyessenov
+      - lambdai
+      - liamawhite
+      - liminw
+      - linsun
+      - lizan
+      - loverto
+      - mandarjog
+      - morvencao
+      - myidpt
+      - Nino-K
+      - nmittler
+      - nrjpoddar
+      - ostromart
+      - PiotrSikora
+      - ramaraochavali
+      - rcaballeromx
+      - rcernich
+      - richardwxn
+      - rlenglet
+      - rootsongjc
+      - rshriram
+      - SataQiu
+      - sbezverk
+      - sdake
+      - suryadu
+      - therealmitchconnors
+      - tiswanso
+      - venilnoronha
+      - yangminzhu
+      - yxue
+    teams:
+      WG - Config Maintainers:
+        description: Maintainers for the Config working group.
+        members:
+          - jasonwzm
+          - nmittler
+      WG - Docs Maintainers:
+        description: Maintainers of the Docs working group.
+        members:
+          - adammil2000
+          - ericvn
+          - fleeto
+          - frankbu
+          - gbaufake
+          - loverto
+          - rcaballeromx
+          - rootsongjc
+          - SataQiu
+        teams:
+          WG - Docs  Maintainers/English:
+            description: Maintainers of the English documentation.
+            members:
+              - adammil2000
+              - ericvn
+              - frankbu
+              - rcaballeromx
+          WG - Docs Maintainers/Chinese:
+            description: Maintainers of the Chinese documentation.
+            members:
+              - fleeto
+              - loverto
+              - rootsongjc
+              - SataQiu
+          WG - Docs Maintainers/Infra:
+            description: Maintainers of the doc build & site infrastructure
+            members:
+              - adammil2000
+              - ericvn
+              - frankbu
+              - rcaballeromx
+          WG - Docs Maintainers/Portuguese:
+            description: Maintainers of the Portuguese documentation
+            members:
+              - gbaufake
+      WG - Environments Maintainers:
+        description: Maintainers for the Environments working group.
+        members:
+          - clyang82
+          - costinm
+          - dgn
+          - elfinhe
+          - howardjohn
+          - irisdingbj
+          - linsun
+          - morvencao
+          - nmittler
+          - ostromart
+          - rcernich
+          - richardwxn
+          - sdake
+      WG - Networking Maintainers:
+        description: Maintainers for the Networking working group
+        members:
+          - andraxylia
+          - bianpengyuan
+          - costinm
+          - duderino
+          - GregHanson
+          - howardjohn
+          - hzxuzhonghu
+          - JimmyCYJ
+          - john-a-joyce
+          - kyessenov
+          - lambdai
+          - linsun
+          - lizan
+          - Nino-K
+          - nmittler
+          - nrjpoddar
+          - PiotrSikora
+          - ramaraochavali
+          - rlenglet
+          - rshriram
+          - sbezverk
+          - tiswanso
+          - venilnoronha
+          - yxue
+        teams:
+          WG - Networking Maintainers/Data Plane:
+            description: Maintainers of data plane components
+            members:
+              - bianpengyuan
+              - duderino
+              - gargnupur
+              - JimmyCYJ
+              - kyessenov
+              - lambdai
+              - linsun
+              - lizan
+              - PiotrSikora
+              - rshriram
+              - venilnoronha
+              - yxue
+          WG - Networking Maintainers/Pilot:
+            description: Maintainers of particular parts of Pilot.
+            members:
+              - costinm
+              - howardjohn
+              - hzxuzhonghu
+              - ramaraochavali
+              - rshriram
+      WG - Perf and Scalability  Maintainers:
+        description: Maintainers for the Perf and Scalability working group.
+        members:
+          - mandarjog
+          - suryadu
+      WG - Policies and Telemetry  Maintainers:
+        description: Maintainers for the Policy and Telemetry working group.
+        members:
+          - bianpengyuan
+          - douglas-reid
+          - gargnupur
+          - kyessenov
+          - mandarjog
+          - nrjpoddar
+      WG - Security Maintainers:
+        description: Maintainers for the Security working group
+        members:
+          - incfly
+          - JimmyCYJ
+          - lei-tang
+          - liminw
+          - lizan
+          - myidpt
+          - yangminzhu
+      WG - Test and Release Maintainers:
+        description: Maintainers for the Test and Release working group.
+        members:
+          - brian-avery
+          - carolynhu
+          - duderino
+          - ericvn
+          - fejta
+          - fpesce
+          - howardjohn
+          - jwendell
+          - linsun
+          - mandarjog
+          - nmittler
+          - richardwxn
+          - sdake
+          - stevenctl
+          - therealmitchconnors
+      WG - User Experience Maintainers:
+        description: Maintainers for the User Experience working group.
+        members:
+          - esnible
+          - irisdingbj
+          - jasonwzm
+          - liamawhite
+          - nmittler
+          - therealmitchconnors
+  Release Managers:
+    description: Current set of release managers.
+    members:
+      - brian-avery
+      - dgn
+      - ericvn
+      - fpesce
+      - howardjohn
+      - irisdingbj
+      - jacob-delgado
+      - JimmyCYJ
+      - johnma14
+      - jwendell
+      - rlenglet
+      - sdake
+      - SecurityInsanity
+    teams:
+      Release Managers - 1.3:
+        description: Release managers for Istio 1.3
+        members:
+          - brian-avery
+          - rlenglet
+          - sdake
+      Release Managers - 1.4:
+        description: Release managers for Istio 1.4
+        members:
+          - ericvn
+          - howardjohn
+          - jwendell
+      Release Managers - 1.5:
+        description: Release managers for Istio 1.5
+        members:
+          - dgn
+          - ericvn
+          - fpesce
+          - johnma14
+      Release Managers - 1.6:
+        description: Release managers for Istio 1.6
+        members:
+          - brian-avery
+          - irisdingbj
+          - jacob-delgado
+      Release Managers - 1.7:
+        description: Release managers for Istio 1.7
+        members:
+        - JimmyCYJ
+        - jwendell
+        - SecurityInsanity
+  Repo Admins:
+    description: Folks with admin permission on all repos.
+    members:
+      - duderino
+      - fpesce
+      - howardjohn
+      - istio-policy-bot
+      - istio-release-robot
+      - istio-testing
+      - linsun
+      - rshriram
+    repos:
+      api: admin
+      bots: admin
+      client-go: admin
+      cni: admin
+      common-files: admin
+      community: admin
+      cri: admin
+      enhancements: admin
+      envoy: admin
+      fortio-deployment: admin
+      gogo-genproto: admin
+      installer: admin
+      istio: admin
+      istio.io: admin
+      operator: admin
+      pkg: admin
+      proxy: admin
+      release-builder: admin
+      test-infra: admin
+      tools: admin
+    teams:
+      Release Managers - 1.1:
+        description: Release managers for Istio 1.1
+        members:
+          - duderino
+        repos:
+          api: admin
+          bots: admin
+          client-go: admin
+          cni: admin
+          common-files: admin
+          community: admin
+          cri: admin
+          enhancements: admin
+          envoy: admin
+          fortio-deployment: admin
+          gogo-genproto: admin
+          installer: admin
+          istio: admin
+          istio.io: admin
+          operator: admin
+          pkg: admin
+          proxy: admin
+          release-builder: admin
+          test-infra: admin
+          tools: admin
+      Release Managers - 1.2:
+        description: Release managers for Istio 1.2
+        members:
+          - fpesce
+        repos:
+          api: admin
+          bots: admin
+          client-go: admin
+          cni: admin
+          common-files: admin
+          community: admin
+          cri: admin
+          enhancements: admin
+          envoy: admin
+          fortio-deployment: admin
+          gogo-genproto: admin
+          installer: admin
+          istio: admin
+          istio.io: admin
+          operator: admin
+          pkg: admin
+          proxy: admin
+          release-builder: admin
+          test-infra: admin
+          tools: admin
+  Steering Committee:
+    description: members of istio steering committee
+    members:
+      - craigbox
+      - dcberg
+      - knrc
+      - linsun
+      - louiscryan
+      - oaktowner
+      - rvennam
+      - smawson
+      - ssuchter
+  Technical Oversight Committee:
+    description: Members of the Istio TOC.
+    members:
+      - dcberg
+      - duderino
+      - linsun
+      - louiscryan
+      - nrjpoddar
+      - rshriram
+      - smawson
+  Triagers:
+    description: Folks that perform issue & pr triage.
+    members:
+      - fpesce
+      - jasminejaksic
+    repos:
+      api: none
+      bots: none
+      client-go: none
+      cni: none
+      cri: none
+      envoy: none
+      installer: none
+      istio: none
+      istio.io: none
+      operator: none
+      pkg: none
+      proxy: none
+      tools: none
+  Working Group Leads:
+    description: Working group leads - for easy communication in github
+    members:
+      - brian-avery
+      - douglas-reid
+      - duderino
+      - ericvn
+      - esnible
+      - fpesce
+      - frankbu
+      - howardjohn
+      - liminw
+      - linsun
+      - lizan
+      - mandarjog
+      - myidpt
+      - nrjpoddar
+      - ostromart
+      - PiotrSikora
+      - rshriram
+      - sdake
+      - suryadu
+  enhancements-maintainers:
+    description: ""
+    members:
+      - dcberg
+      - jdumars
+      - linsun
+      - louiscryan
+    repos:
+      enhancements: none

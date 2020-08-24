@@ -14,11 +14,10 @@ See the License for the specific language governing permissions and
 limitations under the License.
 */
 
-package config
+package main
 
 import (
 	"fmt"
-	"io/ioutil"
 	"sort"
 	"strings"
 	"testing"
@@ -26,8 +25,6 @@ import (
 	"k8s.io/apimachinery/pkg/util/sets"
 	"k8s.io/test-infra/prow/config/org"
 	"k8s.io/test-infra/prow/github"
-
-	"github.com/ghodss/yaml"
 )
 
 func testDuplicates(list sets.String) error {
@@ -65,103 +62,68 @@ func normalize(s sets.String) sets.String {
 
 // testTeamMembers ensures that a user is not a maintainer and member at the same time,
 // there are no duplicate names in the list and all users are org members.
-func testTeamMembers(teams map[string]org.Team, admins sets.String, orgMembers sets.String, orgName string) []error {
+func testTeamMembers(teams map[string]org.Team, admins sets.String, orgMembers sets.String) []error {
 	var errs []error
 	for teamName, team := range teams {
-		teamMaintainers := sets.NewString(team.Maintainers...)
-		teamMembers := sets.NewString(team.Members...)
-
-		teamMaintainers = normalize(teamMaintainers)
-		teamMembers = normalize(teamMembers)
-
-		// check for non-admins in maintainers list
-		if nonAdminMaintainers := teamMaintainers.Difference(admins); len(nonAdminMaintainers) > 0 {
-			errs = append(errs, fmt.Errorf("the team %s in org %s has non-admins listed as maintainers; these users should be in the members list instead: %s", teamName, orgName, strings.Join(nonAdminMaintainers.List(), ",")))
+		teamMaintainers := normalize(sets.NewString(team.Maintainers...))
+		if len(teamMaintainers.List()) > 0 {
+			errs = append(errs, fmt.Errorf("all users should be under members in %v", teamName))
 		}
-
-		// check for users in both maintainers and members
-		if both := teamMaintainers.Intersection(teamMembers); len(both) > 0 {
-			errs = append(errs, fmt.Errorf("the team %s in org %s has users in both maintainer admin and member roles: %s", teamName, orgName, strings.Join(both.List(), ", ")))
-		}
-
-		// check for duplicates
-		if err := testDuplicates(teamMaintainers); err != nil {
-			errs = append(errs, fmt.Errorf("the team %s in org %s has duplicate maintainers: %v", teamName, orgName, err))
-		}
-		if err := testDuplicates(teamMembers); err != nil {
-			errs = append(errs, fmt.Errorf("the team %s in org %s has duplicate members: %v", teamMembers, orgName, err))
-		}
+		teamMembers := normalize(sets.NewString(team.Members...))
 
 		// check if all are org members
 		if missing := teamMembers.Difference(orgMembers); len(missing) > 0 {
-			errs = append(errs, fmt.Errorf("the following members of team %s are not %s org members: %s", teamName, orgName, strings.Join(missing.List(), ", ")))
-		}
-
-		// check if admins are a regular member of team
-		if adminTeamMembers := teamMembers.Intersection(admins); len(adminTeamMembers) > 0 {
-			errs = append(errs, fmt.Errorf("the team %s in org %s has org admins listed as members; these users should be in the maintainers list instead, and cannot be on the members list: %s", teamName, orgName, strings.Join(adminTeamMembers.List(), ", ")))
+			errs = append(errs, fmt.Errorf("the following members of team %s are not org members: %s", teamName, strings.Join(missing.List(), ", ")))
 		}
 
 		// check if lists are sorted
 		if !isSorted(team.Maintainers) {
-			errs = append(errs, fmt.Errorf("the team %s in org %s has an unsorted list of maintainers", teamName, orgName))
+			errs = append(errs, fmt.Errorf("the team %s has an unsorted list of maintainers", teamName))
 		}
 		if !isSorted(team.Members) {
-			errs = append(errs, fmt.Errorf("the team %s in org %s has an unsorted list of members", teamName, orgName))
+			errs = append(errs, fmt.Errorf("the team %s has an unsorted list of members", teamName))
 		}
 
 		if team.Children != nil {
-			errs = append(errs, testTeamMembers(team.Children, admins, orgMembers, orgName)...)
+			errs = append(errs, testTeamMembers(team.Children, admins, orgMembers)...)
 		}
 	}
 	return errs
 }
 
 func TestIstioOrg(t *testing.T) {
-	raw, err := ioutil.ReadFile("./istio.yaml")
+	cfg, err := readConfig(".")
 	if err != nil {
-		t.Fatalf("Failed to read config: %v", err)
-	}
-	var full org.FullConfig
-	if err := yaml.Unmarshal(raw, &full); err != nil {
-		t.Fatalf("cannot read istio.yaml: %v", err)
-	}
-	org, f := full.Orgs["istio"]
-	if !f {
-		t.Fatalf("istio org not found")
+		t.Fatal(err)
 	}
 
-	members := normalize(sets.NewString(org.Members...))
-	admins := normalize(sets.NewString(org.Admins...))
-	allOrgMembers := members.Union(admins)
-
-	if both := admins.Intersection(members); len(both) > 0 {
-		t.Errorf("users in both org admin and member roles for org '%s': %s", *org.Name, strings.Join(both.List(), ", "))
-	}
+	members := normalize(sets.NewString(cfg.Members...))
+	developers := normalize(sets.NewString(cfg.Developers...))
+	admins := normalize(sets.NewString(cfg.Admins...))
+	allOrgMembers := members.Union(admins).Union(developers)
 
 	requiredRobots := sets.NewString("istio-testing", "google-admin", "googlebot")
 	if !admins.IsSuperset(requiredRobots) {
 		t.Errorf("Missing required robots as admins: %v", requiredRobots.List())
 	}
 
-	if org.BillingEmail != nil {
-		t.Errorf("billing_email must be unset")
+	if !isSorted(cfg.Members) {
+		t.Errorf("members unsorted")
+	}
+	if !isSorted(cfg.Developers) {
+		t.Errorf("developers unsorted")
+	}
+	if !isSorted(cfg.Admins) {
+		t.Errorf("members unsorted")
 	}
 
-	if err := testDuplicates(admins); err != nil {
-		t.Errorf("duplicate admins: %v", err)
-	}
-	if err := testDuplicates(allOrgMembers); err != nil {
-		t.Errorf("duplicate members: %v", err)
-	}
-	if !isSorted(org.Admins) {
-		t.Errorf("admins for %s org are unsorted", *org.Name)
-	}
-	if !isSorted(org.Members) {
-		t.Errorf("members for %s org are unsorted", *org.Name)
+	if overlap := developers.Intersection(members); overlap.Len() != 0 {
+		for _, i := range overlap.List() {
+			t.Errorf("%v present in both developers and members list; choose only one", i)
+		}
 	}
 
-	if errs := testTeamMembers(org.Teams, admins, allOrgMembers, *org.Name); errs != nil {
+	if errs := testTeamMembers(cfg.Teams, admins, allOrgMembers); errs != nil {
 		for _, err := range errs {
 			t.Error(err)
 		}
