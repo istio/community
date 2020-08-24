@@ -12,3 +12,5 @@ allocation of seats.
 Attribution is done using the company attribution table used by the
 istio-policy-bot. Requests for changes to attribution can be made by e-mail
 to elections@discuss.istio.io.
+
+[The method and results are published here](https://docs.google.com/spreadsheets/d/1Dt-h9s8G7Wyt4r16ZVqcmdWXDuCaPC0kPS21BuAfCL8/edit#gid=0).

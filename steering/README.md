@@ -25,6 +25,10 @@ See [CHARTER.md](CHARTER.md).
 &nbsp; | *To be elected* | &nbsp; | &nbsp; | Community seat
 &nbsp; | *To be elected* | &nbsp; | &nbsp; | Community seat
 
+## Contribution Seats
+
+For August 2020 to January 2021, the nine Contribution Seats were [allocated](https://docs.google.com/spreadsheets/d/1Dt-h9s8G7Wyt4r16ZVqcmdWXDuCaPC0kPS21BuAfCL8/edit#gid=0) per the [agreed formula and process](CONTRIBUTION-FORMULA.md).
+
 ## Elections
 
 Every year, four members of the Steering Committee are voted on by the community.  Check out the [2020 election guide](elections/2020/).
