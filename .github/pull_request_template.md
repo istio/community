@@ -1,4 +1,4 @@
-HThe most common reason to send a PR to this repository is to join the Istio org.  If you are joining, please fill out this template.  If you are not, please **delete all the below**.
+The most common reason to send a PR to this repository is to join the Istio org.  If you are joining, please fill out this template.  If you are not, please **delete all the below**.
 
 - [ ] I have reviewed the [community membership guidelines](https://github.com/istio/community/blob/master/ROLES.md#member)
 - [ ] I have reviewed the [contribution guidelines](https://github.com/istio/community/blob/master/CONTRIBUTING.md)
