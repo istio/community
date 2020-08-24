@@ -1,7 +1,7 @@
 # Steering Committee
 
 The Istio Steering Committee was formed to oversee the administrative aspects of the project, including governance, branding, and marketing.
-Steering was created to allow the Technical Oversight Committee to exclusively focus on the technical aspects of the project.
+Steering was created to allow the [Technical Oversight Committee](../TECH-OVERSIGHT-COMMITTEE.md) to exclusively focus on the technical aspects of the project.
 
 ## Charter
 
