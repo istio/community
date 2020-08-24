@@ -11,7 +11,7 @@ Committee.
 1. Fostering an environment for a healthy and happy community of developers,
 contributors, vendors, and users.
 1. Defining, evolving, and defending a
-[Code of Conduct](CONTRIBUTING.md#code-of-conduct).
+[Code of Conduct](../CONTRIBUTING.md#code-of-conduct).
 1. Advising the Open Usage Commons on issues relating to the Istio trademark and
 logo, as well as related conformance programs.
 1. Setting marketing and advocacy direction for the project; establishing a
@@ -57,11 +57,11 @@ modifications to the Steering Committee Charter.
     of nine.
 1. There shall be four **Community Seats** elected by the Istio contributors
 and community, beginning in August 2020.
-    1. Any [project member](ROLES.md#member) can self-nominate for the
+    1. Any [project member](../ROLES.md#member) can self-nominate for the
     election, or nominate another project member with their consent.
     1. Elections shall use time-limited, Condorcet voting.
     1. The following are eligible to vote for Community Seats:
-        1. [Project members](ROLES.md#member) who have had a merged PR in
+        1. [Project members](../ROLES.md#member) who have had a merged PR in
         the 12 months prior to the election; and
         1. People who have submitted a voting exception form to the
         Steering Committee, demonstrating contribution to the Istio project
