@@ -71,6 +71,7 @@ teams:
         description: Maintainers of the Docs working group.
         members:
           - adammil2000
+          - davidhauck
           - ericvn
           - fleeto
           - frankbu
