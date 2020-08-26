@@ -16,10 +16,10 @@ See [CHARTER.md](CHARTER.md).
 <img width="30px" src="https://avatars0.githubusercontent.com/u/7143347?s=460&v=4"> | Dan Ciruli | Google | [oaktowner](https://github.com/oaktowner) | Contribution seat
 &nbsp; | Kevin Conner | Red Hat | [knrc](https://github.com/knrc) | Contribution seat
 <img width="30px" src="https://avatars0.githubusercontent.com/u/1562325?s=400&v=4"> | Sven Mawson | Google | [smawson](https://github.com/smawson) | Contribution seat
+&nbsp; | Pratima Nambiar | Salesforce | [pnambiarsf](https://github.com/pnambiarsf) | Contribution seat
 <img width="30px" src="https://pbs.twimg.com/profile_images/838075233445695489/o2eAYJAV_400x400.jpg"> | Louis Ryan | Google | [louiscryan](https://github.com/louiscryan) | Contribution seat
 <img width="30px" src="https://avatars3.githubusercontent.com/u/1934555?s=400&v=4">  | Sean Suchter | Google | [ssuchter](https://github.com/ssuchter) | Contribution seat
 <img width="30px" src="https://avatars1.githubusercontent.com/u/1588319?s=400&v=4">  | Lin Sun | IBM | [linsun](https://github.com/linsun) | Contribution seat
-&nbsp; | *tba* | Salesforce | &nbsp; | Contribution seat
 &nbsp; | *To be elected* | &nbsp; | &nbsp; | Community seat
 &nbsp; | *To be elected* | &nbsp; | &nbsp; | Community seat
 &nbsp; | *To be elected* | &nbsp; | &nbsp; | Community seat
