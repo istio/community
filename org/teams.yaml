@@ -190,6 +190,8 @@ teams:
       WG - Security Maintainers:
         description: Maintainers for the Security working group
         members:
+          - costinm
+          - howardjohn
           - incfly
           - JimmyCYJ
           - lei-tang
