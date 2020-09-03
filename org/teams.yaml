@@ -221,6 +221,7 @@ teams:
           WG - Test and Release Maintainers/Operations:
             description: Maintainers of Operations.
             members:
+              - chaodaig
               - chases2
               - cjwagner
               - e-blackwelder
