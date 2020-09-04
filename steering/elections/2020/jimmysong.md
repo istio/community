@@ -2,6 +2,7 @@
 
 - GitHub: https://github.com/rootsongjc
 - Affiliation: developer advocate, Tetrate.io
+- Slack: @Jimmy Song
 - Twitter: @jimmysongio
 - LinkedIn: https://www.linkedin.com/in/jimmysongio/
 
