@@ -1,5 +1,6 @@
 # Developers are members of the organization with additional access to repos.
 # All members of the org should be present in either `members` or `developers`.
+# Please add your name in alphabetical order.
 developers:
 - aattuluri
 - abhide
