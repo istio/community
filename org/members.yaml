@@ -1,6 +1,7 @@
 # Members are users that are in the org, but not a part of the developer group which is given
 # additional access to repos.
 # All members of the org should be present in either `members` or `developers`.
+# Please add your name in alphabetical order.
 members:
 - 3ks
 - adiprerepa
