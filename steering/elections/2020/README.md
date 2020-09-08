@@ -57,7 +57,7 @@ The election will open for voting starting September 14th via email and end two 
 
 |            Name            | Company/Organization |                        GitHub                        |
 |:--------------------------:|:--------------------:|:----------------------------------------------------:|
-| [Zack Butcher](zackbutcher.md) | Tetrate.io | [@ZackButcher](https://github.com/ZackButcher) |
+| [Zack Butcher](zackbutcher.md) | Tetrate | [@ZackButcher](https://github.com/ZackButcher) |
 | [Neeraj Poddar](nrjpoddar.md) | Aspen Mesh | [@nrjpoddar](https://github.com/nrjpoddar) |
 | [Christian Posta](ceposta.md) | Solo.io | [@christian-posta](https://github.com/christian-posta) | 
 | [Jimmy Song](jimmysong.md) | Tetrate | [@rootsongjc](https://github.com/rootsongjc) |
