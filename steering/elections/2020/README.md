@@ -61,6 +61,6 @@ The election will open for voting starting September 14th via email and end two 
 | [Neeraj Poddar](nrjpoddar.md) | Aspen Mesh | [@nrjpoddar](https://github.com/nrjpoddar) |
 | [Christian Posta](ceposta.md) | Solo.io | [@christian-posta](https://github.com/christian-posta) | 
 | [Jimmy Song](jimmysong.md) | Tetrate.io | [@rootsongjc](https://github.com/rootsongjc) |
-| [Suresh Visvanthan](sureshvis.md) | Yahoo (Verizon Media) | [@sureshvis](https://github.com/sureshvis) | 
+| [Suresh Visvanathan](sureshvis.md) | Yahoo (Verizon Media) | [@sureshvis](https://github.com/sureshvis) | 
 | [Jason Webb](jasonwebb.md) | Intuit | [@jwebb49](https://github.com/jwebb49) |
 | [Zhonghu Xu](hzxuzhonghu.md) | Huawei | [@hzxuzhonghu](https://github.com/hzxuzhonghu) |
