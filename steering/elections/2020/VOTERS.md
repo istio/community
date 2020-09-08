@@ -6,7 +6,7 @@ The criteria for voter eligibility can be found in the [election guide](README.m
 
 **2020-08-24** - List generated from the [members](/org/members.yaml) and [developers](/org/developers.yaml) files, and checking for at least one merged PR as noted by istio-policy-bot in the period 1 August 2019 to 31 July 2020.
 
-**2020-09-08** - Add 2 voters with accepted exception requests.
+**2020-09-08** - Add voters with accepted exception requests.
 
 If you feel you have standing in the Istio community but are not listed here, please fill in the [voting exception form](https://forms.gle/jeZd9Qs9smabXod67). If your application is approved by a simple majority vote of the Steering Committee, you will be added.
 
@@ -190,5 +190,4 @@ If you feel you have standing in the Istio community but are not listed here, pl
 - zhranklin
 - zqzzq
 - zyfjeff
-
 
