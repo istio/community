@@ -1,9 +1,9 @@
 # Zack Butcher
 
-GitHub: @ZackButcher
-Affiliation: Founding Engineer, Tetrate.io
-Slack: @zackbutcher
-Twitter: @ZackButcher
+* GitHub: @ZackButcher
+* Affiliation: Founding Engineer, Tetrate.io
+* Slack: @zackbutcher
+* Twitter: @ZackButcher
 
 # Bio
 
