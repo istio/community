@@ -17,25 +17,23 @@ A development feature can be officially labeled as Alpha once it meets the follo
 requirements:
 
 * Design
-    * Requires Approved RFC in order to merge.
+    * Requires Approved RFC.
 * Config
     * Requires explicit user action to enable (e.g. a config field, config resource, or installation action).
 
 * Docs
-    * Reference docs are published on istio.io.
+    * Reference docs are published on the Istio wiki.
     * Basic feature docs are published on istio.io describing what the feature does, how to use it, and any caveats.
-    * A reference to the design doc / issue is published on istio.io.
 
 * Tests
-    * Test coverage is >= 70%.
-    * Integration tests cover core use cases with the feature enabled.
+    * Automated integration tests cover core use cases with the feature enabled.
     * When disabled the feature does not affect system stability or performance.
 
 * Performance
-    * Performance requirements assessed as part of design.
+    * Performance impacts have been measured.
 
 * API
-    * (Optional) Initial API review.
+    * Initial API review.
 
 ## Beta
 
@@ -47,12 +45,11 @@ An Alpha feature can be officially labeled as Beta once it meets the following a
     * Can be enabled by default without requiring explicit user action.
 
 * Docs
-    * Performance expectations of the feature are documented, may have caveats.
+    * Documentation on istio.io includes performance expectations, may have caveats.
     * Documentation on istio.io includes samples/tutorials
     * Documentation on istio.io includes appropriate glossary entries
 
 * Tests
-    * Test coverage is >= 80%
     * Integration tests cover feature edge cases
     * End-to-end tests cover samples/tutorials
     * Fixed issues have tests to prevent regressions
@@ -64,21 +61,20 @@ An Alpha feature can be officially labeled as Beta once it meets the following a
     * API has had a thorough API review and is thought to be complete.
 
 * CLI
-    * Necessary CLI commands have been implemented and are complete.
+    * Any necessary CLI commands have been implemented and are complete.
 
 * Bugs
-    * Feature has no outstanding P0 bugs.
+    * Feature has no major known issues
 
 ## Stable
 
 A Beta feature can be officially labeled as Stable once it meets the following additional requirements:
 
 * Tests
-    * Test coverage is >= 90%
-    * Automated tests are in place to prevent performance regressions.
+    * Automated tests are in place to prevent regressions.
 
 * Performance
-    * Latency, throughput and scale are quantified and documented.
+    * Latency, throughput and scalability are quantified and documented on istio.io.
 
 * Bugs
-    * Feature has no outstanding P0 or P1 bugs.
+    * Feature has no major known issues.
