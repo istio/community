@@ -4,7 +4,7 @@
 - Affiliation: Co-founder & Chief Architect, Aspen Mesh
 - Slack: @nrjpoddar
 - Twitter: @nrjpoddar
-- LinkedIn: https://https://www.linkedin.com/in/nrjpoddar/
+- LinkedIn: https://www.linkedin.com/in/nrjpoddar/
 
 # Bio
 
