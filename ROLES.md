@@ -154,7 +154,7 @@ a 180 day period, than that individual may lose membership. On-going contributio
 
 ### Becoming a member
 
-If you are interested in becoming a member and meet the requirements above, you can join the organization by adding yourself to the members list under [`org/istio.yaml`](org/istio.yaml). Once that has been done, submit a Pull Request with the change and fill out the pull request template with all information requested.
+If you are interested in becoming a member and meet the requirements above, you can join the organization by adding yourself to the members list under [`org/members.yaml`](org/members.yaml). Once that has been done, submit a Pull Request with the change and fill out the pull request template with all information requested.
 
 ### Responsibilities and privileges
 
