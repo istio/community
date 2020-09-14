@@ -85,6 +85,7 @@ If you feel you have standing in the Istio community but are not listed here, pl
 - josephpeacock
 - jpapejr
 - jplevyak
+- jtrbs
 - justinpettit
 - justinwei2
 - jwebb49
