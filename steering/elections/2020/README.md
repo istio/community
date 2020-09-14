@@ -34,7 +34,7 @@ Members from **Google**, **IBM**, **Red Hat** and **Salesforce** are therefore *
 
 You may nominate yourself or others for election by creating an issue in the istio/community repository.  Please use the title "Nomination - Jane Doe".  Nominees should close the issue with a comment if they choose to not accept the nomination.
 
-Nominees, if eligible, should submit a Pull Request with a biography with a maximum 300 word statement. See [sample janedoe.md](janedoe.md).
+Nominees, if eligible, should submit a Pull Request with a biography with a maximum 300 word statement. See [sample janedoe.md](../sample-janedoe.md).
 
 ## Voting process
 
