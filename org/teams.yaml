@@ -87,6 +87,7 @@ teams:
             description: Maintainers of the English documentation.
             members:
               - adammil2000
+              - davidhauck
               - ericvn
               - frankbu
               - rcaballeromx
