@@ -102,8 +102,8 @@ teams:
             description: Maintainers of the doc build & site infrastructure
             members:
               - adammil2000
-              - ericvn
               - davidhauck
+              - ericvn
               - frankbu
               - rcaballeromx
           WG - Docs Maintainers/Portuguese:
