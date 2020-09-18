@@ -28,7 +28,7 @@ Some direct responsibilities of steering members to consider as you are deciding
 
 ## Candidacy process
 
-Eligibility for candidacy is defined in the Steering Committee charter as a [project member](../../../ROLES.md#member) who does not work for a Company that holds a Contribution Seat.
+Eligibility for candidacy is defined in the [Steering Committee charter](../../CHARTER.md) as a [project member](../../../ROLES.md#member) who does not work for a Company that holds a Contribution Seat.
 
 Members from **Google**, **IBM**, **Red Hat** and **Salesforce** are therefore **ineligible** to stand in this election.
 
@@ -46,7 +46,7 @@ Eligibility to vote is defined in the [Steering Committee charter](../../CHARTER
 Elections will be held using time-limited Condorcet ranking on CIVS using the IRV method.
 The top four candidates who are employed by a unique Company (as defined in the Charter) shall be deemed to be elected.
 
-The election will open for voting starting September 14th via email and end two weeks after on September 27, 2020 at 0000 UTC. You will receive an email to the address on file at the start of the election from `Istio (CIVS Poll Supervisor) <civs@cs.cornell.edu>`. Detailed voting instructions will be provided in the email and on the CIVS polling page. Please note that email can be unreliable, so you are encouraged to contact the election officials if you do not receive a ballot by September 12.
+The election will open for voting starting September 14th via email and end two weeks after on September 27, 2020 at 0000 UTC. You will receive an email to the address on file at the start of the election from `Craig Box (CIVS Poll Supervisor) <civs@cs.cornell.edu>`. Detailed voting instructions will be provided in the email and on the CIVS polling page. Please note that email can be unreliable, so you are encouraged to contact the election officials if you do not receive a ballot by September 12.
 
 ### Election officers
 
