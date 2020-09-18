@@ -64,6 +64,15 @@ teams:
       - yangminzhu
       - yxue
     teams:
+      Operations Maintainers:
+        description: Maintainers of Operations.
+        members:
+          - chaodaig
+          - chases2
+          - cjwagner
+          - e-blackwelder
+          - fejta
+          - michelle192837
       WG - Config Maintainers:
         description: Maintainers for the Config working group.
         members:
@@ -225,6 +234,7 @@ teams:
           WG - Test and Release Maintainers/Operations:
             description: Maintainers of Operations.
             members:
+              - chaodaig
               - chases2
               - cjwagner
               - e-blackwelder
