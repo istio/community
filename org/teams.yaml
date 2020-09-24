@@ -232,16 +232,6 @@ teams:
           - sdake
           - stevenctl
           - therealmitchconnors
-        teams:
-          WG - Test and Release Maintainers/Operations:
-            description: Maintainers of Operations.
-            members:
-              - chaodaig
-              - chases2
-              - cjwagner
-              - e-blackwelder
-              - fejta
-              - michelle192837
       WG - User Experience Maintainers:
         description: Maintainers for the User Experience working group.
         members:
