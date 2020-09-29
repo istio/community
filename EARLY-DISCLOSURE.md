@@ -42,15 +42,16 @@ will be removed from the early disclosure list.
 
 | Email		| Organization	|
 | ------------- |:-------------:|
+| istio-security@list.alibaba-inc.com | Alibaba Cloud |
 | istio-security-team-inbox@aspenmesh.io | Aspen Mesh |
-| istio-security@redhat.com | RedHat |
-| argoprod@us.ibm.com | IBM |
 | istio-security-vulnerability-notifications@google.com | Google |
-| security@rancher.com | Rancher Labs |
 | istio-security@huawei.com | Huawei |
+| argoprod@us.ibm.com | IBM |
+| security@rancher.com | Rancher Labs |
+| istio-security@redhat.com | RedHat |
+| cve@solo.io | Solo.io |
 | istio-security@tetrate.io | Tetrate |
 | security@vmware.com | VMware |
-| istio-security@list.alibaba-inc.com | Alibaba Cloud |
 
 ### Membership criteria
 
