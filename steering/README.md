@@ -13,17 +13,17 @@ See [CHARTER.md](CHARTER.md).
 ---|---|---|---|---
 <img width="30px" src="https://avatars0.githubusercontent.com/u/3277917?s=400&v=4"> | Dan Berg | IBM | [dcberg](https://github.com/dcberg) | Contribution seat
 <img width="30px" src="https://avatars0.githubusercontent.com/u/132510?s=460&v=4"> | Craig Box | Google | [craigbox](https://github.com/craigbox) | Contribution seat
+<img width="30px" src="https://avatars2.githubusercontent.com/u/1923135?s=400&u=5c04620901ef2b402be16677f1cae3c5d376bea0&v=4"> | Zack Butcher | Tetrate | [ZackButcher](https://github.com/ZackButcher) | Community seat
 <img width="30px" src="https://avatars0.githubusercontent.com/u/7143347?s=460&v=4"> | Dan Ciruli | Google | [oaktowner](https://github.com/oaktowner) | Contribution seat
 &nbsp; | Kevin Conner | Red Hat | [knrc](https://github.com/knrc) | Contribution seat
 <img width="30px" src="https://avatars0.githubusercontent.com/u/1562325?s=400&v=4"> | Sven Mawson | Google | [smawson](https://github.com/smawson) | Contribution seat
 &nbsp; | Pratima Nambiar | Salesforce | [pnambiarsf](https://github.com/pnambiarsf) | Contribution seat
+<img width="30px" src="https://avatars3.githubusercontent.com/u/12534779?s=460&v=4"> | Neeraj Poddar | Aspen Mesh | [nrjpoddar](https://github.com/nrjpoddar) | Community seat
+<img width="30px" src="https://avatars0.githubusercontent.com/u/53201?s=400&v=4"> | Christian Posta | Solo.io | [christian-posta](https://github.com/christian-posta) | Community seat
 <img width="30px" src="https://pbs.twimg.com/profile_images/838075233445695489/o2eAYJAV_400x400.jpg"> | Louis Ryan | Google | [louiscryan](https://github.com/louiscryan) | Contribution seat
 <img width="30px" src="https://avatars3.githubusercontent.com/u/1934555?s=400&v=4">  | Sean Suchter | Google | [ssuchter](https://github.com/ssuchter) | Contribution seat
 <img width="30px" src="https://avatars1.githubusercontent.com/u/1588319?s=400&v=4">  | Lin Sun | IBM | [linsun](https://github.com/linsun) | Contribution seat
-&nbsp; | *To be elected* | &nbsp; | &nbsp; | Community seat
-&nbsp; | *To be elected* | &nbsp; | &nbsp; | Community seat
-&nbsp; | *To be elected* | &nbsp; | &nbsp; | Community seat
-&nbsp; | *To be elected* | &nbsp; | &nbsp; | Community seat
+<img width="30px" src="https://avatars1.githubusercontent.com/u/13374016?s=400&u=4e398f074b2df4b74dfca18b8654b1666f1ae9ae&v=4"> | Zhonghu Xu | Huawei | [hzxuzhonghu](https://github.com/hzxuzhonghu) | Community seat
 
 ## Contribution Seats
 
