@@ -395,6 +395,10 @@ teams:
       - rvennam
       - smawson
       - ssuchter
+      - nrjpoddar
+      - christian-posta
+      - hzxuzhonghu
+      - ZackButcher
   Technical Oversight Committee:
     description: Members of the Istio TOC.
     members:
