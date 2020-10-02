@@ -385,16 +385,20 @@ teams:
   Steering Committee:
     description: members of istio steering committee
     members:
+      - christian-posta
       - craigbox
       - dcberg
+      - hzxuzhonghu
       - knrc
       - linsun
       - louiscryan
+      - nrjpoddar      
       - oaktowner
       - pnambiarsf
       - rvennam
       - smawson
       - ssuchter
+      - ZackButcher
   Technical Oversight Committee:
     description: Members of the Istio TOC.
     members:
