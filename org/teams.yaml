@@ -299,6 +299,11 @@ teams:
         - JimmyCYJ
         - jwendell
         - SecurityInsanity
+      Release Managers - 1.8:
+        description: Release managers for Istio 1.8
+        members:
+        - bianpengyuan
+        - GregHanson
   Repo Admins:
     description: Folks with admin permission on all repos.
     members:
