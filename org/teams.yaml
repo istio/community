@@ -205,6 +205,7 @@ teams:
         description: Maintainers for the Product Security working group.
         members:
           - brian-avery
+          - duderino
           - ericvn
           - fpesce
           - howardjohn
@@ -213,6 +214,7 @@ teams:
           - knrc
           - liminw
           - mandarjog
+          - nrjpoddar
           - PiotrSikora
           - yangminzhu
       WG - Security Maintainers:
