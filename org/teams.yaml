@@ -201,6 +201,22 @@ teams:
           - kyessenov
           - mandarjog
           - nrjpoddar
+      WG - Product Security Maintainers:
+        description: Maintainers for the Product Security working group.
+        members:
+          - brian-avery
+          - duderino
+          - ericvn
+          - fpesce
+          - howardjohn
+          - jacob-delgado
+          - JimmyCYJ
+          - knrc
+          - liminw
+          - mandarjog
+          - nrjpoddar
+          - PiotrSikora
+          - yangminzhu
       WG - Security Maintainers:
         description: Maintainers for the Security working group
         members:
