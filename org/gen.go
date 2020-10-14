@@ -94,6 +94,7 @@ var repos = map[string]github.RepoPermissionLevel{
 	"cni":             github.Write,
 	"common-files":    github.Write,
 	"cri":             github.Write,
+	"enhancements":    github.Write,
 	"envoy":           github.Write,
 	"gogo-genproto":   github.Write,
 	"installer":       github.Write,
