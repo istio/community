@@ -57,6 +57,7 @@ teams:
       - SataQiu
       - sbezverk
       - sdake
+      - shamsher31
       - suryadu
       - therealmitchconnors
       - tiswanso
@@ -256,6 +257,7 @@ teams:
           - jasonwzm
           - liamawhite
           - nmittler
+          - shamsher31
           - therealmitchconnors
   Release Managers:
     description: Current set of release managers.
