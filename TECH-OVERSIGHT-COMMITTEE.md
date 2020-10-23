@@ -56,7 +56,7 @@ Artifact | Link
 Discussion Forum | [Forum](https://discuss.istio.io/c/technical-oversight-committee) 
 Docs | [Folder](https://drive.google.com/corp/drive/u/0/folders/0BzW5bSyKst8JOXRyZVNaVFZuRUk)
 Meeting Notes | [Notes](https://docs.google.com/document/d/13lxJqtlaQhmV2EwsNnS6h-_O4pobZQZuMjrzOeMgVI0/edit#heading=h.ipnfbx7g04vg)
-Meeting Link | [Hangouts Meet](https://meet.google.com/dsa-qqig-kwq?hs=122)
+Meeting Link | [Hangouts Meet](https://meet.google.com/aof-rirb-ijs)
 
 ## Committee meetings
 
