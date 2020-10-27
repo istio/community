@@ -69,7 +69,7 @@ to observe these meetings and engage with the TOC. To suggest a topic, add it to
 
 ## Committee members
 
-The members of the TOC are shown below. Membership in the TOC is determined by the [Steering committee](./STEERING-COMMITTEE.md).
+The members of the TOC are shown below. Membership in the TOC is determined by the [Steering committee](./steering/README.md).
 
 &nbsp; | Name | Company
 ---|---|---
