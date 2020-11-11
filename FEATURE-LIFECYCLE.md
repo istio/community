@@ -19,7 +19,7 @@ information at [Feature Lifecycle Checklist](FEATURE-LIFECYCLE-CHECKLIST.md).
     <td>Purpose</td>
     <td>Active development of a feature, not for use by end users directly.</td>
     <td>Used to get feedback on a design or feature or see how a tentative design performs, etc. Targeted at developers and expert users.</td>
-    <td>Used to vet a solution in production without committing to it in the long term, to assess its viability, performance, usability, etc. Targetted at all users.</td>
+    <td>Used to vet a solution in production without committing to it in the long term, to assess its viability, performance, usability, etc. Targeted at all users.</td>
     <td>Dependable, production hardened</td>
   </tr>
   <tr>
@@ -33,8 +33,8 @@ information at [Feature Lifecycle Checklist](FEATURE-LIFECYCLE-CHECKLIST.md).
     <td>Security</td>
     <td>Unknown</td>
     <td>Using the feature may have obvious security vulnerabilities. Discovered vulnerabilities will not necessarily be communicated broadly.</td>
-    <td>Any discovered security vulnerabilities will be publically disclosed and patched.</td>
-    <td>Any discovered security vulnerabilities will be publically disclosed and patched.</td>
+    <td>Any discovered security vulnerabilities will be publicly disclosed and patched.</td>
+    <td>Any discovered security vulnerabilities will be publicly disclosed and patched.</td>
   </tr>
   <tr>
     <td>Performance</td>
