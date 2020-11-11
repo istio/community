@@ -10,43 +10,43 @@ information at [Feature Lifecycle Checklist](FEATURE-LIFECYCLE-CHECKLIST.md).
 <table>
   <tr>
     <td></td>
-    <td>Development (pre-alpha)</td>
+    <td>Experimental</td>
     <td>Alpha</td>
     <td>Beta</td>
     <td>Stable</td>
   </tr>
   <tr>
     <td>Purpose</td>
-    <td>Active development of a feature, not for use by end users directly.</td>
+    <td>Feature is under active development and user facing APIs may change. Users should deploy experimental features with extreme caution, preferably in non-production environments as experimental versions may require a migration effort.</td>
     <td>Used to get feedback on a design or feature or see how a tentative design performs, etc. Targeted at developers and expert users.</td>
     <td>Used to vet a solution in production without committing to it in the long term, to assess its viability, performance, usability, etc. Targeted at all users.</td>
     <td>Dependable, production hardened</td>
   </tr>
   <tr>
     <td>Stability</td>
-    <td>Unknown</td>
+    <td>May be buggy. Using the feature may expose bugs. Not active by default.</td>
     <td>May be buggy. Using the feature may expose bugs. Not active by default.</td>
     <td>Code is well tested. The feature is safe for production use.</td>
     <td>Code is well tested and stable. Safe for widespread deployment in production.</td>
   </tr>
   <tr>
     <td>Security</td>
-    <td>Unknown</td>
-    <td>Using the feature may have obvious security vulnerabilities. Discovered vulnerabilities will not necessarily be communicated broadly.</td>
+    <td>Using the feature may have obvious security vulnerabilities. Discovered vulnerabilities may not be communicated broadly.</td>
+    <td>Using the feature may have obvious security vulnerabilities. Discovered vulnerabilities may not be communicated broadly.</td>
     <td>Any discovered security vulnerabilities will be publicly disclosed and patched.</td>
     <td>Any discovered security vulnerabilities will be publicly disclosed and patched.</td>
   </tr>
   <tr>
     <td>Performance</td>
-    <td>Unknown</td>
+    <td>Performance characteristics are unknown. Enabling the experimental feature may adversely affect performance.</td>
     <td>Performance requirements are assessed as part of design.</td>
     <td>Performance and scalability are characterized, but may have caveats.</td>
     <td>Perf (latency/scale) is quantified and documented, with guarantees against regression.</td>
   </tr>
   <tr>
     <td>Support</td>
-    <td>None</td>
-    <td>No guarantees on backward compatibility. The feature may be dropped at any time without notice.</td>
+    <td>No guarantees on backward compatibility. The feature may be removed at any time without notice.</td>
+    <td>No guarantees on backward compatibility. The feature may be removed at any time without notice.</td>
     <td>The overall feature will not be dropped, though details may change.</td>
     <td>The feature will appear in released software for many subsequent versions.</td>
   </tr>
@@ -87,7 +87,7 @@ Enabled by default</td>
   </tr>
   <tr>
     <td>Completeness</td>
-    <td>Varies</td>
+    <td>Feature has limited capabilities. This feature may act as a proof of concept.</td>
     <td>Some API operations or CLI commands may not be implemented
 The feature need not have had an API review (an intensive and targeted review of the API, on top of a normal code review)</td>
     <td>All API operations and CLI commands should be implemented
@@ -97,7 +97,7 @@ The API has had a thorough API review and is thought to be complete, though use 
   </tr>
   <tr>
     <td>Documentation</td>
-    <td>Dev features are hidden in auto-generated reference docs.</td>
+    <td>Experimental features are marked as experimental in auto-generated reference docs or they are not exposed.</td>
     <td>Alpha features are marked alpha in auto-generated reference docs.
 Basic documentation describing what the feature does, how to enable it, the restrictions and caveats, and a pointer to the issue or design doc the feature is based on.</td>
     <td>Complete feature documentation published to istio.io
@@ -106,10 +106,12 @@ In addition to the basic alpha-level documentation, beta documentation includes 
   </tr>
   <tr>
     <td>Upgradeability</td>
-    <td>None</td>
-    <td>The schema and semantics of a feature may change in a later software release, without any provision for preserving configuration objects in an existing istio installation
-API versions can increment faster than the monthly release cadence and the developer need not maintain multiple versions
-Developers should still increment the API version when schema or semantics change in an incompatible way</td>
+    <td>The schema and semantics of an experimental feature may change in newer versions without any guarantees of preserving backwards compatibility requiring configuration changes during upgrades.
+API versions may increment faster than the monthly release cadence and developers are not required to maintain multiple versions for backwards compatibility.
+Developers are encouraged to increment the API version when schema or semantics change in an incompatible way</td>
+    <td>The schema and semantics of an alpha feature may change in a later software release, without any provision for preserving configuration objects in an existing istio installation
+API versions may increment faster than the monthly release cadence and the developer need not maintain multiple versions
+Developers should increment the API version when schema or semantics change in an incompatible way</td>
     <td>The schema and semantics may change in a later software release
 When this happens, an upgrade path will be documented
 In some cases, objects will be automatically converted to the new version
@@ -135,7 +137,7 @@ Test code coverage is >= 90%.
   </tr>
   <tr>
     <td>Reliability</td>
-    <td>None</td>
+    <td>The user should not expect the feature to be reliable may be untested.</td>
     <td>Because the feature is relatively new, and may lack complete end-to-end tests, enabling the feature via a flag might expose bugs which destabilize Istio (e.g. a bug in a control loop might rapidly create excessive numbers of objects, exhausting API storage).</td>
     <td>Because the feature has e2e tests, enabling the feature should not create new bugs in unrelated features.
 Because the feature is relatively new, it may have minor bugs.</td>
@@ -143,7 +145,8 @@ Because the feature is relatively new, it may have minor bugs.</td>
   </tr>
   <tr>
     <td>Support</td>
-    <td>None</td>
+    <td>There is no commitment from the Istio community to improve, maintain or complete the feature and
+the feature may be dropped entirely in a newer release</td>
     <td>There is no commitment from Istio to complete the feature
 The feature may be dropped entirely in a later software release</td>
     <td>Istio commits to complete the feature, in some form, in a subsequent Stable version
@@ -153,7 +156,7 @@ Releases should simultaneously support two consecutive versions (e.g. v1beta1 an
   </tr>
   <tr>
     <td>Recommended Use Cases</td>
-    <td>Don't</td>
+    <td>In short-lived development or testing environments, geared towards soliciting early feedback from users to shape development efforts.</td>
     <td>In short-lived development or testing environments, due to complexity of upgradeability and lack of long-term support.</td>
     <td>In development or testing environments.
 In production environments as part of an evaluation of the feature in order to provide feedback.</td>
