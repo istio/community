@@ -100,6 +100,7 @@ teams:
               - davidhauck
               - ericvn
               - frankbu
+              - nmittler
               - rcaballeromx
           WG - Docs Maintainers/Chinese:
             description: Maintainers of the Chinese documentation.
@@ -115,6 +116,7 @@ teams:
               - davidhauck
               - ericvn
               - frankbu
+              - nmittler
               - rcaballeromx
           WG - Docs Maintainers/Portuguese:
             description: Maintainers of the Portuguese documentation
