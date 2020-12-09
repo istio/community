@@ -314,6 +314,12 @@ teams:
         members:
         - bianpengyuan
         - GregHanson
+      Release Managers - 1.9:
+        description: Release managers for Istio 1.9
+        members:
+        - jacob-delgado
+        - shamsher31
+        - stevenctl
   Repo Admins:
     description: Folks with admin permission on all repos.
     members:
