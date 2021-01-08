@@ -11,7 +11,6 @@ See [CHARTER.md](CHARTER.md).
 
 &nbsp; | Name | Company | Profile | Seat type
 ---|---|---|---|---
-<img width="30px" src="https://avatars0.githubusercontent.com/u/3277917?s=400&v=4"> | Dan Berg | IBM | [dcberg](https://github.com/dcberg) | Contribution seat
 <img width="30px" src="https://avatars0.githubusercontent.com/u/132510?s=460&v=4"> | Craig Box | Google | [craigbox](https://github.com/craigbox) | Contribution seat
 <img width="30px" src="https://avatars2.githubusercontent.com/u/1923135?s=400&u=5c04620901ef2b402be16677f1cae3c5d376bea0&v=4"> | Zack Butcher | Tetrate | [ZackButcher](https://github.com/ZackButcher) | Community seat
 <img width="30px" src="https://avatars0.githubusercontent.com/u/38360792?s=460&u=893d7e3a38246b869e8aa3d3d0c767e5bf171faa&v=4"> | Jasmine Jaksic | Google | [jasminejaksic](https://github.com/jasminejaksic) | Contribution seat
@@ -23,6 +22,7 @@ See [CHARTER.md](CHARTER.md).
 <img width="30px" src="https://pbs.twimg.com/profile_images/838075233445695489/o2eAYJAV_400x400.jpg"> | Louis Ryan | Google | [louiscryan](https://github.com/louiscryan) | Contribution seat
 <img width="30px" src="https://avatars3.githubusercontent.com/u/1934555?s=400&v=4">  | Sean Suchter | Google | [ssuchter](https://github.com/ssuchter) | Contribution seat
 <img width="30px" src="https://avatars1.githubusercontent.com/u/1588319?s=400&v=4">  | Lin Sun | IBM | [linsun](https://github.com/linsun) | Contribution seat
+<img width="30px" src="https://avatars0.githubusercontent.com/u/5502967?s=400&v=4"> | Ram Vennam | IBM | [rvennam](https://github.com/rvennam) | Contribution seat
 <img width="30px" src="https://avatars1.githubusercontent.com/u/13374016?s=400&u=4e398f074b2df4b74dfca18b8654b1666f1ae9ae&v=4"> | Zhonghu Xu | Huawei | [hzxuzhonghu](https://github.com/hzxuzhonghu) | Community seat
 
 ## Contribution Seats
