@@ -27,12 +27,7 @@ appropriate working group.
 
 ## Code of conduct
 
-All members of the Istio community must abide by the
-[Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/1/4/code-of-conduct).
-Only by respecting each other can we develop a productive, collaborative
-community. If you would like to report a violation of the code of contact,
-please contact the [Steering committee](STEERING-COMMITTEE.md) (or any member
-of that committee).
+All members of the Istio community must abide by the [Code of Conduct](CODE-OF-CONDUCT.md).
 
 ## Team values
 
