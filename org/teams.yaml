@@ -96,12 +96,15 @@ teams:
           WG - Docs  Maintainers/English:
             description: Maintainers of the English documentation.
             members:
-              - adammil2000
-              - davidhauck
               - ericvn
               - frankbu
+              - knrc
+              - louiscryan
               - nmittler
-              - rcaballeromx
+              - pnambiarsf
+              - rvennam
+              - smawson
+              - ssuchter
           WG - Docs Maintainers/Chinese:
             description: Maintainers of the Chinese documentation.
             members:
