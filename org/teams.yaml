@@ -97,6 +97,7 @@ teams:
           WG - Docs  Maintainers/English:
             description: Maintainers of the English documentation.
             members:
+              - craigbox
               - ericvn
               - frankbu
               - knrc
