@@ -21,7 +21,6 @@ See [CHARTER.md](CHARTER.md).
 <img width="30px" src="https://avatars0.githubusercontent.com/u/53201?s=400&v=4"> | Christian Posta | Solo.io | [christian-posta](https://github.com/christian-posta) | Community seat
 <img width="30px" src="https://pbs.twimg.com/profile_images/838075233445695489/o2eAYJAV_400x400.jpg"> | Louis Ryan | Google | [louiscryan](https://github.com/louiscryan) | Contribution seat
 <img width="30px" src="https://avatars3.githubusercontent.com/u/1934555?s=400&v=4">  | Sean Suchter | Google | [ssuchter](https://github.com/ssuchter) | Contribution seat
-<img width="30px" src="https://avatars1.githubusercontent.com/u/1588319?s=400&v=4">  | Lin Sun | IBM | [linsun](https://github.com/linsun) | Contribution seat
 <img width="30px" src="https://avatars0.githubusercontent.com/u/5502967?s=400&v=4"> | Ram Vennam | IBM | [rvennam](https://github.com/rvennam) | Contribution seat
 <img width="30px" src="https://avatars1.githubusercontent.com/u/13374016?s=400&u=4e398f074b2df4b74dfca18b8654b1666f1ae9ae&v=4"> | Zhonghu Xu | Huawei | [hzxuzhonghu](https://github.com/hzxuzhonghu) | Community seat
 
