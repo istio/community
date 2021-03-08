@@ -33,7 +33,7 @@ The current working groups are:
 
 _NOTE: Config working group responsibilities have been merged into User Experience._
 
-To join Istio's Slack workspace, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSfdsupDfOWBtNVvVvXED6ULxtR4UIsYGCH_cQcRr0VcG1ZqQQ/viewform).
+To join Istio's Slack workspace, please use [this link](https://istio.slack.io/).
 
 ## Working group meetings
 
