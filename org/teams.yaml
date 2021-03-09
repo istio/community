@@ -27,6 +27,7 @@ teams:
       - hzxuzhonghu
       - incfly
       - irisdingbj
+      - kebe7jun
       - jacob-delgado
       - jasonwzm
       - JimmyCYJ
@@ -90,6 +91,7 @@ teams:
           - fleeto
           - frankbu
           - gbaufake
+          - kebe7jun
           - loverto
           - rcaballeromx
           - rootsongjc
@@ -112,6 +114,7 @@ teams:
             description: Maintainers of the Chinese documentation.
             members:
               - fleeto
+              - kebe7jun
               - loverto
               - rootsongjc
               - SataQiu
