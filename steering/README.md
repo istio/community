@@ -16,12 +16,12 @@ See [CHARTER.md](CHARTER.md).
 <img width="30px" src="https://avatars0.githubusercontent.com/u/38360792?s=460&u=893d7e3a38246b869e8aa3d3d0c767e5bf171faa&v=4"> | Jasmine Jaksic | Google | [jasminejaksic](https://github.com/jasminejaksic) | Contribution seat
 &nbsp; | Kevin Conner | Red Hat | [knrc](https://github.com/knrc) | Contribution seat
 <img width="30px" src="https://avatars0.githubusercontent.com/u/1562325?s=400&v=4"> | Sven Mawson | Google | [smawson](https://github.com/smawson) | Contribution seat
+<img width="30px" src="https://avatars.githubusercontent.com/u/17597872?s=460&u=e94e38992c92a7a9e57ae0797ef74799e2e2e201&v=4"> | Jason McGee | IBM | [CloudJason](https://github.com/CloudJason) | Contribution seat
 &nbsp; | Pratima Nambiar | Salesforce | [pnambiarsf](https://github.com/pnambiarsf) | Contribution seat
 <img width="30px" src="https://avatars3.githubusercontent.com/u/12534779?s=460&v=4"> | Neeraj Poddar | Aspen Mesh | [nrjpoddar](https://github.com/nrjpoddar) | Community seat
 <img width="30px" src="https://avatars0.githubusercontent.com/u/53201?s=400&v=4"> | Christian Posta | Solo.io | [christian-posta](https://github.com/christian-posta) | Community seat
 <img width="30px" src="https://pbs.twimg.com/profile_images/838075233445695489/o2eAYJAV_400x400.jpg"> | Louis Ryan | Google | [louiscryan](https://github.com/louiscryan) | Contribution seat
 <img width="30px" src="https://avatars3.githubusercontent.com/u/1934555?s=400&v=4">  | Sean Suchter | Google | [ssuchter](https://github.com/ssuchter) | Contribution seat
-<img width="30px" src="https://avatars0.githubusercontent.com/u/5502967?s=400&v=4"> | Ram Vennam | IBM | [rvennam](https://github.com/rvennam) | Contribution seat
 <img width="30px" src="https://avatars1.githubusercontent.com/u/13374016?s=400&u=4e398f074b2df4b74dfca18b8654b1666f1ae9ae&v=4"> | Zhonghu Xu | Huawei | [hzxuzhonghu](https://github.com/hzxuzhonghu) | Community seat
 
 ## Contribution Seats
