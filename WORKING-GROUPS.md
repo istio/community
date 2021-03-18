@@ -66,7 +66,6 @@ Each working group has one or more leads which coordinate the activities of the 
 &nbsp;                                                                               | [Mandar Jog](https://github.com/mandarjog)         | Google     | Extensions and Telemetry
 <img width="30px" src="https://avatars0.githubusercontent.com/u/102881?s=400&v=4">   | [Oliver Liu](https://github.com/myidpt)            | Google     | Security
 &nbsp;                                                                               | [Martin Ostrowski](https://github.com/ostromart)   | Google     | Environments
-<img width="30px" src="https://avatars2.githubusercontent.com/u/4336228?s=400&v=4">  | [Francois Pesce](https://github.com/fpesce)        | Google     | Test and Release, Product Security
 <img width="30px" src="https://avatars2.githubusercontent.com/u/21148125?s=400&v=4"> | [Douglas Reid](https://github.com/douglas-reid)    | Google     | Extensions and Telemetry
 &nbsp;                                                                               | [Piotr Sikora](https://github.com/piotrsikora)     | Google     | Networking - Data Plane
 <img width="30px" src="https://avatars3.githubusercontent.com/u/3237651?s=400&v=4">  | [Ed Snible](https://github.com/esnible)            | IBM        | User Experience
