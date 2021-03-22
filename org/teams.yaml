@@ -332,6 +332,11 @@ teams:
         - jacob-delgado
         - shamsher31
         - stevenctl
+      Release Managers - 1.10:
+        description: Release managers for Istio 1.10
+        members:
+        - Monkeyanator
+        - ZhiHanZ
   Repo Admins:
     description: Folks with admin permission on all repos.
     members:
