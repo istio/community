@@ -150,6 +150,7 @@ teams:
       WG - Networking Maintainers:
         description: Maintainers for the Networking working group
         members:
+          - adiprerepa
           - andraxylia
           - bianpengyuan
           - costinm
@@ -194,6 +195,7 @@ teams:
           WG - Networking Maintainers/Pilot:
             description: Maintainers of particular parts of Pilot.
             members:
+              - adiprerepa
               - costinm
               - howardjohn
               - hzxuzhonghu
