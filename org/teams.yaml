@@ -343,7 +343,6 @@ teams:
     description: Folks with admin permission on all repos.
     members:
       - duderino
-      - fpesce
       - howardjohn
       - istio-policy-bot
       - istio-release-robot
