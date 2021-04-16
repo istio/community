@@ -348,7 +348,6 @@ teams:
       - istio-release-robot
       - istio-testing
       - linsun
-      - rshriram
     repos:
       api: admin
       bots: admin
