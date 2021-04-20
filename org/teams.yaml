@@ -48,7 +48,6 @@ teams:
       - nmittler
       - nrjpoddar
       - ostromart
-      - PiotrSikora
       - ramaraochavali
       - rcaballeromx
       - rcernich
@@ -167,7 +166,6 @@ teams:
           - Nino-K
           - nmittler
           - nrjpoddar
-          - PiotrSikora
           - ramaraochavali
           - rlenglet
           - rshriram
@@ -188,7 +186,6 @@ teams:
               - lambdai
               - linsun
               - lizan
-              - PiotrSikora
               - rshriram
               - venilnoronha
               - yxue
@@ -230,7 +227,6 @@ teams:
           - liminw
           - mandarjog
           - nrjpoddar
-          - PiotrSikora
           - yangminzhu
       WG - Security Maintainers:
         description: Maintainers for the Security working group
@@ -481,7 +477,6 @@ teams:
       - myidpt
       - nrjpoddar
       - ostromart
-      - PiotrSikora
       - rshriram
       - sdake
       - suryadu
