@@ -85,6 +85,7 @@ teams:
         description: Maintainers of the Docs working group.
         members:
           - adammil2000
+          - craigbox
           - davidhauck
           - ericvn
           - fleeto
@@ -121,6 +122,7 @@ teams:
             description: Maintainers of the doc build & site infrastructure
             members:
               - adammil2000
+              - craigbox
               - davidhauck
               - ericvn
               - frankbu
