@@ -1,15 +1,11 @@
-**Istio Brand Guidelines**
-
-  
-
+# Istio Brand Guidelines
+ 
 The Istio trademark and logos (“Istio Trademarks”) are treated separately from the copyright or patent license grants contained in the Apache-licensed Istio repositories on GitHub. Any use of the Istio Trademarks other than those permitted in these guidelines must be approved in advance.
 
 ## Purpose of the Brand Guidelines
     
 These guidelines exist to ensure that the Istio project can share its platform under open source licenses while making sure that the “Istio” brand is protected as a meaningful source identifier in a way that is consistent with trademark law.
-
-  
-
+ 
 ## Acceptable Uses
 
 Given the open nature of Istio, you may use the Istio trademark to refer to the project without prior written permission. Examples of these acceptable references include the following:
@@ -40,12 +36,10 @@ Given the open nature of Istio, you may use the Istio trademark to refer to the 
     
 -   Don't remove, distort or alter any element of the Istio Trademarks without permission:
     
-
 -   Do not shorten, abbreviate, or change the spelling of the Istio name, for example in mass communication, product names, social media profiles, domain names or event names).
     
 -   Do not change the color or design elements of the Istio logo, or combine the logo with any other text.
     
-
 -   Community websites, social media accounts, or other community-organized properties or organizations should follow the naming convention "[XYZ] for Istio Users" or "[XYZ] for Istio Contributors".
     
 -   The name "Istio Working Group" can only be used by approved working groups maintaining code in the Istio GitHub organization under Istio Project governance.
@@ -58,5 +52,4 @@ Given the open nature of Istio, you may use the Istio trademark to refer to the 
     
 ## Contact Us
 
-  
 Please do not hesitate to contact us at [istio-steering@googlegroups.com](mailto:istio-steering@googlegroups.com) if you are unsure whether your intended use of the Istio Trademarks is in compliance with these guidelines, or to ask for permission to use the Istio Trademarks, clearly describing the intended usage and duration.
