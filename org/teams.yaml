@@ -450,19 +450,19 @@ teams:
       - kmoneal
       - litong01
     repos:
-      api: triage
-      bots: triage
-      client-go: triage
-      cni: triage
-      cri: triage
-      envoy: triage
-      installer: triage
-      istio: triage
-      istio.io: triage
-      operator: triage
-      pkg: triage
-      proxy: triage
-      tools: triage
+      api: write
+      bots: write
+      client-go: write
+      cni: write
+      cri: write
+      envoy: write
+      installer: write
+      istio: write
+      istio.io: write
+      operator: write
+      pkg: write
+      proxy: write
+      tools: write
   Triagers:
     description: Folks that perform issue & pr triage.
     members:
