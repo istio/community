@@ -84,6 +84,7 @@ The members of the TOC are shown below. Membership in the TOC is determined by t
 We would like to acknowledge previous TOC members for their huge contribution to
 the success of the Istio community:
 
+* Martin Taillefer
 * Shriram Rajagopalan
 * Daniel Berg
 
