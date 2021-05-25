@@ -79,6 +79,14 @@ The members of the TOC are shown below. Membership in the TOC is determined by t
 <img width="30px" src="https://avatars1.githubusercontent.com/u/1043139?s=400&v=4"> | [Joshua Blatt](https://github.com/duderino) | Google
 <img width="30px" src="https://avatars3.githubusercontent.com/u/12534779?s=400&v=4">| [Neeraj Poddar](https://github.com/nrjpoddar) | Aspen Mesh
 
+## Emeritus members
+
+We would like to acknowledge previous TOC members for their huge contribution to
+the success of the Istio community:
+
+* Shriram Rajagopalan
+* Daniel Berg
+
 ## Getting in touch
 
 If you'd like to reach out to the committee, please drop a note to [toc@discuss.istio.io](mailto:toc@discuss.istio.io).
