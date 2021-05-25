@@ -437,7 +437,6 @@ teams:
   Technical Oversight Committee:
     description: Members of the Istio TOC.
     members:
-      - dcberg
       - duderino
       - linsun
       - louiscryan
