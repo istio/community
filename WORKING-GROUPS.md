@@ -74,6 +74,7 @@ Each working group has one or more leads which coordinate the activities of the 
 <img width="30px" src="https://avatars3.githubusercontent.com/u/38300436?s=400&v=4"> | [Jacob Delgado](https://github.com/jacob-delgado)  | Aspen Mesh | Product Security
 <img width="30px" src="https://avatars0.githubusercontent.com/u/1016047?s=400&v=4">  | [Lizan Zhou](https://github.com/lizan)             | Tetrate    | Networking - Data Plane, Security
 &nbsp;                                                                               | [Rama Chavali](https://github.com/ramaraochavali)  | Salesforce | Networking - Control Plane
+&nbsp;                                                                               | [Steven Landow](https://github.com/ramaraochavali) | Google     | Networking - Control Plane
 
 ## Getting in touch
 
