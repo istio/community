@@ -60,12 +60,11 @@ Each working group has one or more leads which coordinate the activities of the 
 &nbsp;                                                                               | Name                                               | Company    | Groups
 -------------------------------------------------------------------------------------|----------------------------------------------------|------------|-------
 <img width="30px" src="https://avatars3.githubusercontent.com/u/8484260?s=400&v=4">  | [Brian Avery](https://github.com/brian-avery)      | Red Hat    | Test and Release, Product Security
-&nbsp;                                                                               | [Costin Manolache](https://github.com/costinm)     | Google     | Networking - Control Plane
+&nbsp;                                                                               | [Costin Manolache](https://github.com/costinm)     | Google     | Environments
 <img width="30px" src="https://avatars0.githubusercontent.com/u/755849?s=400&v=4">   | [Steven Dake](https://github.com/sdake)            | IBM        | Environments
-<img width="30px" src="https://avatars1.githubusercontent.com/u/623453?s=400&v=4">   | [John Howard](https://github.com/howardjohn)       | Google     | Environments
+<img width="30px" src="https://avatars1.githubusercontent.com/u/623453?s=400&v=4">   | [John Howard](https://github.com/howardjohn)       | Google     | Networking
 &nbsp;                                                                               | [Mandar Jog](https://github.com/mandarjog)         | Google     | Extensions and Telemetry
-<img width="30px" src="https://avatars0.githubusercontent.com/u/102881?s=400&v=4">   | [Oliver Liu](https://github.com/myidpt)            | Google     | Security
-&nbsp;                                                                               | [Martin Ostrowski](https://github.com/ostromart)   | Google     | Environments
+<img width="30px" src="https://avatars0.githubusercontent.com/u/102881?s=400&v=4">   | [Oliver Liu](https://github.com/myidpt)            | Google     | Security, Product Security
 <img width="30px" src="https://avatars2.githubusercontent.com/u/21148125?s=400&v=4"> | [Douglas Reid](https://github.com/douglas-reid)    | Google     | Extensions and Telemetry
 <img width="30px" src="https://avatars3.githubusercontent.com/u/3237651?s=400&v=4">  | [Ed Snible](https://github.com/esnible)            | IBM        | User Experience
 <img width="30px" src="https://avatars3.githubusercontent.com/u/821270?s=80&v=4">    | [Mitch Connors](https://github.com/therealmitchconnors) | Google  | User Experience
