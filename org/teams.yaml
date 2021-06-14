@@ -511,6 +511,24 @@ teams:
       - louiscryan
       - nrjpoddar
       - smawson
+    repos:
+      api: write
+      bots: write
+      client-go: write
+      cni: write
+      common-files: write
+      cri: write
+      enhancements: write
+      envoy: write
+      gogo-genproto: write
+      installer: write
+      istio: write
+      istio.io: write
+      operator: write
+      pkg: write
+      proxy: write
+      release-builder: write
+      test-infra: write
   Triagers:
     description: Folks that perform issue & pr triage.
     members:
