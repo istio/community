@@ -511,26 +511,6 @@ teams:
       - louiscryan
       - nrjpoddar
       - smawson
-  Test-Triagers:
-    description: Folks that perform issue & pr triage.
-    members:
-      - kailun-qin
-      - kmoneal
-      - litong01
-    repos:
-      api: triage
-      bots: triage
-      client-go: triage
-      cni: triage
-      cri: triage
-      envoy: triage
-      installer: triage
-      istio: triage
-      istio.io: triage
-      operator: triage
-      pkg: triage
-      proxy: triage
-      tools: triage
   Triagers:
     description: Folks that perform issue & pr triage.
     members:
