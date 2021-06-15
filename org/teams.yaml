@@ -65,6 +65,9 @@ teams:
       - venilnoronha
       - yangminzhu
       - yxue
+    repos:
+        enhancements: write
+        istio: write
     teams:
       Operations Maintainers:
         description: Maintainers of Operations.
@@ -76,6 +79,8 @@ teams:
           - fejta
           - michelle192837
           - mpherman2
+        repos:
+          test-infra: write
       WG - Config Maintainers:
         description: Maintainers for the Config working group.
         members:
@@ -96,6 +101,9 @@ teams:
           - rcaballeromx
           - rootsongjc
           - SataQiu
+        repos:
+          istio.io: write
+          tools: write
         teams:
           WG - Docs  Maintainers/English:
             description: Maintainers of the English documentation.
@@ -150,6 +158,9 @@ teams:
           - richardwxn
           - sdake
           - stevenctl
+        repos:
+          installer: write
+          operator: write
       WG - Networking Maintainers:
         description: Maintainers for the Networking working group
         members:
@@ -178,6 +189,10 @@ teams:
           - tiswanso
           - venilnoronha
           - yxue
+        repos:
+          cni: write
+          envoy: write
+          proxy: write
         teams:
           WG - Networking Maintainers/Data Plane:
             description: Maintainers of data plane components
@@ -208,6 +223,9 @@ teams:
         members:
           - mandarjog
           - suryadu
+        repos:
+          test-infra: write
+          tools: write
       WG - Policies and Telemetry  Maintainers:
         description: Maintainers for the Policy and Telemetry working group.
         members:
@@ -217,6 +235,8 @@ teams:
           - kyessenov
           - mandarjog
           - nrjpoddar
+        repos:
+          proxy: write
       WG - Product Security Maintainers:
         description: Maintainers for the Product Security working group.
         members:
@@ -264,6 +284,15 @@ teams:
           - sdake
           - stevenctl
           - therealmitchconnors
+        repos:
+          api: write
+          bots: write
+          common-files: write
+          gogo-genproto: write
+          pkg: write
+          release-builder: write
+          test-infra: write
+          tools: write
       WG - User Experience Maintainers:
         description: Maintainers for the User Experience working group.
         members:
@@ -274,6 +303,8 @@ teams:
           - nmittler
           - shamsher31
           - therealmitchconnors
+        repos:
+          client-go: write
   Release Managers:
     description: Current set of release managers.
     members:
@@ -290,6 +321,25 @@ teams:
       - Mythra
       - rlenglet
       - sdake
+    repos:
+      api: write
+      bots: write
+      client-go: write
+      common-files: write
+      cni: write
+      cri: write
+      enhancements: write
+      envoy: write
+      gogo-genproto: write
+      installer: write
+      istio: write
+      istio.io: write
+      operator: write
+      pkg: write
+      proxy: write
+      release-builder: write
+      test-infra: write
+      tools: write
     teams:
       Release Managers - 1.3:
         description: Release managers for Istio 1.3
@@ -434,6 +484,25 @@ teams:
       - smawson
       - ssuchter
       - ZackButcher
+    repos:
+      api: write
+      bots: write
+      client-go: write
+      cni: write
+      common-files: write
+      cri: write
+      enhancements: write
+      envoy: write
+      gogo-genproto: write
+      installer: write
+      istio: write
+      istio.io: write
+      operator: write
+      pkg: write
+      proxy: write
+      release-builder: write
+      test-infra: write
+      tools: write
   Technical Oversight Committee:
     description: Members of the Istio TOC.
     members:
@@ -442,26 +511,24 @@ teams:
       - louiscryan
       - nrjpoddar
       - smawson
-  Test-Triagers:
-    description: Folks that perform issue & pr triage.
-    members:
-      - kailun-qin
-      - kmoneal
-      - litong01
     repos:
-      api: triage
-      bots: triage
-      client-go: triage
-      cni: triage
-      cri: triage
-      envoy: triage
-      installer: triage
-      istio: triage
-      istio.io: triage
-      operator: triage
-      pkg: triage
-      proxy: triage
-      tools: triage
+      api: write
+      bots: write
+      client-go: write
+      cni: write
+      common-files: write
+      cri: write
+      enhancements: write
+      envoy: write
+      gogo-genproto: write
+      installer: write
+      istio: write
+      istio.io: write
+      operator: write
+      pkg: write
+      proxy: write
+      release-builder: write
+      test-infra: write
   Triagers:
     description: Folks that perform issue & pr triage.
     members:
@@ -511,4 +578,4 @@ teams:
       - linsun
       - louiscryan
     repos:
-      enhancements: none
+      enhancements: write
