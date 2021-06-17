@@ -391,7 +391,6 @@ teams:
   Repo Admins:
     description: Folks with admin permission on all repos.
     members:
-      - duderino
       - howardjohn
       - istio-policy-bot
       - istio-release-robot
@@ -506,7 +505,6 @@ teams:
   Technical Oversight Committee:
     description: Members of the Istio TOC.
     members:
-      - duderino
       - linsun
       - louiscryan
       - nrjpoddar
@@ -553,7 +551,6 @@ teams:
     members:
       - brian-avery
       - douglas-reid
-      - duderino
       - ericvn
       - esnible
       - fpesce
