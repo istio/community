@@ -29,11 +29,10 @@ import (
 )
 
 type Organization struct {
-	Admins     []string            `json:"admins,omitempty"`
-	Members    []string            `json:"members,omitempty"`
-	Developers []string            `json:"developers,omitempty"`
-	Repos      map[string]org.Repo `json:"repos,omitempty"`
-	Teams      map[string]org.Team `json:"teams,omitempty"`
+	Admins  []string            `json:"admins,omitempty"`
+	Members []string            `json:"members,omitempty"`
+	Repos   map[string]org.Repo `json:"repos,omitempty"`
+	Teams   map[string]org.Team `json:"teams,omitempty"`
 }
 
 var (
@@ -114,17 +113,16 @@ func strPointer(s string) *string {
 
 func convertConfig(cfg Organization) org.FullConfig {
 	allMembers := cfg.Members[:]
-	allMembers = append(allMembers, cfg.Developers...)
 	sort.Slice(allMembers, func(i, j int) bool { return strings.ToLower(allMembers[i]) < strings.ToLower(allMembers[j]) })
 
-	// Insert the developers team, which is handled separately
+	// Insert the members team, which is handled separately
 	closed := org.Closed
-	cfg.Teams["Developers"] = org.Team{
+	cfg.Teams["Members"] = org.Team{
 		TeamMetadata: org.TeamMetadata{
-			Description: strPointer("Folks actively working on the Istio code base."),
+			Description: strPointer("Folks actively working on Istio."),
 			Privacy:     &closed,
 		},
-		Members: cfg.Developers,
+		Members: cfg.Members,
 	}
 
 	istio := org.Config{
