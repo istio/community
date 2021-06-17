@@ -127,12 +127,10 @@ func convertConfig(cfg Organization) org.FullConfig {
 		Members: cfg.Developers,
 	}
 
-	triagePerm := github.Triage
 	istio := org.Config{
 		Metadata: org.Metadata{
-			Name:                        strptr("Istio"),
-			Description:                 strptr("Connect, secure, control, and observe services."),
-			DefaultRepositoryPermission: &triagePerm,
+			Name:        strptr("Istio"),
+			Description: strptr("Connect, secure, control, and observe services."),
 		},
 		Teams: cfg.Teams,
 		// Members list shouldn't contain admins
