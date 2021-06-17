@@ -96,9 +96,8 @@ func TestIstioOrg(t *testing.T) {
 	}
 
 	members := normalize(sets.NewString(cfg.Members...))
-	developers := normalize(sets.NewString(cfg.Developers...))
 	admins := normalize(sets.NewString(cfg.Admins...))
-	allOrgMembers := members.Union(admins).Union(developers)
+	allOrgMembers := members.Union(admins).Union(members)
 
 	requiredRobots := sets.NewString("istio-testing", "google-admin", "googlebot")
 	if !admins.IsSuperset(requiredRobots) {
@@ -108,17 +107,8 @@ func TestIstioOrg(t *testing.T) {
 	if !isSorted(cfg.Members) {
 		t.Errorf("members unsorted")
 	}
-	if !isSorted(cfg.Developers) {
-		t.Errorf("developers unsorted")
-	}
 	if !isSorted(cfg.Admins) {
-		t.Errorf("members unsorted")
-	}
-
-	if overlap := developers.Intersection(members); overlap.Len() != 0 {
-		for _, i := range overlap.List() {
-			t.Errorf("%v present in both developers and members list; choose only one", i)
-		}
+		t.Errorf("admins unsorted")
 	}
 
 	if errs := testTeamMembers(cfg.Teams, admins, allOrgMembers); errs != nil {
