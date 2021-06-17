@@ -108,7 +108,7 @@ func TestIstioOrg(t *testing.T) {
 		t.Errorf("members unsorted")
 	}
 	if !isSorted(cfg.Admins) {
-		t.Errorf("members unsorted")
+		t.Errorf("admins unsorted")
 	}
 
 	if errs := testTeamMembers(cfg.Teams, admins, allOrgMembers); errs != nil {
