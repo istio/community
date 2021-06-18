@@ -262,6 +262,7 @@ teams:
           - liminw
           - lizan
           - myidpt
+          - shankgan
           - yangminzhu
       WG - Test and Release Maintainers:
         description: Maintainers for the Test and Release working group.
