@@ -12,30 +12,21 @@ The Istio Technical Oversight Committee (TOC) is responsible for cross-cutting p
 
 * Technical Project Oversight, Direction & Delivery
 
-    * Set the overall technical direction and roadmap of the project.
-
-    * Resolve technical issues, technical disagreements and escalations within the project.
-
-    * Set the priorities of individual releases to ensure coherency and proper sequencing.
-
-    * Approve declaring a new long-term supported (LTS) Istio release.
-
-    * Approve the creation and dissolution of working groups and approve leadership changes of working groups.
-
-    * Create proposals based on TOC discussions and bring them to the relevant working groups for discussion.
-
-    * Approve the creation/deletion of GitHub repositories, along with other high-level administrative issues around GitHub and our other tools.
+  * Set the overall technical direction and roadmap of the project.
+  * Resolve technical issues, technical disagreements and escalations within the project.
+  * Set the priorities of individual releases to ensure coherency and proper sequencing.
+  * Approve declaring a new long-term supported (LTS) Istio release.
+  * Approve the creation and dissolution of working groups and approve leadership changes of working groups.
+  * Create proposals based on TOC discussions and bring them to the relevant working groups for discussion.
+  * Approve the creation/deletion of GitHub repositories, along with other high-level administrative issues around GitHub and our other tools.
 
 * Happy Healthy Community
 
-    * Establish and maintain the overall technical governance guidelines for the project.
-
-    * Decide which sub-projects are part of the Istio project, including accepting new sub-projects and pruning existing sub-projects to
+  * Establish and maintain the overall technical governance guidelines for the project.
+  * Decide which sub-projects are part of the Istio project, including accepting new sub-projects and pruning existing sub-projects to
     maintain community focus.
-
-    * Ensure the team adheres to our [code of conduct](CONTRIBUTING.md#code-of-conduct) and respects our [values](VALUES.md).
-
-    * Foster an environment for a healthy and happy community of developers and contributors.
+  * Ensure the team adheres to our [code of conduct](CONTRIBUTING.md#code-of-conduct) and respects our [values](VALUES.md).
+  * Foster an environment for a healthy and happy community of developers and contributors.
 
 ## Committee mechanics
 
@@ -74,9 +65,11 @@ The members of the TOC are shown below. Membership in the TOC is determined by t
 &nbsp; | Name | Company
 ---|---|---
 <img width="30px" src="https://avatars0.githubusercontent.com/u/1562325?s=400&v=4"> | [Sven Mawson](https://github.com/smawson) | Google
-<img width="30px" src="https://avatars3.githubusercontent.com/u/9046588?s=400&v=4">| [Louis Ryan](https://github.com/louiscryan) | Google
-<img width="30px" src="https://avatars1.githubusercontent.com/u/1588319?s=400&v=4"> | [Lin Sun](https://github.com/linsun) | [Solo.io](https://www.solo.io/)
+<img width="30px" src="https://avatars3.githubusercontent.com/u/9046588?s=400&v=4"> | [Louis Ryan](https://github.com/louiscryan) | Google
+<img width="30px" src="https://avatars1.githubusercontent.com/u/1588319?s=400&v=4"> | [Lin Sun](https://github.com/linsun) | Solo.io
 <img width="30px" src="https://avatars3.githubusercontent.com/u/12534779?s=400&v=4">| [Neeraj Poddar](https://github.com/nrjpoddar) | Aspen Mesh
+<img width="30px" src="https://avatars.githubusercontent.com/u/623453?v=4">         | [John Howard](https://github.com/howardjohn) | Google
+<img width="30px" src="https://avatars.githubusercontent.com/u/8484260?v=4">        | [Brian Avery](https://github.com/brian-avery) | Red Hat
 
 ## Emeritus members
 
