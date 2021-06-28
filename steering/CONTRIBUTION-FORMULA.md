@@ -4,7 +4,7 @@ The [steering committee charter](CHARTER.md) states "Each year, when
 Contribution Seat terms begin, the Steering Committee will vote on an exact
 formula and procedure for determining allocation for the following year."
 
-For the August 2020 to January 2021 term, the contribution formula shall be
+For the February 2021 to January 2022 term, the contribution formula shall be
 **merged pull requests** attributed to a Contributing Company,
 and the [D'Hondt method](https://en.wikipedia.org/wiki/D%27Hondt_method) of
 allocation of seats.
