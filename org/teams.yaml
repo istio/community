@@ -507,6 +507,8 @@ teams:
   Technical Oversight Committee:
     description: Members of the Istio TOC.
     members:
+      - brian-avery
+      - howardjohn
       - linsun
       - louiscryan
       - nrjpoddar
