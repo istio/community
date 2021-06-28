@@ -473,16 +473,17 @@ teams:
     description: members of istio steering committee
     members:
       - christian-posta
+      - CloudJason
       - craigbox
+      - duglin
       - hzxuzhonghu
-      - jasminejaksic
       - knrc
       - louiscryan
       - nrjpoddar
       - pnambiarsf
-      - rvennam
       - smawson
       - ssuchter
+      - thisisnotapril
       - ZackButcher
     repos:
       api: write
