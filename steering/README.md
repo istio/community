@@ -13,11 +13,12 @@ See [CHARTER.md](CHARTER.md).
 ---|---|---|---|---
 <img width="30px" src="https://avatars0.githubusercontent.com/u/132510?s=460&v=4"> | Craig Box | Google | [craigbox](https://github.com/craigbox) | Contribution seat
 <img width="30px" src="https://avatars2.githubusercontent.com/u/1923135?s=400&u=5c04620901ef2b402be16677f1cae3c5d376bea0&v=4"> | Zack Butcher | Tetrate | [ZackButcher](https://github.com/ZackButcher) | Community seat
-&nbsp; | Kevin Conner | Red Hat | [knrc](https://github.com/knrc) | Contribution seat
+<img width="30px" src="https://events.istio.io/istiocon-2021/images/organizers/kevin-conner.jpg"> | Kevin Conner | Red Hat | [knrc](https://github.com/knrc) | Contribution seat
+<img width="30px" src="https://cdn.thenewstack.io/media/2016/04/Doug-Davis-photo.jpeg"> | Doug Davis | IBM | [duglin](https://github.com/duglin) | Contribution seat
 <img width="30px" src="https://avatars.githubusercontent.com/u/8482383?v=4"> | April Kyle Nassi | Google | [thisisnotapril](https://github.com/thisisnotapril) | Contribution seat
 <img width="30px" src="https://avatars0.githubusercontent.com/u/1562325?s=400&v=4"> | Sven Mawson | Google | [smawson](https://github.com/smawson) | Contribution seat
 <img width="30px" src="https://avatars.githubusercontent.com/u/17597872?s=460&u=e94e38992c92a7a9e57ae0797ef74799e2e2e201&v=4"> | Jason McGee | IBM | [CloudJason](https://github.com/CloudJason) | Contribution seat
-&nbsp; | Pratima Nambiar | Salesforce | [pnambiarsf](https://github.com/pnambiarsf) | Contribution seat
+<img width="30px" src="https://events.istio.io/istiocon-2021/images/speakers/pratima-nambiar.jpg"> | Pratima Nambiar | Salesforce | [pnambiarsf](https://github.com/pnambiarsf) | Contribution seat
 <img width="30px" src="https://avatars3.githubusercontent.com/u/12534779?s=460&v=4"> | Neeraj Poddar | Aspen Mesh | [nrjpoddar](https://github.com/nrjpoddar) | Community seat
 <img width="30px" src="https://avatars0.githubusercontent.com/u/53201?s=400&v=4"> | Christian Posta | Solo.io | [christian-posta](https://github.com/christian-posta) | Community seat
 <img width="30px" src="https://pbs.twimg.com/profile_images/838075233445695489/o2eAYJAV_400x400.jpg"> | Louis Ryan | Google | [louiscryan](https://github.com/louiscryan) | Contribution seat
@@ -26,11 +27,11 @@ See [CHARTER.md](CHARTER.md).
 
 ## Contribution Seats
 
-For August 2020 to January 2021, the nine Contribution Seats were [allocated](https://docs.google.com/spreadsheets/d/1Dt-h9s8G7Wyt4r16ZVqcmdWXDuCaPC0kPS21BuAfCL8/edit#gid=0) per the [agreed formula and process](CONTRIBUTION-FORMULA.md).
+For February 2021 to January 2022, the nine Contribution Seats were [allocated](https://docs.google.com/spreadsheets/d/1Dt-h9s8G7Wyt4r16ZVqcmdWXDuCaPC0kPS21BuAfCL8/edit#gid=0) per the [agreed formula and process](CONTRIBUTION-FORMULA.md).
 
 ## Elections
 
-Every year, four members of the Steering Committee are voted on by the community.  Check out the [2020 election guide](elections/2020/).
+Every year, four members of the Steering Committee are voted on by the community.  Check out the [2021 election guide](elections/2021/).
 
 ## Meetings
 
