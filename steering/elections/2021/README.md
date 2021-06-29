@@ -16,7 +16,8 @@ Some direct responsibilities of steering members to consider as you are deciding
 
 ## Schedule
 
-|-----------------|-----|
+| Date            | Event          |
+|-----------------|----------------|
 | June 28         | Announcement of Election and publication of VOTERS.md |
 | July 11         | Candidate bios and voting exception forms due by 2359 UTC (5pm PDT) |
 | ~1 week         | Election prep week (VOTERS.md validation, Elekto setup and testing) |
