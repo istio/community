@@ -491,6 +491,7 @@ teams:
       client-go: write
       cni: write
       common-files: write
+      community: write
       cri: write
       enhancements: write
       envoy: write
@@ -519,6 +520,7 @@ teams:
       client-go: write
       cni: write
       common-files: write
+      community: write
       cri: write
       enhancements: write
       envoy: write
