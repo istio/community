@@ -192,6 +192,7 @@ teams:
         repos:
           cni: write
           envoy: write
+          go-control-plane: write
           proxy: write
         teams:
           WG - Networking Maintainers/Data Plane:
@@ -287,8 +288,11 @@ teams:
         repos:
           api: write
           bots: write
+          bottestrepo: write
           common-files: write
+          distroless: write
           gogo-genproto: write
+          istio.io: write
           pkg: write
           release-builder: write
           test-infra: write
