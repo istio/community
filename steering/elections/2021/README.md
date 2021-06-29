@@ -16,12 +16,11 @@ Some direct responsibilities of steering members to consider as you are deciding
 
 ## Schedule
 
-|                 |     |
 |-----------------|-----|
 | June 28         | Announcement of Election and publication of VOTERS.md |
 | July 11         | Candidate bios and voting exception forms due by 2359 UTC (5pm PDT) |
-| ~1 week         | Election prep week (VOTERS.md validation, CIVS setup and testing) |
-| July 12         | Election begins via email ballots |
+| ~1 week         | Election prep week (VOTERS.md validation, Elekto setup and testing) |
+| July 12         | Election begins via Elekto UI |
 | July 25         | Election closes by 2359 UTC (5pm PDT) |
 | week of July 26 | Winners announced |
 
@@ -31,9 +30,18 @@ Eligibility for candidacy is defined in the [Steering Committee charter](../../C
 
 Members from **Google**, **IBM**, **Red Hat** and **Salesforce** are therefore **ineligible** to stand in this election.
 
-You may nominate yourself or others for election by creating an issue in the istio/community repository.  Please use the title "Nomination - Jane Doe".  Nominees should close the issue with a comment if they choose to not accept the nomination.
+If you want to stand for election, open a PR against the [istio/community repository](https://github.com/istio/community) to include
+your candidate profile in the `/steering/elections/2021` folder, with the file named in the format `candidate-yourname.md`. We have included [a template file](nomination-template.md) as an example. This profile should include:
 
-Nominees, if eligible, should submit a Pull Request with a biography with a maximum 300 word statement. See [sample janedoe.md](../sample-janedoe.md).
+- Your name
+- Your GitHub ID
+- Your company affiliation (employer or otherwise)
+- Your contributions to Istio
+- Why you are running
+
+Once you have created the PR, you may encourage endorsements as comments on it. After a candidate has met all election requirements, the Election Officers will merge the profile PR.
+
+If you want to nominate someone else, you may do so, but please confirm their interest first.
 
 ## Voting process
 
@@ -42,17 +50,35 @@ Eligibility to vote is defined in the [Steering Committee charter](../../CHARTER
 - a project member who has had at least one Pull Request merged in the past 12 months, or
 - someone who has submitted the [voting exception form](https://forms.gle/gvJemYA9ECey3K7b6) and has been accepted by the steering committee as having standing in the community.
 
-Elections will be held using time-limited Condorcet ranking on CIVS using the IRV method.
-The top four candidates who are employed by a unique Company (as defined in the Charter) shall be deemed to be elected.
+Elections will be held using [Elekto](https://elekto.io/), an online voting tool
+created for the CNCF. Elekto has one critical advantage over CIVS, which is that
+it uses GitHub OAuth to log you in to vote, instead of relying on email.
 
-The election will open for voting starting July 12th via email and end two weeks after on July 25, 2020 at 2359 UTC. You will receive an email to the address on file at the start of the election from `Craig Box (CIVS Poll Supervisor) <civs@cs.cornell.edu>`. Detailed voting instructions will be provided in the email and on the CIVS polling page. Please note that email can be unreliable, so you are encouraged to contact the election officials if you do not receive a ballot by July 9.
+Thus, when you go to Elekto, you will be prompted to log in your GitHub account.
+You will then be able to click on "Explore Election" to look at the list of
+elections, and select the "2021 Istio Steering Committee Election."
+
+The election page will, among other things, confirm if you are eligible to vote,
+via a button at the top of the screen.
+
+As candidates file their candidate statements in the community repo, they will
+become visible in the Elekto UI.  You may click through to any candidate to see
+their profile.
+
+Once the vote begins, you will be able to rank the candidates in the order of
+your preference, and submit your ballot.  When you submit, you will be offered
+a chance to set a password, which is required if you want the ability to return
+and re-cast your ballot before July 25th.
+
+All data is stored on cloud infrastructure maintained by the election officers,
+and is not shared with third parties. Individual ballot data is encrypted, and
+not retrievable by anyone except in aggregate form.
+
+The top four candidates who are employed by a unique Company (as defined in the
+Charter) shall be deemed to be elected.
 
 ### Election officers
 
 - Craig Box, [@craigbox](https://github.com/craigbox), Google
 - Jason McGee, [@CloudJason](https://github.com/CloudJason), IBM
-
-## Nominees
-
-|            Name            | Company/Organization |                        GitHub                        |
-|:--------------------------:|:--------------------:|:----------------------------------------------------:|
+- Josh Berkus, [@jberkus](https://github.com/jberkus), Red Hat
