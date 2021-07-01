@@ -13,4 +13,5 @@ Previously, She was the conference co-chair for IstioCon 2021 and served on the 
 
 Here's a paragraph about why I'm running.
 
-I am an open source enthusiast and firm believer that Istio will become the dominant service mesh. I am passionate about advocating for Istio in the service mesh industry and helping users adopt Istio successfully. If elected, I would love to help out with various aspects of making Istio successful, such as enforcing principles to guide the project or fostering an environment for happy developers/contributors/vendors/users or providing neutral mediation for non-technical disputes etc.
+I am an open-source enthusiast and firm believer that Istio will become the dominant service mesh. I am passionate about advocating for Istio in the service mesh industry and helping users adopt Istio successfully. If elected, I would love to help out with various aspects of making Istio successful, such as enforcing principles to guide the project or fostering an environment for happy developers/contributors/vendors/users, or providing neutral mediation for non-technical disputes, etc.
+
