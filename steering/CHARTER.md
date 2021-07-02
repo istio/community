@@ -81,7 +81,11 @@ and community, beginning in August 2020.
         the seat for the term.
     1. Because the goal of Community Seats is to increase the perspectives on
     the Steering Committee, employees of a Company that holds Contribution
-    Seats are ineligible to be elected to hold a Community Seat.
+    Seats are ineligible to hold a Community Seat.
+        1. If a Community Seat thus becomes vacant due to the holding company
+        earning a Contribution Seat, a special election will be held in the
+        weeks following these events, in the same manner as described above
+        for the regular Community Seat elections.
 1. A simple majority of Seats shall be sufficient to call a vote of the
 Steering Committee, one nominating, and the rest agreeing, over email. Voting
 shall be done electronically, in a manner agreed on by the Steering Committee.
