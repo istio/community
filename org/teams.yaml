@@ -396,8 +396,8 @@ teams:
       Release Managers - 1.11:
         description: Release managers for Istio 1.11
         members:
-        - zhlsunshine
         - ryantking
+        - zhlsunshine
   Repo Admins:
     description: Folks with admin permission on all repos.
     members:
