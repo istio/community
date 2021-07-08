@@ -396,6 +396,7 @@ teams:
       Release Managers - 1.11:
         description: Release managers for Istio 1.11
         members:
+        - jwendell
         - ryantking
         - zhlsunshine
   Repo Admins:
