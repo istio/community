@@ -1,12 +1,9 @@
-# Neeraj Poddar
-
-- GitHub: https://github.com/nrjpoddar
-- Affiliation: Co-founder & Chief Architect, Aspen Mesh
-- Slack: @nrjpoddar
-- Twitter: @nrjpoddar
-- LinkedIn: https://www.linkedin.com/in/nrjpoddar/
-
-# Bio
+-------------------------------------------------------------
+name: Neeraj Poddar
+ID: nrjpoddar
+info:
+  - affiliation: Aspen Mesh
+-------------------------------------------------------------
 
 Neeraj Poddar is the Co-founder and the Chief Architect at Aspen Mesh. He has
 worked on various aspects of operating systems, networking and distributed
