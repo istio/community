@@ -219,14 +219,6 @@ teams:
               - ramaraochavali
               - rshriram
               - stevenctl
-      WG - Perf and Scalability  Maintainers:
-        description: Maintainers for the Perf and Scalability working group.
-        members:
-          - mandarjog
-          - suryadu
-        repos:
-          test-infra: write
-          tools: write
       WG - Policies and Telemetry  Maintainers:
         description: Maintainers for the Policy and Telemetry working group.
         members:
@@ -581,7 +573,6 @@ teams:
       - myidpt
       - nrjpoddar
       - stevenctl
-      - suryadu
   enhancements-maintainers:
     description: ""
     members:
