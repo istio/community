@@ -421,57 +421,6 @@ teams:
       release-builder: admin
       test-infra: admin
       tools: admin
-    teams:
-      Release Managers - 1.1:
-        description: Release managers for Istio 1.1
-        members:
-          - duderino
-        repos:
-          api: admin
-          bots: admin
-          client-go: admin
-          cni: admin
-          common-files: admin
-          community: admin
-          cri: admin
-          enhancements: admin
-          envoy: admin
-          fortio-deployment: admin
-          gogo-genproto: admin
-          installer: admin
-          istio: admin
-          istio.io: admin
-          operator: admin
-          pkg: admin
-          proxy: admin
-          release-builder: admin
-          test-infra: admin
-          tools: admin
-      Release Managers - 1.2:
-        description: Release managers for Istio 1.2
-        members:
-          - fpesce
-        repos:
-          api: admin
-          bots: admin
-          client-go: admin
-          cni: admin
-          common-files: admin
-          community: admin
-          cri: admin
-          enhancements: admin
-          envoy: admin
-          fortio-deployment: admin
-          gogo-genproto: admin
-          installer: admin
-          istio: admin
-          istio.io: admin
-          operator: admin
-          pkg: admin
-          proxy: admin
-          release-builder: admin
-          test-infra: admin
-          tools: admin
   Steering Committee:
     description: members of istio steering committee
     members:
