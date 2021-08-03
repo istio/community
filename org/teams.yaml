@@ -424,12 +424,12 @@ teams:
   Steering Committee:
     description: members of istio steering committee
     members:
-      - christian-posta
       - CloudJason
       - craigbox
       - duglin
       - hzxuzhonghu
       - knrc
+      - linsun
       - louiscryan
       - nrjpoddar
       - pnambiarsf
