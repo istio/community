@@ -66,6 +66,7 @@ teams:
       - yangminzhu
       - yxue
     repos:
+        api: write
         enhancements: write
         istio: write
     teams:
