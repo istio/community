@@ -61,7 +61,8 @@ the success of the Istio community:
 ## 1.2
 
 * [Francois Pesce](https://github.com/fpesce)
-
+* [Lin Sun](https://github.com/linsun)
+* 
 ## 1.1
 
 * [Josh Blatt](https://github.com/duderino)
