@@ -63,6 +63,7 @@ teams:
       - therealmitchconnors
       - tiswanso
       - venilnoronha
+      - Xunzhuo
       - yangminzhu
       - yxue
     repos:
@@ -102,6 +103,7 @@ teams:
           - rcaballeromx
           - rootsongjc
           - SataQiu
+          - Xunzhuo
         repos:
           istio.io: write
           tools: write
@@ -127,6 +129,7 @@ teams:
               - loverto
               - rootsongjc
               - SataQiu
+              - Xunzhuo
           WG - Docs Maintainers/Infra:
             description: Maintainers of the doc build & site infrastructure
             members:
