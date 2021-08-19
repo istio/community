@@ -103,7 +103,6 @@ teams:
           - rcaballeromx
           - rootsongjc
           - SataQiu
-          - Xunzhuo
         repos:
           istio.io: write
           tools: write
