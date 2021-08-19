@@ -5,6 +5,7 @@ This document describes the set of roles individuals may have within the Istio c
 * [Role summary](#role-summary)
 * [Collaborator](#collaborator)
 * [Member](#member)
+* [Documentation Reviewer](#documentation-reviewer)
 * [Maintainer](#maintainer)
 * [Triager](#triager)
 * [Lead](#lead)
@@ -51,7 +52,7 @@ privileges.
       </td>
     </tr>
     <tr>
-      <td><a href="#reviewer">Documentation Reviewer</a></td>
+      <td><a href="#documentation-reviewer">Documentation Reviewer</a></td>
       <td>Content expert helping improve documentation quality.</td>
       <td>
         Highly experienced contributor to the Istio documentation.
@@ -71,7 +72,7 @@ privileges.
       </td>
     </tr>
     <tr>
-      <td><a href="#trigger">Triager</a></td>
+      <td><a href="#triager">Triager</a></td>
       <td>
           <p>Triage incoming issues, set milestones, set labels</p>
       </td>
