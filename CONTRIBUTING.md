@@ -16,8 +16,10 @@ same process and are given the same level of review.
 - [Setting up to contribute to Istio](#setting-up-to-contribute-to-istio)
 - [Pull requests](#pull-requests)
 - [Issues](#issues)
+- [Promote your company on istio.io](#promote-your-company-on-istioio)
+- [Tell the world you're using Istio](#tell-the-world-youre-using-istio)
 
-You can find additional contributor material on the [Istio Wiki](https://github.com/istio/istio/wiki)
+You can find additional contributor material on the [Istio Wiki](https://github.com/istio/istio/wiki).
 
 ## Working groups
 
@@ -48,13 +50,13 @@ permission to use and redistribute your contributions as part of the project.
 ## Design documents
 
 Any substantial design deserves a design document. Design documents are written with Google Docs and
-should be shared with the community by adding the doc to our [Team Drive](https://drive.google.com/corp/drive/u/0/folders/0AIS5p3eW9BCtUk9PVA)
+should be shared with the community by adding the doc to our [shared Drive](https://drive.google.com/corp/drive/folders/0ADmbrU7ueGOUUk9PVA)
 and sending a note to the appropriate working group to let people know the doc is there. To get write access
 to the drive, you'll need to be a [member](ROLES.md#member) of the Istio organization.
 
-Anybody can access the team drive for reading and commenting. To get access simply join the
+Anybody can access the shared Drive for reading. To get access to comment, join the
 [istio-team-drive-access@](https://groups.google.com/forum/#!forum/istio-team-drive-access) group.
-Once you've done that, head to [Team Drive](https://drive.google.com/corp/drive/u/0/folders/0AIS5p3eW9BCtUk9PVA) and
+Once you've done that, head to the [shared Drive](https://drive.google.com/corp/drive/folders/0ADmbrU7ueGOUUk9PVA) and
 behold all the docs.
 
 When documenting a new design, we recommend a 2-step approach:
@@ -160,3 +162,30 @@ When reporting a bug please include the following key pieces of information:
 - The exact, minimal, steps needed to reproduce the issue.
   Submitting a 5 line script will get a much faster response from the team
   than one that's hundreds of lines long.
+
+## Promote your company on istio.io
+
+If your company supports Istio, you can list it on our [Ecosystem page](https://istio.io/latest/about/ecosystem/).
+We have categories for *providers* (who offer hosted or managed Istio services
+to their customers), *professional services* (who offer implementation support
+or consulting for Istio) and *integrations* (commercial or open source products
+that work with Istio).
+
+To add an entry to this page, edit [data/companies.yml](data/companies.yml)
+and add your information in the `providers`, `pro_services` or `integrations`
+section, as appropriate. Please add your company logo, preferably in SVG
+format, to [static/logos](static/logos).
+
+The Istio steering committee reserves the right to remove logos of companies that
+are not demeed to be in good standing in the community.
+
+## Tell the world you're using Istio
+
+Are you running Istio in production?  List yourself on our [Case Studies](https://istio.io/latest/about/case-studies/) page.
+
+If you want to add your logo to our wall of users, add an entry to the `users`
+section in [data/companies.yml](data/companies.yml), and add your logo,
+preferably in SVG format, to [static/logos](static/logos).
+
+If you'd like to be interviewed for a full case study, please [create an issue](https://github.com/istio/istio.io/issues/new),
+and we'll be in touch!
