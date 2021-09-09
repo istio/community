@@ -89,5 +89,5 @@ Voting shall be open for nine calendar days, after which point it shall close.
 If at any point all the Steering Committee members have voted or abstained,
 voting shall close.
 1. An affirmative vote of at least 60% of the Seats shall be the decision of
-the Steering Committee. However, any changes to the Steering Committee charter
-Charter shall require an affirmative vote of at least 80% of the Seats.
+the Steering Committee. However, any changes to the Steering Committee Charter
+shall require an affirmative vote of at least 80% of the Seats.
