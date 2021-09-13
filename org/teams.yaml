@@ -140,6 +140,7 @@ teams:
               - frankbu
               - nmittler
               - rcaballeromx
+              - rvennam
           WG - Docs Maintainers/Portuguese:
             description: Maintainers of the Portuguese documentation
             members:
