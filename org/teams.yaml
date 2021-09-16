@@ -124,6 +124,8 @@ teams:
           WG - Docs Maintainers/Chinese:
             description: Maintainers of the Chinese documentation.
             members:
+              - craigbox
+              - ericvn
               - fleeto
               - kebe7jun
               - loverto
