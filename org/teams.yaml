@@ -514,13 +514,13 @@ teams:
   Working Group Leads:
     description: Working group leads - for easy communication in github
     members:
-      - brian-avery
       - douglas-reid
       - ericvn
       - esnible
       - frankbu
       - howardjohn
       - jacob-delgado
+      - jwendell
       - liminw
       - linsun
       - lizan
