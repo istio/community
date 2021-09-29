@@ -398,9 +398,10 @@ teams:
         - jwendell
         - ryantking
         - zhlsunshine
-      Release Manager - 1.12:
+      Release Managers - 1.12:
         description: Release managers for Istio 1.12
         members:
+        - dgn
         - Kmoneal
   Repo Admins:
     description: Folks with admin permission on all repos.
