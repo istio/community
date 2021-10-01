@@ -59,6 +59,7 @@ teams:
       - sbezverk
       - sdake
       - shamsher31
+      - stewartbutler
       - suryadu
       - therealmitchconnors
       - tiswanso
@@ -284,6 +285,7 @@ teams:
           - richardwxn
           - sdake
           - stevenctl
+          - stewartbutler
           - therealmitchconnors
         repos:
           api: write
