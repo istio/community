@@ -65,6 +65,14 @@ email address, it must be a corporate address owned by the organization.
 4. Be a participant and active contributor in the Istio community.
 5. Accept the [Embargo Policy](#embargo-policy) that is outlined above.
 
+#### Additional membership criteria (Feb 14, 2022)
+
+As of Februrary 14, 2022 there is additional criteria to be a member of the early disclosure list.
+
+6. Be a member of the [Envoy Early Disclosure list](https://github.com/envoyproxy/envoy/blob/main/SECURITY.md#members).
+7. Have a member of your organization be a participant in the Istio Product Security Working Group
+  a. This is a private meeting held alternating Wednesdays at 11am Pacific or 3pm Pacific to accommodate a world wide community.
+
 **Removal**: If your organization stops meeting one or more of these criteria
 after joining the list then you will be unsubscribed.
 
@@ -107,3 +115,12 @@ in hacking the Gibson.
 > 5. Accept the Embargo Policy that is outlined above.
 
 We accept.
+
+> 6. Be a member of the [Envoy Early Disclosure list](https://github.com/envoyproxy/envoy/blob/main/SECURITY.md#members).
+
+We are listed in the Envoy early disclosure membership program.
+
+
+> 7. Have a member of your organization be a participant in the Istio Product Security Working Group
+
+John/Jane Doe (Email: person@myorganization.com, Istio Slack username: person) will represent our company in the Istio Product Security Working Group.
