@@ -23,9 +23,9 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/ghodss/yaml"
 	"k8s.io/test-infra/prow/config/org"
 	"k8s.io/test-infra/prow/github"
+	"sigs.k8s.io/yaml"
 )
 
 type Organization struct {
