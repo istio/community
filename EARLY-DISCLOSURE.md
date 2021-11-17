@@ -118,6 +118,7 @@ We accept.
 > 6. Be a member of the [Envoy Early Disclosure list](https://github.com/envoyproxy/envoy/blob/main/SECURITY.md#members).
 
 We are listed in the Envoy early disclosure membership program.
+
 > 7. Have a member of your organization be a participant in the Istio Product Security Working Group
 
 John/Jane Doe (Email: person@myorganization.com, Istio Slack username: person) will represent our company in the Istio Product Security Working Group.
