@@ -72,7 +72,6 @@ Each working group has one or more leads which coordinate the activities of the 
 <img width="30px" src="https://avatars3.githubusercontent.com/u/3237651?s=400&v=4">  | [Ed Snible](https://github.com/esnible)            | IBM        | User Experience
 <img width="30px" src="https://avatars1.githubusercontent.com/u/10537847?s=400&v=4"> | [Eric Van Norman](https://github.com/ericvn)       | IBM        | Test and Release
 &nbsp;                                                                               | [Limin Wang](https://github.com/liminw)            | Google     | Security
-<img width="30px" src="https://avatars.githubusercontent.com/u/125759?s=400&v=4">    | [Jonh Wendell](https://github.com/jwendell)        | Red Hat    | Test and Release
 <img width="30px" src="https://avatars0.githubusercontent.com/u/1016047?s=400&v=4">  | [Lizan Zhou](https://github.com/lizan)             | Tetrate    | Networking - Data Plane, Security
 
 ## Getting in touch
