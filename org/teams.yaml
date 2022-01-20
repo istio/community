@@ -407,6 +407,7 @@ teams:
       Release Managers - 1.13:
         description: Release managers for Istio 1.13
         members:
+        - eliavem
         - lei-tang
         - stevenctl
   Repo Admins:
