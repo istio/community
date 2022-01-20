@@ -404,6 +404,12 @@ teams:
         members:
         - dgn
         - Kmoneal
+      Release Managers - 1.13:
+        description: Release managers for Istio 1.13
+        members:
+        - eliavem
+        - lei-tang
+        - stevenctl
   Repo Admins:
     description: Folks with admin permission on all repos.
     members:
