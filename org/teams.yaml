@@ -67,6 +67,7 @@ teams:
       - Xunzhuo
       - yangminzhu
       - yxue
+      - zhlsunshine
     repos:
         api: write
         enhancements: write
@@ -308,6 +309,7 @@ teams:
           - nmittler
           - shamsher31
           - therealmitchconnors
+          - zhlsunshine
         repos:
           client-go: write
   Release Managers:
