@@ -242,13 +242,11 @@ teams:
       WG - Product Security Maintainers:
         description: Maintainers for the Product Security working group.
         members:
-          - brian-avery
-          - duderino
-          - GregHanson
           - howardjohn
           - jacob-delgado
-          - knrc
+          - justinpettit
           - lambdai
+          - linsun
           - mandarjog
           - myidpt
           - nrjpoddar
