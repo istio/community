@@ -242,6 +242,7 @@ teams:
       WG - Product Security Maintainers:
         description: Maintainers for the Product Security working group.
         members:
+          - andream12345
           - howardjohn
           - jacob-delgado
           - justinpettit
