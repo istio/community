@@ -23,6 +23,7 @@ teams:
       - gargnupur
       - gbaufake
       - GregHanson
+      - hanxiaop
       - howardjohn
       - hzxuzhonghu
       - incfly
@@ -302,6 +303,7 @@ teams:
         description: Maintainers for the User Experience working group.
         members:
           - esnible
+          - hanxiaop
           - irisdingbj
           - jasonwzm
           - liamawhite
