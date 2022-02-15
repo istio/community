@@ -237,6 +237,7 @@ teams:
           - kyessenov
           - mandarjog
           - nrjpoddar
+          - zirain
         repos:
           proxy: write
       WG - Product Security Maintainers:
