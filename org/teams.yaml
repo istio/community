@@ -4,9 +4,7 @@ teams:
     description: Maintainers of the Istio project.
     members:
       - adammil2000
-      - ameer00
       - andraxylia
-      - angaluri
       - bianpengyuan
       - brian-avery
       - clyang82
@@ -447,8 +445,8 @@ teams:
   Steering Committee:
     description: members of Istio Steering Committee
     members:
-      - angaluri
       - ameer00
+      - angaluri
       - CloudJason
       - craigbox
       - hzxuzhonghu
