@@ -233,10 +233,9 @@ teams:
         members:
           - bianpengyuan
           - douglas-reid
-          - gargnupur
           - kyessenov
-          - mandarjog
           - nrjpoddar
+          - zirain
         repos:
           proxy: write
       WG - Product Security Maintainers:
