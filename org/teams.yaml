@@ -4,7 +4,9 @@ teams:
     description: Maintainers of the Istio project.
     members:
       - adammil2000
+      - ameer00
       - andraxylia
+      - angaluri
       - bianpengyuan
       - brian-avery
       - clyang82
@@ -443,19 +445,18 @@ teams:
       test-infra: admin
       tools: admin
   Steering Committee:
-    description: members of istio steering committee
+    description: members of Istio Steering Committee
     members:
+      - angaluri
+      - ameer00
       - CloudJason
       - craigbox
-      - duglin
       - hzxuzhonghu
       - irisdingbj
-      - knrc
+      - kebe7jun
       - linsun
       - louiscryan
-      - pnambiarsf
-      - smawson
-      - ssuchter
+      - rcernich
       - thisisnotapril
       - ZackButcher
     repos:
