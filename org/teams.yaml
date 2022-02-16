@@ -442,19 +442,18 @@ teams:
       test-infra: admin
       tools: admin
   Steering Committee:
-    description: members of istio steering committee
+    description: members of Istio Steering Committee
     members:
+      - ameer00
+      - angaluri
       - CloudJason
       - craigbox
-      - duglin
       - hzxuzhonghu
       - irisdingbj
-      - knrc
+      - kebe7jun
       - linsun
       - louiscryan
-      - pnambiarsf
-      - smawson
-      - ssuchter
+      - rcernich
       - thisisnotapril
       - ZackButcher
     repos:
