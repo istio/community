@@ -313,6 +313,7 @@ teams:
           - zhlsunshine
         repos:
           client-go: write
+          get-istioctl: write
   Release Managers:
     description: Current set of release managers.
     members:

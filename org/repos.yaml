@@ -85,6 +85,14 @@ repos:
     has_issues: false
     has_projects: false
     has_wiki: false
+  get-istioctl:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    allow_squash_merge: false
+    description: GitHub Activity for getting Istioctl.
+    has_issues: false
+    has_projects: false
+    has_wiki: false
   glog:
     allow_merge_commit: false
     allow_rebase_merge: false
