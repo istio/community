@@ -418,6 +418,7 @@ teams:
         description: Release managers for Istio 1.14
         members:
         - GregHanson
+        - lei-tang
   Repo Admins:
     description: Folks with admin permission on all repos.
     members:
