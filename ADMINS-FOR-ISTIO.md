@@ -18,7 +18,7 @@ access.
 | [Google Domains](https://domains.google.com) | Domain registration for *istio.io | [davidhauck](https://github.com/davidhauck), [craigbox](https://github.com/craigbox)
 | [Google Groups](https://googlegroups.com) | Mailing lists | [craigbox](https://github.com/craigbox)
 | [Google Search Console](https://search.google.com/search-console/about) | Search engine analytics for *istio.io | [davidhauck](https://github.com/davidhauck)
-| [Netlify](https://netlify.com) | Site hosting for *istio.io | [davidhauck](https://github.com/davidhauck)
+| [Netlify](https://netlify.com) | Site hosting for *istio.io | [davidhauck](https://github.com/davidhauck), [craigbox](https://github.com/craigbox)
 | [Prow](https://prow.istio.io) | Primary CI system | [fejta](https://github.com/fetja),  [cjwagner](https://github.com/cjwagner)
 | [Shared Google Drive](https://drive.google.com/corp/drive/folders/0ADmbrU7ueGOUUk9PVA) | Design document storage | [craigbox](https://github.com/craigbox), [linsun](https://github.com/linsun), [louiscryan](https://github.com/louiscryan), [smawson](https://github.com/smawson), [howardjohn](https://github.com/howardjohn), [brian-avery](https://github.com/brian-avery), [nrjpoddar](https://github.com/mrjpoddar)
 | [Slack](https://istio.slack.com) | Chat platform | [craigbox](https://github.com/craigbox), [linsun](https://github.com/linsun), [louiscryan](https://github.com/louiscryan), [smawson](https://github.com/smawson)
