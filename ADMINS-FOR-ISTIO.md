@@ -8,7 +8,7 @@ access.
 |---------|---------|-------------------
 | [CircleCi](https://circleci.com) | Secondary CI system | [linsun](https://github.com/linsun), [louiscryan](https://github.com/louiscryan), [smawson](https://github.com/smawson)
 | [Discourse](https://discuss.istio.io) | Discussion forums | [askmeegs](https://github.com/askmeegs), [linsun](https://github.com/linsun), [craigbox](https://github.com/craigbox), [thisisnotapril](https://github.com/thisisnotapril), [macruzbar](https://github.com/macruzbar)
-| [Docker Hub](https://hub.docker.com) | Container registry | [brian-avery](https://github.com/brian-avery), [costinm](https://github.com/costinm), [mandarjog](https://github.com/mandarjog), [vadimeisenbergibm](https://github.com/vadimeisenbergibm), [frankbu](https://github.com/frankbu)
+| [Docker Hub](https://hub.docker.com) | Container registry | [ericvn](https://github.com/ericvn), [costinm](https://github.com/costinm), [mandarjog](https://github.com/mandarjog), [frankbu](https://github.com/frankbu)
 | [GitHub](https://github.com/istio) | Source control, bug tracking | [howardjohn](https://github.com/howardjohn), [brian-avery](https://github.com/brian-avery), [linsun](https://github.com/linsun), [louiscryan](https://github.com/louiscryan), [smawson](https://github.com/smawson)
 | [Google Analytics](https://analytics.google.com/analytics/web/) | Analytics for *istio.io | [davidhauck](https://github.com/davidhauck)
 | [Google Calendar - Community Events](https://calendar.google.com/calendar/embed?src=i10ogf58krfbrsjai5qi16g4do%40group.calendar.google.com&ctz=America%2FLos_Angeles) | Community event scheduling | [macruzbar ](https://github.com/macruzbar)
