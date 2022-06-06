@@ -7,7 +7,7 @@ access.
 | Service | Purpose | Responsible Adults
 |---------|---------|-------------------
 | [CircleCi](https://circleci.com) | Secondary CI system | [linsun](https://github.com/linsun), [louiscryan](https://github.com/louiscryan), [smawson](https://github.com/smawson)
-| [Discourse](https://discuss.istio.io) | Discussion forums | [askmeegs](https://github.com/askmeegs), [linsun](https://github.com/linsun), [craigbox](https://github.com/craigbox)
+| [Discourse](https://discuss.istio.io) | Discussion forums | [askmeegs](https://github.com/askmeegs), [linsun](https://github.com/linsun), [craigbox](https://github.com/craigbox), [thisisnotapril](https://github.com/thisisnotapril), [macruzbar](https://github.com/macruzbar)
 | [Docker Hub](https://hub.docker.com) | Container registry | [brian-avery](https://github.com/brian-avery), [costinm](https://github.com/costinm), [mandarjog](https://github.com/mandarjog), [vadimeisenbergibm](https://github.com/vadimeisenbergibm), [frankbu](https://github.com/frankbu)
 | [GitHub](https://github.com/istio) | Source control, bug tracking | [howardjohn](https://github.com/howardjohn), [brian-avery](https://github.com/brian-avery), [linsun](https://github.com/linsun), [louiscryan](https://github.com/louiscryan), [smawson](https://github.com/smawson)
 | [Google Analytics](https://analytics.google.com/analytics/web/) | Analytics for *istio.io | [davidhauck](https://github.com/davidhauck)
