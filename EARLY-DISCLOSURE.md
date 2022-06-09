@@ -42,7 +42,7 @@ will be removed from the early disclosure list.
 
 | Email		| Organization	|
 | ------------- |:-------------:|
-| istio-security-team-inbox@aspenmesh.io | Aspen Mesh |
+| istio-security-reports@f5.com | F5 Networks |
 | istio-security-vulnerability-notifications@google.com | Google |
 | argoprod@us.ibm.com | IBM |
 | istio-security@redhat.com | RedHat |
