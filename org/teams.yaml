@@ -248,9 +248,9 @@ teams:
           - justinpettit
           - jwendell
           - lambdai
+          - lei-tang
           - lgadban
           - linsun
-          - myidpt
           - nrjpoddar
           - yangminzhu
       WG - Security Maintainers:
@@ -317,19 +317,13 @@ teams:
   Release Managers:
     description: Current set of release managers.
     members:
-      - brian-avery
       - dgn
+      - eliavem
       - ericvn
-      - fpesce
+      - GregHanson
       - howardjohn
-      - irisdingbj
-      - jacob-delgado
-      - JimmyCYJ
-      - johnma14
-      - jwendell
-      - Mythra
-      - rlenglet
-      - sdake
+      - lei-tang
+      - stevenctl
     repos:
       api: write
       bots: write
