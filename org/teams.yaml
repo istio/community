@@ -205,20 +205,6 @@ teams:
           go-control-plane: write
           proxy: write
         teams:
-          WG - Networking Maintainers/Data Plane:
-            description: Maintainers of data plane components
-            members:
-              - bianpengyuan
-              - duderino
-              - gargnupur
-              - JimmyCYJ
-              - kyessenov
-              - lambdai
-              - linsun
-              - lizan
-              - rshriram
-              - venilnoronha
-              - yxue
           WG - Networking Maintainers/Pilot:
             description: Maintainers of particular parts of Pilot.
             members:
