@@ -256,6 +256,7 @@ teams:
       WG - Security Maintainers:
         description: Maintainers for the Security working group
         members:
+          - aryan16
           - costinm
           - howardjohn
           - incfly
