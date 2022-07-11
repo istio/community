@@ -241,8 +241,9 @@ teams:
           - nrjpoddar
           - yangminzhu
         repos:
-          proxy: write
           envoy: write
+          istio: write
+          proxy: write
       WG - Security Maintainers:
         description: Maintainers for the Security working group
         members:
