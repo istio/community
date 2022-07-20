@@ -59,23 +59,19 @@ steps to establish the working group:
 * **Create a Google Drive Folder**. Create a folder to hold your working group documents within this parent
 [folder](https://drive.google.com/corp/drive/u/0/folders/0B7huSKYaiUN5LVdBeElXUGt3UGs). Call your folder "GROUP_NAME".
 
-* **Create a Meeting Notes Document**. Create a blank document in the above folder and call it "GROUP_NAME Group Meeting Notes".
-
 * **Create a Roadmap Document**. Create a document in the above folder and call it "GROUP_NAME Group Roadmap". Put your initial
 roadmap in the document.
 
 * **Create a Discourse Category**. Create a new category on <https://discuss.istio.io> and give it the name of your working group.
 
-* **Schedule a Recurring Meeting**. Create a recurring meeting (weekly or bi-weekly, 30 or 60 minutes) and call the meeting
-GROUP_NAME Group Sync-Up". Attach the meeting notes document to the calendar event. Generally schedule these meetings between
-9:00AM to 2:59PM Pacific Time. Invite the public Google group to the meeting.
-
 * **Register the Working Group**. Go to [WORKING-GROUPS.md](https://github.com/istio/community/blob/master/WORKING-GROUPS.md) and
 add your working group name, the names of the leads, the working group charter, and a link to the meeting you created.
 
 * **Announce your Working Group**. Post a note [contributors](https://discuss.istio.io/c/contributors)
-to announce your new
-working group. Include your charter in the post.
+to announce your new working group. Include your charter in the post.
+
+* **Attend the Combined Working Group Meeting**. Check the meeting agenda to verify if something was added relative to your working group.
+It is desirable for the leads to attend the weekly meeting in case items do come up.
 
 Congratulations, you now have a fully formed working group!
 
@@ -87,7 +83,7 @@ technical oversight committee also reserves the right to dissolve or recharter w
 
 ## Leads
 
-Each working group must have 2 or 3 leads, with at least two different organizations represented. Working group leads must meet certain requirements, including having been members of the Istio project for a year, and a maintainer for at least 3 months. 
+Each working group must have 2 or 3 leads, with at least two different organizations represented. Working group leads must meet certain requirements, including having been members of the Istio project for a year, and a maintainer for at least 3 months.
 
 Please see the [Community Roles](https://github.com/istio/community/blob/master/ROLES.md) document for a full
 description of a lead’s role and requirements.
@@ -138,5 +134,5 @@ that can be shared with the community.
 
 In all cases, remaining blocking issues can be raised to the [technical oversight committee](TECH-OVERSIGHT-COMMITTEE.md) to help
 resolve the situation. To trigger an escalation, add an entry to the [TOC's agenda](https://docs.google.com/document/d/13lxJqtlaQhmV2EwsNnS6h-_O4pobZQZuMjrzOeMgVI0/edit#heading=h.o8pz6aqnzzgk)
-and come to a Friday TOC meeting. Come prepared with an explanation of the underlying problem as well as 
+and come to a TOC meeting. Come prepared with an explanation of the underlying problem as well as
 cogent arguments for both sides.

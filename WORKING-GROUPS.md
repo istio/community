@@ -37,8 +37,10 @@ To join Istio's Slack workspace, please use [this link](https://slack.istio.io/)
 
 ## Working group meetings
 
-Working groups meet regularly. The meetings are open to anyone interested, so please join us. There's a number of ways to track the
-meeting schedules:
+There is a weekly combined workgroup meeting. The meetings are open to anyone interested, so please join us. Here are pointers to the [Google Doc](https://docs.google.com/document/d/1wsa06GGiq1LEGwhkiPP0FKIZJqdAiue-VeBonWAzAyk/edit) as well as the [Hangouts Meet](https://docs.google.com/document/d/1wsa06GGiq1LEGwhkiPP0FKIZJqdAiue-VeBonWAzAyk/edit) for the combined workgroup meeting.
+
+There's a number of ways to track the
+meeting schedule:
 
 * You can view the schedule of upcoming working group meetings in this [calendar](https://calendar.google.com/calendar/embed?src=4uhe8fi8sf1e3tvmvh6vrq2dog%40group.calendar.google.com&ctz=America%2FLos_Angeles).
 
@@ -72,9 +74,8 @@ Each working group has one or more leads which coordinate the activities of the 
 <img width="30px" src="https://avatars1.githubusercontent.com/u/10537847?s=400&v=4"> | [Eric Van Norman](https://github.com/ericvn)       | IBM        | Test and Release
 &nbsp;                                                                               | [Limin Wang](https://github.com/liminw)            | Google     | Security
 <img width="30px" src="https://avatars0.githubusercontent.com/u/1016047?s=400&v=4">  | [Lizan Zhou](https://github.com/lizan)             | Tetrate    | Networking - Data Plane, Security
-<img width="30px" src="https://avatars.githubusercontent.com/u/19473391?s=400&v=4">   | [Greg Hanson](https://github.com/GregHanson)            | Solo.io     | Product Security
+<img width="30px" src="https://avatars.githubusercontent.com/u/19473391?s=400&v=4">  | [Greg Hanson](https://github.com/GregHanson)       | Solo.io     | Product Security
 
 ## Getting in touch
 
 If you'd like to reach out to the working group leads, please drop a note to [wg-leads@discuss.istio.io](mailto:wg-leads@discuss.istio.io).
-
