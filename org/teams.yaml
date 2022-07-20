@@ -121,7 +121,6 @@ teams:
               - nmittler
               - pnambiarsf
               - rvennam
-              - smawson
               - ssuchter
           WG - Docs Maintainers/Chinese:
             description: Maintainers of the Chinese documentation.
@@ -473,7 +472,6 @@ teams:
       - linsun
       - louiscryan
       - nrjpoddar
-      - smawson
     repos:
       api: write
       bots: write
