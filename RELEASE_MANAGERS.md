@@ -1,5 +1,26 @@
 # Current Release Managers
 
+## 1.14
+
+* [Greg Hanson](https://github.com/GregHanson)
+* [Lei Tang](https://github.com/lei-tang)
+
+## 1.13
+
+* [Steven Landow](https://github.com/stevenctl)
+* [Lei Tang](https://github.com/lei-tang)
+
+
+# Emeritus Members
+
+We would like to acknowledge previous release managers for their contribution to
+the success of the Istio community:
+
+## 1.12
+
+* [Kenan O'Neal](https://github.com/jacob-delgado)
+* [Daniel Grim](https://github.com/dgn)
+
 ## 1.11
 
 * [Jonh Wendell](https://github.com/jwendell)
@@ -16,12 +37,6 @@
 * [Jacob Delgado](https://github.com/jacob-delgado)
 * [Shamsher Ansari](https://github.com/shamsher31)
 * [Steven Landow](https://github.com/stevenctl)
-
-# Emeritus Members
-
-We would like to acknowledge previous release managers for their contribution to
-the success of the Istio community:
-
 ## 1.8
 
 * [Pengyuan Bian](https://github.com/bianpengyuan)
@@ -62,13 +77,7 @@ the success of the Istio community:
 
 * [Francois Pesce](https://github.com/fpesce)
 * [Lin Sun](https://github.com/linsun)
-* 
+
 ## 1.1
 
 * [Josh Blatt](https://github.com/duderino)
-
-
-
-
-
-
