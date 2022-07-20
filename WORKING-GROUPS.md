@@ -22,6 +22,7 @@ The current working groups are:
 
 | Group | Design Docs | Discussion Forum | Slack Channel | Meeting Notes | Meeting Link | Meeting Recordings | Description
 |-------|-------------|-------|-------|---------------|--------------|--------------------|------------
+| Docs | [Folder](https://drive.google.com/drive/folders/16Alb6m30ypLbz3iVv2OTjpqUHO8NJIUv) | [Forum](https://discuss.istio.io/c/contributors/docs) | [#docs](https://istio.slack.com/messages/C50V5EATT/) | [Notes](https://docs.google.com/document/d/1RGb0NOp0J9QSIrMrZ6wokl16RbSfKHy-6NyTpOQdPa8/edit#heading=h.xjlp01fjb1kv) | [Hangouts Meet](https://meet.google.com/tfn-mmct-ped?hs=122) | n/a | User docs, information architecture, istio.io infrastructure
 | Environments | [Folder](https://drive.google.com/drive/folders/16P5sCnSzEk204LHBKYTkC9jEmgzBJy6x) | [Forum](https://discuss.istio.io/c/environment) | [#environments](https://istio.slack.com/messages/C6KA8TTSS/) | [Notes](https://docs.google.com/document/d/1Ot9AeoiNYnI3fbQrq3w_-cyGxOqS8AD0RChkQfVxyhs/edit) | [Hangouts Meet](https://meet.google.com/pzi-ctet-ckx) | [YouTube](https://www.youtube.com/playlist?list=PL7wB27eZmdfelYS1XmTO1IaX4crk79tye) |  Raw VM support, Hybrid Mesh, Mac/Windows support, Cloud Foundry integration
 | Networking | [Folder](https://drive.google.com/drive/folders/16RDUAJj_LnJM83weyk0WSCeqgtTw8Ogz) | [Forum](https://discuss.istio.io/c/networking) | [#networking](https://istio.slack.com/messages/C38CF1PEC/) | [Notes](https://docs.google.com/document/d/1xHy2jQ8oiwMponMVY2zJr2eUAmHW_Hi9JK42a7cg5Pc/edit#heading=h.2ju2wl4o5jbc) | [Hangouts Meet](https://meet.google.com/xjj-ujhi-qfk?hs=122) | [YouTube](https://www.youtube.com/playlist?list=PL7wB27eZmdffpmIKb5tVthiiQLSXenCK-) | Traffic Management, TCP Support, Additional L7 protocols, Proxy injection
 | Extensions and Telemetry | [Folder](https://drive.google.com/drive/folders/16Jl2ASNQ226h5XmXSAtxx78cs1iSEAYQ) | [Forum](https://discuss.istio.io/c/policies-and-telemetry) | [#extensions-telemetry](https://istio.slack.com/messages/C382V8Q92/) | [Notes](https://docs.google.com/document/d/1pn9QdRcoyT_nxOwzklsiYpt7OQraaSDfmtN14XTOrN0/edit) | [Main Group Hangouts Meet](https://meet.google.com/cmo-jgug-uhj), [Wasm SIG Hangout Meet](https://meet.google.com/yrs-qhtf-mkb) | [YouTube](https://www.youtube.com/playlist?list=PL7wB27eZmdffF-9nyaw01Ni_0GOWBzaF4) | WebAssembly based extensibility, Istio extensions for features such as Rate Limiting, Tracing, Monitoring, Logging
@@ -31,9 +32,6 @@ The current working groups are:
 | User Experience | [UX](https://drive.google.com/drive/folders/16CplcqFZTT-5WXDkpi443-ly2RnnA3C5) [_Config (old)_](https://drive.google.com/drive/folders/16W9uDkzrKJM-E5R7_5TGz-PMsAkkoT1s) | [Forum](https://discuss.istio.io/c/UX) | [#user-experience](https://istio.slack.com/messages/CFTRP8NTW/) [#config](https://istio.slack.com/messages/C7KSV4AHJ/)| [Notes](https://docs.google.com/document/d/1raZOoeYz3APZdQRlJlFA-zgfmEJu2YLaGa4_3KwbNRs/edit#heading=h.i71zsi7n759v) | [WebEx](https://ibm.webex.com/meet/snible) | [YouTube](https://www.youtube.com/playlist?list=PL7wB27eZmdfcaVTlYkvV3e09Gak6zhaLj) | User experience across Istio, API and CLI guidelines and support
 
 _NOTE: Config working group responsibilities have been merged into User Experience._
-
-_NOTE: The doc working group has been disolved, but still has maintainers for PR approval._
-
 
 To join Istio's Slack workspace, please use [this link](https://slack.istio.io/).
 
