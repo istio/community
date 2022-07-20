@@ -234,12 +234,11 @@ teams:
           - jacob-delgado
           - justinpettit
           - jwendell
-          - lambdai
           - lei-tang
           - lgadban
           - linsun
           - nrjpoddar
-          - yangminzhu
+          - shankgan
         repos:
           envoy: write
           istio: write
