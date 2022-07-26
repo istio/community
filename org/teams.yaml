@@ -303,12 +303,16 @@ teams:
   Release Managers:
     description: Current set of release managers.
     members:
+      - aryan16
       - dgn
+      - dhawton
       - eliavem
       - ericvn
       - GregHanson
       - howardjohn
+      - Monkeyanator
       - lei-tang
+      - SkyfireFrancisZ
       - stevenctl
     repos:
       api: write
@@ -399,6 +403,12 @@ teams:
         members:
         - GregHanson
         - lei-tang
+      Release Managers - 1.15:
+        description: Release managers for Istio 1.15
+        members:
+        - Monkeyanator
+        - dhawton
+        - aryan16
   Repo Admins:
     description: Folks with admin permission on all repos.
     members:
