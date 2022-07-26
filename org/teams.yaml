@@ -310,8 +310,8 @@ teams:
       - ericvn
       - GregHanson
       - howardjohn
-      - Monkeyanator
       - lei-tang
+      - Monkeyanator
       - SkyfireFrancisZ
       - stevenctl
     repos:
@@ -406,9 +406,10 @@ teams:
       Release Managers - 1.15:
         description: Release managers for Istio 1.15
         members:
-        - Monkeyanator
-        - dhawton
         - aryan16
+        - dhawton
+        - Monkeyanator
+
   Repo Admins:
     description: Folks with admin permission on all repos.
     members:
