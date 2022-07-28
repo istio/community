@@ -314,6 +314,7 @@ teams:
       - Monkeyanator
       - SkyfireFrancisZ
       - stevenctl
+      - ZiyangXiao
     repos:
       api: write
       bots: write
@@ -409,6 +410,7 @@ teams:
         - aryan16
         - dhawton
         - Monkeyanator
+        - ZiyangXiao
 
   Repo Admins:
     description: Folks with admin permission on all repos.
