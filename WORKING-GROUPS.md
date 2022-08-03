@@ -66,7 +66,8 @@ Each working group has one or more leads which coordinate the activities of the 
 <img width="30px" src="https://avatars3.githubusercontent.com/u/38300436?s=400&v=4"> | [Jacob Delgado](https://github.com/jacob-delgado)  | Aspen Mesh | Product Security, Environments
 <img width="30px" src="https://avatars1.githubusercontent.com/u/623453?s=400&v=4">   | [John Howard](https://github.com/howardjohn)       | Google     | Networking
 &nbsp;                                                                               | [Steven Landow](https://github.com/stevenctl)      | Google     | Networking - Control Plane
-<img width="30px" src="https://avatars0.githubusercontent.com/u/102881?s=400&v=4">   | [Oliver Liu](https://github.com/myidpt)            | Google     | Security, Product Security
+&nbsp;                                                                               | [Lei Tang](https://github.com/lei-tang)            | Google     | Security, Product Security
+&nbsp;                                                                               | [Shankar Ganesan](https://github.com/shankgan)     | Google     | Product Security
 &nbsp;                                                                               | [Costin Manolache](https://github.com/costinm)     | Google     | Environments
 &nbsp;                                                                               | [Sam Naser](https://github.com/monkeyanator)       | Google     | Environments
 <img width="30px" src="https://avatars2.githubusercontent.com/u/21148125?s=400&v=4"> | [Douglas Reid](https://github.com/douglas-reid)    | Google     | Extensions and Telemetry
