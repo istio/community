@@ -133,7 +133,9 @@ teams:
               - loverto
               - rootsongjc
               - SataQiu
+              - windsonsea
               - Xunzhuo
+              - zirain
           WG - Docs Maintainers/Infra:
             description: Maintainers of the doc build & site infrastructure
             members:
