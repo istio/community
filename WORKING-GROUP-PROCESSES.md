@@ -19,8 +19,7 @@ Istio working groups are organizations responsible for the design and implementa
 Working groups operate with a fair amount of autonomy within the broader scope of the project. They tend to be long-lived, representing major
 initiatives over Istio’s lifetime.
 
-Some working groups focus on specific technologies. For example, the Policy and Telemetry working group primarily focuses on Mixer. Other
-working groups are cross-cutting in nature such as the Performance and Scalability working group.
+Some working groups focus on specific technologies. For example, the Policy and Telemetry working group primarily focuses on Mixer.
 
 The [Technical Oversight Committee](TECH-OVERSIGHT-COMMITTEE.md) (a.k.a. TOC) is responsible for the Istio project as a whole. It sets the overall direction
 of the project, helps make crosscutting architectural decisions, helps establish and dissolve working groups, and helps ensure all working
@@ -78,7 +77,7 @@ Congratulations, you now have a fully formed working group!
 ### Dissolving a working group
 
 Some working groups are ephemeral or naturally reach the end of their useful life. Working group leads can petition to dissolve their working
-groups by posting to  [technical-oversight-committee](https://discuss.istio.io/c/technical-oversight-committee). The
+groups by posting to [technical-oversight-committee](https://discuss.istio.io/c/technical-oversight-committee). The
 technical oversight committee also reserves the right to dissolve or recharter working groups over time as necessary.
 
 ## Leads
@@ -92,22 +91,22 @@ description of a lead’s role and requirements.
 
 Leads are responsible for running a working group. Running the group involves a few activities:
 
-* **Meetings**. Prepare the agenda and run the regular working group meetings. Ensure the meetings are recorded, and properly archived
-on YouTube.
+* **Meetings**. Help with running the combined working group meetings. Be sure to attend the meeting if there is an agenda item
+for your workgroup. Ensure the meetings are recorded, and properly archived on YouTube.
 
-* **Notes**. Ensure that meeting notes are kept up to date. Provide a link to the recorded meeting in the notes. The lead may delegate
-note-taking duties.
+* **Notes**. Ensure that meeting notes are kept up to date. The lead may delegate note-taking duties.
+Provide a link to the recorded meeting in the notes.
 
 * **Roadmap**. Establish **and maintain** a roadmap for the working group outlining the areas of focus for the working group over the next
 3 months.
 
-* **Report**. Report current status to the main community meeting every 6 weeks.
+* **Report**. Report current status to the TOC meeting every as appropriate.
 
 ### Be open
 
 The community design process is done in the open. Working groups should communicate primarily through the public
-working group mailing list and meetings, through design documents in the working group’s folder, through GitHub issues, and GitHub PRs.
-Avoid private emails and/or meeting when possible.
+working group Slack channel and meetings, through design documents in the working group’s folder, through GitHub issues, and GitHub PRs.
+Avoid private emails and/or meetings when possible.
 
 ### Making decisions
 
