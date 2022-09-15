@@ -39,7 +39,7 @@ productivity and inter-personal interactions.
 ## Contributor license agreements
 
 We'd love to accept your contributions! But before we can take them, you will
-have 
+have
 to fill out the [Google CLA](https://cla.developers.google.com).
 
 Once you are CLA'ed, we'll be able to accept your pull requests. This is
@@ -75,7 +75,7 @@ To use either template, open the template and select "Use Template" in order to 
 In order to contribute a feature to Istio you'll need to go through the following steps:
 
 - Discuss your idea with the appropriate [working groups](WORKING-GROUPS.md) on the working
-group's mailing list.
+group's Slack channel.
 
 - Once there is general agreement that the feature is useful, create a GitHub issue to track the discussion. The issue should include information
 about the requirements and use cases that it is trying to address. Include a discussion of the proposed design and technical details of the
@@ -84,14 +84,14 @@ implementation in the issue.
 - If the feature is substantial enough:
 
   - Working group leads will ask for a design document as outlined in the previous section.
-  Create the design document and add a link to it in the GitHub issue. Don't forget to send a note to the
+  Create the design document and add a link to it in the GitHub issue. Don't forget to send a Slack to the
   working group to let everyone know your document is ready for review.
 
   - Depending of the breath of the design and how contentious it is, the working group leads may decide
   the feature needs to be discussed in one or more working group meetings before being approved.
 
-  - Once the major technical issues are resolved and agreed upon, post a note to the working group's mailing
-  list with the design decision and the general execution plan.
+  - Once the major technical issues are resolved and agreed upon, post a note to the working group's Slack
+  with the design decision and the general execution plan.
 
 - Submit PRs to [istio/istio](https://github.com/istio/istio) with your code changes.
 

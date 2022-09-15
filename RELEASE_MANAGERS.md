@@ -1,5 +1,17 @@
 # Current Release Managers
 
+## 1.16
+
+* [Daniel Hawton](https://github.com/dhawton)
+* [Ziyang Xiao](https://github.com/ZiyangXiao)
+* [Tong Li](https://github.com/litong01)
+
+## 1.15
+
+* [Sam Naser](https://github.com/Monkeyanator)
+* [Daniel Hawton](https://github.com/dhawton)
+* [Ziyang Xiao](https://github.com/ZiyangXiao)
+
 ## 1.14
 
 * [Greg Hanson](https://github.com/GregHanson)
