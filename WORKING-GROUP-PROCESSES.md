@@ -19,7 +19,8 @@ Istio working groups are organizations responsible for the design and implementa
 Working groups operate with a fair amount of autonomy within the broader scope of the project. They tend to be long-lived, representing major
 initiatives over Istio’s lifetime.
 
-Some working groups focus on specific technologies. For example, the Policy and Telemetry working group primarily focuses on Mixer.
+Some working groups focus on specific technologies. For example, the Extensions and Telemetry working group focuses on WebAssembly based
+extensibility and extensions for features such as Rate Limiting, Tracing, Monitoring, Logging.
 
 The [Technical Oversight Committee](TECH-OVERSIGHT-COMMITTEE.md) (a.k.a. TOC) is responsible for the Istio project as a whole. It sets the overall direction
 of the project, helps make crosscutting architectural decisions, helps establish and dissolve working groups, and helps ensure all working
