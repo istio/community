@@ -18,7 +18,7 @@ Some direct responsibilities of steering members to consider as you are deciding
 
 | Date               | Event          |
 |--------------------|----------------|
-| September 19       | Announcement of Election and publication of VOTERS.md |
+| September 20       | Announcement of Election and publication of VOTERS.md |
 | October 2          | Candidate bios and voting exception forms due by 2359 UTC (5pm PDT) |
 | ~1 week            | Election prep week (VOTERS.md validation, Elekto setup and testing) |
 | October 3          | Election begins via Elekto UI |
@@ -80,4 +80,5 @@ Charter) shall be deemed to be elected.
 
 ### Election officers
 
-TBD
+- [Cameron Etezadi](https://github.com/cetezadi), Google
+- [Ram Vennam](https://github.com/rvennam), Solo.io
