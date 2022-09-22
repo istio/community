@@ -17,6 +17,7 @@ See [CHARTER.md](CHARTER.md).
 <img width="30px" src="https://avatars2.githubusercontent.com/u/1923135?s=400&u=5c04620901ef2b402be16677f1cae3c5d376bea0&v=4"> | Zack Butcher | Tetrate | [ZackButcher](https://github.com/ZackButcher) | Community seat
 | | Rob Cernich | Red Hat | [rcernich](https://github.com/rcernich) | Contribution seat
 <img width="30px" src="https://events.istio.io/istiocon-2021/images/speakers/iris-ding.jpg"> | Iris (Shaojun) Ding | Intel | [irisdingbj](https://github.com/irisdingbj) | Community seat
+<img width="30px" src="https://avatars.githubusercontent.com/u/7274813?v=4">  | Cameron Etezadi | cetezadi | [cetezadi](https://github.com/cetezadi) | Contribution seat
 <img width="30px" src="https://avatars.githubusercontent.com/u/8482383?v=4"> | April Kyle Nassi | Google | [thisisnotapril](https://github.com/thisisnotapril) | Contribution seat
 | | Kebe Liu | DaoCloud | [kebe7jun](https://github.com/kebe7jun) | Contribution seat
 <img width="30px" src="https://avatars.githubusercontent.com/u/17597872?s=460&u=e94e38992c92a7a9e57ae0797ef74799e2e2e201&v=4"> | Jason McGee | IBM | [CloudJason](https://github.com/CloudJason) | Contribution seat
