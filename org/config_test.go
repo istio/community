@@ -25,6 +25,7 @@ import (
 	"k8s.io/test-infra/prow/github"
 )
 
+// nolint:unused
 func testDuplicates(list sets.String) error {
 	found := sets.String{}
 	dups := sets.String{}
@@ -60,7 +61,7 @@ func normalize(s sets.String) sets.String {
 
 // testTeamMembers ensures that a user is not a maintainer and member at the same time,
 // there are no duplicate names in the list and all users are org members.
-func testTeamMembers(teams map[string]org.Team, admins sets.String, orgMembers sets.String) []error {
+func testTeamMembers(teams map[string]org.Team, admins sets.String, orgMembers sets.String) []error { //nolint:unparam // admins
 	var errs []error
 	for teamName, team := range teams {
 		teamMaintainers := normalize(sets.NewString(team.Maintainers...))
@@ -116,5 +117,4 @@ func TestIstioOrg(t *testing.T) {
 			t.Error(err)
 		}
 	}
-
 }

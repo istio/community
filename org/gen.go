@@ -17,7 +17,6 @@ package main
 import (
 	"flag"
 	"fmt"
-	"io/ioutil"
 	"os"
 	"path/filepath"
 	"sort"
@@ -112,7 +111,7 @@ func strPointer(s string) *string {
 }
 
 func convertConfig(cfg Organization) org.FullConfig {
-	allMembers := cfg.Members[:]
+	allMembers := cfg.Members
 	sort.Slice(allMembers, func(i, j int) bool { return strings.ToLower(allMembers[i]) < strings.ToLower(allMembers[j]) })
 
 	// Insert the members team, which is handled separately
@@ -159,6 +158,7 @@ func normalizeTeam(t org.Team, admins []string) org.Team {
 	}
 	return t
 }
+
 func normalizeTeams(istio org.Config, admins []string) {
 	for k, t := range istio.Teams {
 		istio.Teams[k] = normalizeTeam(t, admins)
@@ -170,7 +170,7 @@ func writeConfig(cfg org.FullConfig, output string) error {
 	if err != nil {
 		return err
 	}
-	return ioutil.WriteFile(output, yml, 0750)
+	return os.WriteFile(output, yml, 0o750)
 }
 
 func exit(err error) {
@@ -179,14 +179,14 @@ func exit(err error) {
 }
 
 func readConfig(input string) (Organization, error) {
-	dir, err := ioutil.ReadDir(input)
+	dir, err := os.ReadDir(input)
 	if err != nil {
 		return Organization{}, fmt.Errorf("failed to read %v: %v", input, err)
 	}
 	cfg := Organization{}
 	for _, f := range dir {
 		if strings.HasSuffix(f.Name(), ".yaml") {
-			contents, err := ioutil.ReadFile(filepath.Join(input, f.Name()))
+			contents, err := os.ReadFile(filepath.Join(input, f.Name()))
 			if err != nil {
 				return cfg, fmt.Errorf("failed to read file %v: %v", f.Name(), err)
 			}
