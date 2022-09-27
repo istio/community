@@ -19,7 +19,7 @@ lint: lint-dockerfiles lint-scripts lint-yaml lint-helm lint-copyright-banner li
 test:
 	go test ./...
 
-gen: fmt mirror-licenses
+gen: fmt
 
 fmt: format-go tidy-go
 
