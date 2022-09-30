@@ -1,2 +1,3 @@
 .idea/
-
+# Contains the built artifacts
+out/

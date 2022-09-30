@@ -98,7 +98,10 @@ update-common:
 	@git clone -q --depth 1 --single-branch --branch $(UPDATE_BRANCH) https://github.com/istio/common-files $(TMP)/common-files
 	@cd $(TMP)/common-files ; git rev-parse HEAD >files/common/.commonfiles.sha
 	@rm -fr common
-	@cp -a $(TMP)/common-files/files/* $(shell pwd)
+	@CONTRIB_OVERRIDE=$(shell grep -l "refer to Istio" CONTRIBUTING.md)
+	if [ "$(CONTRIB_OVERRIDE)" != "CONTRIBUTING.md" ]; then\
+		rm $(TMP)/common-files/files/CONTRIBUTING.md;\
+	fi
 	@rm -fr $(TMP)/common-files
 
 check-clean-repo:
