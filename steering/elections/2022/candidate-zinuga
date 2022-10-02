@@ -1,7 +1,13 @@
-name: zinuga
-employer: Tetrate
-slack: VarunTalwar (Tetrate)
-Here's a paragraph about my contributions to Istio.
-I was one of the creators of Istio back when it was launched in 2017 and then started Tetrate in 2018 to take it to enterprise. Tetrate today is helping many organizations adopt it and making contributions in gap areas like VM, WASM, multi-cluster, debuggability etc 
-Here's a paragraph about why I'm running.
-Steering needs to position Tetrate for adoption in the industry and focus on simplification of project, create clean goloden paths for users and make it even more relevant in the industry especially now that it goes into CNCF. I can help in this mission. 
+-------------------------------------------------------------
+name: Varun Talwar
+ID: varuntalwar
+info:
+  - employer: Tetrate
+  - slack: VarunTalwar
+-------------------------------------------------------------
+
+### About me
+I am one of the creators of Istio from its origin in 2016 at Google. After launch in 2017, I left to start Tetrate in 2018. Today we are the leading company in the space helping organizations in Istio adoption and also contributing gaps back in project like VMs, WASM, debuggability etc. 
+
+### Why I'm running
+Steering needs to position Istio for adoption in the industry and focus on simplification of project, create clean goloden paths for users and make it even more relevant in the industry for more persona like infosec, SRE and more especially now that it goes into CNCF. I can help in this mission.
