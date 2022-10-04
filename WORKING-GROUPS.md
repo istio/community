@@ -42,7 +42,7 @@ There is a weekly combined workgroup meeting. The meetings are open to anyone in
 There's a number of ways to track the
 meeting schedule:
 
-* You can view the schedule of upcoming working group meetings in this [calendar](https://calendar.google.com/calendar/embed?src=4uhe8fi8sf1e3tvmvh6vrq2dog%40group.calendar.google.com&ctz=America%2FLos_Angeles).
+* You can view the schedule of upcoming working group meetings in this [calendar](https://calendar.google.com/calendar/embed?src=4uhe8fi8sf1e3tvmvh6vrq2dog%40group.calendar.google.com).
 
 * You can download [an ICS file](https://calendar.google.com/calendar/ical/4uhe8fi8sf1e3tvmvh6vrq2dog%40group.calendar.google.com/public/basic.ics)
 to import the working group meetings into your favorite iCal client.
