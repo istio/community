@@ -9,6 +9,7 @@ The criteria for voter eligibility can be found in the [election guide](README.m
 If you feel you have standing in the Istio community but are not listed here, please fill in the [voting exception form](https://forms.gle/ucNfjUN6ruzJ3mL26). If your application is approved by a simple majority vote of the Steering Committee, you will be added.
 
 - Aakash2017
+- abhijoglekar
 - AdamKorcz
 - AllenZMC
 - ameer00
@@ -18,10 +19,12 @@ If you feel you have standing in the Istio community but are not listed here, pl
 - Arhell
 - aryan16
 - bianpengyuan
+- birkland
 - cetezadi
 - chaodaiG
 - chases2
 - Chen-Xintong
+- christian-posta
 - chizhg
 - CloudJason
 - cjwagner
@@ -33,10 +36,13 @@ If you feel you have standing in the Istio community but are not listed here, pl
 - dddddai
 - deveshkandpal1224
 - devincd
+- djannot
 - dgn
 - dhawton
 - douglas-reid
 - drivebyer
+- EItanya
+- ejj
 - eliavem
 - ericvn
 - fatedier
@@ -48,6 +54,7 @@ If you feel you have standing in the Istio community but are not listed here, pl
 - howardjohn
 - hueifeng
 - hzxuzhonghu
+- ilevine
 - ingwonsong
 - irisdingbj
 - jacob-delgado
@@ -59,10 +66,12 @@ If you feel you have standing in the Istio community but are not listed here, pl
 - johnzheng1975
 - jtischer-acasi
 - jupblb
+- justinpettit
 - jwendell
 - jzhupup
 - kebe7jun
 - kerthcet
+- kdorosh
 - kfaseela
 - kinzhi
 - Kmoneal
@@ -87,6 +96,8 @@ If you feel you have standing in the Istio community but are not listed here, pl
 - NiuYinlong1994
 - nmittler
 - nmnellis
+- npolshakova
+- nrjpoddar
 - orangegzx
 - ostromart
 - PetrMc
@@ -112,6 +123,7 @@ If you feel you have standing in the Istio community but are not listed here, pl
 - shriramsharma
 - shuaijinchao
 - silenceshell
+- skyfirefrancisz
 - SpecialYang
 - stevenctl
 - stewartbutler
@@ -140,6 +152,7 @@ If you feel you have standing in the Istio community but are not listed here, pl
 - YonkaFang
 - youhonglian
 - yskopets
+- yuval-k
 - yxxhero
 - ZackButcher
 - zackzhangkai
