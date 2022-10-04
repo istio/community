@@ -11,15 +11,19 @@ If you feel you have standing in the Istio community but are not listed here, pl
 - Aakash2017
 - AdamKorcz
 - AllenZMC
+- ameer00
 - AndreaM12345
 - andrewshaoyu
+- angaluri
 - Arhell
 - aryan16
 - bianpengyuan
+- cetezadi
 - chaodaiG
 - chases2
 - Chen-Xintong
 - chizhg
+- CloudJason
 - cjwagner
 - cnvergence
 - costinm
@@ -71,6 +75,7 @@ If you feel you have standing in the Istio community but are not listed here, pl
 - linsun
 - litong01
 - liwenhao0810
+- louiscryan
 - mandarjog
 - mathetake
 - Michelle951
@@ -88,6 +93,7 @@ If you feel you have standing in the Istio community but are not listed here, pl
 - pinxiong
 - PiotrSikora
 - qfel
+- rcernich
 - richardwxn
 - riita10069
 - rinormaloku
@@ -112,6 +118,7 @@ If you feel you have standing in the Istio community but are not listed here, pl
 - su225
 - tbarrella
 - therealmitchconnors
+- thisisnotapril
 - vikaschoudhary16
 - vince-0202
 - willowmck
@@ -134,6 +141,7 @@ If you feel you have standing in the Istio community but are not listed here, pl
 - youhonglian
 - yskopets
 - yxxhero
+- ZackButcher
 - zackzhangkai
 - zaunist
 - zc2638
