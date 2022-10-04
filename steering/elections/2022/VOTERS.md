@@ -16,9 +16,11 @@ If you feel you have standing in the Istio community but are not listed here, pl
 - Arhell
 - aryan16
 - bianpengyuan
+- birkland
 - chaodaiG
 - chases2
 - Chen-Xintong
+- christian-posta
 - chizhg
 - cjwagner
 - cnvergence
@@ -29,10 +31,12 @@ If you feel you have standing in the Istio community but are not listed here, pl
 - dddddai
 - deveshkandpal1224
 - devincd
+- djannot
 - dgn
 - dhawton
 - douglas-reid
 - drivebyer
+- EItanya
 - eliavem
 - ericvn
 - fatedier
@@ -44,6 +48,7 @@ If you feel you have standing in the Istio community but are not listed here, pl
 - howardjohn
 - hueifeng
 - hzxuzhonghu
+- ilevine
 - ingwonsong
 - irisdingbj
 - jacob-delgado
@@ -59,6 +64,7 @@ If you feel you have standing in the Istio community but are not listed here, pl
 - jzhupup
 - kebe7jun
 - kerthcet
+- kdorosh
 - kfaseela
 - kinzhi
 - Kmoneal
@@ -82,6 +88,8 @@ If you feel you have standing in the Istio community but are not listed here, pl
 - NiuYinlong1994
 - nmittler
 - nmnellis
+- npolshakova
+- nrjpoddar
 - orangegzx
 - ostromart
 - PetrMc
@@ -133,6 +141,7 @@ If you feel you have standing in the Istio community but are not listed here, pl
 - YonkaFang
 - youhonglian
 - yskopets
+- yuval-k
 - yxxhero
 - zackzhangkai
 - zaunist
