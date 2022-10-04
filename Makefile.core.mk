@@ -1,6 +1,4 @@
-#!/bin/bash
-
-# Copyright 2019 Istio Authors
+# Copyright Istio Authors
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -14,6 +12,15 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-set -e
-awesome_bot --skip-save-result --allow 429 --allow-ssl --allow-timeout --allow-dupe --allow-redirect --white-list ./*.md
+# lint can  run all lint-all targets minus lint-markdown which is run by the community-lint.sh
+lint: lint-dockerfiles lint-scripts lint-yaml lint-helm lint-copyright-banner lint-go lint-python lint-sass lint-typescript lint-protos lint-licenses
+	@prow/community-lint.sh
 
+test:
+	go test ./...
+
+gen: fmt
+
+fmt: format-go tidy-go
+
+include common/Makefile.common.mk
