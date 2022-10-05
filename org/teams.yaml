@@ -1,6 +1,6 @@
 # Please add your name in alphabetical order.
 teams:
-  Election Officers
+  Election Officers:
     description: people who run Steering Committee elections
     members:
       - cetezadi
