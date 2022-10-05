@@ -4,7 +4,7 @@ ID: irisdingbj
 info:
   - employer: Intel
   - slack: irisdingbj
-  - twitter: @irisdingbj
+  - twitter: irisdingbj
 -------------------------------------------------------------
 
 # Here's a paragraph about my contributions to Istio.

@@ -8,6 +8,7 @@ delete_after: True
 show_candidate_fields:
   - employer
   - slack
+  - twitter
 election_officers:
   - rvennam
   - cetezadi
