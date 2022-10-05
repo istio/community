@@ -99,9 +99,10 @@ update-common:
 	@cd $(TMP)/common-files ; git rev-parse HEAD >files/common/.commonfiles.sha
 	@rm -fr common
 	@CONTRIB_OVERRIDE=$(shell grep -l "refer to Istio" CONTRIBUTING.md)
-	if [ "$(CONTRIB_OVERRIDE)" != "CONTRIBUTING.md" ]; then\
+	@if [ "$(CONTRIB_OVERRIDE)" != "CONTRIBUTING.md" ]; then\
 		rm $(TMP)/common-files/files/CONTRIBUTING.md;\
 	fi
+	@cp -a $(TMP)/common-files/files/* $(shell pwd)
 	@rm -fr $(TMP)/common-files
 
 check-clean-repo:
