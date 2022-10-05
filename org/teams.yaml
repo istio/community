@@ -1,5 +1,14 @@
 # Please add your name in alphabetical order.
 teams:
+  Election Officers
+    description: people who run Steering Committee elections
+    members:
+      - cetezadi
+      - craigbox
+      - jberkus
+      - rvennam
+    repos:
+      community: write
   Maintainers:
     description: Maintainers of the Istio project.
     members:
