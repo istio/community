@@ -1,0 +1,174 @@
+# 2022 Steering Committee Election
+##################################
+#
+# The process for determining elegible voters can be found in
+# (https://github.com/istio/community/tree/master/steering/elections/2022
+#
+# If you feel you have standing in the Istio community but are not listed here, 
+# please fill in the voting exception form (https://forms.gle/ucNfjUN6ruzJ3mL26). 
+# If your application is approved by a simple majority vote of the Steering Committee,
+# you will be added.
+#
+# History:
+# 2022-09-19: List generated from the [members](/org/members.yaml) file, checking for at 
+#   least one merged PR as noted by istio-policy-bot in the period 19 September 2021 to 19 September 2022.
+# 2022-10-03: Istio Steering Committee members added
+# 2022-10-04: Ambient Mesh team added by exception request
+#
+eligible_voters:
+- Aakash2017
+- abhijoglekar
+- AdamKorcz
+- AllenZMC
+- ameer00
+- AndreaM12345
+- andrewshaoyu
+- angaluri
+- Arhell
+- aryan16
+- bianpengyuan
+- birkland
+- cetezadi
+- chaodaiG
+- chases2
+- Chen-Xintong
+- christian-posta
+- chizhg
+- CloudJason
+- cjwagner
+- cnvergence
+- costinm
+- craigbox
+- dapengJacky
+- davidhauck
+- dddddai
+- deveshkandpal1224
+- devincd
+- djannot
+- dgn
+- dhawton
+- douglas-reid
+- drivebyer
+- EItanya
+- ejj
+- eliavem
+- ericvn
+- fatedier
+- feeltimeQ
+- frankbu
+- GregHanson
+- gy95
+- hanxiaop
+- howardjohn
+- hueifeng
+- hzxuzhonghu
+- ilevine
+- ingwonsong
+- irisdingbj
+- jacob-delgado
+- jasonwzm
+- jewertow
+- jmazzitelli
+- jmunozro
+- johnma14
+- johnzheng1975
+- jtischer-acasi
+- jupblb
+- justinpettit
+- jwendell
+- jzhupup
+- kebe7jun
+- kerthcet
+- kdorosh
+- kfaseela
+- kinzhi
+- Kmoneal
+- kyessenov
+- l8huang
+- lambdai
+- ldemailly
+- lei-tang
+- lgadban
+- linsun
+- litong01
+- liwenhao0810
+- louiscryan
+- mandarjog
+- mathetake
+- Michelle951
+- Monkeyanator
+- morvencao
+- my-git9
+- myidpt
+- nicole-lihui
+- NiuYinlong1994
+- nmittler
+- nmnellis
+- npolshakova
+- nrjpoddar
+- orangegzx
+- ostromart
+- PetrMc
+- pinxiong
+- PiotrSikora
+- qfel
+- rcernich
+- richardwxn
+- riita10069
+- rinormaloku
+- rrobb-aspen
+- ruigulala
+- rveerama1
+- rvennam
+- ryantking
+- saltbo
+- sergii-ssh
+- shankgan
+- Shikugawa
+- shirleyyLi
+- shivanshu1333
+- shonecyx
+- shriramsharma
+- shuaijinchao
+- silenceshell
+- skyfirefrancisz
+- SpecialYang
+- stevenctl
+- stewartbutler
+- su225
+- tbarrella
+- therealmitchconnors
+- thisisnotapril
+- vikaschoudhary16
+- vince-0202
+- willowmck
+- windsonsea
+- wokeao
+- wuwuwuyanz
+- wzshiming
+- xiaomudk
+- xiaoyang-sde
+- xichengliudui
+- Xunzhuo
+- yangminzhu
+- yanrongshi
+- yashykt
+- ycai-aspen
+- ydFu
+- yingzhuivy
+- ymesika
+- YonkaFang
+- youhonglian
+- yskopets
+- yuval-k
+- yxxhero
+- ZackButcher
+- zackzhangkai
+- zaunist
+- zc2638
+- zhaohuabing
+- ZhengzheYang
+- zhlsunshine
+- zirain
+- ZiyangXiao
+- zouyee
