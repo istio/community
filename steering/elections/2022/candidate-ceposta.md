@@ -1,6 +1,6 @@
 -------------------------------------------------------------
 name: Christian Posta
-ID: christian-posta
+ID: ceposta
 info:
   - employer: Solo.io
   - slack: ceposta
