@@ -4,8 +4,7 @@ ID: ceposta
 info:
   - employer: Solo.io
   - slack: ceposta
-  - twitter: @christianposta
-  - linkedin: /in/ceposta
+  - twitter: christianposta
 -------------------------------------------------------------
 
 ### Here's a paragraph about my contributions to Istio.

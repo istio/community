@@ -2,8 +2,8 @@
 name: Zhonghu Xu
 ID: hzxuzhonghu
 info:
-- employer: Huawei
-- slack: hzxuzhonghu
+  - employer: Huawei
+  - slack: hzxuzhonghu
 -------------------------------------------------------------
 
 <!-- Please make a copy of this template as "candidate-githubid.md" and save it to

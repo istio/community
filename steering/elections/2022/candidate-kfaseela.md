@@ -3,7 +3,7 @@ name: Faseela K
 ID: kfaseela
 info:
   - employer: Ericsson Software Technology
-  - slack: @Faseela K
+  - slack: Faseela K
 -------------------------------------------------------------
 
 ### Here's a paragraph about my contributions to Istio.

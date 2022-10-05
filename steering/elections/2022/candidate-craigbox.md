@@ -4,6 +4,7 @@ ID: craigbox
 info:
   - employer: TBA
   - slack: craigbox
+  - twitter: craigbox
 -------------------------------------------------------------
 
 _I am leaving Google on the 10th of October and thus am running as an independent candidate in this election.  My new employer is not currently involved in the Istio project._
