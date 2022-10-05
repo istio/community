@@ -1,0 +1,16 @@
+name: 2022 Steering Committee Election
+organization: Istio
+start_datetime: 2022-10-03 00:00:01
+end_datetime: 2022-10-16 11:59:59
+no_winners: 4
+allow_no_opinion: True
+delete_after: True
+show_candidate_fields:
+  - employer
+  - slack
+election_officers:
+  - rvennam
+  - cetezadi
+eligibility: A [project member](https://github.com/istio/community/blob/master/ROLES.md#member) who has had at least one Pull Request merged in the past 12 months. See [the election guide](https://github.com/istio/community/tree/master/steering/elections/2022)
+exception_description: People who have demonstrated contribution to the Istio project that is of a non-code nature in the 12 months prior to the election can be granted a vote for the election by a simple majority vote of the Steering Committee.
+exception_due: 2022-10-13 11:59:59
