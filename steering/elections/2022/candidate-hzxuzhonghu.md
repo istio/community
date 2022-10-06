@@ -6,10 +6,7 @@ info:
   - slack: hzxuzhonghu
 -------------------------------------------------------------
 
-<!-- Please make a copy of this template as "candidate-githubid.md" and save it to
-the election directory -->
-
-# Here's a paragraph about my contributions to Istio.
+### About me
 
 I have joined istio community for almost 5 years. Since then, I have collaborated with so many amazing guys to make istio efficient and successful.
 I witnessed the prosperity of service mesh and the evolution of istio from distributed components to monolithic istiod and maybe ambient mesh production ready next year.
@@ -19,19 +16,20 @@ And even today I am always keeping filing PRs, reviewing PRs and commenting issu
 I always make myself encouraged and focused on istio community, last year I made nearly 4k contributions.
 
 I have done many other works these years:
+
 - served as a steering committee member in the last two years 
 - a core maintainer of networking and security WG
 - one of the advocates of istio in China and also helped organize IstioCon in China
 - author of Cloud Native Service Mesh Istio, the best-selling service mesh book in China
 - publicly speaking about istio in KubeCon and IstioCon.
 
-
-# Here's a paragraph about why I'm running.
+### Why I'm running
 
 I have been devoted to open source istio for the last five years. 
 And as an experienced user/developer/maintainer, I would like to represent these groups to
 help make istio community:
-* neutral without bias
-* open without occlusion
+
+- neutral without bias
+- open without occlusion
 
 2023 is a very important year, every one would want to see istio graduate from CNCF, I am very willing to grow with istio in the next year.
