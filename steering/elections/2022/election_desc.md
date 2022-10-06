@@ -1,5 +1,3 @@
-# 2022 Istio Steering Committee election
-
 The Istio Steering Committee is composed of nine (9) Contribution Seats and four (4) Community Seats. The role of this election is to elect the four Community Seats to the Istio Steering Committee for a one-year term.  Please see the [election guide](https://github.com/istio/community/tree/master/steering/elections/2022) for more information.
 
 ## About the committee
