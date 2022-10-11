@@ -12,25 +12,18 @@ teams:
   Maintainers:
     description: Maintainers of the Istio project.
     members:
-      - adammil2000
-      - andraxylia
       - bianpengyuan
-      - brian-avery
-      - clyang82
       - costinm
       - dgn
       - diemtvu
       - douglas-reid
       - duderino
-      - elfinhe
       - ericvn
       - esnible
       - fejta
-      - fleeto
       - fpesce
       - frankbu
       - gargnupur
-      - gbaufake
       - GregHanson
       - hanxiaop
       - howardjohn
@@ -38,7 +31,6 @@ teams:
       - incfly
       - irisdingbj
       - jacob-delgado
-      - jasonwzm
       - JimmyCYJ
       - john-a-joyce
       - johnma14
@@ -47,11 +39,9 @@ teams:
       - kfaseela
       - kyessenov
       - lambdai
-      - liamawhite
       - liminw
       - linsun
       - lizan
-      - loverto
       - mandarjog
       - morvencao
       - myidpt
@@ -60,24 +50,17 @@ teams:
       - nrjpoddar
       - ostromart
       - ramaraochavali
-      - rcaballeromx
       - rcernich
       - richardwxn
-      - rlenglet
       - rootsongjc
-      - rshriram
-      - SataQiu
       - sbezverk
       - sdake
       - shamsher31
       - stewartbutler
       - suryadu
       - therealmitchconnors
-      - tiswanso
-      - venilnoronha
       - Xunzhuo
       - yangminzhu
-      - yxue
       - zhlsunshine
     repos:
         api: write
@@ -99,24 +82,17 @@ teams:
       WG - Config Maintainers:
         description: Maintainers for the Config working group.
         members:
-          - jasonwzm
           - nmittler
       WG - Docs Maintainers:
         description: Maintainers of the Docs working group.
         members:
-          - adammil2000
           - craigbox
           - davidhauck
           - ericvn
-          - fleeto
           - frankbu
-          - gbaufake
           - kebe7jun
           - kfaseela
-          - loverto
-          - rcaballeromx
           - rootsongjc
-          - SataQiu
         repos:
           istio.io: write
           tools: write
@@ -139,37 +115,29 @@ teams:
             members:
               - craigbox
               - ericvn
-              - fleeto
               - kebe7jun
               - litong01
-              - loverto
               - rootsongjc
-              - SataQiu
               - windsonsea
               - Xunzhuo
               - zirain
           WG - Docs Maintainers/Infra:
             description: Maintainers of the doc build & site infrastructure
             members:
-              - adammil2000
               - craigbox
               - davidhauck
               - ericvn
               - frankbu
               - nmittler
-              - rcaballeromx
               - rvennam
           WG - Docs Maintainers/Portuguese:
             description: Maintainers of the Portuguese documentation
-            members:
-              - gbaufake
+            members: []
       WG - Environments Maintainers:
         description: Maintainers for the Environments working group.
         members:
-          - clyang82
           - costinm
           - dgn
-          - elfinhe
           - howardjohn
           - irisdingbj
           - linsun
@@ -189,7 +157,6 @@ teams:
         description: Maintainers for the Networking working group
         members:
           - adiprerepa
-          - andraxylia
           - bianpengyuan
           - costinm
           - duderino
@@ -206,13 +173,8 @@ teams:
           - nmittler
           - nrjpoddar
           - ramaraochavali
-          - rlenglet
-          - rshriram
           - sbezverk
           - stevenctl
-          - tiswanso
-          - venilnoronha
-          - yxue
         repos:
           cni: write
           envoy: write
@@ -227,7 +189,6 @@ teams:
               - howardjohn
               - hzxuzhonghu
               - ramaraochavali
-              - rshriram
               - stevenctl
       WG - Policies and Telemetry  Maintainers:
         description: Maintainers for the Policy and Telemetry working group.
@@ -278,7 +239,6 @@ teams:
       WG - Test and Release Maintainers:
         description: Maintainers for the Test and Release working group.
         members:
-          - brian-avery
           - carolynhu
           - duderino
           - ericvn
@@ -314,8 +274,6 @@ teams:
           - esnible
           - hanxiaop
           - irisdingbj
-          - jasonwzm
-          - liamawhite
           - nmittler
           - shamsher31
           - therealmitchconnors
