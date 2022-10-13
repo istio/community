@@ -194,8 +194,8 @@ teams:
         description: Maintainers for the Policy and Telemetry working group.
         members:
           - kyessenov
-          - zirain
           - lei-tang
+          - zirain
         repos:
           proxy: write
       WG - Product Security Maintainers:
