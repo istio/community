@@ -193,11 +193,9 @@ teams:
       WG - Policies and Telemetry  Maintainers:
         description: Maintainers for the Policy and Telemetry working group.
         members:
-          - bianpengyuan
-          - douglas-reid
           - kyessenov
-          - nrjpoddar
           - zirain
+          - lei-tang
         repos:
           proxy: write
       WG - Product Security Maintainers:
