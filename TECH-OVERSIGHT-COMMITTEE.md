@@ -40,7 +40,7 @@ The TOC’s work includes:
 
 Artifact | Link
 ---|---
-Discussion Forum | [Forum](https://discuss.istio.io/c/technical-oversight-committee) 
+Discussion Forum | [Forum](https://discuss.istio.io/c/technical-oversight-committee)
 Docs | [Folder](https://drive.google.com/corp/drive/folders/1-BLXbKg8mfnXbip4IThz4R4GH2PEsLZO)
 Meeting Notes | [Notes](https://docs.google.com/document/d/13lxJqtlaQhmV2EwsNnS6h-_O4pobZQZuMjrzOeMgVI0/edit#heading=h.ipnfbx7g04vg)
 Meeting Link | [Google Meet](https://meet.google.com/aof-rirb-ijs)
@@ -60,11 +60,12 @@ The members of the TOC are shown below. Membership in the TOC is determined by t
 
 &nbsp; | Name | Company
 ---|---|---
+<img width="30px" src="https://avatars.githubusercontent.com/u/821270?v=4"> | [Mitch Connors](https://github.com/therealmitchconnors)  | Google
+<img width="30px" src="https://avatars.githubusercontent.com/u/623453?v=4">            | [John Howard](https://github.com/howardjohn)  | Google
+<img width="30px" src="https://avatars3.githubusercontent.com/u/12534779?s=400&v=4">|    [Neeraj Poddar](https://github.com/nrjpoddar) | Solo.io
 <img width="30px" src="https://pbs.twimg.com/profile_images/838075233445695489/o2eAYJAV_400x400.jpg"> | [Louis Ryan](https://github.com/louiscryan) | Google
-<img width="30px" src="https://avatars1.githubusercontent.com/u/1588319?s=400&v=4"> | [Lin Sun](https://github.com/linsun)          | Solo.io
-<img width="30px" src="https://avatars3.githubusercontent.com/u/12534779?s=400&v=4">| [Neeraj Poddar](https://github.com/nrjpoddar) | Solo.io
-<img width="30px" src="https://avatars.githubusercontent.com/u/623453?v=4">         | [John Howard](https://github.com/howardjohn)  | Google
-<img width="30px" src="https://avatars.githubusercontent.com/u/10537847?v=4">       | [Eric Van Norman](https://github.com/ericvn)  | IBM
+<img width="30px" src="https://avatars1.githubusercontent.com/u/1588319?s=400&v=4"> |    [Lin Sun](https://github.com/linsun)          | Solo.io
+<img width="30px" src="https://avatars.githubusercontent.com/u/10537847?v=4">       |    [Eric Van Norman](https://github.com/ericvn)  | IBM
 
 ## Emeritus members
 
