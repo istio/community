@@ -435,16 +435,16 @@ teams:
     members:
       - ameer00
       - angaluri
+      - cetezadi
+      - christian-posta
       - CloudJason
       - craigbox
-      - hzxuzhonghu
       - irisdingbj
       - kebe7jun
-      - linsun
+      - kfaseela
       - louiscryan
       - rcernich
       - thisisnotapril
-      - ZackButcher
     repos:
       api: write
       bots: write
