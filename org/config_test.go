@@ -72,7 +72,7 @@ func testTeamMembers(teams map[string]org.Team, admins sets.String, orgMembers s
 
 		// check if all are org members
 		if missing := teamMembers.Difference(orgMembers); len(missing) > 0 {
-			errs = append(errs, fmt.Errorf("the following members of team %s are not org members: %s", teamName, strings.Join(missing.List(), ", ")))
+			errs = append(errs, fmt.Errorf("the following members of team %s are not parent team members: %s", teamName, strings.Join(missing.List(), ", ")))
 		}
 
 		// check if lists are sorted
@@ -84,7 +84,7 @@ func testTeamMembers(teams map[string]org.Team, admins sets.String, orgMembers s
 		}
 
 		if team.Children != nil {
-			errs = append(errs, testTeamMembers(team.Children, admins, orgMembers)...)
+			errs = append(errs, testTeamMembers(team.Children, admins, teamMembers)...)
 		}
 	}
 	return errs
