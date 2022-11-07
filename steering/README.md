@@ -13,17 +13,17 @@ See [CHARTER.md](CHARTER.md).
 ---|---|---|---|---
 <img width="30px" src="https://avatars.githubusercontent.com/u/17994486?v=4">  | Ameer Abbas | Google | [ameer00](https://github.com/ameer00) | Contribution seat
 <img width="30px" src="https://avatars.githubusercontent.com/u/27636385?v=4"> | Srihari Angaluri | IBM | [angaluri](https://github.com/angaluri) | Contribution seat
-<img width="30px" src="https://avatars0.githubusercontent.com/u/132510?s=460&v=4"> | Craig Box | Google | [craigbox](https://github.com/craigbox) | Contribution seat
-<img width="30px" src="https://avatars2.githubusercontent.com/u/1923135?s=400&u=5c04620901ef2b402be16677f1cae3c5d376bea0&v=4"> | Zack Butcher | Tetrate | [ZackButcher](https://github.com/ZackButcher) | Community seat
+<img width="30px" src="https://avatars0.githubusercontent.com/u/132510?s=460&v=4"> | Craig Box | ARMO | [craigbox](https://github.com/craigbox) | Community seat
 | | Rob Cernich | Red Hat | [rcernich](https://github.com/rcernich) | Contribution seat
 <img width="30px" src="https://events.istio.io/istiocon-2021/images/speakers/iris-ding.jpg"> | Iris (Shaojun) Ding | Intel | [irisdingbj](https://github.com/irisdingbj) | Community seat
 <img width="30px" src="https://avatars.githubusercontent.com/u/7274813?v=4">  | Cameron Etezadi | Google | [cetezadi](https://github.com/cetezadi) | Contribution seat
+<img width="30px" src="https://avatars.githubusercontent.com/u/7901446?v=4"> | Faseela K | Ericsson Software Technology | [kfaseela](https://github.com/kfaseela) | Community seat
 <img width="30px" src="https://avatars.githubusercontent.com/u/8482383?v=4"> | April Kyle Nassi | Google | [thisisnotapril](https://github.com/thisisnotapril) | Contribution seat
 | | Kebe Liu | DaoCloud | [kebe7jun](https://github.com/kebe7jun) | Contribution seat
 <img width="30px" src="https://avatars.githubusercontent.com/u/17597872?s=460&u=e94e38992c92a7a9e57ae0797ef74799e2e2e201&v=4"> | Jason McGee | IBM | [CloudJason](https://github.com/CloudJason) | Contribution seat
+<img width="30px" src="https://avatars.githubusercontent.com/u/53201?v=4"> | Christian Posta | Solo.io | [christian-posta](https://github.com/christian-posta) | Community seat
 <img width="30px" src="https://pbs.twimg.com/profile_images/838075233445695489/o2eAYJAV_400x400.jpg"> | Louis Ryan | Google | [louiscryan](https://github.com/louiscryan) | Contribution seat
-<img width="30px" src="https://avatars1.githubusercontent.com/u/1588319?s=400&v=4"> | Lin Sun | Solo.io | [linsun](https://github.com/linsun) | Community seat
-<img width="30px" src="https://avatars1.githubusercontent.com/u/13374016?s=400&u=4e398f074b2df4b74dfca18b8654b1666f1ae9ae&v=4"> | Zhonghu Xu | Huawei | [hzxuzhonghu](https://github.com/hzxuzhonghu) | Community seat
+| | TBD | Google | | Contributor seat
 
 ## Contribution Seats
 
