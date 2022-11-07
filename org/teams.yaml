@@ -12,9 +12,20 @@ teams:
   Maintainers:
     description: Maintainers of the Istio project.
     members:
+      - adiprerepa
+      - amjain-vmware
+      - andream12345
+      - aryan16
       - bianpengyuan
+      - carolynhu
+      - chaodaig
+      - chases2
+      - cjwagner
       - costinm
+      - craigbox
+      - davidhauck
       - dgn
+      - didier-grelin
       - diemtvu
       - douglas-reid
       - duderino
@@ -34,16 +45,26 @@ teams:
       - JimmyCYJ
       - john-a-joyce
       - johnma14
+      - justinpettit
       - jwendell
       - kebe7jun
       - kfaseela
+      - knrc
       - kyessenov
       - lambdai
+      - lei-tang
+      - lgadban
       - liminw
       - linsun
+      - listx
+      - litong01
       - lizan
+      - louiscryan
       - mandarjog
+      - michelle192837
+      - Monkeyanator
       - morvencao
+      - mpherman2
       - myidpt
       - Nino-K
       - nmittler
@@ -53,15 +74,21 @@ teams:
       - rcernich
       - richardwxn
       - rootsongjc
+      - rvennam
       - sbezverk
       - sdake
       - shamsher31
+      - shankgan
+      - ssuchter
+      - stevenctl
       - stewartbutler
       - suryadu
       - therealmitchconnors
+      - windsonsea
       - Xunzhuo
       - yangminzhu
       - zhlsunshine
+      - zirain
     repos:
         api: write
         enhancements: write
@@ -92,7 +119,16 @@ teams:
           - frankbu
           - kebe7jun
           - kfaseela
+          - knrc
+          - louiscryan
+          - litong01
+          - nmittler
           - rootsongjc
+          - rvennam
+          - ssuchter
+          - windsonsea
+          - Xunzhuo
+          - zirain
         repos:
           istio.io: write
           tools: write
@@ -286,17 +322,33 @@ teams:
     description: Current set of release managers.
     members:
       - aryan16
+      - bianpengyuan
+      - brian-avery
       - dgn
       - dhawton
       - eliavem
       - ericvn
+      - fpesce
       - GregHanson
       - howardjohn
+      - irisdingbj
+      - jacob-delgado
+      - JimmyCYJ
+      - johnma14
+      - jwendell
+      - Kmoneal
       - lei-tang
       - litong01
       - Monkeyanator
       - SkyfireFrancisZ
+      - Mythra
+      - rlenglet
+      - ryantking
+      - sdake
+      - shamsher31
       - stevenctl
+      - ZhiHanZ
+      - zhlsunshine
       - ZiyangXiao
     repos:
       api: write
