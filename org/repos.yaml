@@ -61,6 +61,14 @@ repos:
     has_issues: false
     has_projects: false
     has_wiki: false
+  ztunnel:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    allow_squash_merge: false
+    description: An implementation of the ztunnel component of ambient mesh
+    has_issues: false
+    has_projects: false
+    has_wiki: false
   enhancements:
     allow_merge_commit: false
     allow_rebase_merge: false
