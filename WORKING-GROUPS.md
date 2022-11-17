@@ -70,7 +70,6 @@ Each working group has one or more leads which coordinate the activities of the 
 &nbsp;                                                                               | [Shankar Ganesan](https://github.com/shankgan)     | Google     | Product Security
 &nbsp;                                                                               | [Costin Manolache](https://github.com/costinm)     | Google     | Environments
 &nbsp;                                                                               | [Sam Naser](https://github.com/monkeyanator)       | Google     | Environments
-<img width="30px" src="https://avatars2.githubusercontent.com/u/21148125?s=400&v=4"> | [Douglas Reid](https://github.com/douglas-reid)    | Google     | Extensions and Telemetry
 <img width="30px" src="https://avatars3.githubusercontent.com/u/3237651?s=400&v=4">  | [Ed Snible](https://github.com/esnible)            | IBM        | User Experience
 <img width="30px" src="https://avatars1.githubusercontent.com/u/10537847?s=400&v=4"> | [Eric Van Norman](https://github.com/ericvn)       | IBM        | Test and Release
 &nbsp;                                                                               | [Limin Wang](https://github.com/liminw)            | Google     | Security
