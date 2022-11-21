@@ -104,6 +104,7 @@ var repos = map[string]github.RepoPermissionLevel{
 	"release-builder": github.Triage,
 	"test-infra":      github.Triage,
 	"tools":           github.Triage,
+	"ztunnel":         github.Triage,
 }
 
 func strPointer(s string) *string {
