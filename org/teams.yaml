@@ -554,7 +554,7 @@ teams:
     description: Folks that perform issue & pr triage.
     members:
       - fpesce
-      - jasminejaksic
+      - SkyfireFrancisZ
     repos:
       api: none
       bots: none
