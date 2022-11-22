@@ -90,12 +90,37 @@ func testTeamMembers(teams map[string]org.Team, admins sets.String, orgMembers s
 	return errs
 }
 
+func TestConvertedOrg(t *testing.T) {
+	cfg, err := readConfig(".")
+	if err != nil {
+		t.Fatal(err)
+	}
+	org := convertConfig(cfg).Orgs["istio"]
+	maintainers := org.Teams["Maintainers"]
+	leads := org.Teams["Working Group Leads"]
+	allLeads := sets.NewString(leads.Members...)
+	allMaintainers := sets.NewString(maintainers.Members...)
+	childMaintainers := sets.NewString()
+	for _, ct := range maintainers.Children {
+		childMaintainers.Insert(ct.Members...)
+
+	}
+	if diff := allMaintainers.Difference(childMaintainers); diff.Len() != 0 {
+		t.Errorf("top level maintainer not in a team: %v", diff.UnsortedList())
+	}
+	if diff := childMaintainers.Difference(allMaintainers); diff.Len() != 0 {
+		t.Errorf("team maintainer not in top level: %v", diff.UnsortedList())
+	}
+	if diff := allLeads.Difference(allMaintainers); diff.Len() != 0 {
+		t.Errorf("leads not in maintainers: %v", diff.UnsortedList())
+	}
+}
+
 func TestIstioOrg(t *testing.T) {
 	cfg, err := readConfig(".")
 	if err != nil {
 		t.Fatal(err)
 	}
-
 	members := normalize(sets.NewString(cfg.Members...))
 	admins := normalize(sets.NewString(cfg.Admins...))
 	allOrgMembers := members.Union(admins).Union(members)

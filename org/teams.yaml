@@ -26,15 +26,12 @@ teams:
       - davidhauck
       - dgn
       - didier-grelin
-      - diemtvu
-      - douglas-reid
       - duderino
       - ericvn
       - esnible
       - fejta
       - fpesce
       - frankbu
-      - gargnupur
       - GregHanson
       - hanxiaop
       - howardjohn
@@ -82,12 +79,10 @@ teams:
       - ssuchter
       - stevenctl
       - stewartbutler
-      - suryadu
       - therealmitchconnors
       - windsonsea
       - Xunzhuo
       - yangminzhu
-      - ymesika
       - zhlsunshine
       - zirain
     repos:
@@ -572,7 +567,6 @@ teams:
   Working Group Leads:
     description: Working group leads - for easy communication in github
     members:
-      - douglas-reid
       - ericvn
       - esnible
       - frankbu
