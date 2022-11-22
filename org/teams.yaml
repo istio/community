@@ -190,6 +190,7 @@ teams:
           - sdake
           - stevenctl
           - zirain
+          - ymesika
         repos:
           installer: write
           operator: write
@@ -215,6 +216,7 @@ teams:
           - ramaraochavali
           - sbezverk
           - stevenctl
+          - ymesika
         repos:
           cni: write
           envoy: write
