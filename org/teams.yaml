@@ -189,8 +189,8 @@ teams:
           - richardwxn
           - sdake
           - stevenctl
-          - zirain
           - ymesika
+          - zirain
         repos:
           installer: write
           operator: write
