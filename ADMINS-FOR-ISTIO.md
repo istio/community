@@ -7,7 +7,7 @@ access.
 | Service | Purpose | Responsible Adults
 |---------|---------|-------------------
 | [Discourse](https://discuss.istio.io) | Discussion forums | [linsun](https://github.com/linsun), [craigbox](https://github.com/craigbox), [thisisnotapril](https://github.com/thisisnotapril), [macruzbar](https://github.com/macruzbar); Mary Radomile from Google OSPO
-| [Docker Hub](https://hub.docker.com) | Container registry | [ericvn](https://github.com/ericvn), [costinm](https://github.com/costinm), [howardjohn]([https://github.com/mandarjog](https://github.com/howardjohn)), [frankbu](https://github.com/frankbu)
+| [Docker Hub](https://hub.docker.com) | Container registry | [ericvn](https://github.com/ericvn), [costinm](https://github.com/costinm), [howardjohn](https://github.com/howardjohn), [frankbu](https://github.com/frankbu)
 | [GitHub](https://github.com/istio) | Source control, bug tracking | [howardjohn](https://github.com/howardjohn), [linsun](https://github.com/linsun), [louiscryan](https://github.com/louiscryan)
 | [Google Analytics](https://analytics.google.com/analytics/web/) | Analytics for *istio.io | [davidhauck](https://github.com/davidhauck)
 | [Google Calendar - Community Events](https://calendar.google.com/calendar/embed?src=i10ogf58krfbrsjai5qi16g4do%40group.calendar.google.com&ctz=America%2FLos_Angeles) | Community event scheduling | [macruzbar](https://github.com/macruzbar)
