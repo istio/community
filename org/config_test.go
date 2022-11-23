@@ -103,7 +103,6 @@ func TestConvertedOrg(t *testing.T) {
 	childMaintainers := sets.NewString()
 	for _, ct := range maintainers.Children {
 		childMaintainers.Insert(ct.Members...)
-
 	}
 	if diff := allMaintainers.Difference(childMaintainers); diff.Len() != 0 {
 		t.Errorf("top level maintainer not in a team: %v", diff.UnsortedList())
