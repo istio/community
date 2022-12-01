@@ -17,7 +17,6 @@ teams:
       - andream12345
       - aryan16
       - bianpengyuan
-      - carolynhu
       - chaodaig
       - chases2
       - cjwagner
@@ -46,7 +45,6 @@ teams:
       - jwendell
       - kebe7jun
       - kfaseela
-      - knrc
       - kyessenov
       - lambdai
       - lei-tang
@@ -58,10 +56,8 @@ teams:
       - lizan
       - louiscryan
       - mandarjog
-      - michelle192837
       - Monkeyanator
       - morvencao
-      - mpherman2
       - myidpt
       - Nino-K
       - nmittler
@@ -76,7 +72,6 @@ teams:
       - sdake
       - shamsher31
       - shankgan
-      - ssuchter
       - stevenctl
       - stewartbutler
       - therealmitchconnors
@@ -98,8 +93,6 @@ teams:
           - cjwagner
           - fejta
           - listx
-          - michelle192837
-          - mpherman2
         repos:
           test-infra: write
       WG - Config Maintainers:
@@ -115,13 +108,11 @@ teams:
           - frankbu
           - kebe7jun
           - kfaseela
-          - knrc
           - litong01
           - louiscryan
           - nmittler
           - rootsongjc
           - rvennam
-          - ssuchter
           - windsonsea
           - Xunzhuo
           - zirain
@@ -136,11 +127,9 @@ teams:
               - ericvn
               - frankbu
               - kfaseela
-              - knrc
               - louiscryan
               - nmittler
               - rvennam
-              - ssuchter
           WG - Docs Maintainers/Chinese:
             description: Maintainers of the Chinese documentation.
             members:
@@ -272,7 +261,6 @@ teams:
       WG - Test and Release Maintainers:
         description: Maintainers for the Test and Release working group.
         members:
-          - carolynhu
           - duderino
           - ericvn
           - fpesce
