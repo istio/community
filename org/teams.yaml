@@ -25,11 +25,8 @@ teams:
       - davidhauck
       - dgn
       - didier-grelin
-      - duderino
       - ericvn
       - esnible
-      - fejta
-      - fpesce
       - frankbu
       - GregHanson
       - hanxiaop
@@ -59,7 +56,6 @@ teams:
       - Monkeyanator
       - morvencao
       - myidpt
-      - Nino-K
       - nmittler
       - nrjpoddar
       - ostromart
@@ -68,9 +64,6 @@ teams:
       - richardwxn
       - rootsongjc
       - rvennam
-      - sbezverk
-      - sdake
-      - shamsher31
       - shankgan
       - stevenctl
       - stewartbutler
@@ -91,7 +84,6 @@ teams:
           - chaodaig
           - chases2
           - cjwagner
-          - fejta
           - listx
         repos:
           test-infra: write
@@ -171,7 +163,6 @@ teams:
           - ostromart
           - rcernich
           - richardwxn
-          - sdake
           - stevenctl
           - zirain
         repos:
@@ -183,7 +174,6 @@ teams:
           - adiprerepa
           - bianpengyuan
           - costinm
-          - duderino
           - GregHanson
           - howardjohn
           - hzxuzhonghu
@@ -193,11 +183,9 @@ teams:
           - lambdai
           - linsun
           - lizan
-          - Nino-K
           - nmittler
           - nrjpoddar
           - ramaraochavali
-          - sbezverk
           - stevenctl
         repos:
           cni: write
@@ -261,9 +249,7 @@ teams:
       WG - Test and Release Maintainers:
         description: Maintainers for the Test and Release working group.
         members:
-          - duderino
           - ericvn
-          - fpesce
           - howardjohn
           - jacob-delgado
           - johnma14
@@ -273,7 +259,6 @@ teams:
           - Monkeyanator
           - nmittler
           - richardwxn
-          - sdake
           - stevenctl
           - stewartbutler
           - therealmitchconnors
@@ -296,7 +281,6 @@ teams:
           - hanxiaop
           - irisdingbj
           - nmittler
-          - shamsher31
           - therealmitchconnors
           - zhlsunshine
         repos:
@@ -312,7 +296,6 @@ teams:
       - dhawton
       - eliavem
       - ericvn
-      - fpesce
       - GregHanson
       - howardjohn
       - irisdingbj
@@ -327,8 +310,6 @@ teams:
       - Mythra
       - rlenglet
       - ryantking
-      - sdake
-      - shamsher31
       - SkyfireFrancisZ
       - stevenctl
       - ZhiHanZ
@@ -360,7 +341,6 @@ teams:
         members:
           - brian-avery
           - rlenglet
-          - sdake
       Release Managers - 1.4:
         description: Release managers for Istio 1.4
         members:
@@ -372,7 +352,6 @@ teams:
         members:
           - dgn
           - ericvn
-          - fpesce
           - johnma14
       Release Managers - 1.6:
         description: Release managers for Istio 1.6
@@ -395,7 +374,6 @@ teams:
         description: Release managers for Istio 1.9
         members:
         - jacob-delgado
-        - shamsher31
         - stevenctl
       Release Managers - 1.10:
         description: Release managers for Istio 1.10
@@ -536,7 +514,6 @@ teams:
   Triagers:
     description: Folks that perform issue & pr triage.
     members:
-      - fpesce
       - SkyfireFrancisZ
     repos:
       api: none
