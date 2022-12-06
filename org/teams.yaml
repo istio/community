@@ -425,6 +425,7 @@ teams:
       - istio-testing
       - linsun
       - nrjpoddar
+      - therealmitchconnors
     repos:
       api: admin
       bots: admin
