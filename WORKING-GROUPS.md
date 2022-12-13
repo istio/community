@@ -75,7 +75,7 @@ Each working group has one or more leads which coordinate the activities of the 
 &nbsp;                                                                               | [Limin Wang](https://github.com/liminw)            | Google     | Security
 <img width="30px" src="https://avatars0.githubusercontent.com/u/1016047?s=400&v=4">  | [Lizan Zhou](https://github.com/lizan)             | Tetrate    | Networking - Data Plane, Security
 <img width="30px" src="https://avatars.githubusercontent.com/u/19473391?s=400&v=4">  | [Greg Hanson](https://github.com/GregHanson)       | Solo.io     | Product Security
-
+&nbsp;                                                                               | [Jianpeng He](https://github.com/zirain)           | Huawei     | Extensions and Telemetry
 ## Getting in touch
 
 If you'd like to reach out to the working group leads, please drop a note to [wg-leads@discuss.istio.io](mailto:wg-leads@discuss.istio.io).
