@@ -305,7 +305,6 @@ teams:
       - jwendell
       - Kmoneal
       - lei-tang
-      - litong01
       - Monkeyanator
       - Mythra
       - rlenglet
@@ -413,7 +412,7 @@ teams:
         description: Release managers for Istio 1.16
         members:
         - dhawton
-        - litong01
+        - johnma14
         - ZiyangXiao
 
   Repo Admins:
