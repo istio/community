@@ -4,7 +4,7 @@
 
 * [Daniel Hawton](https://github.com/dhawton)
 * [Ziyang Xiao](https://github.com/ZiyangXiao)
-* [Tong Li](https://github.com/litong01)
+* [Mariam John](https://github.com/johnma14)
 
 ## 1.15
 
