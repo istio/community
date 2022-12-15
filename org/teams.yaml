@@ -187,6 +187,7 @@ teams:
           - nrjpoddar
           - ramaraochavali
           - stevenctl
+          - zhlsunshine
         repos:
           cni: write
           envoy: write
