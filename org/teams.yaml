@@ -414,6 +414,10 @@ teams:
         - dhawton
         - johnma14
         - ZiyangXiao
+      Release Managers - 1.17:
+        description: Release managers for Istio 1.17
+        members:
+        - johnma14
 
   Repo Admins:
     description: Folks with admin permission on all repos.
