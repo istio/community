@@ -420,7 +420,6 @@ teams:
         members:
         - johnma14
         - pmerrison
-
   Repo Admins:
     description: Folks with admin permission on all repos.
     members:
