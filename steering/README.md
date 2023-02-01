@@ -22,8 +22,8 @@ See [CHARTER.md](CHARTER.md).
 | | Kebe Liu | DaoCloud | [kebe7jun](https://github.com/kebe7jun) | Contribution seat
 <img width="30px" src="https://avatars.githubusercontent.com/u/17597872?s=460&u=e94e38992c92a7a9e57ae0797ef74799e2e2e201&v=4"> | Jason McGee | IBM | [CloudJason](https://github.com/CloudJason) | Contribution seat
 <img width="30px" src="https://avatars.githubusercontent.com/u/53201?v=4"> | Christian Posta | Solo.io | [christian-posta](https://github.com/christian-posta) | Community seat
-<img width="30px" src="https://pbs.twimg.com/profile_images/838075233445695489/o2eAYJAV_400x400.jpg"> | Louis Ryan | Google | [louiscryan](https://github.com/louiscryan) | Contribution seat
-| | TBD | Google | | Contributor seat
+<img width="30px" src="https://avatars.githubusercontent.com/u/915822?v=4"> | Justin Pettit | Google | [justinpettit](https://github.com/justinpettit) | Contribution seat
+<img width="30px" src="https://avatars.githubusercontent.com/u/623453?v=4"> | John Howard | Google | [howardjohn](https://github.com/howardjohn) | Contributor seat
 
 ## Contribution Seats
 
