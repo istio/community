@@ -456,18 +456,18 @@ teams:
     description: members of Istio Steering Committee
     members:
       - ameer00
-      - angaluri
       - cetezadi
       - christian-posta
-      - CloudJason
       - craigbox
+      - ctrath
       - howardjohn
+      - hzxuzhonghu
       - irisdingbj
-      - justinpettit      
-      - kebe7jun
+      - justinpettit
       - kfaseela
       - rcernich
       - thisisnotapril
+      - zirain
     repos:
       api: write
       bots: write
