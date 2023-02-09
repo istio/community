@@ -419,6 +419,7 @@ teams:
         description: Release managers for Istio 1.17
         members:
         - johnma14
+        - ksubrmnn
         - pmerrison
   Repo Admins:
     description: Folks with admin permission on all repos.
