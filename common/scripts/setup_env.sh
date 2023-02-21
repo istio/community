@@ -73,7 +73,7 @@ fi
 
 # Build image to use
 if [[ "${IMAGE_VERSION:-}" == "" ]]; then
-  IMAGE_VERSION=master-46ad7b879c152a59de6ac368ef435a2a8831eec0
+  IMAGE_VERSION=master-b4ef031602efc062d5bea2fc7b60dae17a203c9c
 fi
 if [[ "${IMAGE_NAME:-}" == "" ]]; then
   IMAGE_NAME=build-tools
