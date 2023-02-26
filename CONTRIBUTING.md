@@ -39,13 +39,13 @@ productivity and inter-personal interactions.
 ## Contributor license agreements
 
 We'd love to accept your contributions! But before we can take them, you will
-have
-to fill out the [Google CLA](https://cla.developers.google.com).
+have to fill out the [Contributor License Agreement](CLA.md).
 
-Once you are CLA'ed, we'll be able to accept your pull requests. This is
+Once you are covered by the CLA, we'll be able to accept your pull requests. This is
 necessary because you own the copyright to your changes, even after your
-contribution becomes part of this project. So this agreement simply gives Google
-permission to use and redistribute your contributions as part of the project.
+contribution becomes part of this project. This agreement gives the CNCF (and its parent
+the Linux Foundation) permission to use and redistribute your contributions as
+part of the project.
 
 ## Design documents
 
