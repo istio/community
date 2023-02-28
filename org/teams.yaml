@@ -297,6 +297,7 @@ teams:
       - eliavem
       - ericvn
       - GregHanson
+      - hanxiaop
       - howardjohn
       - irisdingbj
       - jacob-delgado
@@ -420,6 +421,12 @@ teams:
         description: Release managers for Istio 1.17
         members:
         - johnma14
+        - ksubrmnn
+        - pmerrison
+      Release Managers - 1.18:
+        description: Release managers for Istio 1.18
+        members:
+        - hanxiaop
         - ksubrmnn
         - pmerrison
   Repo Admins:
