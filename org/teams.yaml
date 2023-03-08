@@ -17,7 +17,6 @@ teams:
       - andream12345
       - aryan16
       - bianpengyuan
-      - chaodaig
       - chases2
       - cjwagner
       - costinm
@@ -81,7 +80,6 @@ teams:
       Operations Maintainers:
         description: Maintainers of Operations.
         members:
-          - chaodaig
           - chases2
           - cjwagner
           - listx
