@@ -82,7 +82,9 @@ teams:
         members:
           - chases2
           - cjwagner
+          - howardjohn
           - listx
+          - stewartbutler
         repos:
           test-infra: write
       WG - Config Maintainers:
