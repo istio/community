@@ -276,6 +276,7 @@ teams:
         description: Maintainers for the User Experience working group.
         members:
           - esnible
+          - GregHanson
           - hanxiaop
           - irisdingbj
           - nmittler
