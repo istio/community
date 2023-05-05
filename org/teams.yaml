@@ -203,6 +203,12 @@ teams:
               - hzxuzhonghu
               - ramaraochavali
               - stevenctl
+          WG - Networking Maintainers/Ztunnel:
+            description: Maintainers of Ztunnel.
+            members:
+              - howardjohn
+              - hzxuzhonghu
+              - stevenctl
       WG - Policies and Telemetry  Maintainers:
         description: Maintainers for the Policy and Telemetry working group.
         members:
