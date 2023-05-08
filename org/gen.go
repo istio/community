@@ -85,26 +85,50 @@ func keep(list []string, keep []string) []string {
 	return res
 }
 
-var repos = map[string]github.RepoPermissionLevel{
-	"api":             github.Triage,
-	"bots":            github.Triage,
-	"client-go":       github.Triage,
-	"cni":             github.Triage,
-	"common-files":    github.Triage,
-	"cri":             github.Triage,
-	"enhancements":    github.Triage,
-	"envoy":           github.Triage,
-	"gogo-genproto":   github.Triage,
-	"installer":       github.Triage,
-	"istio":           github.Triage,
-	"istio.io":        github.Triage,
-	"operator":        github.Triage,
-	"pkg":             github.Triage,
-	"proxy":           github.Triage,
-	"release-builder": github.Triage,
-	"test-infra":      github.Triage,
-	"tools":           github.Triage,
-	"ztunnel":         github.Triage,
+const defaultRepo = ".default"
+
+func defaultRepos(cur map[string]github.RepoPermissionLevel) map[string]github.RepoPermissionLevel {
+	def, df := cur[defaultRepo]
+	if !df {
+		// Default to none
+		def = github.None
+	}
+	res := map[string]github.RepoPermissionLevel{
+		"api":             def,
+		"bots":            def,
+		"client-go":       def,
+		"cni":             def,
+		"common-files":    def,
+		"community":       def,
+		"cri":             def,
+		"enhancements":    def,
+		"envoy":           def,
+		"gogo-genproto":   def,
+		"installer":       def,
+		"istio":           def,
+		"istio.io":        def,
+		"operator":        def,
+		"pkg":             def,
+		"proxy":           def,
+		"release-builder": def,
+		"test-infra":      def,
+		"tools":           def,
+		"ztunnel":         def,
+	}
+	// Allow per-repo overrides
+	for k, v := range cur {
+		if k == defaultRepo {
+			continue
+		}
+		res[k] = v
+	}
+	// Remove "none" entries; we will just not give any permission for this case
+	for k, v := range res {
+		if v == github.None {
+			delete(res, k)
+		}
+	}
+	return res
 }
 
 func strPointer(s string) *string {
@@ -148,9 +172,7 @@ func normalizeTeam(t org.Team, admins []string) org.Team {
 	closed := org.Closed
 	t.Maintainers = keep(t.Members, admins)
 	t.Members = drop(t.Members, admins)
-	if t.Repos == nil {
-		t.Repos = repos
-	}
+	t.Repos = defaultRepos(t.Repos)
 	if t.Privacy == nil {
 		t.Privacy = &closed
 	}
