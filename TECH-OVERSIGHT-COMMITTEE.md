@@ -5,6 +5,7 @@ The Istio Technical Oversight Committee (TOC) is responsible for cross-cutting p
 * [Charter](#charter)
 * [Committee mechanics](#committee-mechanics)
 * [Committee meetings](#committee-meetings)
+* [Selection and eligibility](#selection-and-eligibility)
 * [Committee members](#committee-members)
 * [Getting in touch](#getting-in-touch)
 
@@ -54,9 +55,19 @@ on the [working group calendar](WORKING-GROUPS.md#working-group-meetings); pleas
 Community members are encouraged to suggest topics for discussion ahead of the TOC meetings, and are invited
 to observe these meetings and engage with the TOC. To suggest a topic, add it to the [agenda](https://docs.google.com/document/d/13lxJqtlaQhmV2EwsNnS6h-_O4pobZQZuMjrzOeMgVI0/edit#heading=h.ipnfbx7g04vg).
 
+## Selection and eligibility
+
+Because the group is expected to form, and operate by consensus, there are an even number of seats.
+
+Membership in the TOC is determined by a majority vote of the [Steering Committee](./steering/README.md).
+
+While Steering seats are allocated to companies, TOC seats are allocated to individuals, and remain with a person if that person moves to a new employer.
+
+In the event of a vacancy on the TOC, the Steering Committee will solicit candidates for election from the eligible candidates. Eligible candidates are those who have been a [Working Group lead](ROLES.md/#lead) for at least 3 months.
+
 ## Committee members
 
-The members of the TOC are shown below. Membership in the TOC is determined by the [Steering Committee](./steering/README.md).
+The members of the TOC are shown below. 
 
 &nbsp; | Name | Company
 ---|---|---
