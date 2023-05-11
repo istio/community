@@ -12,8 +12,8 @@ Committee.
 contributors, vendors, and users.
 1. Defining, evolving, and defending a
 [Code of Conduct](../CONTRIBUTING.md#code-of-conduct).
-1. Advising the Open Usage Commons on issues relating to the Istio trademark and
-logo, as well as related conformance programs.
+1. Advising the Cloud Native Computing Foundation (CNCF) on issues relating 
+to the Istio trademark and logo, as well as related conformance programs.
 1. Setting marketing and advocacy direction for the project; establishing a
 publishing schedule and vetting content, encouraging and assisting community
 members in creating content for conferences, fostering an ecosystem of vendors.
