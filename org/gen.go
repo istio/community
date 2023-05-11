@@ -147,6 +147,9 @@ func convertConfig(cfg Organization) org.FullConfig {
 			Privacy:     &closed,
 		},
 		Members: cfg.Members,
+		Repos: map[string]github.RepoPermissionLevel{
+			defaultRepo: github.Triage,
+		},
 	}
 
 	istio := org.Config{
