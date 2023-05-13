@@ -73,9 +73,7 @@ teams:
       - zhlsunshine
       - zirain
     repos:
-        api: write
-        enhancements: write
-        istio: write
+        .default: write
     teams:
       Operations Maintainers:
         description: Maintainers of Operations.
@@ -85,8 +83,6 @@ teams:
           - howardjohn
           - listx
           - stewartbutler
-        repos:
-          test-infra: write
       WG - Config Maintainers:
         description: Maintainers for the Config working group.
         members:
@@ -108,9 +104,6 @@ teams:
           - windsonsea
           - Xunzhuo
           - zirain
-        repos:
-          istio.io: write
-          tools: write
         teams:
           WG - Docs  Maintainers/English:
             description: Maintainers of the English documentation.
@@ -167,9 +160,6 @@ teams:
           - richardwxn
           - stevenctl
           - zirain
-        repos:
-          installer: write
-          operator: write
       WG - Networking Maintainers:
         description: Maintainers for the Networking working group
         members:
@@ -189,11 +179,6 @@ teams:
           - nrjpoddar
           - ramaraochavali
           - stevenctl
-        repos:
-          cni: write
-          envoy: write
-          go-control-plane: write
-          proxy: write
         teams:
           WG - Networking Maintainers/Pilot:
             description: Maintainers of particular parts of Pilot.
@@ -216,8 +201,6 @@ teams:
           - kyessenov
           - lei-tang
           - zirain
-        repos:
-          proxy: write
       WG - Product Security Maintainers:
         description: Maintainers for the Product Security working group.
         members:
@@ -234,10 +217,6 @@ teams:
           - linsun
           - nrjpoddar
           - shankgan
-        repos:
-          envoy: write
-          istio: write
-          proxy: write
       WG - Security Maintainers:
         description: Maintainers for the Security working group
         members:
@@ -270,18 +249,6 @@ teams:
           - stevenctl
           - stewartbutler
           - therealmitchconnors
-        repos:
-          api: write
-          bots: write
-          bottestrepo: write
-          common-files: write
-          distroless: write
-          gogo-genproto: write
-          istio.io: write
-          pkg: write
-          release-builder: write
-          test-infra: write
-          tools: write
       WG - User Experience Maintainers:
         description: Maintainers for the User Experience working group.
         members:
@@ -292,9 +259,6 @@ teams:
           - nmittler
           - therealmitchconnors
           - zhlsunshine
-        repos:
-          client-go: write
-          get-istioctl: write
   Release Managers:
     description: Current set of release managers.
     members:
@@ -327,25 +291,7 @@ teams:
       - zhlsunshine
       - ZiyangXiao
     repos:
-      api: write
-      bots: write
-      client-go: write
-      common-files: write
-      cni: write
-      cri: write
-      enhancements: write
-      envoy: write
-      gogo-genproto: write
-      installer: write
-      istio: write
-      istio.io: write
-      operator: write
-      pkg: write
-      proxy: write
-      release-builder: write
-      test-infra: write
-      tools: write
-      ztunnel: write
+      .default: write
     teams:
       Release Managers - 1.3:
         description: Release managers for Istio 1.3
@@ -449,27 +395,7 @@ teams:
       - nrjpoddar
       - therealmitchconnors
     repos:
-      api: admin
-      bots: admin
-      client-go: admin
-      cni: admin
-      common-files: admin
-      community: admin
-      cri: admin
-      enhancements: admin
-      envoy: admin
-      fortio-deployment: admin
-      gogo-genproto: admin
-      installer: admin
-      istio: admin
-      istio.io: admin
-      operator: admin
-      pkg: admin
-      proxy: admin
-      release-builder: admin
-      test-infra: admin
-      tools: admin
-      ztunnel: admin
+      .default: admin
   Steering Committee:
     description: members of Istio Steering Committee
     members:
@@ -487,26 +413,7 @@ teams:
       - thisisnotapril
       - zirain
     repos:
-      api: write
-      bots: write
-      client-go: write
-      cni: write
-      common-files: write
-      community: write
-      cri: write
-      enhancements: write
-      envoy: write
-      gogo-genproto: write
-      installer: write
-      istio: write
-      istio.io: write
-      operator: write
-      pkg: write
-      proxy: write
-      release-builder: write
-      test-infra: write
-      tools: write
-      ztunnel: write
+      .default: write
   Technical Oversight Committee:
     description: Members of the Istio TOC.
     members:
@@ -516,43 +423,13 @@ teams:
       - louiscryan
       - nrjpoddar
     repos:
-      api: write
-      bots: write
-      client-go: write
-      cni: write
-      common-files: write
-      community: write
-      cri: write
-      enhancements: write
-      envoy: write
-      gogo-genproto: write
-      installer: write
-      istio: write
-      istio.io: write
-      operator: write
-      pkg: write
-      proxy: write
-      release-builder: write
-      test-infra: write
-      ztunnel: write
+      .default: write
   Triagers:
     description: Folks that perform issue & pr triage.
     members:
       - SkyfireFrancisZ
     repos:
-      api: none
-      bots: none
-      client-go: none
-      cni: none
-      cri: none
-      envoy: none
-      installer: none
-      istio: none
-      istio.io: none
-      operator: none
-      pkg: none
-      proxy: none
-      tools: none
+      .default: none # Not sure why this isn't "Triage"
   Working Group Leads:
     description: Working group leads - for easy communication in github
     members:
