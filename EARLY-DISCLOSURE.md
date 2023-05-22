@@ -82,7 +82,7 @@ criterion listed in [Membership criteria](#membership-criteria).
 Here is an example:
 
 ```
-To: istio-early-disclosure-requests@googlegroups.com
+To: istio-security-vulnerability-reports@googlegroups.com
 Subject: Seven-Corp Membership to Early Disclosure Mailing List
 
 Below are each criterion and why I think we, Seven-Corp, qualify.
