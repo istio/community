@@ -119,3 +119,6 @@ We are listed in the Envoy early disclosure membership program.
 > 7. Have a member of your organization be a participant in the Istio Product Security Working Group
 
 John/Jane Doe (Email: person@myorganization.com, Istio Slack username: person) will represent our company in the Istio Product Security Working Group.
+```
+
+Final approval is required from the Istio TOC pending a formal request from the PSWG.
