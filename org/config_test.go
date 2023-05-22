@@ -113,6 +113,9 @@ func TestConvertedOrg(t *testing.T) {
 	if diff := allLeads.Difference(allMaintainers); diff.Len() != 0 {
 		t.Errorf("leads not in maintainers: %v", diff.UnsortedList())
 	}
+	if diff := allMaintainers.Difference(childMaintainers); diff.Len() != 0 {
+		t.Errorf("top level maintainer not in any specific teams: %v", diff.UnsortedList())
+	}
 }
 
 func TestIstioOrg(t *testing.T) {
