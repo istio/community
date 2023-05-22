@@ -49,6 +49,7 @@ will be removed from the early disclosure list.
 | cve@solo.io | Solo.io |
 | istio-security@tetrate.io | Tetrate |
 | security@vmware.com | VMware |
+| kube-security@microsoft.com | Microsoft |
 
 ### Membership criteria
 
