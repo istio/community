@@ -74,7 +74,7 @@ after joining the list then you will be unsubscribed.
 
 ### Request to join
 
-New membership requests should be emailed to [istio-early-disclosure-requests@googlegroups.com](mailto:istio-early-disclosure-requests@googlegroups.com)
+New membership requests should be emailed to [istio-security-vulnerability-reports@googlegroups.com](mailto:istio-security-vulnerability-reports@googlegroups.com)
 
 In the body of your email please specify how you qualify and fulfill each
 criterion listed in [Membership criteria](#membership-criteria).
@@ -82,7 +82,7 @@ criterion listed in [Membership criteria](#membership-criteria).
 Here is an example:
 
 ```
-To: istio-early-disclosure-requests@googlegroups.com
+To: istio-security-vulnerability-reports@googlegroups.com
 Subject: Seven-Corp Membership to Early Disclosure Mailing List
 
 Below are each criterion and why I think we, Seven-Corp, qualify.
@@ -119,3 +119,6 @@ We are listed in the Envoy early disclosure membership program.
 > 7. Have a member of your organization be a participant in the Istio Product Security Working Group
 
 John/Jane Doe (Email: person@myorganization.com, Istio Slack username: person) will represent our company in the Istio Product Security Working Group.
+```
+
+Final approval is required from the Istio TOC pending a formal request from the PSWG.
