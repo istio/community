@@ -218,6 +218,7 @@ teams:
           - lgadban
           - linsun
           - nrjpoddar
+          - pmerrison
           - shankgan
       WG - Security Maintainers:
         description: Maintainers for the Security working group
