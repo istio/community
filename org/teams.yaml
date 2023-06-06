@@ -59,6 +59,7 @@ teams:
       - nmittler
       - nrjpoddar
       - ostromart
+      - pmerrison
       - ramaraochavali
       - rcernich
       - richardwxn
@@ -218,6 +219,7 @@ teams:
           - lgadban
           - linsun
           - nrjpoddar
+          - pmerrison
           - shankgan
       WG - Security Maintainers:
         description: Maintainers for the Security working group
