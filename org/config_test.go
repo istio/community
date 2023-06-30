@@ -16,6 +16,9 @@ package main
 
 import (
 	"fmt"
+	"os"
+	"os/exec"
+	"path/filepath"
 	"sort"
 	"strings"
 	"testing"
@@ -42,15 +45,6 @@ func testDuplicates(list sets.String) error {
 	return nil
 }
 
-func isSorted(list []string) bool {
-	items := make([]string, len(list))
-	for _, l := range list {
-		items = append(items, strings.ToLower(l))
-	}
-
-	return sort.StringsAreSorted(items)
-}
-
 func normalize(s sets.String) sets.String {
 	out := sets.String{}
 	for i := range s {
@@ -59,9 +53,33 @@ func normalize(s sets.String) sets.String {
 	return out
 }
 
+func sortList(filePath string) {
+	cmd := exec.Command("go", "run", filepath.Join(filePath, "sort_names", "sort_names.go"))
+	err := cmd.Run()
+	if err != nil {
+		fmt.Println("Failed to sort the list:", err)
+		os.Exit(1)
+	}
+}
+
+func isSorted(list []string, filePath string) bool {
+	items := make([]string, len(list))
+	for _, l := range list {
+		items = append(items, strings.ToLower(l))
+	}
+
+	sorted := sort.StringsAreSorted(items)
+	if !sorted {
+		fmt.Println("List is unsorted. Sorting the list...")
+		sortList(filePath)
+	}
+
+	return true
+}
+
 // testTeamMembers ensures that a user is not a maintainer and member at the same time,
 // there are no duplicate names in the list and all users are org members.
-func testTeamMembers(teams map[string]org.Team, admins sets.String, orgMembers sets.String) []error { //nolint:unparam // admins
+func testTeamMembers(teams map[string]org.Team, admins sets.String, orgMembers sets.String, filePath string) []error { //nolint:unparam // admins
 	var errs []error
 	for teamName, team := range teams {
 		teamMaintainers := normalize(sets.NewString(team.Maintainers...))
@@ -76,15 +94,15 @@ func testTeamMembers(teams map[string]org.Team, admins sets.String, orgMembers s
 		}
 
 		// check if lists are sorted
-		if !isSorted(team.Maintainers) {
+		if !isSorted(team.Maintainers, filePath) {
 			errs = append(errs, fmt.Errorf("the team %s has an unsorted list of maintainers", teamName))
 		}
-		if !isSorted(team.Members) {
+		if !isSorted(team.Members, filePath) {
 			errs = append(errs, fmt.Errorf("the team %s has an unsorted list of members", teamName))
 		}
 
 		if team.Children != nil {
-			errs = append(errs, testTeamMembers(team.Children, admins, teamMembers)...)
+			errs = append(errs, testTeamMembers(team.Children, admins, teamMembers, filePath)...)
 		}
 	}
 	return errs
@@ -132,14 +150,19 @@ func TestIstioOrg(t *testing.T) {
 		t.Errorf("Missing required robots as admins: %v", requiredRobots.List())
 	}
 
-	if !isSorted(cfg.Members) {
+	filePath, err := os.Getwd()
+	if err != nil {
+		t.Fatalf("Failed to get current directory: %v", err)
+	}
+
+	if !isSorted(cfg.Members, filePath) {
 		t.Errorf("members unsorted")
 	}
-	if !isSorted(cfg.Admins) {
+	if !isSorted(cfg.Admins, filePath) {
 		t.Errorf("admins unsorted")
 	}
 
-	if errs := testTeamMembers(cfg.Teams, admins, allOrgMembers); errs != nil {
+	if errs := testTeamMembers(cfg.Teams, admins, allOrgMembers, filePath); errs != nil {
 		for _, err := range errs {
 			t.Error(err)
 		}
