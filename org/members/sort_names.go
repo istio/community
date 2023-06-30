@@ -2,8 +2,10 @@ package main
 
 import (
 	"fmt"
+	"io/ioutil"
 	"log"
 	"os"
+	"path/filepath"
 	"sort"
 	"strings"
 
@@ -15,8 +17,17 @@ type Data struct {
 }
 
 func main() {
+	// Get the current directory
+	currentDir, err := os.Getwd()
+	if err != nil {
+		log.Fatalf("Failed to get current directory: %v", err)
+	}
+
+	// Define the path to the members.yaml file
+	membersFilePath := filepath.Join(currentDir, "tempname.yaml")
+
 	// Read the YAML file
-	yamlFile, err := os.ReadFile("members.yaml")
+	yamlFile, err := ioutil.ReadFile(membersFilePath)
 	if err != nil {
 		log.Fatalf("Failed to read YAML file: %v", err)
 	}
@@ -40,10 +51,19 @@ func main() {
 	}
 
 	// Write the updated data back to the YAML file
-	err = os.WriteFile("members.yaml", updatedYAML, 0644)
+	err = ioutil.WriteFile(membersFilePath, updatedYAML, 0644)
 	if err != nil {
 		log.Fatalf("Failed to write YAML file: %v", err)
 	}
 
+	// Create a copy of members.yaml in the parent directory
+	parentDir := filepath.Dir(currentDir)
+	copyFilePath := filepath.Join(parentDir, "members.yaml")
+	err = ioutil.WriteFile(copyFilePath, updatedYAML, 0644)
+	if err != nil {
+		log.Fatalf("Failed to create a copy of members.yaml: %v", err)
+	}
+
 	fmt.Println("Names sorted successfully!")
 }
+
