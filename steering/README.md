@@ -16,7 +16,7 @@ See [CHARTER.md](CHARTER.md).
 | | Rob Cernich | Red Hat | [rcernich](https://github.com/rcernich) | Contribution seat
 <img width="30px" src="https://events.istio.io/istiocon-2021/images/speakers/iris-ding.jpg"> | Iris (Shaojun) Ding | Intel | [irisdingbj](https://github.com/irisdingbj) | Community seat
 <img width="30px" src="https://avatars.githubusercontent.com/u/7274813?v=4">  | Cameron Etezadi | Google | [cetezadi](https://github.com/cetezadi) | Contribution seat
-| | Jianpeng He | Huawei | [zirain](https://github.com/zirain) | Contribution seat
+<img width="30px" src="https://avatars.githubusercontent.com/u/6693601?v=4">  | Chaomeng Zhang | Huawei | [idouba](https://github.com/idouba) | Contribution seat
 <img width="30px" src="https://avatars.githubusercontent.com/u/623453?v=4"> | John Howard | Google | [howardjohn](https://github.com/howardjohn) | Contribution seat
 <img width="30px" src="https://avatars.githubusercontent.com/u/7901446?v=4"> | Faseela K | Ericsson Software Technology | [kfaseela](https://github.com/kfaseela) | Community seat
 <img width="30px" src="https://avatars.githubusercontent.com/u/8482383?v=4"> | April Kyle Nassi | Google | [thisisnotapril](https://github.com/thisisnotapril) | Contribution seat
