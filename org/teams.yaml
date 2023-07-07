@@ -23,6 +23,7 @@ teams:
       - craigbox
       - davidhauck
       - dgn
+      - dhawton
       - didier-grelin
       - ericvn
       - esnible
@@ -94,6 +95,7 @@ teams:
         members:
           - craigbox
           - davidhauck
+          - dhawton
           - ericvn
           - frankbu
           - kebe7jun
@@ -111,6 +113,7 @@ teams:
             description: Maintainers of the English documentation.
             members:
               - craigbox
+              - dhawton
               - ericvn
               - frankbu
               - kfaseela
