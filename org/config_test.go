@@ -21,26 +21,10 @@ import (
 	"testing"
 
 	"k8s.io/apimachinery/pkg/util/sets"
-	"k8s.io/test-infra/prow/config/org"
-	"k8s.io/test-infra/prow/github"
-)
 
-// nolint:unused
-func testDuplicates(list sets.String) error {
-	found := sets.String{}
-	dups := sets.String{}
-	all := list.List()
-	for _, i := range all {
-		if found.Has(i) {
-			dups.Insert(i)
-		}
-		found.Insert(i)
-	}
-	if n := len(dups); n > 0 {
-		return fmt.Errorf("%d duplicate names: %s", n, strings.Join(dups.List(), ", "))
-	}
-	return nil
-}
+	"istio.io/tools/pkg/orggen"
+	"istio.io/tools/pkg/orggen/org"
+)
 
 func isSorted(list []string) bool {
 	items := make([]string, len(list))
@@ -54,9 +38,14 @@ func isSorted(list []string) bool {
 func normalize(s sets.String) sets.String {
 	out := sets.String{}
 	for i := range s {
-		out.Insert(github.NormLogin(i))
+		out.Insert(NormLogin(i))
 	}
 	return out
+}
+
+// NormLogin normalizes GitHub login strings
+func NormLogin(login string) string {
+	return strings.TrimPrefix(strings.ToLower(login), "@")
 }
 
 // testTeamMembers ensures that a user is not a maintainer and member at the same time,
@@ -91,11 +80,11 @@ func testTeamMembers(teams map[string]org.Team, admins sets.String, orgMembers s
 }
 
 func TestConvertedOrg(t *testing.T) {
-	cfg, err := readConfig(".")
+	cfg, err := orggen.ReadConfig(".")
 	if err != nil {
 		t.Fatal(err)
 	}
-	org := convertConfig(cfg).Orgs["istio"]
+	org := orggen.ConvertConfig(cfg).Orgs["istio"]
 	maintainers := org.Teams["Maintainers"]
 	leads := org.Teams["Working Group Leads"]
 	allLeads := sets.NewString(leads.Members...)
@@ -119,7 +108,7 @@ func TestConvertedOrg(t *testing.T) {
 }
 
 func TestIstioOrg(t *testing.T) {
-	cfg, err := readConfig(".")
+	cfg, err := orggen.ReadConfig(".")
 	if err != nil {
 		t.Fatal(err)
 	}
