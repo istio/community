@@ -439,6 +439,7 @@ teams:
       - linsun
       - louiscryan
       - nrjpoddar
+      - therealmitchconnors
     repos:
       .default: write
   Triagers:
