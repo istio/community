@@ -27,11 +27,11 @@ See [CHARTER.md](CHARTER.md).
 
 ## Contribution Seats
 
-For February 2022 to January 2023, the nine Contribution Seats were [allocated](https://docs.google.com/spreadsheets/d/187LDk96ggccHa_IBBGLEHYEBmR5eidsEQUDy2nE9kxo/edit#gid=0) per the [agreed formula and process](CONTRIBUTION-FORMULA.md).
+For February 2023 to January 2024, the nine Contribution Seats were [allocated](https://docs.google.com/spreadsheets/d/187LDk96ggccHa_IBBGLEHYEBmR5eidsEQUDy2nE9kxo/edit#gid=0) per the [agreed formula and process](CONTRIBUTION-FORMULA.md).
 
 ## Elections
 
-Every year, four members of the Steering Committee are voted on by the community.  Check out the [2022 election guide](elections/2022/).
+Every year, four members of the Steering Committee are voted on by the community.  Check out the [2023 election guide](elections/2023/).
 
 ## Meetings
 
