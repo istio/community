@@ -27,7 +27,7 @@ See [CHARTER.md](CHARTER.md).
 
 ## Contribution Seats
 
-For February 2023 to January 2024, the nine Contribution Seats were [allocated](https://docs.google.com/spreadsheets/d/187LDk96ggccHa_IBBGLEHYEBmR5eidsEQUDy2nE9kxo/edit#gid=0) per the [agreed formula and process](CONTRIBUTION-FORMULA.md).
+For February 2023 to January 2024, the nine Contribution Seats were [allocated](https://docs.google.com/spreadsheets/d/1IIms6OT1DgJ_lbn5433sy5wvqNBIIQgQHoWZvpShSXk/edit#gid=1365082320) per the [agreed formula and process](CONTRIBUTION-FORMULA.md).
 
 ## Elections
 
