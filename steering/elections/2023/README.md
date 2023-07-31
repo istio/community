@@ -50,7 +50,7 @@ Eligibility to vote is defined in the [Steering Committee charter](../../CHARTER
 - a project member who has had at least one Pull Request merged in the past 12 months, or
 - someone who has submitted the [voting exception form](https://forms.gle/2WmEsUbAQMz7QnwR6) and has been accepted by the steering committee as having standing in the community.
 
-Elections will be held using [Elekto](https://elekto.io/), an online voting tool
+Elections will be held using [Elekto](https://elekto.dev/), an online voting tool
 created for the CNCF. Elekto has one critical advantage over CIVS, which is that
 it uses GitHub OAuth to log you in to vote, instead of relying on email.
 
