@@ -1,7 +1,7 @@
 # 2023 Steering Committee Election
 ##################################
 #
-# The process for determining elegible voters can be found in
+# The process for determining eligible voters can be found in
 # https://github.com/istio/community/tree/master/steering/elections/2023
 #
 # If you feel you have standing in the Istio community but are not listed here, 
@@ -16,18 +16,18 @@
 #   https://docs.google.com/spreadsheets/d/1dGGkrwXoZMVoV3kBoBDofcUYYbM9ouwnPgcZgSBLPlY/edit#gid=977915417
 #
 eligible_voters:
-- 12345xxx
+- 12345XXX
 - aakash2017
 - abasitt
-- adamkorcz
+- AdamKorcz
 - adiprerepa
-- adityayxt
+- Adityayxt
 - aimuz
 - akshayjnambiar
 - ameer00
 - andream12345
 - antonioberben
-- arhell
+- Arhell
 - aryan16
 - asa3311
 - astronaut0131
@@ -38,7 +38,7 @@ eligible_voters:
 - cetezadi
 - charles-chenzz
 - chaunceyjiang
-- chen-xintong
+- Chen-Xintong
 - christian-posta
 - cjwagner
 - cnvergence
@@ -53,15 +53,15 @@ eligible_voters:
 - dhawton
 - douglas-reid
 - ebinbabu
-- eitanya
+- EItanya
 - ericvn
-- fangtingyan
+- FangtingYan
 - fatedier
 - fengshunli
-- fish-pro
+- Fish-pro
 - frankbu
 - giantcroc
-- greghanson
+- GregHanson
 - gssjl2008
 - haiyuewa
 - hanxiaop
@@ -78,7 +78,7 @@ eligible_voters:
 - irisdingbj
 - jacob-delgado
 - jaellio
-- jarhmj
+- JarHMJ
 - jewertow
 - jiecloud
 - jiuker
@@ -98,7 +98,7 @@ eligible_voters:
 - keithmattix
 - kfaseela
 - kfreez
-- kmoneal
+- Kmoneal
 - krapie
 - krisztianfekete
 - ksubrmnn
@@ -113,30 +113,30 @@ eligible_voters:
 - louiscryan
 - maxbischoff
 - miaoyq
-- monkeyanator
-- morrislaw
+- Monkeyanator
+- MorrisLaw
 - my-git9
 - myshkin5
-- nameyuli
+- nameYULI
 - nicksors
 - nicole-lihui
-- niuyinlong1994
+- NiuYinlong1994
 - nmittler
 - nmnellis
 - nrjpoddar
 - nshankar13
 - obaranov1
-- pawan-bishnoi
-- penguin-zlh
+- Pawan-Bishnoi
+- Penguin-zlh
 - peterj
-- petrmc
+- PetrMc
 - phillipgibson
 - pinxiong
-- piotrsikora
-- platformlc
+- PiotrSikora
+- PlatformLC
 - pmerrison
 - qfel
-- rachaelluo
+- RachaelLuo
 - ramaraochavali
 - rcernich
 - richardwxn
@@ -153,15 +153,15 @@ eligible_voters:
 - shankgan
 - shashankram
 - shonecyx
-- skyfirefrancisz
-- songjoy
-- specialyang
-- srodi
+- SkyfireFrancisZ
+- Songjoy
+- SpecialYang
+- SRodi
 - sschepens
 - stevenctl
-- stevenjin8
+- Stevenjin8
 - stewartbutler
-- tanberbro
+- tanberBro
 - tangming1996
 - tanjunchen
 - therealmitchconnors
@@ -178,28 +178,28 @@ eligible_voters:
 - wzshiming
 - xiaomudk
 - xichengliudui
-- xieql
-- xunzhuo
+- Xieql
+- Xunzhuo
 - yanggangtony
 - yankay
 - yanrongshi
-- ydfu
+- ydFu
 - yeedove
 - yingzhuivy
 - yitingdc
 - ymesika
-- yonkafang
+- YonkaFang
 - youhonglian
 - yskopets
 - yulng
 - yxxhero
-- zackbutcher
+- ZackButcher
 - zengyuxing007
 - zhanghw0354
 - zhaohuabing
-- zhengzheyang
+- ZhengzheYang
 - zhlsunshine
-- zhuzhenghao
+- Zhuzhenghao
 - zirain
-- ziyangxiao
+- ZiyangXiao
 - zufardhiyaulhaq
