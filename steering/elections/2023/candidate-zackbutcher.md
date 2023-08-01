@@ -1,6 +1,6 @@
 -------------------------------------------------------------
 name: Zack Butcher
-ID: ZackButcher
+ID: zackbutcher
 info:
   - employer: Tetrate
   - slack: ZackButcher
