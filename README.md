@@ -41,7 +41,7 @@ by teams from Google and IBM, in partnership with the Envoy team at Lyft.
 ## Community meeting
 
 We have public, [recorded](https://www.youtube.com/channel/UC-zVlo1F3mUbExQ96fABWcQ), community meetings.
-They happen on the fourth Thursday of every month at 10am US/Pacific. [Map that to your local time](https://www.google.com/search?q=1000+am+in+pst&hl=en).
+They happen on the fourth Thursday of every month at 10am US/Pacific. [Map that to your local time](https://www.google.com/search?q=1000+am+pst&hl=en).
 
 [Join this group](https://groups.google.com/forum/#!forum/istio-community-video-meetings)
 to have the meetings automatically added to your calendar.
