@@ -402,6 +402,11 @@ teams:
         - aryan16
         - hanxiaop
         - ksubrmnn
+      Release Managers - 1.20:
+        description: Release managers for Istio 1.20
+        members:
+        - aryan16
+        - hanxiaop
   Repo Admins:
     description: Folks with admin permission on all repos.
     members:
