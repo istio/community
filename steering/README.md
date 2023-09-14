@@ -21,8 +21,8 @@ See [CHARTER.md](CHARTER.md).
 <img width="30px" src="https://avatars.githubusercontent.com/u/7901446?v=4"> | Faseela K | Ericsson Software Technology | [kfaseela](https://github.com/kfaseela) | Community seat
 <img width="30px" src="https://avatars.githubusercontent.com/u/8482383?v=4"> | April Kyle Nassi | Google | [thisisnotapril](https://github.com/thisisnotapril) | Contribution seat
 <img width="30px" src="https://avatars.githubusercontent.com/u/915822?v=4"> | Justin Pettit | Google | [justinpettit](https://github.com/justinpettit) | Contribution seat
-<img width="30px" src="https://avatars.githubusercontent.com/u/53201?v=4"> | Christian Posta | Solo.io | [christian-posta](https://github.com/christian-posta) | Community seat
 <img width="30px" src="https://avatars.githubusercontent.com/u/18684814?v=4"> | Cale Rath | IBM | [ctrath](https://github.com/ctrath) | Contribution seat
+<img width="30px" src="https://avatars.githubusercontent.com/u/1588319?v=4"> | Lin Sun | Solo.io | [linsun](https://github.com/linsun) | Community seat
 <img width="30px" src="https://avatars.githubusercontent.com/u/13374016?v=4"> | Zhonghu Xu | Huawei | [hzxuzhonghu](https://github.com/hzxuzhonghu) | Contribution seat
 
 ## Contribution Seats
