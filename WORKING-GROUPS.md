@@ -65,17 +65,17 @@ Each working group has one or more leads which coordinate the activities of the 
 &nbsp;                                                                               | [Rama Chavali](https://github.com/ramaraochavali)  | Salesforce | Networking - Control Plane
 <img width="30px" src="https://avatars3.githubusercontent.com/u/821270?s=80&v=4">    | [Mitch Connors](https://github.com/therealmitchconnors) | Aviatrix  | User Experience
 <img width="30px" src="https://avatars3.githubusercontent.com/u/38300436?s=400&v=4"> | [Jacob Delgado](https://github.com/jacob-delgado)  | Aspen Mesh | Product Security, Environments
-<img width="30px" src="https://avatars1.githubusercontent.com/u/623453?s=400&v=4">   | [John Howard](https://github.com/howardjohn)       | Google     | Networking
-&nbsp;                                                                               | [Steven Landow](https://github.com/stevenctl)      | Solo.io    | Networking - Control Plane
-&nbsp;                                                                               | [Lei Tang](https://github.com/lei-tang)            | Google     | Security, Product Security, Extensions and Telemetry
-&nbsp;                                                                               | [Shankar Ganesan](https://github.com/shankgan)     | Google     | Product Security
-&nbsp;                                                                               | [Costin Manolache](https://github.com/costinm)     | Google     | Environments
-&nbsp;                                                                               | [Sam Naser](https://github.com/monkeyanator)       | Google     | Environments
-<img width="30px" src="https://avatars3.githubusercontent.com/u/3237651?s=400&v=4">  | [Ed Snible](https://github.com/esnible)            | IBM        | User Experience
-<img width="30px" src="https://avatars1.githubusercontent.com/u/10537847?s=400&v=4"> | [Eric Van Norman](https://github.com/ericvn)       | IBM        | Test and Release
-<img width="30px" src="https://avatars0.githubusercontent.com/u/1016047?s=400&v=4">  | [Lizan Zhou](https://github.com/lizan)             | Tetrate    | Networking - Data Plane, Security
 <img width="30px" src="https://avatars.githubusercontent.com/u/19473391?s=400&v=4">  | [Greg Hanson](https://github.com/GregHanson)       | Solo.io     | Product Security
 &nbsp;                                                                               | [Jianpeng He](https://github.com/zirain)           | Tetrate     | Extensions and Telemetry
+<img width="30px" src="https://avatars1.githubusercontent.com/u/623453?s=400&v=4">   | [John Howard](https://github.com/howardjohn)       | Google     | Networking
+&nbsp;                                                                               | [Steven Landow](https://github.com/stevenctl)      | Solo.io    | Networking - Control Plane
+&nbsp;                                                                               | [Costin Manolache](https://github.com/costinm)     | Google     | Environments
+&nbsp;                                                                               | [Sam Naser](https://github.com/monkeyanator)       | Google     | Environments
+&nbsp;                                                                               | [Justin Pettit](https://github.com/justinpettit)   | Google     | Product Security
+<img width="30px" src="https://avatars3.githubusercontent.com/u/3237651?s=400&v=4">  | [Ed Snible](https://github.com/esnible)            | IBM        | User Experience
+&nbsp;                                                                               | [Lei Tang](https://github.com/lei-tang)            | Google     | Security, Extensions and Telemetry
+<img width="30px" src="https://avatars1.githubusercontent.com/u/10537847?s=400&v=4"> | [Eric Van Norman](https://github.com/ericvn)       | IBM        | Test and Release
+<img width="30px" src="https://avatars0.githubusercontent.com/u/1016047?s=400&v=4">  | [Lizan Zhou](https://github.com/lizan)             | Tetrate    | Networking - Data Plane, Security
 ## Getting in touch
 
 If you'd like to reach out to the working group leads, please drop a note to [wg-leads@discuss.istio.io](mailto:wg-leads@discuss.istio.io).
