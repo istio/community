@@ -19,8 +19,6 @@ Anybody can access the drive for reading and commenting. To get access simply jo
 Once you've done that, head to the [Community Drive](https://drive.google.com/drive/folders/0ADmbrU7ueGOUUk9PVA) and
 behold all the docs.
 
-Currently all working groups share a weekly meeting, on Wednesdays at 9:00 AM PST.  The meeting can be joined with [this](meet.google.com/qza-pfbq-wne) link, and the notes can be found [here](https://docs.google.com/document/d/1wsa06GGiq1LEGwhkiPP0FKIZJqdAiue-VeBonWAzAyk/edit).  We also have a special meeting for working on Ambient Mesh, Wednesdays at 10:00 AM PST, which you can [join](https://meet.google.com/isd-coss-xon?hs=122&authuser=1) and [read](https://docs.google.com/document/d/1SMlwliEnthgq7r2PjpLl1kCq3t8rAMbgu6r_lDAXJ0w/edit#heading=h.o8pz6aqnzzgk) about.
-
 The current working groups are:
 
 | Group | Design Docs | Discussion Forum | Slack Channel | Description
@@ -40,7 +38,11 @@ To join Istio's Slack workspace, please use [this link](https://slack.istio.io/)
 
 ## Working group meetings
 
-There is a weekly combined workgroup meeting. The meetings are open to anyone interested, so please join us. Here are pointers to the [Google Doc](https://docs.google.com/document/d/1wsa06GGiq1LEGwhkiPP0FKIZJqdAiue-VeBonWAzAyk/edit) as well as the [Hangouts Meet](https://docs.google.com/document/d/1wsa06GGiq1LEGwhkiPP0FKIZJqdAiue-VeBonWAzAyk/edit) for the combined workgroup meeting.
+Currently all working groups share a weekly meeting, on Wednesdays at 9:00 AM PST. The meetings are open to anyone interested,
+so please join us. The meeting can be joined with [this](meet.google.com/qza-pfbq-wne) link, and the notes can be found
+[here](https://docs.google.com/document/d/1wsa06GGiq1LEGwhkiPP0FKIZJqdAiue-VeBonWAzAyk/edit). We also have a special meeting
+for working on Ambient Mesh, on Wednesdays at 10:00 AM PST, which you can [join](https://meet.google.com/isd-coss-xon?hs=122&authuser=1)
+and [read](https://docs.google.com/document/d/1SMlwliEnthgq7r2PjpLl1kCq3t8rAMbgu6r_lDAXJ0w/edit#heading=h.o8pz6aqnzzgk) about.
 
 There's a number of ways to track the
 meeting schedule:
