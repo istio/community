@@ -19,18 +19,20 @@ Anybody can access the drive for reading and commenting. To get access simply jo
 Once you've done that, head to the [Community Drive](https://drive.google.com/drive/folders/0ADmbrU7ueGOUUk9PVA) and
 behold all the docs.
 
+Currently all working groups share a weekly meeting, on Wednesdays at 9:00 AM PST.  The meeting can be joined with [this](meet.google.com/qza-pfbq-wne) link, and the notes can be found [here](https://docs.google.com/document/d/1wsa06GGiq1LEGwhkiPP0FKIZJqdAiue-VeBonWAzAyk/edit).  We also have a special meeting for working on Ambient Mesh, Wednesdays at 10:00 AM PST, which you can [join](https://meet.google.com/isd-coss-xon?hs=122&authuser=1) and [read](https://docs.google.com/document/d/1SMlwliEnthgq7r2PjpLl1kCq3t8rAMbgu6r_lDAXJ0w/edit#heading=h.o8pz6aqnzzgk) about.
+
 The current working groups are:
 
-| Group | Design Docs | Discussion Forum | Slack Channel | Meeting Notes | Meeting Link | Meeting Recordings | Description
-|-------|-------------|-------|-------|---------------|--------------|--------------------|------------
-| Docs | [Folder](https://drive.google.com/drive/folders/16Alb6m30ypLbz3iVv2OTjpqUHO8NJIUv) | [Forum](https://discuss.istio.io/c/contributors/docs) | [#docs](https://istio.slack.com/messages/C50V5EATT/) | [Notes](https://docs.google.com/document/d/1RGb0NOp0J9QSIrMrZ6wokl16RbSfKHy-6NyTpOQdPa8/edit#heading=h.xjlp01fjb1kv) | [Hangouts Meet](https://meet.google.com/tfn-mmct-ped?hs=122) | n/a | User docs, information architecture, istio.io infrastructure
-| Environments | [Folder](https://drive.google.com/drive/folders/16P5sCnSzEk204LHBKYTkC9jEmgzBJy6x) | [Forum](https://discuss.istio.io/c/environment) | [#environments](https://istio.slack.com/messages/C6KA8TTSS/) | [Notes](https://docs.google.com/document/d/1Ot9AeoiNYnI3fbQrq3w_-cyGxOqS8AD0RChkQfVxyhs/edit) | [Hangouts Meet](https://meet.google.com/pzi-ctet-ckx) | [YouTube](https://www.youtube.com/playlist?list=PL7wB27eZmdfelYS1XmTO1IaX4crk79tye) |  Raw VM support, Hybrid Mesh, Mac/Windows support, Cloud Foundry integration
-| Networking | [Folder](https://drive.google.com/drive/folders/16RDUAJj_LnJM83weyk0WSCeqgtTw8Ogz) | [Forum](https://discuss.istio.io/c/networking) | [#networking](https://istio.slack.com/messages/C38CF1PEC/) | [Notes](https://docs.google.com/document/d/1xHy2jQ8oiwMponMVY2zJr2eUAmHW_Hi9JK42a7cg5Pc/edit#heading=h.2ju2wl4o5jbc) | [Hangouts Meet](https://meet.google.com/xjj-ujhi-qfk?hs=122) | [YouTube](https://www.youtube.com/playlist?list=PL7wB27eZmdffpmIKb5tVthiiQLSXenCK-) | Traffic Management, TCP Support, Additional L7 protocols, Proxy injection
-| Extensions and Telemetry | [Folder](https://drive.google.com/drive/folders/16Jl2ASNQ226h5XmXSAtxx78cs1iSEAYQ) | [Forum](https://discuss.istio.io/c/policies-and-telemetry) | [#extensions-telemetry](https://istio.slack.com/messages/C382V8Q92/) | [Notes](https://docs.google.com/document/d/1pn9QdRcoyT_nxOwzklsiYpt7OQraaSDfmtN14XTOrN0/edit) | [Main Group Hangouts Meet](https://meet.google.com/cmo-jgug-uhj), [Wasm SIG Hangout Meet](https://meet.google.com/yrs-qhtf-mkb) | [YouTube](https://www.youtube.com/playlist?list=PL7wB27eZmdffF-9nyaw01Ni_0GOWBzaF4) | WebAssembly based extensibility, Istio extensions for features such as Rate Limiting, Tracing, Monitoring, Logging
-| Product Security | [Folder](https://drive.google.com/drive/folders/16gnkbCgO18zkMIk_IHrE_QV2EFqFWe4R) | [Report a vulnerability](https://istio.io/about/security-vulnerabilities/) |  | [Notes](https://docs.google.com/document/d/1fGi8G9wGfJhA23CT9Awp2bBdasanILh3gK9ib5hrTlE/edit#) | [Hangouts Meet](https://meet.google.com/vao-otzc-hvx) | | Product Security: Vulnerability, security guidelines, threats
-| Security | [Folder](https://drive.google.com/drive/folders/16eF1aoVnknX1vY853gEIPfoO2-i-FDcU) | [Forum](https://discuss.istio.io/c/security) | [#security](https://istio.slack.com/messages/C3TEGNZ7W/) | [Notes](https://docs.google.com/document/d/12Xz8fCuql2tPL-cpdLXGGE44kYT4o9NB6mljSiS_01U/edit#heading=h.o8pz6aqnzzgk) | [Hangouts Meet](https://meet.google.com/aop-xfen-ynm) | [YouTube](https://www.youtube.com/playlist?list=PL7wB27eZmdfd8ZbUNlZe-RYQKYTxTNJTR) | Service-to-service Auth, Identity/CA/SecretStore plugins, Identity Federation, End User Auth, Authority Delegation, Auditing
-| Test and Release |[Folder](https://drive.google.com/drive/folders/16M0Ba8uT6-1F71NARhddXDdnk-EE4jEn) | [Forum](https://discuss.istio.io/c/test-and-release) |[#test-and-release](https://istio.slack.com/messages/C6FCV6WN4/) | [Notes](https://docs.google.com/document/d/18QgpvBH9N8Io5xU-0piysyOYif65U03m8GabpvHb4IQ/edit) | [Hangouts Meet](https://meet.google.com/bis-vvyb-vof) | [YouTube](https://www.youtube.com/playlist?list=PL7wB27eZmdfckNxJRS1ac9rqsx5b16NU_) | Build, test, release
-| User Experience | [UX](https://drive.google.com/drive/folders/16CplcqFZTT-5WXDkpi443-ly2RnnA3C5) [_Config (old)_](https://drive.google.com/drive/folders/16W9uDkzrKJM-E5R7_5TGz-PMsAkkoT1s) | [Forum](https://discuss.istio.io/c/UX) | [#user-experience](https://istio.slack.com/messages/CFTRP8NTW/) [#config](https://istio.slack.com/messages/C7KSV4AHJ/)| [Notes](https://docs.google.com/document/d/1raZOoeYz3APZdQRlJlFA-zgfmEJu2YLaGa4_3KwbNRs/edit#heading=h.i71zsi7n759v) | [WebEx](https://ibm.webex.com/meet/snible) | [YouTube](https://www.youtube.com/playlist?list=PL7wB27eZmdfcaVTlYkvV3e09Gak6zhaLj) | User experience across Istio, API and CLI guidelines and support
+| Group | Design Docs | Discussion Forum | Slack Channel | Description
+|-------|-------------|-------|-------|------------
+| Docs | [Folder](https://drive.google.com/drive/folders/16Alb6m30ypLbz3iVv2OTjpqUHO8NJIUv) | [Forum](https://discuss.istio.io/c/contributors/docs) | [#docs](https://istio.slack.com/messages/C50V5EATT/) | User docs, information architecture, istio.io infrastructure
+| Environments | [Folder](https://drive.google.com/drive/folders/16P5sCnSzEk204LHBKYTkC9jEmgzBJy6x) | [Forum](https://discuss.istio.io/c/environment) | [#environments](https://istio.slack.com/messages/C6KA8TTSS/) |  Raw VM support, Hybrid Mesh, Mac/Windows support, Cloud Foundry integration
+| Networking | [Folder](https://drive.google.com/drive/folders/16RDUAJj_LnJM83weyk0WSCeqgtTw8Ogz) | [Forum](https://discuss.istio.io/c/networking) | [#networking](https://istio.slack.com/messages/C38CF1PEC/) | Traffic Management, TCP Support, Additional L7 protocols, Proxy injection
+| Extensions and Telemetry | [Folder](https://drive.google.com/drive/folders/16Jl2ASNQ226h5XmXSAtxx78cs1iSEAYQ) | [Forum](https://discuss.istio.io/c/policies-and-telemetry) | [#extensions-telemetry](https://istio.slack.com/messages/C382V8Q92/) | WebAssembly based extensibility, Istio extensions for features such as Rate Limiting, Tracing, Monitoring, Logging
+| Product Security | [Folder](https://drive.google.com/drive/folders/16gnkbCgO18zkMIk_IHrE_QV2EFqFWe4R) | [Report a vulnerability](https://istio.io/about/security-vulnerabilities/) | | Product Security: Vulnerability, security guidelines, threats
+| Security | [Folder](https://drive.google.com/drive/folders/16eF1aoVnknX1vY853gEIPfoO2-i-FDcU) | [Forum](https://discuss.istio.io/c/security) | [#security](https://istio.slack.com/messages/C3TEGNZ7W/) | Service-to-service Auth, Identity/CA/SecretStore plugins, Identity Federation, End User Auth, Authority Delegation, Auditing
+| Test and Release |[Folder](https://drive.google.com/drive/folders/16M0Ba8uT6-1F71NARhddXDdnk-EE4jEn) | [Forum](https://discuss.istio.io/c/test-and-release) |[#test-and-release](https://istio.slack.com/messages/C6FCV6WN4/) | Build, test, release
+| User Experience | [UX](https://drive.google.com/drive/folders/16CplcqFZTT-5WXDkpi443-ly2RnnA3C5) [_Config (old)_](https://drive.google.com/drive/folders/16W9uDkzrKJM-E5R7_5TGz-PMsAkkoT1s) | [Forum](https://discuss.istio.io/c/UX) | [#user-experience](https://istio.slack.com/messages/CFTRP8NTW/) [#config](https://istio.slack.com/messages/C7KSV4AHJ/)| User experience across Istio, API and CLI guidelines and support
 
 _NOTE: Config working group responsibilities have been merged into User Experience._
 
@@ -43,14 +45,14 @@ There is a weekly combined workgroup meeting. The meetings are open to anyone in
 There's a number of ways to track the
 meeting schedule:
 
-* You can view the schedule of upcoming working group meetings in this [calendar](https://calendar.google.com/calendar/embed?src=4uhe8fi8sf1e3tvmvh6vrq2dog%40group.calendar.google.com).
+* You can view the schedule of upcoming working group meetings in this [calendar](https://calendar.google.com/calendar/u/1?cid=Y19mZTljZDhkMDkxZDBkNGQyODE4ZDAxYTkzMGRjOTI1ZjAwZDRmOTc5OTVlZmU1MGE4ZDcyNTEyYjI0MTU2OGY1QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
 
-* You can download [an ICS file](https://calendar.google.com/calendar/ical/4uhe8fi8sf1e3tvmvh6vrq2dog%40group.calendar.google.com/public/basic.ics)
+* You can download [an ICS file](https://calendar.google.com/calendar/ical/c_fe9cd8d091d0d4d2818d01a930dc925f00d4f97995efe50a8d72512b241568f5%40group.calendar.google.com/public/basic.ics)
 to import the working group meetings into your favorite iCal client.
 
 If you have a Google account, you can also:
 
-* Link the [working group event calendar](https://calendar.google.com/calendar?cid=NHVoZThmaThzZjFlM3R2bXZoNnZycTJkb2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
+* Link the [working group event calendar](https://calendar.google.com/calendar/u/1?cid=Y19mZTljZDhkMDkxZDBkNGQyODE4ZDAxYTkzMGRjOTI1ZjAwZDRmOTc5OTVlZmU1MGE4ZDcyNTEyYjI0MTU2OGY1QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
 directly to your account.
 
 * Add yourself to the [istio-working-group-calendar-invites@](https://groups.google.com/forum/#!forum/istio-working-group-calendar-invites) group. This will
