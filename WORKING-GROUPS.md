@@ -39,9 +39,9 @@ To join Istio's Slack workspace, please use [this link](https://slack.istio.io/)
 ## Working group meetings
 
 Currently all working groups share a weekly meeting, on Wednesdays at 9:00 AM PST. The meetings are open to anyone interested,
-so please join us. The meeting can be joined with [this](meet.google.com/qza-pfbq-wne) link, and the notes can be found
+so please join us. The meeting can be joined with [this](https://meet.google.com/qza-pfbq-wne) link, and the notes can be found
 [here](https://docs.google.com/document/d/1wsa06GGiq1LEGwhkiPP0FKIZJqdAiue-VeBonWAzAyk/edit). We also have a special meeting
-for working on Ambient Mesh, on Wednesdays at 10:00 AM PST, which you can [join](https://meet.google.com/isd-coss-xon?hs=122&authuser=1)
+for working on Ambient Mesh, on Wednesdays at 10:00 AM PST, which you can [join](https://meet.google.com/isd-coss-xon)
 and [read](https://docs.google.com/document/d/1SMlwliEnthgq7r2PjpLl1kCq3t8rAMbgu6r_lDAXJ0w/edit#heading=h.o8pz6aqnzzgk) about.
 
 There's a number of ways to track the
