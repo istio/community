@@ -1,5 +1,33 @@
 # Current Release Managers
 
+## 1.20
+
+* [Aryan Gupta](https://github.com/aryan16)
+* [Xiaopeng Han](https://github.com/hanxiaop)
+
+## 1.19
+
+* [Aryan Gupta](https://github.com/aryan16)
+* [Xiaopeng Han](https://github.com/hanxiaop)
+* [Kalya Subramanian](https://github.com/ksubrmnn)
+
+## 1.18
+
+* [Xiaopeng Han](https://github.com/hanxiaop)
+* [Kalya Subramanian](https://github.com/ksubrmnn)
+* [Paul Merrison](https://github.com/pmerrison)
+
+## 1.17
+
+* [Mariam John](https://github.com/johnma14)
+* [Kalya Subramanian](https://github.com/ksubrmnn)
+* [Paul Merrison](https://github.com/pmerrison)
+
+# Emeritus Members
+
+We would like to acknowledge previous release managers for their contribution to
+the success of the Istio community:
+
 ## 1.16
 
 * [Daniel Hawton](https://github.com/dhawton)
@@ -21,12 +49,6 @@
 
 * [Steven Landow](https://github.com/stevenctl)
 * [Lei Tang](https://github.com/lei-tang)
-
-
-# Emeritus Members
-
-We would like to acknowledge previous release managers for their contribution to
-the success of the Istio community:
 
 ## 1.12
 
