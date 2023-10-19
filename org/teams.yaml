@@ -305,6 +305,7 @@ teams:
       - stevenctl
       - ZhiHanZ
       - zhlsunshine
+      - zirain
       - ZiyangXiao
     repos:
       .default: write
@@ -411,6 +412,7 @@ teams:
         members:
         - aryan16
         - hanxiaop
+        - zirain
   Repo Admins:
     description: Folks with admin permission on all repos.
     members:
