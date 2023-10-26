@@ -19,8 +19,8 @@ Other Documents
 - [Steering Committee](steering/) - describes our steering committee
 - [Community Roles](ROLES.md) - describes the roles individuals can assume within the Istio community
 - [Onboarding Technologies to Istio](ONBOARDING-TECH-TO-ISTIO.md) - how we work to onboard new technologies to the Istio project
-- [Feature Lifecycle](FEATURE-LIFECYCLE.md) - requirements for features to be labeled Alpha, Beta or Stable
-- [Feature Lifecycle Checklist](FEATURE-LIFECYCLE-CHECKLIST.md) - checklist-form of requirements for features to be labeled Alpha, Beta or Stable
+- [Feature Lifecycle](FEATURE-LIFECYCLE.md) - requirements for features to be labeled Alpha, Beta, or Stable
+- [Feature Lifecycle Checklist](FEATURE-LIFECYCLE-CHECKLIST.md) - checklist-form of requirements for features to be labeled Alpha, Beta, or Stable
 - [Admins for Istio Stuff](ADMINS-FOR-ISTIO.md) - lists who handles which part of the Istio infrastructure
 - [Early Disclosure for Security Vulnerabilities](EARLY-DISCLOSURE.md) - getting early notification of security vulnerabilities 
 
@@ -35,13 +35,13 @@ Mesos, etc.
 Visit [istio.io](https://istio.io) for in-depth information about using Istio.
 
 ## Istio authors
-Istio is an open source project with an active development community. The project was started
+Istio is an open-source project with an active development community. The project was started
 by teams from Google and IBM, in partnership with the Envoy team at Lyft.
 
-## Community meeting
+## Community Meeting
 
 We have public, [recorded](https://www.youtube.com/channel/UC-zVlo1F3mUbExQ96fABWcQ), community meetings.
-They happen on the fourth Thursday of every month at 10am US/Pacific. [Map that to your local time](https://time.is/compare/1000_in_San_Francisco,_California).
+They happen on the fourth Thursday of every month at 10 AM US/Pacific. [Map that to your local time](https://time.is/compare/1000_in_San_Francisco,_California).
 
 [Join this group](https://groups.google.com/forum/#!forum/istio-community-video-meetings)
 to have the meetings automatically added to your calendar.
@@ -49,7 +49,7 @@ You can also find them on [the community calendar](https://calendar.google.com/c
 
 Meeting agendas and notes can be accessed in the [working doc](http://bit.ly/istiocommunitymeet).
 
-## How can I help ?
+## How can I help?
 
 See our [community page](https://istio.io/about/community/) for ways to get involved
 in our community.
@@ -65,11 +65,11 @@ marked with the Help Wanted label:
 
 Of course, even if there's not an issue opened for it, we can always use more
 testing throughout the platform. Similarly, we can always use more docs, richer docs,
-insightful docs. Or maybe a cool blog post?
+and insightful docs. Or maybe a cool blog post?
 
 ## Questions and issues
 
-If you've got questions or issues with using Istio, checkout our [help page](https://istio.io/help/)
+If you've got questions or issues with using Istio, check our [help page](https://istio.io/help/)
 and be sure to connect to our [community](https://istio.io/about/community/) where there's always
 someone ready to lend a hand.
 
