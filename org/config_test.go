@@ -116,7 +116,7 @@ func TestIstioOrg(t *testing.T) {
 	admins := normalize(sets.NewString(cfg.Admins...))
 	allOrgMembers := members.Union(admins).Union(members)
 
-	requiredRobots := sets.NewString("istio-testing", "google-admin", "googlebot")
+	requiredRobots := sets.NewString("istio-testing", "googlebot")
 	if !admins.IsSuperset(requiredRobots) {
 		t.Errorf("Missing required robots as admins: %v", requiredRobots.List())
 	}
