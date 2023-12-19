@@ -52,8 +52,10 @@ Meeting agendas and notes can be accessed in the [working doc](http://bit.ly/ist
 Interested in presenting? Please send your abstract to istio-steering@googlegroups.com.
 This is the information we need from you:
     * Name
-    * Role and company
+    * Role and Company
+    * Short Speaker Bio
     * Talk title and a short abstract
+    * Talk Format(Presentation/Demo) and Session Length
     * Email to connect
 
 Suitable content:
