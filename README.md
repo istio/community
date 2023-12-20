@@ -63,7 +63,7 @@ Suitable content:
     * Istio new feature releases and project updates
     * Tutorials and demos
     * Use cases
-    * Open source contents that relates vendor or platform to Istio installation and use
+    * Open source content that relates vendor or platform to Istio installation and use
 
 Unsuitable content
 
