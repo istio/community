@@ -49,6 +49,28 @@ You can also find them on [the community calendar](https://calendar.google.com/c
 
 Meeting agendas and notes can be accessed in the [working doc](http://bit.ly/istiocommunitymeet).
 
+Interested in presenting? Please send your abstract to istio-steering@googlegroups.com.
+This is the information we need from you:
+    * Name
+    * Role and Company
+    * Short Speaker Bio
+    * Talk title and a short abstract
+    * Talk Format(Presentation/Demo) and Session Length
+    * Email to connect
+
+Suitable content:
+
+    * Istio new feature releases and project updates
+    * Tutorials and demos
+    * Use cases
+    * Open source content that relates vendor or platform to Istio installation and use
+
+Unsuitable content
+
+    * Demos that are disparaging to the Istio project, its functionality or community
+    * Demos that do not address Istio in any way, including interacting with Istio APIs or interfaces
+    * Blatant vendor pitches
+
 ## How can I help?
 
 See our [community page](https://istio.io/about/community/) for ways to get involved
