@@ -31,7 +31,7 @@ For more information, please see [Adding an email address to your GitHub account
 
 <img width="1407" alt="EasyCLA" src="https://user-images.githubusercontent.com/69111235/152224818-1246453a-b086-4a57-9d14-c10d62ad438f.png">
 
-After authorizing EasyCLA, you will be redirected to a page to identify which type of contributor you are. 
+After authorizing EasyCLA, you will be redirected to a page to identify which type of contributor you are.
 Select the most appropriate option:
 
   * *Individual Contributor*: You are contributing as yourself, and not as part of another organization.
@@ -46,13 +46,13 @@ After you have filled out  the information, Click "Finish" and you will be redir
 #### 5. Look for an email indicating successful signup.
 
 > Hello,
-> 
+>
 > This is a notification email from EasyCLA regarding the project Cloud Native Computing > Foundation (CNCF).
-> 
+>
 > The CLA has now been signed. You can download the signed CLA as a PDF here.
-> 
+>
 > If you need help or have questions about EasyCLA, you can read the documentation or reach out to us for support.
-> 
+>
 > Thanks,
 > EasyCLA Support Team
 
@@ -76,7 +76,7 @@ craigbox: craig.box!gmail.com, craigb!armosec.io, craigbox!google.com, craigbox!
 
 ## Troubleshooting
 
-If you encounter any problems signing the CLA and need further assistance, log a ticket by [clicking on the "create a support ticket" link](https://jira.linuxfoundation.org/plugins/servlet/theme/portal/4) from the EasyCLA bot's response. Someone from the CNCF will respond to your ticket to help.
+If you encounter any problems signing the CLA and need further assistance, log a ticket by [clicking on the "create a support ticket" link](https://jira.linuxfoundation.org/plugins/servlet/desk/portal/4) from the EasyCLA bot's response. Someone from the CNCF will respond to your ticket to help.
 
 Should you have any issues using the LF Support Site, send a message to the
 backup email support address <login-issues@jira.linuxfoundation.org>
