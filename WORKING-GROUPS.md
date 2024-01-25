@@ -73,7 +73,7 @@ Each working group has one or more leads which coordinate the activities of the 
 <img width="30px" src="https://avatars1.githubusercontent.com/u/623453?s=400&v=4">   | [John Howard](https://github.com/howardjohn)       | Google     | Networking
 &nbsp;                                                                               | [Steven Landow](https://github.com/stevenctl)      | Solo.io    | Networking - Control Plane
 &nbsp;                                                                               | [Costin Manolache](https://github.com/costinm)     | Google     | Environments
-&nbsp;                                                                               | [Sam Naser](https://github.com/monkeyanator)       | Google     | Environments
+&nbsp;                                                                               | [Sam Naser](https://github.com/monkeyanator)       | Aviatrix     | Environments
 &nbsp;                                                                               | [Justin Pettit](https://github.com/justinpettit)   | Google     | Product Security
 <img width="30px" src="https://avatars3.githubusercontent.com/u/3237651?s=400&v=4">  | [Ed Snible](https://github.com/esnible)            | IBM        | User Experience
 &nbsp;                                                                               | [Lei Tang](https://github.com/lei-tang)            | Google     | Security, Extensions and Telemetry
