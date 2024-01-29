@@ -45,3 +45,97 @@ emeritus:
 - ymesika
 - yxue
 - ZackButcher
+
+# Former release managers, by release
+release-managers:
+  Release Managers - 1.3:
+    description: Release managers for Istio 1.3
+    members:
+      - brian-avery
+      - rlenglet
+  Release Managers - 1.4:
+    description: Release managers for Istio 1.4
+    members:
+      - ericvn
+      - howardjohn
+      - jwendell
+  Release Managers - 1.5:
+    description: Release managers for Istio 1.5
+    members:
+      - dgn
+      - ericvn
+      - johnma14
+  Release Managers - 1.6:
+    description: Release managers for Istio 1.6
+    members:
+      - brian-avery
+      - irisdingbj
+      - jacob-delgado
+  Release Managers - 1.7:
+    description: Release managers for Istio 1.7
+    members:
+      - JimmyCYJ
+      - jwendell
+      - Mythra
+  Release Managers - 1.8:
+    description: Release managers for Istio 1.8
+    members:
+      - bianpengyuan
+      - GregHanson
+  Release Managers - 1.9:
+    description: Release managers for Istio 1.9
+    members:
+      - jacob-delgado
+      - stevenctl
+  Release Managers - 1.10:
+    description: Release managers for Istio 1.10
+    members:
+      - Monkeyanator
+      - ZhiHanZ
+  Release Managers - 1.11:
+    description: Release managers for Istio 1.11
+    members:
+      - jwendell
+      - ryantking
+      - zhlsunshine
+  Release Managers - 1.12:
+    description: Release managers for Istio 1.12
+    members:
+      - dgn
+      - Kmoneal
+  Release Managers - 1.13:
+    description: Release managers for Istio 1.13
+    members:
+      - eliavem
+      - lei-tang
+      - stevenctl
+  Release Managers - 1.14:
+    description: Release managers for Istio 1.14
+    members:
+      - GregHanson
+      - lei-tang
+  Release Managers - 1.15:
+    description: Release managers for Istio 1.15
+    members:
+      - aryan16
+      - dhawton
+      - Monkeyanator
+      - ZiyangXiao
+  Release Managers - 1.16:
+    description: Release managers for Istio 1.16
+    members:
+      - dhawton
+      - johnma14
+      - ZiyangXiao
+  Release Managers - 1.17:
+    description: Release managers for Istio 1.17
+    members:
+      - johnma14
+      - ksubrmnn
+      - pmerrison
+  Release Managers - 1.18:
+    description: Release managers for Istio 1.18
+    members:
+      - hanxiaop
+      - ksubrmnn
+      - pmerrison
