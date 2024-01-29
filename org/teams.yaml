@@ -90,10 +90,6 @@ teams:
           - howardjohn
           - listx
           - stewartbutler
-      WG - Config Maintainers:
-        description: Maintainers for the Config working group.
-        members:
-          - nmittler
       WG - Docs Maintainers:
         description: Maintainers of the Docs working group.
         members:
