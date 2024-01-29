@@ -254,6 +254,7 @@ teams:
       WG - Test and Release Maintainers:
         description: Maintainers for the Test and Release working group.
         members:
+          - dhawton
           - ericvn
           - howardjohn
           - jacob-delgado
