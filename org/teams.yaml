@@ -16,7 +16,6 @@ teams:
       - amjain-vmware
       - andream12345
       - aryan16
-      - bianpengyuan
       - bleggett
       - chases2
       - cjwagner
@@ -27,19 +26,15 @@ teams:
       - dhawton
       - didier-grelin
       - ericvn
-      - esnible
       - frankbu
       - GregHanson
       - hanxiaop
       - howardjohn
       - hzxuzhonghu
-      - incfly
       - irisdingbj
       - jacob-delgado
       - jaellio
-      - JimmyCYJ
       - jjtischer
-      - john-a-joyce
       - johnma14
       - justinpettit
       - jwendell
@@ -47,23 +42,16 @@ teams:
       - keithmattix
       - kfaseela
       - kyessenov
-      - lambdai
       - lei-tang
       - lgadban
-      - liminw
       - linsun
       - listx
-      - litong01
       - lizan
       - louiscryan
-      - mandarjog
       - Monkeyanator
-      - morvencao
       - my-git9
-      - myidpt
       - nmittler
       - nrjpoddar
-      - ostromart
       - pmerrison
       - ramaraochavali
       - rcernich
@@ -77,7 +65,6 @@ teams:
       - wilsonwu
       - windsonsea
       - Xunzhuo
-      - yangminzhu
       - zhlsunshine
       - zirain
     repos:
@@ -101,7 +88,6 @@ teams:
           - frankbu
           - kebe7jun
           - kfaseela
-          - litong01
           - louiscryan
           - my-git9
           - nmittler
@@ -131,7 +117,6 @@ teams:
               - frankbu
               - kebe7jun
               - kfaseela
-              - litong01
               - my-git9
               - rootsongjc
               - wilsonwu
@@ -161,11 +146,8 @@ teams:
           - irisdingbj
           - jacob-delgado
           - linsun
-          - litong01
           - Monkeyanator
-          - morvencao
           - nmittler
-          - ostromart
           - rcernich
           - richardwxn
           - stevenctl
@@ -174,17 +156,13 @@ teams:
         description: Maintainers for the Networking working group
         members:
           - adiprerepa
-          - bianpengyuan
           - bleggett
           - costinm
           - GregHanson
           - howardjohn
           - hzxuzhonghu
-          - JimmyCYJ
-          - john-a-joyce
           - keithmattix
           - kyessenov
-          - lambdai
           - linsun
           - lizan
           - nmittler
@@ -240,15 +218,10 @@ teams:
           - costinm
           - howardjohn
           - hzxuzhonghu
-          - incfly
           - irisdingbj
-          - JimmyCYJ
           - lei-tang
-          - liminw
           - lizan
-          - myidpt
           - shankgan
-          - yangminzhu
       WG - Test and Release Maintainers:
         description: Maintainers for the Test and Release working group.
         members:
@@ -260,8 +233,6 @@ teams:
           - jwendell
           - kfaseela
           - linsun
-          - mandarjog
-          - Monkeyanator
           - nmittler
           - richardwxn
           - stevenctl
@@ -270,12 +241,11 @@ teams:
       WG - User Experience Maintainers:
         description: Maintainers for the User Experience working group.
         members:
-          - esnible
           - GregHanson
           - hanxiaop
           - irisdingbj
           - nmittler
-          - therealmitchconnors
+          - therealmitchconnors # lead
           - zhlsunshine
   Release Managers:
     description: Current set of release managers.
@@ -357,19 +327,17 @@ teams:
   Working Group Leads:
     description: Working group leads - for easy communication in github
     members:
-      - ericvn
-      - esnible
-      - frankbu
-      - howardjohn
-      - jacob-delgado
-      - liminw
-      - linsun
-      - lizan
-      - mandarjog
-      - Monkeyanator
-      - myidpt
-      - nrjpoddar
-      - stevenctl
+      - costinm # Env
+      - ericvn # T&R
+      - GregHanson # PSWG
+      - howardjohn # Control Plane
+      - justinpettit # PSWG
+      - lei-tang # Security, E&T
+      - lizan # Data Plane, Security
+      - ramaraochavali # Control Plane
+      - stevenctl # Control Plane
+      - therealmitchconnors # UX
+      - zirain # E&T
   enhancements-maintainers:
     description: ""
     members:
