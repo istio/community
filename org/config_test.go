@@ -16,11 +16,13 @@ package main
 
 import (
 	"fmt"
+	"os"
 	"sort"
 	"strings"
 	"testing"
 
 	"k8s.io/apimachinery/pkg/util/sets"
+	"k8s.io/apimachinery/pkg/util/yaml"
 
 	"istio.io/tools/pkg/orggen"
 	"istio.io/tools/pkg/orggen/org"
@@ -77,6 +79,25 @@ func testTeamMembers(teams map[string]org.Team, admins sets.String, orgMembers s
 		}
 	}
 	return errs
+}
+
+// Currently we don't use emeritus.yaml programatically, but make sure its well formed so we can in the future
+func TestEmeritus(t *testing.T) {
+	type Emeritus struct {
+		Emeritus        []string       `json:"emeritus"`
+		ReleaseManagers map[string]any `json:"release-managers"`
+	}
+	b, err := os.ReadFile("emeritus.yaml")
+	if err != nil {
+		t.Fatal(err)
+	}
+	em := Emeritus{}
+	if err := yaml.Unmarshal(b, &em); err != nil {
+		t.Fatal(err)
+	}
+	if !isSorted(em.Emeritus) {
+		t.Errorf("emeritus unsorted")
+	}
 }
 
 func TestConvertedOrg(t *testing.T) {
