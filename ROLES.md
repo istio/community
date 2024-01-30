@@ -231,7 +231,7 @@ code, performing reviews, triaging issues, etc.
 
 * Sponsored by a working group lead with no objections from other leads
 
-If a maintainer becomes inactive in the project for an extended period of time, the individual will transition to being an
+If a maintainer becomes inactive in the project for over a year, the individual will transition to being an
 emeritus maintainer. Emeritus maintainers lose their ability to approve code contributions, but retain their voting rights
 for up to one year. After one year, emeritus maintainers revert back to being normal members with no voting rights.
 
