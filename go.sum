@@ -15,5 +15,7 @@ istio.io/tools v0.0.0-20230711170845-79552bc55500 h1:Ce4gO3xCaoEQFuibSL18qpdT2vA
 istio.io/tools v0.0.0-20230711170845-79552bc55500/go.mod h1:rFwJjVNWXaHHoaf0LhUtV0T2IHJqMFZ+53tf9wI/lJA=
 k8s.io/apimachinery v0.27.0 h1:vEyy/PVMbPMCPutrssCVHCf0JNZ0Px+YqPi82K2ALlk=
 k8s.io/apimachinery v0.27.0/go.mod h1:5ikh59fK3AJ287GUvpUsryoMFtH9zj/ARfWCo3AyXTM=
+sigs.k8s.io/json v0.0.0-20221116044647-bc3834ca7abd h1:EDPBXCAspyGV4jQlpZSudPeMmr1bNJefnuqLsRAsHZo=
+sigs.k8s.io/json v0.0.0-20221116044647-bc3834ca7abd/go.mod h1:B8JuhiUyNFVKdsE8h686QcCxMaH6HrOAZj4vswFpcB0=
 sigs.k8s.io/yaml v1.3.0 h1:a2VclLzOGrwOHDiV8EfBGhvjHvP46CtW5j6POvhYGGo=
 sigs.k8s.io/yaml v1.3.0/go.mod h1:GeOyir5tyXNByN85N/dRIT9es5UQNerPYEKK56eTBm8=
