@@ -32,21 +32,16 @@ entity.
 1. The Steering Committee is structured to allow Companies who are most
 invested in the success of the Istio project to participate in business and
 non-technical decision-making.
-1. All members should abide by the project Code of Conduct.
+1. All members must abide by the project Code of Conduct.
 1. There are two types of seats on the Steering Committee: Contribution Seats
-and Community Seats.
+and Community Seats. All seats will have an annual term, starting at the
+completion of each annual Contribution Seat election.
 1. Both Contribution and Community Seats will be appointed beginning in
-August 2020. The appointments for the Contribution and Community seat types will
-expire on staggered dates. After the initial term for both seats, all seats
-will have an annual term.
-1. Contribution Seat terms expire on January 31 and Community Seat terms expire
-on July 31. If necessary, a company holding a Contribution Seat may change the
-appointed individual at any time during the term.
-1. No Company can have more than 5 seats in total on the Steering Committee.
+1. No Company can have more than five seats in total on the Steering Committee.
 1. There shall be nine **Contribution Seats**.  Their allocation is determined
 by the approximate effort and expenditure on the Istio project. Each year, when
-Contribution Seat terms begin, the Steering Committee will vote on an exact
-formula and procedure for determining allocation for the following year.
+the Steering Committee term begins, the Steering Committee will vote on an 
+exact formula and procedure for determining allocation for the following year.
 That procedure will be published to the istio/community repository;
 modifications subsequent to the annual publication of rules shall be considered
 modifications to the Steering Committee Charter.
@@ -55,8 +50,14 @@ modifications to the Steering Committee Charter.
     three Companies, then the third highest Company shall be awarded a seat,
     and then the formula and procedure shall be applied to eight seats instead
     of nine.
+1. Contribution Seats will be calculated on February 1 each year, based on the
+agreed formula and procedure for the preceding 12 months. Contribution Seats
+shall become active at the conclusion of the Community Seat election which
+immediately follows their allocation.
+1. If necessary, a company holding a Contribution Seat may change the appointed
+individual at any time during the term.
 1. There shall be four **Community Seats** elected by the Istio contributors
-and community, beginning in August 2020.
+and community.
     1. Any [project member](../ROLES.md#member) can self-nominate for the
     election, or nominate another project member with their consent.
     1. Elections shall use time-limited, Condorcet voting.
@@ -82,6 +83,10 @@ and community, beginning in August 2020.
     1. Because the goal of Community Seats is to increase the perspectives on
     the Steering Committee, employees of a Company that holds Contribution
     Seats are ineligible to be elected to hold a Community Seat.
+    1. Community Seat elections are held immediately after the ratification
+    of the Contribution Seat assignment for a given year, such that the whole
+    Steering Committee starts their term together upon the completion of the
+    election.
 1. A simple majority of Seats shall be sufficient to call a vote of the
 Steering Committee, one nominating, and the rest agreeing, over email. Voting
 shall be done electronically, in a manner agreed on by the Steering Committee.
