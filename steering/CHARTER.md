@@ -36,7 +36,6 @@ non-technical decision-making.
 1. There are two types of seats on the Steering Committee: Contribution Seats
 and Community Seats. All seats will have an annual term, starting at the
 completion of each annual Contribution Seat election.
-1. Both Contribution and Community Seats will be appointed beginning in
 1. No Company can have more than five seats in total on the Steering Committee.
 1. There shall be nine **Contribution Seats**.  Their allocation is determined
 by the approximate effort and expenditure on the Istio project. Each year, when
