@@ -63,7 +63,7 @@ Membership in the TOC is determined by a majority vote of the [Steering Committe
 
 While Steering seats are allocated to companies, TOC seats are allocated to individuals, and remain with a person if that person moves to a new employer.
 
-In the event of a vacancy on the TOC, the Steering Committee will solicit candidates for election from the eligible candidates. Eligible candidates are those who have been members of the Istio project for a year, and a maintainer for at least six months.
+In the event of a vacancy on the TOC, the Steering Committee will solicit candidates for election from the eligible candidates. Eligible candidates are those who have been members of the Istio project for at least a year, and a maintainer for at least six months.
 
 ## Committee members
 
