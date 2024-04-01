@@ -3,7 +3,6 @@ teams:
   Election Officers:
     description: people who run Steering Committee elections
     members:
-      - cetezadi
       - craigbox
       - jberkus
       - rvennam
@@ -294,9 +293,9 @@ teams:
   Steering Committee:
     description: members of Istio Steering Committee
     members:
-      - cetezadi
+      - abhijoglekar
+      - arjayara01
       - craigbox
-      - howardjohn
       - hzxuzhonghu
       - irisdingbj
       - justinpettit
