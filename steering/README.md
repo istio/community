@@ -15,13 +15,13 @@ See [CHARTER.md](CHARTER.md).
 | | Rob Cernich | Red Hat | [rcernich](https://github.com/rcernich) | Contribution seat
 <img width="30px" src="https://cache.sessionize.com/image/d864-400o400o2-NDCYJ1JH1eYh7SSDrc5rCM.jpeg"> | Mitch Connors | Aviatrix | [therealmitchconnors](https://github.com/therealmitchconnors) | Community seat
 <img width="30px" src="https://events.istio.io/istiocon-2021/images/speakers/iris-ding.jpg"> | Iris (Shaojun) Ding | Intel | [irisdingbj](https://github.com/irisdingbj) | Community seat
-<img width="30px" src="[https://avatars.githubusercontent.com/u/623453?v=4](https://avatars.githubusercontent.com/u/51500279?v=4)"> | Arunkumar Jayaraman | Google | [arjayara01](https://github.com/arjayara01) | Contribution seat
+<img width="30px" src="https://avatars.githubusercontent.com/u/51500279?v=4"> | Arunkumar Jayaraman | Google | [arjayara01](https://github.com/arjayara01) | Contribution seat
 <img width="30px" src="https://avatars.githubusercontent.com/u/3450504?v=4"> | Abhi Joglekar | Google | [abhijoglekar](https://github.com/abhijoglekar) | Contribution seat
 <img width="30px" src="https://avatars.githubusercontent.com/u/7901446?v=4"> | Faseela K | Ericsson Software Technology | [kfaseela](https://github.com/kfaseela) | Community seat
 | | Kebe Liu | DaoCloud | [kebe7jun](https://github.com/kebe7jun) | Contribution seat
 | | Jamie Longmuir | Red Hat | [longmuir](https://github.com/longmuir) | Contribution seat
 | <img width="30px" src="https://avatars.githubusercontent.com/u/1531662?v=4"> | Keith Mattix | Microsoft | [keithmattix](https://github.com/keithmattix) | Community seat
-| | Justin Pettit | Google | [justinpettit](https://github.com/justinpettit) | Contribution seat
+| <img width="30px" src="https://avatars.githubusercontent.com/u/915822?v=4"> | Justin Pettit | Google | [justinpettit](https://github.com/justinpettit) | Contribution seat
 <img width="30px" src="https://avatars.githubusercontent.com/u/1588319?v=4"> | Lin Sun | Solo.io | [linsun](https://github.com/linsun) | Contribution seat
 <img width="30px" src="https://avatars.githubusercontent.com/u/13374016?v=4"> | Zhonghu Xu | Huawei | [hzxuzhonghu](https://github.com/hzxuzhonghu) | Contribution seat
 
