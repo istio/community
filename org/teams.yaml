@@ -251,8 +251,8 @@ teams:
   Release Managers:
     description: Current set of release managers.
     members:
-      - aryan16
       - hanxiaop
+      - hzxuzhonghu
       - ksubrmnn
       - thedebugger
       - zirain
@@ -278,6 +278,12 @@ teams:
         - aryan16
         - thedebugger
         - zirain
+      Release Managers - 1.22:
+        description: Release managers for Istio 1.22
+        members:
+        - thedebugger
+        - zirain
+        - hzxuzhonghu
   Repo Admins:
     description: Folks with admin permission on all repos.
     members:
