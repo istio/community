@@ -251,6 +251,7 @@ teams:
   Release Managers:
     description: Current set of release managers.
     members:
+      - aryan16
       - hanxiaop
       - hzxuzhonghu
       - ksubrmnn
