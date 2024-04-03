@@ -282,9 +282,9 @@ teams:
       Release Managers - 1.22:
         description: Release managers for Istio 1.22
         members:
+        - hzxuzhonghu
         - thedebugger
         - zirain
-        - hzxuzhonghu
   Repo Admins:
     description: Folks with admin permission on all repos.
     members:
