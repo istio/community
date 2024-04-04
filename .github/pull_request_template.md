@@ -5,7 +5,6 @@
 - [ ] I have reviewed the [community membership guidelines](https://github.com/istio/community/blob/master/ROLES.md#member)
 - [ ] I have reviewed the [contribution guidelines](https://github.com/istio/community/blob/master/CONTRIBUTING.md)
 - [ ] I have enabled [2FA on my GitHub account](https://github.com/settings/security)
-- [ ] I have joined the [Istio discussion board](https://discuss.istio.io) and subscribed to the [Contributors](https://discuss.istio.io/c/contributors) category
 - [ ] I have joined [Istio's Slack workspace](https://slack.istio.io)
 - [ ] I have written my company name or "Individual", if not affliated with a company, here: __________
 - [ ] I have provided a link to at least one PR that I have successfully pushed to one of the Istio repos, here: __________
