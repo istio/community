@@ -72,7 +72,7 @@ The members of the TOC are shown below.
 &nbsp; | Name | Company
 ---|---|---
 <img width="30px" src="https://avatars.githubusercontent.com/u/821270?v=4"> | [Mitch Connors](https://github.com/therealmitchconnors)  | Aviatrix
-<img width="30px" src="https://avatars.githubusercontent.com/u/623453?v=4">            | [John Howard](https://github.com/howardjohn)  | Google
+<img width="30px" src="https://avatars.githubusercontent.com/u/623453?v=4">            | [John Howard](https://github.com/howardjohn)  | Solo.io
 <img width="30px" src="https://avatars3.githubusercontent.com/u/12534779?s=400&v=4">|    [Neeraj Poddar](https://github.com/nrjpoddar) | Solo.io
 <img width="30px" src="https://pbs.twimg.com/profile_images/838075233445695489/o2eAYJAV_400x400.jpg"> | [Louis Ryan](https://github.com/louiscryan) | Solo.io
 <img width="30px" src="https://avatars1.githubusercontent.com/u/1588319?s=400&v=4"> |    [Lin Sun](https://github.com/linsun)          | Solo.io
