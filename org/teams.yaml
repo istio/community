@@ -183,6 +183,7 @@ teams:
           WG - Networking Maintainers/Ztunnel:
             description: Maintainers of Ztunnel.
             members:
+              - bleggett
               - howardjohn
               - hzxuzhonghu
               - stevenctl
