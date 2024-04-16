@@ -254,6 +254,7 @@ teams:
     members:
       - aryan16
       - hanxiaop
+      - hzxuzhonghu
       - ksubrmnn
       - thedebugger
       - zirain
@@ -277,6 +278,12 @@ teams:
         description: Release managers for Istio 1.21
         members:
         - aryan16
+        - thedebugger
+        - zirain
+      Release Managers - 1.22:
+        description: Release managers for Istio 1.22
+        members:
+        - hzxuzhonghu
         - thedebugger
         - zirain
   Repo Admins:
