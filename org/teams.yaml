@@ -249,6 +249,7 @@ teams:
           - nmittler
           - therealmitchconnors # lead
           - zhlsunshine
+          - MorrisLaw
   Release Managers:
     description: Current set of release managers.
     members:
