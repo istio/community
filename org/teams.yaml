@@ -246,10 +246,10 @@ teams:
           - GregHanson
           - hanxiaop
           - irisdingbj
+          - MorrisLaw
           - nmittler
           - therealmitchconnors # lead
           - zhlsunshine
-          - MorrisLaw
   Release Managers:
     description: Current set of release managers.
     members:
