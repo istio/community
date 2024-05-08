@@ -44,7 +44,6 @@ teams:
       - lei-tang
       - lgadban
       - linsun
-      - listx
       - lizan
       - louiscryan
       - Monkeyanator
@@ -76,7 +75,6 @@ teams:
           - chases2
           - cjwagner
           - howardjohn
-          - listx
           - stewartbutler
       WG - Docs Maintainers:
         description: Maintainers of the Docs working group.
