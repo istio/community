@@ -30,6 +30,7 @@ teams:
       - hanxiaop
       - howardjohn
       - hzxuzhonghu
+      - ilrudie
       - irisdingbj
       - jacob-delgado
       - jaellio
@@ -161,6 +162,7 @@ teams:
           - hanxiaop
           - howardjohn
           - hzxuzhonghu
+          - ilrudie
           - keithmattix
           - kyessenov
           - linsun
@@ -185,6 +187,7 @@ teams:
               - bleggett
               - howardjohn
               - hzxuzhonghu
+              - ilrudie
               - stevenctl
       WG - Policies and Telemetry  Maintainers:
         description: Maintainers for the Policy and Telemetry working group.
