@@ -7,7 +7,7 @@ This is the starting point for becoming a contributor - improving code, improvin
 - [Introduction](#introduction)
 - [Istio authors](#istio-authors)
 - [Community meeting](#community-meeting)
-- [How can I help?](#how-can-i-help-)
+- [How can I help?](#how-can-i-help)
 - [Questions and issues](#questions-and-issues)
 
 Other Documents
