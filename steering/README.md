@@ -12,8 +12,8 @@ See [CHARTER.md](CHARTER.md).
 &nbsp; | Name | Company | Profile | Seat type
 ---|---|---|---|---
 <img width="30px" src="https://avatars.githubusercontent.com/u/132510?v=4"> | Craig Box | Solo.io | [craigbox](https://github.com/craigbox) | Contribution seat
+<img width="30px" src="https://avatars.githubusercontent.com/u/1923135?v=4"> | Zack Butcher | Tetrate | [ZackButcher](https://github.com/ZackButcher) | Community seat
 | | Rob Cernich | Red Hat | [rcernich](https://github.com/rcernich) | Contribution seat
-<img width="30px" src="https://cache.sessionize.com/image/d864-400o400o2-NDCYJ1JH1eYh7SSDrc5rCM.jpeg"> | Mitch Connors | Aviatrix | [therealmitchconnors](https://github.com/therealmitchconnors) | Community seat
 <img width="30px" src="https://events.istio.io/istiocon-2021/images/speakers/iris-ding.jpg"> | Iris (Shaojun) Ding | Intel | [irisdingbj](https://github.com/irisdingbj) | Community seat
 <img width="30px" src="https://avatars.githubusercontent.com/u/51500279?v=4"> | Arunkumar Jayaraman | Google | [arjayara01](https://github.com/arjayara01) | Contribution seat
 <img width="30px" src="https://avatars.githubusercontent.com/u/3450504?v=4"> | Abhi Joglekar | Google | [abhijoglekar](https://github.com/abhijoglekar) | Contribution seat
