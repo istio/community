@@ -165,22 +165,17 @@ When reporting a bug please include the following key pieces of information:
 
 ## Promote your company on istio.io
 
-If your company supports Istio, you can list it on our [Ecosystem page](https://istio.io/latest/about/ecosystem/).
-We have categories for *providers* (who offer hosted or managed Istio services
+If your company supports Istio, you can list it on our [Ecosystem](https://istio.io/latest/about/ecosystem/)
+or [Training and Certification](https://istio.io/latest/about/training/) pages.
+Under Ecosystem, we have categories for *providers* (who offer hosted or managed Istio services
 to their customers), *professional services* (who offer implementation support
 or consulting for Istio) and *integrations* (commercial or open source products
 that work with Istio).
 
-To add an entry to this page, edit [data/companies.yml](https://github.com/istio/istio.io/blob/master/data/companies.yml)
-and add your information in the `providers`, `pro_services` or `integrations`
+To add an entry to either page, edit [data/companies.yml](https://github.com/istio/istio.io/blob/master/data/companies.yml)
+and add your information in the `providers`, `pro_services`, `integrations`, `training` or `certification`
 section, as appropriate. Please add your company logo, preferably in SVG
 format, to [static/logos](https://github.com/istio/istio.io/blob/master/static/logos).
-
-If your company provides professional training or certification on Istio, you can list it on
-our [Training and Certification page](https://istio.io/latest/about/training/).
-
-To add an entry to this page, edit [data/companies.yml](https://github.com/istio/istio.io/blob/master/data/companies.yml)
-and add your information in the `training` or `certification` section as appropriate.
 
 The Istio steering committee reserves the right to remove logos of companies that
 are not demeed to be in good standing in the community.
