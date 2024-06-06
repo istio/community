@@ -16,8 +16,6 @@ teams:
       - andream12345
       - aryan16
       - bleggett
-      - chases2
-      - cjwagner
       - costinm
       - craigbox
       - davidhauck
@@ -73,8 +71,7 @@ teams:
       Operations Maintainers:
         description: Maintainers of Operations.
         members:
-          - chases2
-          - cjwagner
+          - dhawton
           - howardjohn
           - stewartbutler
       WG - Docs Maintainers:
