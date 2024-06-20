@@ -13,8 +13,8 @@ security issues.
 Istio has upstream dependencies of its own. In certain situations, we may need to make emergency 
 Istio releases to address vulnerabilities in these upstream dependencies. Due to embargo policies of
 these dependencies, we may not be allowed to share any details about the vulnerabilities. In that
-case, Istio's early disclosure will be strictly focused on the mechanics of an upcoming patch
-release, rather than on the details of the discovered vulnerabilities.
+case, Istio's early disclosure will be limited, on a case-by-case basis.
+Note that Envoy vulnerabilities are handled slightly differently, see [Membership Criteria](#membership-criteria)
 
 ## Embargo policy
 
@@ -62,16 +62,18 @@ email address, it must be a corporate address owned by the organization.
 3. Have a user base not limited to your own organization.
 4. Be a participant and active contributor in the Istio community.
 5. Accept the [Embargo Policy](#embargo-policy) that is outlined above.
+6. Have a member of your organization be a participant in the Istio Product Security Working Group. This is a private meeting held alternating Wednesdays at 11am Pacific or 3pm Pacific to accommodate a world-wide community. Participants will be expected to actively contribute and fill the roll as security release lead on a quarterly rotational basis.
 
-#### Additional membership criteria (Feb 14, 2022)
+#### Removal
 
-As of February 14, 2022 there are additional criteria to be a member of the early disclosure list:
-
-6. Be a member of the [Envoy early disclosure list](https://github.com/envoyproxy/envoy/blob/main/SECURITY.md#members).
-7. Have a member of your organization be a participant in the Istio Product Security Working Group. This is a private meeting held alternating Wednesdays at 11am Pacific or 3pm Pacific to accommodate a world-wide community.
-
-**Removal**: If your organization stops meeting one or more of these criteria
+If your organization stops meeting one or more of these criteria
 after joining the list then you will be unsubscribed.
+
+#### Envoy
+
+Because Istio works closely with Envoy, and is often involved in security vulnerabilities, members of the early disclosure list will inherently gain access to details about embargoed Envoy vulnerability details.
+While we do not currently require members to be a part of the [Envoy early disclosure list](https://github.com/envoyproxy/envoy/blob/main/SECURITY.md#members), we do expect that members will follow their embargo guidelines.
+Failure to do so, or at the request of the Envoy security team, may result in your removal from the early disclosure list.
 
 ### Request to join
 
@@ -113,11 +115,7 @@ in hacking the Gibson.
 
 We accept.
 
-> 6. Be a member of the [Envoy Early Disclosure list](https://github.com/envoyproxy/envoy/blob/main/SECURITY.md#members).
-
-We are listed in the Envoy early disclosure membership program.
-
-> 7. Have a member of your organization be a participant in the Istio Product Security Working Group
+> 6. Have a member of your organization be a participant in the Istio Product Security Working Group.
 
 John/Jane Doe (Email: person@myorganization.com, Istio Slack username: person) will represent our company in the Istio Product Security Working Group.
 ```
