@@ -259,7 +259,7 @@ teams:
       - ksubrmnn
       - mikemorris
       - thedebugger
-      - zirain      
+      - zirain
     repos:
       .default: write
     teams:
