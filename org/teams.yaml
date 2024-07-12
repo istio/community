@@ -257,9 +257,9 @@ teams:
       - hanxiaop
       - hzxuzhonghu
       - ksubrmnn
-      - thedebugger
-      - zirain
       - mikemorris
+      - thedebugger
+      - zirain      
     repos:
       .default: write
     teams:
@@ -292,8 +292,8 @@ teams:
         description: Release managers for Istio 1.23
         members:
         - hzxuzhonghu
-        - thedebugger
         - mikemorris
+        - thedebugger        
   Repo Admins:
     description: Folks with admin permission on all repos.
     members:
