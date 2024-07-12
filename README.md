@@ -77,7 +77,7 @@ Unsuitable content
 See our [community page](https://istio.io/about/community/) for ways to get involved
 in our community.
 
-To dig deeper, check out the [architecture](https://istio.io/docs/concepts/what-is-istio/#architecture)
+To dig deeper, check out the [architecture](https://istio.io/latest/docs/ops/deployment/architecture/)
 and read some [design docs](./CONTRIBUTING.md#design-documents).
 
 If you're looking for something to do to get your feet wet working on Istio, look for GitHub issues
@@ -92,9 +92,9 @@ and insightful docs. Or maybe a cool blog post?
 
 ## Questions and issues
 
-If you've got questions or issues with using Istio, check our [help page](https://istio.io/help/)
+If you've got questions or issues with using Istio, check our [discussion board](https://github.com/istio/istio/discussions)
 and be sure to connect to our [community](https://istio.io/about/community/) where there's always
 someone ready to lend a hand.
 
 If you're a developer trying to hack on or use the Istio code, head to
-[contributors](https://discuss.istio.io/c/contributors) for help.
+#contributors on the [Istio Slack](https://slack.istio.io/) for help.

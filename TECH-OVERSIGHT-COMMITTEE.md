@@ -41,8 +41,7 @@ The TOC’s work includes:
 
 Artifact | Link
 ---|---
-Discussion Forum | [Forum](https://discuss.istio.io/c/technical-oversight-committee)
-Docs | [Folder](https://drive.google.com/corp/drive/folders/1-BLXbKg8mfnXbip4IThz4R4GH2PEsLZO)
+Docs | [Folder](https://drive.google.com/drive/folders/1-BLXbKg8mfnXbip4IThz4R4GH2PEsLZO)
 Meeting Notes | [Notes](https://docs.google.com/document/d/13lxJqtlaQhmV2EwsNnS6h-_O4pobZQZuMjrzOeMgVI0/edit#heading=h.ipnfbx7g04vg)
 Meeting Link | [Google Meet](https://meet.google.com/aof-rirb-ijs)
 Meeting Recordings | [YouTube](https://www.youtube.com/playlist?list=PL7wB27eZmdfc4YPa8y3hk8BG3r8INCpRo)
@@ -92,4 +91,4 @@ the success of the Istio community:
 
 ## Getting in touch
 
-If you'd like to reach out to the committee, please drop a note to [toc@discuss.istio.io](mailto:toc@discuss.istio.io).
+If you'd like to reach out to the committee, please join #toc-steering-questions on the [Istio Slack](https://slack.istio.io/).

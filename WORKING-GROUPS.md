@@ -10,31 +10,28 @@ Most community activity is organized into *working groups*.
 Working groups follow the [contributing](CONTRIBUTING.md) guidelines although each of these groups may operate a little differently depending on
 their needs and workflow.
 
-When the need arises, a new working group can be created, please post to [technical-oversight-committee](https://discuss.istio.io/c/technical-oversight-committee)
-working group if you think a new group is necessary.
+When the need arises, a new working group can be created. Please ask in #toc-steering-questions in the [Istio Slack](https://slack.istio.io/) if you think a new group is necessary.
 
 The working groups generate design docs which are kept in a shared Google Drive.
 Anybody can access the drive for reading and commenting. To get access simply join the
 [istio-team-drive-access@](https://groups.google.com/forum/#!forum/istio-team-drive-access) group.
-Once you've done that, head to the [Community Drive](https://drive.google.com/drive/folders/0ADmbrU7ueGOUUk9PVA) and
+Once you've done that, head to the [team drive](https://drive.google.com/drive/folders/1l_zqgBq_yfc1PfbJiWsFubXBtAz22sau) and
 behold all the docs.
+
+The below links to Slack require you to first be logged into Istio's Slack workspace. Please use [this link](https://slack.istio.io/) if you need to join.
 
 The current working groups are:
 
-| Group | Design Docs | Discussion Forum | Slack Channel | Description
-|-------|-------------|-------|-------|------------
-| Docs | [Folder](https://drive.google.com/drive/folders/16Alb6m30ypLbz3iVv2OTjpqUHO8NJIUv) | [Forum](https://discuss.istio.io/c/contributors/docs) | [#docs](https://istio.slack.com/messages/C50V5EATT/) | User docs, information architecture, istio.io infrastructure
-| Environments | [Folder](https://drive.google.com/drive/folders/16P5sCnSzEk204LHBKYTkC9jEmgzBJy6x) | [Forum](https://discuss.istio.io/c/environment) | [#environments](https://istio.slack.com/messages/C6KA8TTSS/) |  Raw VM support, Hybrid Mesh, Mac/Windows support, Cloud Foundry integration
-| Networking | [Folder](https://drive.google.com/drive/folders/16RDUAJj_LnJM83weyk0WSCeqgtTw8Ogz) | [Forum](https://discuss.istio.io/c/networking) | [#networking](https://istio.slack.com/messages/C38CF1PEC/) | Traffic Management, TCP Support, Additional L7 protocols, Proxy injection
-| Extensions and Telemetry | [Folder](https://drive.google.com/drive/folders/16Jl2ASNQ226h5XmXSAtxx78cs1iSEAYQ) | [Forum](https://discuss.istio.io/c/policies-and-telemetry) | [#extensions-telemetry](https://istio.slack.com/messages/C382V8Q92/) | WebAssembly based extensibility, Istio extensions for features such as Rate Limiting, Tracing, Monitoring, Logging
-| Product Security | [Folder](https://drive.google.com/drive/folders/16gnkbCgO18zkMIk_IHrE_QV2EFqFWe4R) | [Report a vulnerability](https://istio.io/about/security-vulnerabilities/) | | Product Security: Vulnerability, security guidelines, threats
-| Security | [Folder](https://drive.google.com/drive/folders/16eF1aoVnknX1vY853gEIPfoO2-i-FDcU) | [Forum](https://discuss.istio.io/c/security) | [#security](https://istio.slack.com/messages/C3TEGNZ7W/) | Service-to-service Auth, Identity/CA/SecretStore plugins, Identity Federation, End User Auth, Authority Delegation, Auditing
-| Test and Release |[Folder](https://drive.google.com/drive/folders/16M0Ba8uT6-1F71NARhddXDdnk-EE4jEn) | [Forum](https://discuss.istio.io/c/test-and-release) |[#test-and-release](https://istio.slack.com/messages/C6FCV6WN4/) | Build, test, release
-| User Experience | [UX](https://drive.google.com/drive/folders/16CplcqFZTT-5WXDkpi443-ly2RnnA3C5) [_Config (old)_](https://drive.google.com/drive/folders/16W9uDkzrKJM-E5R7_5TGz-PMsAkkoT1s) | [Forum](https://discuss.istio.io/c/UX) | [#user-experience](https://istio.slack.com/messages/CFTRP8NTW/) [#config](https://istio.slack.com/messages/C7KSV4AHJ/)| User experience across Istio, API and CLI guidelines and support
-
-_NOTE: Config working group responsibilities have been merged into User Experience._
-
-To join Istio's Slack workspace, please use [this link](https://slack.istio.io/).
+| Group | Design Docs | Slack Channel | Description
+|-------|-------------|---------------|------------
+| Docs | [Folder](https://drive.google.com/drive/folders/16Alb6m30ypLbz3iVv2OTjpqUHO8NJIUv) | [#docs](https://istio.slack.com/messages/C50V5EATT/) | User docs, information architecture, istio.io infrastructure
+| Environments | [Folder](https://drive.google.com/drive/folders/16P5sCnSzEk204LHBKYTkC9jEmgzBJy6x) | [#environments](https://istio.slack.com/messages/C6KA8TTSS/) |  Raw VM support, Hybrid Mesh, Mac/Windows support, Cloud Foundry integration
+| Networking | [Folder](https://drive.google.com/drive/folders/16RDUAJj_LnJM83weyk0WSCeqgtTw8Ogz) | [#networking](https://istio.slack.com/messages/C38CF1PEC/) | Traffic Management, TCP Support, Additional L7 protocols, Proxy injection
+| Extensions and Telemetry | [Folder](https://drive.google.com/drive/folders/16Jl2ASNQ226h5XmXSAtxx78cs1iSEAYQ) | [#extensions-telemetry](https://istio.slack.com/messages/C382V8Q92/) | WebAssembly based extensibility, Istio extensions for features such as Rate Limiting, Tracing, Monitoring, Logging
+| Product Security | [Folder](https://drive.google.com/drive/folders/16gnkbCgO18zkMIk_IHrE_QV2EFqFWe4R) | [Report a vulnerability](https://istio.io/about/security-vulnerabilities/) | Product Security: Vulnerability, security guidelines, threats
+| Security | [Folder](https://drive.google.com/drive/folders/16eF1aoVnknX1vY853gEIPfoO2-i-FDcU) | [#security](https://istio.slack.com/messages/C3TEGNZ7W/) | Service-to-service Auth, Identity/CA/SecretStore plugins, Identity Federation, End User Auth, Authority Delegation, Auditing
+| Test and Release |[Folder](https://drive.google.com/drive/folders/16M0Ba8uT6-1F71NARhddXDdnk-EE4jEn) | [#test-and-release](https://istio.slack.com/messages/C6FCV6WN4/) | Build, test, release
+| User Experience | [UX](https://drive.google.com/drive/folders/16CplcqFZTT-5WXDkpi443-ly2RnnA3C5) | [#user-experience](https://istio.slack.com/messages/CFTRP8NTW/) | User experience across Istio, API and CLI guidelines and support
 
 ## Working group meetings
 
@@ -79,7 +76,3 @@ Each working group has one or more leads which coordinate the activities of the 
 &nbsp;                                                                               | [Lei Tang](https://github.com/lei-tang)            | Google     | Security, Extensions and Telemetry
 <img width="30px" src="https://avatars1.githubusercontent.com/u/10537847?s=400&v=4"> | [Eric Van Norman](https://github.com/ericvn)       | IBM        | Test and Release
 <img width="30px" src="https://avatars0.githubusercontent.com/u/1016047?s=400&v=4">  | [Lizan Zhou](https://github.com/lizan)             | Aviatrix   | Networking - Data Plane, Security
-
-## Getting in touch
-
-If you'd like to reach out to the working group leads, please drop a note to [wg-leads@discuss.istio.io](mailto:wg-leads@discuss.istio.io).

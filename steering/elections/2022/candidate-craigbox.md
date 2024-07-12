@@ -23,7 +23,7 @@ I have worked on Cloud Native since joining Google, supporting Kubernetes since 
 - been a [top 10 contributor](https://istio.teststats.cncf.io/d/9/developer-activity-counts-by-repository-group-table?orgId=1&var-period_name=Last%20year&var-metric=contributions&var-repogroup_name=All&var-country_name=All) (last 12 months) with ~1,000 PR reviews total
 - served as Program Committee chair for IstioCon 2021 and mentor for PC chair for IstioCon 2022
 - increased support for our Chinse community by setting up dedicated IstioCon sessions in China's time zone, supporting Chinese documentation efforts and keynoting the [Istio Community Meetup in China](https://istio.io/latest/blog/2021/istio-community-meetup-china/)
-- administered the Istio Slack and led moderation for [discuss.istio.io](https://discuss.istio.io/)
+- administered the Istio Slack and led moderation for discuss.istio.io
 - represented the Istio project as Program Committee chair for multiple ServiceMeshCon events, including [the upcoming event](https://servicemeshconna22.sched.com/)
 - hosted the [Kubernetes Podcast](https://kubernetespodcast.com/), where I have featured many Istio team members: including [Justin and Ethan](https://kubernetespodcast.com/episode/189-ambient-mesh/), [Mitch](https://kubernetespodcast.com/episode/177-istiocon/), [Lin](https://kubernetespodcast.com/episode/086-invention-ibm-istio/), [Louis](https://kubernetespodcast.com/episode/058-istio-1.2/) and [Dan and Jasmine](https://kubernetespodcast.com/episode/015-istio/)
 
