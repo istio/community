@@ -50,13 +50,13 @@ part of the project.
 ## Design documents
 
 Any substantial design deserves a design document. Design documents are written with Google Docs and
-should be shared with the community by adding the doc to our [shared Drive](https://drive.google.com/corp/drive/folders/0ADmbrU7ueGOUUk9PVA)
+should be shared with the community by adding the doc to our [team drive](https://drive.google.com/drive/folders/1l_zqgBq_yfc1PfbJiWsFubXBtAz22sau)
 and sending a note to the appropriate working group to let people know the doc is there. To get write access
 to the drive, you'll need to be a [member](ROLES.md#member) of the Istio organization.
 
-Anybody can access the shared Drive for reading. To get access to comment, join the
+Anybody can access the team drive for reading. To get access to comment, join the
 [istio-team-drive-access@](https://groups.google.com/forum/#!forum/istio-team-drive-access) group.
-Once you've done that, head to the [shared Drive](https://drive.google.com/corp/drive/folders/0ADmbrU7ueGOUUk9PVA) and
+Once you've done that, head to the [team drive](https://drive.google.com/drive/folders/1l_zqgBq_yfc1PfbJiWsFubXBtAz22sau) and
 behold all the docs.
 
 When documenting a new design, we recommend a 2-step approach:

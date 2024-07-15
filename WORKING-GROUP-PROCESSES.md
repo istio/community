@@ -47,7 +47,7 @@ See [below](#running-a-working-group) for information on the responsibilities of
 
 * **Prepare a Roadmap**. Create a preliminary 3 month roadmap for what the working group would focus on.
 
-* **Send an Email**. Write up an email with your charter, nominated leads, and roadmap, and post it to [technical-oversight-committee](https://discuss.istio.io/c/technical-oversight-committee).
+* **Send an Email**. Write up an email with your charter, nominated leads, and roadmap, and post it to #toc-steering-questions on the [Istio Slack](https://slack.istio.io/).
 The technical oversight committee will evaluate the request and decide whether the working group should be
 formed, whether it should be merely a subgroup of an existing working group, or whether it should be subsumed by an existing working group.
 
@@ -57,17 +57,15 @@ Once approval has been granted by the technical oversight committee to form a wo
 steps to establish the working group:
 
 * **Create a Google Drive Folder**. Create a folder to hold your working group documents within this parent
-[folder](https://drive.google.com/corp/drive/u/0/folders/0B7huSKYaiUN5LVdBeElXUGt3UGs). Call your folder "GROUP_NAME".
+[folder](https://drive.google.com/drive/folders/15y-2OIcjP9DNF7WLvHL0Hyn_XXxaYoOm). Call your folder "GROUP_NAME".
 
 * **Create a Roadmap Document**. Create a document in the above folder and call it "GROUP_NAME Group Roadmap". Put your initial
 roadmap in the document.
 
-* **Create a Discourse Category**. Create a new category on <https://discuss.istio.io> and give it the name of your working group.
-
 * **Register the Working Group**. Go to [WORKING-GROUPS.md](https://github.com/istio/community/blob/master/WORKING-GROUPS.md) and
 add your working group name, the names of the leads, the working group charter, and a link to the meeting you created.
 
-* **Announce your Working Group**. Post a note [contributors](https://discuss.istio.io/c/contributors)
+* **Announce your Working Group**. Post a note to #contributors on the Istio Slack (https://slack.istio.io/)
 to announce your new working group. Include your charter in the post.
 
 * **Attend the Combined Working Group Meeting**. Check the meeting agenda to verify if something was added relative to your working group.
@@ -77,8 +75,7 @@ Congratulations, you now have a fully formed working group!
 
 ### Dissolving a working group
 
-Some working groups are ephemeral or naturally reach the end of their useful life. Working group leads can petition to dissolve their working
-groups by posting to [technical-oversight-committee](https://discuss.istio.io/c/technical-oversight-committee). The
+Some working groups are ephemeral or naturally reach the end of their useful life. Working group leads can petition to dissolve their working groups in a TOC meeting. The
 technical oversight committee also reserves the right to dissolve or recharter working groups over time as necessary.
 
 ## Leads

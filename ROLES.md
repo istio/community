@@ -36,7 +36,7 @@ privileges.
       <td>
           <p>Outside collaborator of the GitHub Istio organization</p>
           <p>Can submit PRs</p>
-          <p>Read and commenting permission on the Istio Team drive</p>
+          <p>Read and commenting permission on the Istio team drive</p>
       </td>
     </tr>
     <tr>
@@ -47,7 +47,7 @@ privileges.
       </td>
       <td>
           <p>Member of the GitHub Istio organization</p>
-          <p>Edit permission on the Istio Team drive</p>
+          <p>Edit permission on the Istio team drive</p>
           <p>Triage permission on the Istio repos, allowing issues to be manipulated.</p>
       </td>
     </tr>
@@ -141,7 +141,7 @@ the area before being accepted into the source base.
 
 * Has pushed at least one PR to the Istio repositories within the last 6 months.
 
-* Subscribed to [contributors](https://discuss.istio.io/c/contributors)
+* Member of #contributors on the [Istio Slack](https://slack.istio.io)
 
 * Actively contributing to 1 or more areas.
 
