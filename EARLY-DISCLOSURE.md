@@ -46,7 +46,7 @@ will be removed from the early disclosure list.
 | istio-security-reports@f5.com | F5 Networks |
 | istio-security-vulnerability-notifications@google.com | Google |
 | argoprod@us.ibm.com | IBM |
-| kube-security@microsoft.com | Microsoft |
+| envoy-security@microsoft.com | Microsoft |
 | istio-security@redhat.com | RedHat |
 | cve@solo.io | Solo.io |
 | istio-security@tetrate.io | Tetrate |
