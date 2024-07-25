@@ -11,7 +11,7 @@ access.
 | [Google Analytics](https://analytics.google.com/analytics/web/) | Analytics for *istio.io | [craigbox](https://github.com/craigbox)
 | [Google Calendar - Community Events](https://calendar.google.com/calendar/embed?src=i10ogf58krfbrsjai5qi16g4do%40group.calendar.google.com&ctz=America%2FLos_Angeles) | Community event scheduling | [macruzbar](https://github.com/macruzbar)
 | [Google Calendar - Working Groups](https://calendar.google.com/calendar/embed?src=4uhe8fi8sf1e3tvmvh6vrq2dog%40group.calendar.google.com&ctz=America%2FLos_Angeles) | Working group scheduling | All working group leads
-| [Google Cloud DNS](https://cloud.google.com/dns) | DNS hosting for *istio.io | [davidhauck](https://github.com/davidhauck)
+| [Google Cloud DNS](https://cloud.google.com/dns) | DNS hosting for *istio.io | [craigbox](https://github.com/craigbox), [howardjohn](https://github.com/howardjohn)
 | [Google Custom Search Engine](https://cse.google.com/cse/) | Search engine for *istio.io | [craigbox](https://github.com/craigbox), [davidhauck](https://github.com/davidhauck)
 | [Google Groups](https://googlegroups.com) | Mailing lists | [craigbox](https://github.com/craigbox), [thisisnotapril](https://github.com/thisisnotapril), [louiscryan](https://github.com/louiscryan)
 | [Google Search Console](https://search.google.com/search-console/about) | Search engine analytics for *istio.io | [davidhauck](https://github.com/davidhauck)
