@@ -109,6 +109,7 @@ teams:
             description: Maintainers of the Chinese documentation.
             members:
               - craigbox
+              - dhawton
               - ericvn
               - frankbu
               - kebe7jun
