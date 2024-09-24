@@ -87,7 +87,7 @@ The TOC's responsibilities include:
 ### Vacancies
 
 1. In the event that a TOC member vacates their seat during their term, a by-election shall be conducted to fill the position for the remainder of the term in accordance with the regular qualification and election procedures.
-2. The Steering Committee may initiate a vote of no confidence in a TOC member. The member shall be removed if the motion is approved by at least 60% of the Steering Committee seats. The vacated seat shall be filled through the regular vacancy process.
+2. The Steering Committee may initiate a vote of no confidence in a TOC member. The member shall be removed if the motion is approved by at least 60% of the Steering Committee seats. The position shall be filled for the remainder of the term through the regular vacancy process.
 
 ## Meetings & process
 
