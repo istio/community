@@ -255,10 +255,7 @@ teams:
   Release Managers:
     description: Current set of release managers.
     members:
-      - aryan16
-      - hanxiaop
       - hzxuzhonghu
-      - ksubrmnn
       - mikemorris
       - thedebugger
       - zirain
@@ -266,24 +263,6 @@ teams:
       .default: write
     teams:
       # When changing, move old EOL versions to emeritus.yaml.
-      Release Managers - 1.19:
-        description: Release managers for Istio 1.19
-        members:
-        - aryan16
-        - hanxiaop
-        - ksubrmnn
-      Release Managers - 1.20:
-        description: Release managers for Istio 1.20
-        members:
-        - aryan16
-        - hanxiaop
-        - zirain
-      Release Managers - 1.21:
-        description: Release managers for Istio 1.21
-        members:
-        - aryan16
-        - thedebugger
-        - zirain
       Release Managers - 1.22:
         description: Release managers for Istio 1.22
         members:
