@@ -17,8 +17,8 @@ The TOC's responsibilities include:
   * Resolving technical issues, technical disagreements and escalations within the project.
   * Setting the priorities of individual releases to ensure coherency and proper sequencing.
   * Declaring [maturity levels for Istio features](https://istio.io/latest/docs/releases/feature-stages/).
-  * Approving the creation and dissolution of working groups and approve leadership changes of working groups.
-  * Creating proposals based on TOC discussions and bring them to the relevant working groups for discussion.
+  * Approving the creation and dissolution of working groups and approving leadership changes of working groups.
+  * Creating proposals based on TOC discussions and bringing them to the relevant working groups for discussion.
   * Approving the creation/deletion of GitHub repositories, along with other high-level administrative issues around GitHub and our other tools.
 
 **Maintaining a Happy, Healthy Community**
