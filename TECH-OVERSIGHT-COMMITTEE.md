@@ -14,7 +14,7 @@ The TOC's responsibilities include:
 **Technical Project Oversight, Direction & Delivery**
 
   * Setting the overall technical direction and roadmap of the project.
-  * Resolve technical issues, technical disagreements and escalations within the project.
+  * Resolving technical issues, technical disagreements and escalations within the project.
   * Setting the priorities of individual releases to ensure coherency and proper sequencing.
   * Declaring [maturity levels for Istio features](https://istio.io/latest/docs/releases/feature-stages/).
   * Approving the creation and dissolution of working groups and approve leadership changes of working groups.
