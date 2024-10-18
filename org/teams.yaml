@@ -310,11 +310,9 @@ teams:
   Technical Oversight Committee:
     description: Members of the Istio TOC.
     members:
-      - ericvn
       - howardjohn
       - linsun
       - louiscryan
-      - nrjpoddar
       - therealmitchconnors
     repos:
       .default: write
