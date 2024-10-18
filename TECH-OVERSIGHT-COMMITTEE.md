@@ -129,6 +129,7 @@ the success of the Istio project:
 * Brian Avery
 * Sven Mawson
 * Eric Van Norman
+* Neeraj Poddar
 
 ## Getting in touch
 
