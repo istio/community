@@ -257,11 +257,11 @@ teams:
   Release Managers:
     description: Current set of release managers.
     members:
+      - dhawton
       - hzxuzhonghu
       - mikemorris
       - thedebugger
       - zirain
-      - dhawton
     repos:
       .default: write
     teams:
