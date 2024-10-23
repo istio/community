@@ -66,7 +66,7 @@ teams:
       - zhlsunshine
       - zirain
     repos:
-        .default: write
+      .default: write
     teams:
       Operations Maintainers:
         description: Maintainers of Operations.
@@ -268,21 +268,21 @@ teams:
       Release Managers - 1.22:
         description: Release managers for Istio 1.22
         members:
-        - hzxuzhonghu
-        - thedebugger
-        - zirain
+          - hzxuzhonghu
+          - thedebugger
+          - zirain
       Release Managers - 1.23:
         description: Release managers for Istio 1.23
         members:
-        - hzxuzhonghu
-        - mikemorris
-        - thedebugger
+          - hzxuzhonghu
+          - mikemorris
+          - thedebugger
       Release Managers - 1.24:
         description: Release managers for Istio 1.24
         members:
-        - hzxuzhonghu
-        - mikemorris
-        - dhawton       
+          - dhawton
+          - hzxuzhonghu
+          - mikemorris
   Repo Admins:
     description: Folks with admin permission on all repos.
     members:
