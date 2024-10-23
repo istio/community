@@ -276,7 +276,13 @@ teams:
         members:
         - hzxuzhonghu
         - mikemorris
-        - thedebugger        
+        - thedebugger
+      Release Managers - 1.24:
+        description: Release managers for Istio 1.24
+        members:
+        - hzxuzhonghu
+        - mikemorris
+        - dhawton       
   Repo Admins:
     description: Folks with admin permission on all repos.
     members:
