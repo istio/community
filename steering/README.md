@@ -22,7 +22,7 @@ See [CHARTER.md](CHARTER.md).
 | | Jamie Longmuir | Red Hat | [longmuir](https://github.com/longmuir) | Contribution seat
 | <img width="30px" src="https://avatars.githubusercontent.com/u/1531662?v=4"> | Keith Mattix | Microsoft | [keithmattix](https://github.com/keithmattix) | Community seat
 | <img width="30px" src="https://avatars.githubusercontent.com/u/915822?v=4"> | Justin Pettit | Google | [justinpettit](https://github.com/justinpettit) | Contribution seat
-| | Louis Ryan | Solo.io | [louiscryan](https://github.com/louiscryan) | Contribution seat
+| <img width="30px" src="https://pbs.twimg.com/profile_images/838075233445695489/o2eAYJAV_400x400.jpg"> | Louis Ryan | Solo.io | [louiscryan](https://github.com/louiscryan) | Contribution seat
 <img width="30px" src="https://avatars.githubusercontent.com/u/13374016?v=4"> | Zhonghu Xu | Huawei | [hzxuzhonghu](https://github.com/hzxuzhonghu) | Contribution seat
 
 ## Contribution Seats
