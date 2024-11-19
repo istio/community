@@ -168,3 +168,9 @@ release-managers:
     - aryan16
     - thedebugger
     - zirain
+  Release Managers - 1.22:
+    description: Release managers for Istio 1.22
+    members:
+    - hzxuzhonghu
+    - thedebugger
+    - zirain
