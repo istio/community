@@ -263,6 +263,7 @@ teams:
     members:
       - dhawton
       - hzxuzhonghu
+      - kfaseela
       - mikemorris
       - thedebugger
       - zirain
@@ -287,6 +288,12 @@ teams:
         members:
           - dhawton
           - hzxuzhonghu
+          - mikemorris
+      Release Managers - 1.25:
+        description: Release managers for Istio 1.25
+        members:
+          - dhawton
+          - kfaseela
           - mikemorris
   Repo Admins:
     description: Folks with admin permission on all repos.
