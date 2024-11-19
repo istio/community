@@ -265,6 +265,7 @@ teams:
       - kfaseela
       - mikemorris
       - thedebugger
+      - zirain
     repos:
       .default: write
     teams:
