@@ -64,7 +64,7 @@ Each working group has one or more leads which coordinate the activities of the 
 &nbsp;                                                                               | Name                                               | Company    | Groups
 -------------------------------------------------------------------------------------|----------------------------------------------------|------------|-------
 &nbsp;                                                                               | [Rama Chavali](https://github.com/ramaraochavali)  | Salesforce | Networking - Control Plane
-<img width="30px" src="https://avatars3.githubusercontent.com/u/821270?s=80&v=4">    | [Mitch Connors](https://github.com/therealmitchconnors) | Aviatrix   | User Experience
+<img width="30px" src="https://avatars3.githubusercontent.com/u/821270?s=80&v=4">    | [Mitch Connors](https://github.com/therealmitchconnors) | Microsoft   | User Experience
 <img width="30px" src="https://avatars.githubusercontent.com/u/19473391?s=400&v=4">  | [Greg Hanson](https://github.com/GregHanson)       | Solo.io    | Product Security
 &nbsp;                                                                               | [Jianpeng He](https://github.com/zirain)           | Tetrate    | Extensions and Telemetry
 <img width="30px" src="https://avatars1.githubusercontent.com/u/623453?s=400&v=4">   | [John Howard](https://github.com/howardjohn)       | Solo.io    | Networking
