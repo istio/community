@@ -345,8 +345,8 @@ teams:
     members:
       - costinm # Env
       - ericvn # T&R
-      - GregHanson # PSWG
       - howardjohn # Control Plane
+      - jaellio # PSWG
       - justinpettit # PSWG
       - lei-tang # Security, E&T
       - lizan # Data Plane, Security
