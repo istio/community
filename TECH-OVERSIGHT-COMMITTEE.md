@@ -80,8 +80,8 @@ The TOC's responsibilities include:
 
 6. Candidates must submit a written application, including a self-assessment against the qualification criteria. The application shall be forwarded to the TOC for confidential feedback and subsequently returned to the Steering Committee.
 7. The Steering Committee shall individually vote on each candidate to determine their suitability for serving on the TOC. An affirmative vote of at least 60% of the seats is required for a candidate to be approved.
-    a. If the number of candidates is fewer than or equal to the number of open seats, this vote shall serve as the election.
-    b. If the number of candidates exceeds the number of open seats, this vote shall qualify candidates to proceed to a second round of voting.
+   * If the number of candidates is fewer than or equal to the number of open seats, this vote shall serve as the election.
+   * If the number of candidates exceeds the number of open seats, this vote shall qualify candidates to proceed to a second round of voting.
 8. Should there be more qualified candidates than open TOC seats, the Steering Committee shall select the winning candidates via a Condorcet election.
 
 ### Vacancies
