@@ -248,17 +248,10 @@ teams:
       - kfaseela
       - mikemorris
       - thedebugger
-      - zirain
     repos:
       .default: write
     teams:
       # When changing, move old EOL versions to emeritus.yaml.
-      Release Managers - 1.22:
-        description: Release managers for Istio 1.22
-        members:
-          - hzxuzhonghu
-          - thedebugger
-          - zirain
       Release Managers - 1.23:
         description: Release managers for Istio 1.23
         members:
