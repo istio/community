@@ -1,0 +1,130 @@
+# 2025 Steering Committee Election
+##################################
+#
+# The process for determining eligible voters can be found in
+# https://github.com/istio/community/tree/master/steering/elections/2025
+#
+# If you feel you have standing in the Istio community but are not listed here, 
+# please fill in the voting exception form (https://forms.gle/WRgXEwdqR166eghTA). 
+# If your application is approved by a simple majority vote of the Steering Committee,
+# you will be added.
+#
+# History:
+# 2025-02-12: List generated from the [members](/org/members.yaml) file, checking for at 
+#   least one merged PR as noted by devstats in the period 12 Feb 2024 to 12 Feb 2025.
+#   List also includes Steering Committee members who are deemed to have standing.
+#   https://docs.google.com/spreadsheets/d/1C4edZEx9PPTApmLL3OmOI5LsGpmkgvWQvQY5IkCndww/edit?gid=663020041#gid=663020041
+#
+eligible_voters:
+- abhijoglekar
+- adamkorcz
+- adilmp1
+- andygol
+- anirbannandi
+- antonioberben
+- arhell
+- arijitvt
+- arjayara01
+- aryan16
+- asa3311
+- bincherry
+- bleggett
+- bochengchu
+- briansonnenberg
+- clarkjohnd
+- costinm
+- craigbox
+- daixiang0
+- danehans
+- dddddai
+- deveshkandpal1224
+- dgn
+- dhawton
+- dio
+- dwj300
+- ericdbishop
+- ericvn
+- find-arka
+- frankbu
+- hanxiaop
+- hemendrateli
+- howardjohn
+- hzxuzhonghu
+- ilrudie
+- ingwonsong
+- irisdingbj
+- jacob-delgado
+- jaellio
+- jessicegao
+- jewertow
+- jiecloud
+- jjamroga
+- jmazzitelli
+- jmcshane
+- joaopgrassi
+- johnzheng1975
+- jongwooo
+- justinpettit
+- juwon8891
+- jwendell
+- kanurag94
+- kebe7jun
+- keithmattix
+- kfaseela
+- ksubrmnn
+- kuromesi
+- kyessenov
+- lei-tang
+- leosarra
+- lgadban
+- linsun
+- liu-xg
+- lizhencheng9527
+- longmuir
+- louiscryan
+- luksa
+- m4ver1k
+- mayuan-02
+- mike-weiner
+- mikemorris
+- morepork
+- morrislaw
+- my-git9
+- nacx
+- nicole-lihui
+- nilekhc
+- nshankar13
+- peterj
+- platformlc
+- ramaraochavali
+- rcernich
+- richincapie
+- rootsongjc
+- rsalmond
+- rudrakhp
+- saiskee
+- sanchit-20
+- sergii-ssh
+- shuayb1
+- specialyang
+- srampal
+- sridhargaddam
+- srinivassurishetty
+- sschepens
+- stevenctl
+- stevenjin8
+- thedebugger
+- therealmitchconnors
+- tjons
+- unicell
+- visheshtha
+- whitneygriffith
+- wilsonwu
+- winbobob
+- windsonsea
+- wulianglongrd
+- ydfu
+- yuval-k
+- ZackButcher
+- zengyuxing007
+- zirain
