@@ -31,7 +31,7 @@ Eligibility for candidacy is defined in the [Steering Committee charter](../../C
 Members from **Solo.io**, **Microsoft**, **Huawei**, **Google** and **Tetrate** are therefore **ineligible** to stand in this election.
 
 If you want to stand for election, open a PR against the [istio/community repository](https://github.com/istio/community) to include
-your candidate profile in the `/steering/elections/2025` folder, with the file named in the format `candidate-yourname.md`. We have included [a template file](nomination-template.md) as an example. This profile should include:
+your candidate profile in the `/steering/elections/2025` folder, with the file named in the format `candidate-githubid.md`. We have included [a template file](nomination-template.md) as an example. This profile should include:
 
 - Your name
 - Your GitHub ID
