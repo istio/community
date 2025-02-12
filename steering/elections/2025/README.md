@@ -68,7 +68,7 @@ their profile.
 Once the vote begins, you will be able to rank the candidates in the order of
 your preference, and submit your ballot.  When you submit, you will be offered
 a chance to set a password, which is required if you want the ability to return
-and re-cast your ballot before August 13th.
+and re-cast your ballot before March 9th.
 
 All data is stored on cloud infrastructure maintained by the election officers,
 and is not shared with third parties. Individual ballot data is encrypted, and
