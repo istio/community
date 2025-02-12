@@ -22,7 +22,7 @@ Some direct responsibilities of steering members to consider as you are deciding
 | February 23        | Candidate bios and voting exception forms due by 2359 UTC (5pm PDT) |
 | February 24        | Election begins via Elekto UI                                       |
 | March 9            | Election closes at 2359 UTC (5pm PDT)                               |
-| week of March 104  | Winners announced                                                   |
+| week of March 10   | Winners announced                                                   |
 
 ## Candidacy process
 
