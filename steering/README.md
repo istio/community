@@ -31,7 +31,7 @@ For February 2024 to January 2025, the nine Contribution Seats were [allocated](
 
 ## Elections
 
-Every year, four members of the Steering Committee are voted on by the community. Check out the [2023 election guide](elections/2023/).
+Every year, four members of the Steering Committee are voted on by the community. Check out the [2025 election guide](elections/2025/).
 
 ## Meetings
 
