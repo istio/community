@@ -1,0 +1,21 @@
+-------------------------------------------------------------
+name: Faseela K
+ID: kfaseela
+info:
+  - employer: Ericsson Software Technology
+  - slack: Faseela K
+-------------------------------------------------------------
+
+### About me
+
+I am a contributor to Istio across multiple areas including networking, security, documentation, integration tests, and marketing for more than three years, and is currently a Documentation, Test and Release Maintainer for the project. I have served in the Istio Steering Committee since 2022, and I am the release manager for the upcoming Istio releases including Istio 1.25. I am the co-chair for the upcoming KubeCon EU + NA 2025, responsible for curating high quality technical content for the event. I have served as the event co-chair for both the IstioDays co-located with KubeCon in 2023 as well as IstioCon virtual, and have been a Program Committee member at a number of KubeCons and IstioDays. I have given talks and workshops at several conferences evangelizing CNCF projects, including the recent KubeCons, Open Networking Summit, Opensource Summit, Grace Hopper Conference etc. I have also driven the work for publishing the Istio Phippy character - Izzy to the cloud-native world and co-authored the Istio Phippy Book - “Izzy saves the Birthday”, which was launched at KubeCon NA, 2024. I have worked together with the CNCF Training and Certification team in shaping the ICA (Istio Certified Associate) exam which was launched in 2024. I am also the winner of the prestigious CNCF “Chop Wood Carry Water” award for the year 2023 - a recognition given to community members helping behind the scenes, dedicating countless hours to open source projects, hosting and building community meetups, and often completing thankless tasks for the benefit of the community.
+
+I am currently serving as a CNCF Ambassador, and part of the cncf-women community to envision ways to empower and mentor more female contributors to the technical stream of the CNCF projects. I have also recently started to be involved in the CNCF TAG Contributor Strategy with focus on the mentoring working group. I am the organizer of the new CNCG(Cloud Native Community Group) in Aachen, Germany - Cloud Native Aachen.
+
+I have played a pivotal role in collaborating with the Kubernetes supply chain security team, to integrate the Kubernetes/bom utility for use by external projects like Istio. I am proud of being involved in the 5G transformation of Ericsson, designing Cloud Native Network Functions, bridging the gap between telco and opensource, which enabled the telecom industry to begin its journey to becoming Cloud Native.  I also had the privilege to mentor students as part of the LFX program, which I consider as one of the most fulfilling experiences. Some of my mentees have later been able to travel to KubeCons to present their work, and later been actively involved in CNCF projects as core contributors.
+
+I have been a speaker at various previous KubeCon, IstioCon and other events, and have also conducted several sessions speaking about ServiceMesh and Istio in specific. I am a key member of the Telco 5G Transformation Team in my organization, and my focus is on successfully including Istio in our 5G journey!
+
+### Why I'm running
+
+I would like to continue representing the voice of Telco users in the Istio Community by running in this election. Though Istio has a great team leading from the forefront, I believe 5G Transofrmation is one of the major areas where Istio could play a key role, and it is quite important to represent and steer this journey at an organizational level, including the recent Ambient Mesh advancements. I have been an opensource evangelist trying to make opensource reach more and more people through University presentations, conferences, free workshops, and student mentoring. I have also served as a LinuxFoundation mentor for University Students. By being in the Steering committee, my goal would be to bring more traction for Istio among new comers, students, and of course 5G Telco users, by making our message to market more visible. I have been actively supporting the "Women in Istio" community by offering all technical/non-technical support, and would love to continue doing that.
