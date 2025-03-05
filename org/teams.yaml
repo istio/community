@@ -14,7 +14,6 @@ teams:
       - amjain-vmware
       - andream12345
       - aryan16
-      - bleggett
       - costinm
       - craigbox
       - dgn
@@ -70,7 +69,6 @@ teams:
       WG - Docs Maintainers:
         description: Maintainers of the Docs working group.
         members:
-          - bleggett
           - craigbox
           - dhawton
           - ericvn
@@ -91,7 +89,6 @@ teams:
           WG - Docs  Maintainers/English:
             description: Maintainers of the English documentation.
             members:
-              - bleggett
               - craigbox
               - dhawton
               - ericvn
@@ -119,7 +116,6 @@ teams:
           WG - Docs Maintainers/Infra:
             description: Maintainers of the doc build & site infrastructure
             members:
-              - bleggett
               - craigbox
               - dhawton
               - ericvn
@@ -148,7 +144,6 @@ teams:
       WG - Networking Maintainers:
         description: Maintainers for the Networking working group
         members:
-          - bleggett
           - costinm
           - GregHanson
           - hanxiaop
@@ -175,7 +170,6 @@ teams:
           WG - Networking Maintainers/Ztunnel:
             description: Maintainers of Ztunnel.
             members:
-              - bleggett
               - howardjohn
               - hzxuzhonghu
               - ilrudie
