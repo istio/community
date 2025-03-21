@@ -267,12 +267,14 @@ teams:
   Repo Admins:
     description: Folks with admin permission on all repos.
     members:
+      - costinm
       - howardjohn
       - istio-policy-bot
       - istio-release-robot
       - istio-testing
+      - keithmattix
       - linsun
-      - nrjpoddar
+      - louiscryan
       - therealmitchconnors
     repos:
       .default: admin
