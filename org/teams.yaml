@@ -279,19 +279,19 @@ teams:
   Steering Committee:
     description: members of Istio Steering Committee
     members:
-      - abhijoglekar
-      - arjayara01
       - craigbox
+      - howardjohn
       - hzxuzhonghu
-      - irisdingbj
+      - ilevine
       - justinpettit
-      - kebe7jun
       - keithmattix
       - kfaseela
-      - longmuir
+      - linsun
+      - louiscryan
       - louiscryan
       - rcernich
-      - therealmitchconnors
+      - wilsonwu
+      - ZackButcher
     repos:
       .default: write
   Technical Oversight Committee:
