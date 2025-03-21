@@ -272,7 +272,9 @@ teams:
       - istio-release-robot
       - istio-testing
       - linsun
-      - nrjpoddar
+      - keithmattix
+      - louiscryan
+      - costinm
       - therealmitchconnors
     repos:
       .default: admin
