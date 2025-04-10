@@ -37,8 +37,8 @@ func isSorted(list []string) bool {
 	return sort.StringsAreSorted(items)
 }
 
-func normalize(s sets.String) sets.String {
-	out := sets.String{}
+func normalize(s sets.Set[string]) sets.Set[string] {
+	out := sets.Set[string]{}
 	for i := range s {
 		out.Insert(NormLogin(i))
 	}
@@ -52,18 +52,18 @@ func NormLogin(login string) string {
 
 // testTeamMembers ensures that a user is not a maintainer and member at the same time,
 // there are no duplicate names in the list and all users are org members.
-func testTeamMembers(teams map[string]org.Team, admins sets.String, orgMembers sets.String) []error { //nolint:unparam // admins
+func testTeamMembers(teams map[string]org.Team, admins sets.Set[string], orgMembers sets.Set[string]) []error { //nolint:unparam // admins
 	var errs []error
 	for teamName, team := range teams {
-		teamMaintainers := normalize(sets.NewString(team.Maintainers...))
-		if len(teamMaintainers.List()) > 0 {
+		teamMaintainers := normalize(sets.New(team.Maintainers...))
+		if len(teamMaintainers.UnsortedList()) > 0 {
 			errs = append(errs, fmt.Errorf("all users should be under members in %v", teamName))
 		}
-		teamMembers := normalize(sets.NewString(team.Members...))
+		teamMembers := normalize(sets.New(team.Members...))
 
 		// check if all are org members
 		if missing := teamMembers.Difference(orgMembers); len(missing) > 0 {
-			errs = append(errs, fmt.Errorf("the following members of team %s are not parent team members: %s", teamName, strings.Join(missing.List(), ", ")))
+			errs = append(errs, fmt.Errorf("the following members of team %s are not parent team members: %s", teamName, strings.Join(missing.UnsortedList(), ", ")))
 		}
 
 		// check if lists are sorted
@@ -133,13 +133,13 @@ func TestIstioOrg(t *testing.T) {
 	if err != nil {
 		t.Fatal(err)
 	}
-	members := normalize(sets.NewString(cfg.Members...))
-	admins := normalize(sets.NewString(cfg.Admins...))
+	members := normalize(sets.New(cfg.Members...))
+	admins := normalize(sets.New(cfg.Admins...))
 	allOrgMembers := members.Union(admins).Union(members)
 
-	requiredRobots := sets.NewString("istio-testing", "googlebot")
+	requiredRobots := sets.New("istio-testing", "googlebot")
 	if !admins.IsSuperset(requiredRobots) {
-		t.Errorf("Missing required robots as admins: %v", requiredRobots.List())
+		t.Errorf("Missing required robots as admins: %v", requiredRobots.UnsortedList())
 	}
 
 	if !isSorted(cfg.Members) {
