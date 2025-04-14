@@ -264,6 +264,11 @@ teams:
           - dhawton
           - kfaseela
           - mikemorris
+      Release Managers - 1.26:
+        description: Release managers for Istio 1.26
+        members:
+          - dhawton
+          - kfaseela
   Repo Admins:
     description: Folks with admin permission on all repos.
     members:
