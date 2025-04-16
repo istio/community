@@ -242,6 +242,7 @@ teams:
       - kfaseela
       - mikemorris
       - thedebugger
+      - grnmeira
     repos:
       .default: write
     teams:
