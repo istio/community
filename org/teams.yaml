@@ -22,6 +22,7 @@ teams:
       - ericvn
       - frankbu
       - GregHanson
+      - grnmeira
       - hanxiaop
       - howardjohn
       - hzxuzhonghu
@@ -215,6 +216,7 @@ teams:
         members:
           - dhawton
           - ericvn
+          - grnmeira
           - howardjohn
           - jacob-delgado
           - johnma14
@@ -238,6 +240,7 @@ teams:
     description: Current set of release managers.
     members:
       - dhawton
+      - grnmeira
       - hzxuzhonghu
       - kfaseela
       - mikemorris
@@ -268,6 +271,7 @@ teams:
         description: Release managers for Istio 1.26
         members:
           - dhawton
+          - grnmeira
           - kfaseela
   Repo Admins:
     description: Folks with admin permission on all repos.
