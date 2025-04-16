@@ -269,6 +269,7 @@ teams:
         members:
           - dhawton
           - kfaseela
+          - grnmeira
   Repo Admins:
     description: Folks with admin permission on all repos.
     members:
