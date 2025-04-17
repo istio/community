@@ -66,6 +66,7 @@ teams:
         members:
           - dhawton
           - howardjohn
+          - kfaseela
       WG - Docs Maintainers:
         description: Maintainers of the Docs working group.
         members:
