@@ -43,7 +43,6 @@ will be removed from the early disclosure list.
 | Email		| Organization	|
 | ------------- |:-------------:|
 | tanzu.psirt@broadcom.com | Broadcom |
-| istio-security-reports@f5.com | F5 Networks |
 | istio-security-vulnerability-notifications@google.com | Google |
 | argoprod@us.ibm.com | IBM |
 | envoy-security@microsoft.com | Microsoft |
