@@ -5,7 +5,7 @@ teams:
     members:
       - craigbox
       - jberkus
-      - rvennam
+      - Stevenjin8
     repos:
       community: write
   Maintainers:
@@ -13,15 +13,12 @@ teams:
     members:
       - amjain-vmware
       - andream12345
-      - aryan16
       - costinm
       - craigbox
       - dgn
       - dhawton
       - didier-grelin
       - ericvn
-      - frankbu
-      - GregHanson
       - hanxiaop
       - howardjohn
       - hzxuzhonghu
@@ -30,7 +27,6 @@ teams:
       - jacob-delgado
       - jaellio
       - jjtischer
-      - johnma14
       - justinpettit
       - jwendell
       - kebe7jun
@@ -41,22 +37,16 @@ teams:
       - lgadban
       - linsun
       - louiscryan
-      - Monkeyanator
       - MorrisLaw
       - my-git9
-      - nmittler
-      - nrjpoddar
       - pmerrison
       - ramaraochavali
       - rcernich
-      - rootsongjc
-      - rvennam
       - stevenctl
       - therealmitchconnors
       - wilsonwu
       - windsonsea
       - Xunzhuo
-      - zhlsunshine
       - zirain
     repos:
       .default: write
@@ -73,15 +63,11 @@ teams:
           - craigbox
           - dhawton
           - ericvn
-          - frankbu
           - justinpettit
           - kebe7jun
           - kfaseela
           - louiscryan
           - my-git9
-          - nmittler
-          - rootsongjc
-          - rvennam
           - wilsonwu
           - windsonsea
           - Xunzhuo
@@ -93,23 +79,18 @@ teams:
               - craigbox
               - dhawton
               - ericvn
-              - frankbu
               - justinpettit
               - kfaseela
               - louiscryan
-              - nmittler
-              - rvennam
           WG - Docs Maintainers/Chinese:
             description: Maintainers of the Chinese documentation.
             members:
               - craigbox
               - dhawton
               - ericvn
-              - frankbu
               - kebe7jun
               - kfaseela
               - my-git9
-              - rootsongjc
               - wilsonwu
               - windsonsea
               - Xunzhuo
@@ -120,10 +101,7 @@ teams:
               - craigbox
               - dhawton
               - ericvn
-              - frankbu
               - kfaseela
-              - nmittler
-              - rvennam
           WG - Docs Maintainers/Portuguese:
             description: Maintainers of the Portuguese documentation
             members: []
@@ -137,8 +115,6 @@ teams:
           - irisdingbj
           - jacob-delgado
           - linsun
-          - Monkeyanator
-          - nmittler
           - rcernich
           - stevenctl
           - zirain
@@ -146,7 +122,6 @@ teams:
         description: Maintainers for the Networking working group
         members:
           - costinm
-          - GregHanson
           - hanxiaop
           - howardjohn
           - hzxuzhonghu
@@ -154,8 +129,6 @@ teams:
           - keithmattix
           - kyessenov
           - linsun
-          - nmittler
-          - nrjpoddar
           - ramaraochavali
           - stevenctl
         teams:
@@ -189,7 +162,6 @@ teams:
           - andream12345
           - dhawton
           - didier-grelin
-          - GregHanson
           - howardjohn
           - jaellio
           - jjtischer
@@ -199,12 +171,10 @@ teams:
           - lei-tang
           - lgadban
           - linsun
-          - nrjpoddar
           - pmerrison
       WG - Security Maintainers:
         description: Maintainers for the Security working group
         members:
-          - aryan16
           - costinm
           - howardjohn
           - hzxuzhonghu
@@ -218,23 +188,18 @@ teams:
           - ericvn
           - howardjohn
           - jacob-delgado
-          - johnma14
           - jwendell
           - kfaseela
           - linsun
-          - nmittler
           - stevenctl
           - therealmitchconnors
       WG - User Experience Maintainers:
         description: Maintainers for the User Experience working group.
         members:
-          - GregHanson
           - hanxiaop
           - irisdingbj
           - MorrisLaw
-          - nmittler
           - therealmitchconnors # lead
-          - zhlsunshine
   Release Managers:
     description: Current set of release managers.
     members:
