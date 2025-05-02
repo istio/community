@@ -3,6 +3,7 @@ emeritus:
 - adammil2000
 - adiprerepa
 - andraxylia
+- aryan16
 - bianpengyuan
 - bleggett
 - carolynhu
@@ -19,14 +20,17 @@ emeritus:
 - fejta
 - fleeto
 - fpesce
+- frankbu
 - gargnupur
 - gbaufake
 - geeknoid
+- GregHanson
 - incfly
 - jasminejaksic
 - jasonwzm
 - JimmyCYJ
 - john-a-joyce
+- johnma14
 - kailun-qin
 - kmoneal
 - knrc
@@ -38,9 +42,12 @@ emeritus:
 - mandarjog
 - michelle192837
 - Monkeyanator
+- Monkeyanator
 - morvencao
 - mpherman2
 - Nino-K
+- nmittler
+- nrjpoddar
 - oaktowner
 - ostromart
 - PiotrSikora
@@ -48,6 +55,7 @@ emeritus:
 - rcaballeromx
 - richardwxn
 - rshriram
+- rvennam
 - SataQiu
 - sbezverk
 - sdake
@@ -63,6 +71,7 @@ emeritus:
 - ymesika
 - yxue
 - ZackButcher
+- zhlsunshine
 
 # Former release managers, by release
 release-managers:
@@ -175,3 +184,9 @@ release-managers:
     - aryan16
     - thedebugger
     - zirain
+  Release Managers - 1.22:
+    description: Release managers for Istio 1.22
+    members:
+    - hzxuzhonghu
+    - thedebugger
+    - zirain  
