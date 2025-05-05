@@ -131,6 +131,7 @@ teams:
           - linsun
           - ramaraochavali
           - stevenctl
+          - therealmitchconnors
         teams:
           WG - Networking Maintainers/Pilot:
             description: Maintainers of particular parts of Pilot.
