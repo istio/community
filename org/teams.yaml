@@ -117,8 +117,8 @@ teams:
           - linsun
           - rcernich
           - stevenctl
-          - zirain
           - therealmitchconnors
+          - zirain
       WG - Networking Maintainers:
         description: Maintainers for the Networking working group
         members:
