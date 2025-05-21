@@ -117,6 +117,7 @@ teams:
           - linsun
           - rcernich
           - stevenctl
+          - therealmitchconnors
           - zirain
       WG - Networking Maintainers:
         description: Maintainers for the Networking working group
@@ -131,7 +132,6 @@ teams:
           - linsun
           - ramaraochavali
           - stevenctl
-          - therealmitchconnors
         teams:
           WG - Networking Maintainers/Pilot:
             description: Maintainers of particular parts of Pilot.
