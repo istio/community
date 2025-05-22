@@ -11,8 +11,8 @@ teams:
   Maintainers:
     description: Maintainers of the Istio project.
     members:
-      - amjain-vmware
       - andream12345
+      - blancobrenden
       - costinm
       - craigbox
       - dgn
@@ -159,8 +159,8 @@ teams:
       WG - Product Security Maintainers:
         description: Maintainers for the Product Security working group.
         members:
-          - amjain-vmware
           - andream12345
+          - blancobrenden
           - dhawton
           - didier-grelin
           - howardjohn
