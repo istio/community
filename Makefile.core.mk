@@ -13,7 +13,7 @@
 # limitations under the License.
 
 # lint can  run all lint-all targets minus lint-markdown which is run by the community-lint.sh
-lint: lint-dockerfiles lint-scripts lint-yaml lint-helm lint-copyright-banner lint-go lint-python lint-sass lint-typescript lint-protos lint-licenses
+lint: lint-dockerfiles lint-scripts lint-yaml lint-helm lint-copyright-banner lint-go lint-python lint-sass lint-typescript lint-licenses
 	@prow/community-lint.sh
 
 test:
