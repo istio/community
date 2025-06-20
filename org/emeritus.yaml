@@ -190,3 +190,9 @@ release-managers:
     - hzxuzhonghu
     - thedebugger
     - zirain  
+  Release Managers - 1.23:
+    description: Release managers for Istio 1.23
+    members:
+    - hzxuzhonghu
+    - mikemorris
+    - thedebugger

@@ -214,12 +214,6 @@ teams:
       .default: write
     teams:
       # When changing, move old EOL versions to emeritus.yaml.
-      Release Managers - 1.23:
-        description: Release managers for Istio 1.23
-        members:
-          - hzxuzhonghu
-          - mikemorris
-          - thedebugger
       Release Managers - 1.24:
         description: Release managers for Istio 1.24
         members:
@@ -238,6 +232,12 @@ teams:
           - dhawton
           - grnmeira
           - kfaseela
+      Release Managers - 1.27:
+        description: Release managers for Istio 1.27
+        members:
+          - grnmeira
+          - kfaseela
+          - zirain
   Repo Admins:
     description: Folks with admin permission on all repos.
     members:
