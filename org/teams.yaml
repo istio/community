@@ -155,6 +155,7 @@ teams:
           - rcernich
           - richardwxn
           - stevenctl
+          - stevenjin8
           - zirain
       WG - Networking Maintainers:
         description: Maintainers for the Networking working group
@@ -195,6 +196,7 @@ teams:
               - hzxuzhonghu
               - ilrudie
               - stevenctl
+              - Stevenjin8
       WG - Policies and Telemetry Maintainers:
         description: Maintainers for the Policy and Telemetry working group.
         members:
@@ -259,7 +261,7 @@ teams:
           - MorrisLaw
           - nmittler
           - therealmitchconnors # lead
-          - zhlsunshine
+          - Stevenjin8
   Release Managers:
     description: Current set of release managers.
     members:
