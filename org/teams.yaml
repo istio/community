@@ -118,11 +118,7 @@ teams:
           - linsun
           - rcernich
           - stevenctl
-<<<<<<< HEAD
           - therealmitchconnors
-=======
-          - stevenjin8
->>>>>>> f5bebd3 (Some more maintainer)
           - zirain
       WG - Networking Maintainers:
         description: Maintainers for the Networking working group
@@ -137,7 +133,6 @@ teams:
           - linsun
           - ramaraochavali
           - stevenctl
-          - Stevenjin8
         teams:
           WG - Networking Maintainers/Pilot:
             description: Maintainers of particular parts of Pilot.
@@ -155,7 +150,6 @@ teams:
               - hzxuzhonghu
               - ilrudie
               - stevenctl
-              - Stevenjin8
       WG - Policies and Telemetry Maintainers:
         description: Maintainers for the Policy and Telemetry working group.
         members:
@@ -208,10 +202,7 @@ teams:
           - irisdingbj
           - MorrisLaw
           - therealmitchconnors # lead
-<<<<<<< HEAD
-=======
           - Stevenjin8
->>>>>>> f5bebd3 (Some more maintainer)
   Release Managers:
     description: Current set of release managers.
     members:
