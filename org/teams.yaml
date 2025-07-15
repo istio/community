@@ -201,8 +201,8 @@ teams:
           - hanxiaop
           - irisdingbj
           - MorrisLaw
-          - therealmitchconnors # lead
           - Stevenjin8
+          - therealmitchconnors # lead
   Release Managers:
     description: Current set of release managers.
     members:
