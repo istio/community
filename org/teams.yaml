@@ -43,6 +43,7 @@ teams:
       - ramaraochavali
       - rcernich
       - stevenctl
+      - Stevenjin8
       - therealmitchconnors
       - wilsonwu
       - windsonsea
@@ -149,7 +150,7 @@ teams:
               - hzxuzhonghu
               - ilrudie
               - stevenctl
-      WG - Policies and Telemetry  Maintainers:
+      WG - Policies and Telemetry Maintainers:
         description: Maintainers for the Policy and Telemetry working group.
         members:
           - keithmattix
@@ -200,6 +201,7 @@ teams:
           - hanxiaop
           - irisdingbj
           - MorrisLaw
+          - Stevenjin8
           - therealmitchconnors # lead
   Release Managers:
     description: Current set of release managers.
