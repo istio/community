@@ -66,6 +66,7 @@ teams:
           - ericvn
           - justinpettit
           - kebe7jun
+          - keithmattix
           - kfaseela
           - louiscryan
           - my-git9
@@ -81,6 +82,7 @@ teams:
               - dhawton
               - ericvn
               - justinpettit
+              - keithmattix
               - kfaseela
               - louiscryan
           WG - Docs Maintainers/Chinese:
@@ -150,7 +152,7 @@ teams:
               - hzxuzhonghu
               - ilrudie
               - stevenctl
-      WG - Policies and Telemetry Maintainers:
+      WG - Policies and Telemetry  Maintainers:
         description: Maintainers for the Policy and Telemetry working group.
         members:
           - keithmattix
