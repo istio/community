@@ -278,12 +278,12 @@ teams:
   Technical Oversight Committee:
     description: Members of the Istio TOC.
     members:
-      - costinm
       - howardjohn
       - keithmattix
       - linsun
       - louiscryan
       - therealmitchconnors
+      - ramaraochavali
     repos:
       .default: write
   Triagers:
