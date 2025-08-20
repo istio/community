@@ -282,8 +282,8 @@ teams:
       - keithmattix
       - linsun
       - louiscryan
-      - therealmitchconnors
       - ramaraochavali
+      - therealmitchconnors
     repos:
       .default: write
   Triagers:
