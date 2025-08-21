@@ -105,9 +105,12 @@ teams:
               - dhawton
               - ericvn
               - kfaseela
-          WG - Docs Maintainers/Portuguese:
-            description: Maintainers of the Portuguese documentation
-            members: []
+          WG - Docs Maintainers/Portuguese-BR:
+            description: Maintainers of the Portuguese (Brazil) documentation
+            members:
+              - grnmeira
+              - pedroignacio13
+              - dumunari
       WG - Environments Maintainers:
         description: Maintainers for the Environments working group.
         members:
