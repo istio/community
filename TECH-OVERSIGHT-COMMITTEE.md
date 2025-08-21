@@ -110,12 +110,12 @@ The current members of the Istio TOC are:
 
 &nbsp; | Name | Company | Term ends
 ---|---|---|--
+<img width="30px" src="https://avatars.githubusercontent.com/u/17204904?v=4">| [Rama Chavali](https://github.com/ramaraochavali) | Salesforce | 2027
 <img width="30px" src="https://avatars.githubusercontent.com/u/821270?v=4"> | [Mitch Connors](https://github.com/therealmitchconnors)  | Microsoft | 2026
 <img width="30px" src="https://avatars.githubusercontent.com/u/623453?v=4">            | [John Howard](https://github.com/howardjohn)  | Solo.io | 2026
 <img width="30px" src="https://avatars.githubusercontent.com/u/1531662?s=400&v=4">| [Keith Mattix](https://github.com/keithmattix) | Microsoft | 2026
 <img width="30px" src="https://pbs.twimg.com/profile_images/838075233445695489/o2eAYJAV_400x400.jpg"> | [Louis Ryan](https://github.com/louiscryan) | Solo.io | 2027
 <img width="30px" src="https://avatars1.githubusercontent.com/u/1588319?s=400&v=4"> |    [Lin Sun](https://github.com/linsun)          | Solo.io | 2027
-<img width="30px" src="https://avatars.githubusercontent.com/u/17204904?v=4">| [Rama Chavali](https://github.com/ramaraochavali) | Salesforce | 2027
 
 ### Emeritus members
 
