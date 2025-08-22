@@ -11,7 +11,7 @@ See [CHARTER.md](CHARTER.md).
 
 &nbsp; | Name | Company | Profile | Seat type
 ---|---|---|---|---
-<img width="30px" src="https://avatars.githubusercontent.com/u/132510?v=4"> | Craig Box | Solo.io | [craigbox](https://github.com/craigbox) | Contribution seat
+<img width="30px" src="https://avatars.githubusercontent.com/u/5502967?v=4"> | Ram Vennam | Solo.io | [rvennam](https://github.com/rvennam) | Contribution seat
 <img width="30px" src="https://avatars.githubusercontent.com/u/1923135?v=4"> | Zack Butcher | Tetrate | [ZackButcher](https://github.com/ZackButcher) | Contribution seat
 | | Rob Cernich | Red Hat | [rcernich](https://github.com/rcernich) | Community seat
 <img width="30px" src="https://avatars.githubusercontent.com/u/623453?v=4"> | John Howard | Solo.io | [howardjohn](https://github.com/howardjohn) | Contribution seat
