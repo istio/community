@@ -11,9 +11,9 @@ teams:
   Maintainers:
     description: Maintainers of the Istio project.
     members:
+      - andream12345
       - Andygol
       - Arhell
-      - andream12345
       - blancobrenden
       - costinm
       - craigbox
