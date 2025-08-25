@@ -64,6 +64,8 @@ teams:
           - craigbox
           - dhawton
           - ericvn
+          - fjglira
+          - josunect
           - justinpettit
           - kebe7jun
           - keithmattix
@@ -74,8 +76,6 @@ teams:
           - windsonsea
           - Xunzhuo
           - zirain
-          - fjglira
-          - josunect
         teams:
           WG - Docs  Maintainers/English:
             description: Maintainers of the English documentation.
