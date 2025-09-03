@@ -37,6 +37,7 @@ teams:
       - lgadban
       - linsun
       - louiscryan
+      - mkralik3
       - MorrisLaw
       - my-git9
       - pmerrison
@@ -48,6 +49,7 @@ teams:
       - wilsonwu
       - windsonsea
       - Xunzhuo
+      - yannuil
       - zirain
     repos:
       .default: write
@@ -176,7 +178,9 @@ teams:
           - lei-tang
           - lgadban
           - linsun
+          - mkralik3
           - pmerrison
+          - yannuil
       WG - Security Maintainers:
         description: Maintainers for the Security working group
         members:
