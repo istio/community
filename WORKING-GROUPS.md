@@ -35,7 +35,7 @@ The current working groups are:
 
 ## Working group meetings
 
-Currently all working groups share a weekly meeting, on Wednesdays at 10:00 AM PST. The meetings are open to anyone interested,
+Currently all working groups share a weekly meeting, on Wednesdays at 9:00 AM PST. The meetings are open to anyone interested,
 so please join us. The meeting can be joined with [this](https://meet.google.com/qza-pfbq-wne) link, and the notes can be found
 [here](https://docs.google.com/document/d/1wsa06GGiq1LEGwhkiPP0FKIZJqdAiue-VeBonWAzAyk/edit).
 
