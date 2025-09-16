@@ -19,6 +19,7 @@ teams:
       - dhawton
       - didier-grelin
       - ericvn
+      - fjglira
       - hanxiaop
       - howardjohn
       - hzxuzhonghu
@@ -27,6 +28,7 @@ teams:
       - jacob-delgado
       - jaellio
       - jjtischer
+      - josunect
       - justinpettit
       - jwendell
       - kebe7jun
@@ -65,6 +67,8 @@ teams:
           - craigbox
           - dhawton
           - ericvn
+          - fjglira
+          - josunect
           - justinpettit
           - kebe7jun
           - keithmattix
@@ -109,6 +113,11 @@ teams:
           WG - Docs Maintainers/Portuguese:
             description: Maintainers of the Portuguese documentation
             members: []
+          WG - Docs Maintainers/Spanish:
+            description: Maintainers of the Spanish documentation.
+            members:
+              - fjglira
+              - josunect
       WG - Environments Maintainers:
         description: Maintainers for the Environments working group.
         members:
