@@ -21,6 +21,7 @@ teams:
       - dhawton
       - didier-grelin
       - ericvn
+      - fjglira
       - hanxiaop
       - howardjohn
       - hzxuzhonghu
@@ -29,6 +30,7 @@ teams:
       - jacob-delgado
       - jaellio
       - jjtischer
+      - josunect
       - justinpettit
       - jwendell
       - kebe7jun
@@ -39,7 +41,7 @@ teams:
       - lgadban
       - linsun
       - louiscryan
-      - MorrisLaw
+      - mkralik3
       - my-git9
       - pmerrison
       - ramaraochavali
@@ -50,6 +52,7 @@ teams:
       - wilsonwu
       - windsonsea
       - Xunzhuo
+      - yannuil
       - zirain
     repos:
       .default: write
@@ -68,6 +71,8 @@ teams:
           - craigbox
           - dhawton
           - ericvn
+          - fjglira
+          - josunect
           - justinpettit
           - kebe7jun
           - keithmattix
@@ -112,6 +117,11 @@ teams:
           WG - Docs Maintainers/Portuguese:
             description: Maintainers of the Portuguese documentation
             members: []
+          WG - Docs Maintainers/Spanish:
+            description: Maintainers of the Spanish documentation.
+            members:
+              - fjglira
+              - josunect
           WG - Docs Maintainers/Ukrainian:
             description: Maintainers of the Ukrainian documentation.
             members:
@@ -185,7 +195,9 @@ teams:
           - lei-tang
           - lgadban
           - linsun
+          - mkralik3
           - pmerrison
+          - yannuil
       WG - Security Maintainers:
         description: Maintainers for the Security working group
         members:
@@ -212,7 +224,6 @@ teams:
         members:
           - hanxiaop
           - irisdingbj
-          - MorrisLaw
           - Stevenjin8
           - therealmitchconnors # lead
   Release Managers:
