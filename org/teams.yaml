@@ -12,6 +12,8 @@ teams:
     description: Maintainers of the Istio project.
     members:
       - andream12345
+      - Andygol
+      - Arhell
       - blancobrenden
       - costinm
       - craigbox
@@ -64,6 +66,8 @@ teams:
       WG - Docs Maintainers:
         description: Maintainers of the Docs working group.
         members:
+          - Andygol
+          - Arhell
           - craigbox
           - dhawton
           - ericvn
@@ -118,6 +122,11 @@ teams:
             members:
               - fjglira
               - josunect
+          WG - Docs Maintainers/Ukrainian:
+            description: Maintainers of the Ukrainian documentation.
+            members:
+              - Andygol
+              - Arhell
       WG - Environments Maintainers:
         description: Maintainers for the Environments working group.
         members:
