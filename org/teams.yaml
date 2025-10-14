@@ -154,6 +154,7 @@ teams:
           - linsun
           - ramaraochavali
           - stevenctl
+          - Stevenjin8
           - zirain
         teams:
           WG - Networking Maintainers/Pilot:
@@ -264,7 +265,7 @@ teams:
         members:
           - darrinthomascecil
           - fjglira
-          - grnmeira 
+          - grnmeira
   Repo Admins:
     description: Folks with admin permission on all repos.
     members:
