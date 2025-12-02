@@ -42,14 +42,14 @@ so please join us. The meeting can be joined with [this](https://meet.google.com
 There's a number of ways to track the
 meeting schedule:
 
-* You can view the schedule of upcoming working group meetings in this [calendar](https://calendar.google.com/calendar/u/1?cid=Y19mZTljZDhkMDkxZDBkNGQyODE4ZDAxYTkzMGRjOTI1ZjAwZDRmOTc5OTVlZmU1MGE4ZDcyNTEyYjI0MTU2OGY1QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
+* You can view the schedule of upcoming working group meetings in this [calendar](https://calendar.google.com/calendar/u/0/embed?src=c_fe9cd8d091d0d4d2818d01a930dc925f00d4f97995efe50a8d72512b241568f5@group.calendar.google.com).
 
 * You can download [an ICS file](https://calendar.google.com/calendar/ical/c_fe9cd8d091d0d4d2818d01a930dc925f00d4f97995efe50a8d72512b241568f5%40group.calendar.google.com/public/basic.ics)
 to import the working group meetings into your favorite iCal client.
 
 If you have a Google account, you can also:
 
-* Link the [working group event calendar](https://calendar.google.com/calendar/u/1?cid=Y19mZTljZDhkMDkxZDBkNGQyODE4ZDAxYTkzMGRjOTI1ZjAwZDRmOTc5OTVlZmU1MGE4ZDcyNTEyYjI0MTU2OGY1QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
+* Link the [working group event calendar](https://calendar.google.com/calendar/u/1?cid=c_fe9cd8d091d0d4d2818d01a930dc925f00d4f97995efe50a8d72512b241568f5@group.calendar.google.com)
 directly to your account.
 
 * Add yourself to the [istio-working-group-calendar-invites@](https://groups.google.com/forum/#!forum/istio-working-group-calendar-invites) group. This will
@@ -61,16 +61,13 @@ Each working group has one or more leads which coordinate the activities of the 
 
 &nbsp;                                                                               | Name                                               | Company    | Groups
 -------------------------------------------------------------------------------------|----------------------------------------------------|------------|-------
-&nbsp;                                                                               | [Rama Chavali](https://github.com/ramaraochavali)  | Salesforce | Networking - Control Plane
-<img width="30px" src="https://avatars3.githubusercontent.com/u/821270?s=80&v=4">    | [Mitch Connors](https://github.com/therealmitchconnors) | Microsoft   | User Experience
-<img width="30px" src="https://avatars.githubusercontent.com/u/1330566?v=4">         | [Daniel Hawton](https://github.com/dhawton)        | Solo.io    | Product Security
-&nbsp;                                                                               | [Jianpeng He](https://github.com/zirain)           | Tetrate    | Extensions and Telemetry
-<img width="30px" src="https://avatars1.githubusercontent.com/u/623453?s=400&v=4">   | [John Howard](https://github.com/howardjohn)       | Solo.io    | Networking
-&nbsp;                                                                               | [Steven Landow](https://github.com/stevenctl)      | Solo.io    | Networking - Control Plane
-<img width="30px" src="https://avatars.githubusercontent.com/u/64559656?v=4">        | [Jackie Maertens (Elliot)](https://github.com/jaellio)        | Microsoft  | Product Security
 &nbsp;                                                                               | [Costin Manolache](https://github.com/costinm)     | Google     | Environments
-&nbsp;                                                                               | [Sam Naser](https://github.com/monkeyanator)       | Aviatrix   | Environments
-<img width="30px" src="https://avatars3.githubusercontent.com/u/3237651?s=400&v=4">  | [Ed Snible](https://github.com/esnible)            | IBM        | User Experience
-&nbsp;                                                                               | [Lei Tang](https://github.com/lei-tang)            | Google     | Security, Extensions and Telemetry
 <img width="30px" src="https://avatars1.githubusercontent.com/u/10537847?s=400&v=4"> | [Eric Van Norman](https://github.com/ericvn)       | IBM        | Test and Release
-<img width="30px" src="https://avatars0.githubusercontent.com/u/1016047?s=400&v=4">  | [Lizan Zhou](https://github.com/lizan)             | Aviatrix   | Networking - Data Plane, Security
+<img width="30px" src="https://avatars.githubusercontent.com/u/64559656?v=4">        | [Jackie Maertens (Elliot)](https://github.com/jaellio)        | Microsoft  | Product Security
+&nbsp;                                                                               | [Jianpeng He](https://github.com/zirain)           | Tetrate    | Extensions and Telemetry
+<img width="30px" src="https://avatars1.githubusercontent.com/u/623453?s=400&v=4">   | [John Howard](https://github.com/howardjohn)       | Solo.io    | Networking - Control Plane
+<img width="30px" src="https://avatars.githubusercontent.com/u/915822?v=4">          | [Justin Pettit](https://github.com/justinpettit)   | Google     | Product Security
+&nbsp;                                                                               | [Lei Tang](https://github.com/lei-tang)            | Google     | Security, Extensions and Telemetry
+<img width="30px" src="https://avatars3.githubusercontent.com/u/821270?s=80&v=4">    | [Mitch Connors](https://github.com/therealmitchconnors) | Microsoft   | User Experience
+&nbsp;                                                                               | [Rama Chavali](https://github.com/ramaraochavali)  | Salesforce | Networking - Control Plane
+&nbsp;                                                                               | [Steven Landow](https://github.com/stevenctl)      | Solo.io    | Networking - Control Plane
