@@ -45,7 +45,7 @@ They happen on the fourth Thursday of every month at 10 AM US/Pacific.
 
 [Join this group](https://groups.google.com/forum/#!forum/istio-community-video-meetings)
 to have the meetings automatically added to your calendar.
-You can also find them on [the community calendar](https://calendar.google.com/calendar/embed?src=i10ogf58krfbrsjai5qi16g4do%40group.calendar.google.com&ctz=America%2FLos_Angeles), along with other major community events.
+You can also find them on [the community calendar](https://calendar.google.com/calendar/u/0/embed?src=c_fe9cd8d091d0d4d2818d01a930dc925f00d4f97995efe50a8d72512b241568f5@group.calendar.google.com), along with other major community events.
 
 Meeting agendas and notes can be accessed in the [working doc](http://bit.ly/istiocommunitymeet).
 
