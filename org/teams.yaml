@@ -178,6 +178,7 @@ teams:
         description: Maintainers for the Policy and Telemetry working group.
         members:
           - keithmattix
+          - krinkinmu
           - kyessenov
           - lei-tang
           - zirain
