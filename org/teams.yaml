@@ -324,10 +324,10 @@ teams:
     description: Working group leads - for easy communication in github
     members:
       - costinm # Env
+      - dhawton # PSWG
       - ericvn # T&R
       - howardjohn # Control Plane
       - jaellio # PSWG
-      - justinpettit # PSWG
       - lei-tang # Security, E&T
       - ramaraochavali # Control Plane
       - stevenctl # Control Plane
