@@ -1,0 +1,92 @@
+# 2026 Steering Committee Election
+##################################
+#
+# The process for determining eligible voters can be found in
+# https://github.com/istio/community/tree/master/steering/elections/2026
+#
+# If you feel you have standing in the Istio community but are not listed here, 
+# please fill in the voting exception form (https://forms.gle/psjCrFShCJ47CXds8). 
+# If your application is approved by a simple majority vote of the Steering Committee,
+# you will be added.
+#
+# History:
+# 2026-02-15: List generated from the [members](/org/members.yaml) file, checking for at 
+#   least one merged PR as noted by devstats in the period 15 Feb 2025 to 15 Feb 2026.
+#   List also includes Steering Committee members who are deemed to have standing.
+#   https://docs.google.com/spreadsheets/d/1C4edZEx9PPTApmLL3OmOI5LsGpmkgvWQvQY5IkCndww/edit?gid=2133203793#gid=2133203793
+- Ajay-singh1
+- Andygol
+- AritraDey-Dev
+- aryan16
+- blancobrenden
+- bleggett
+- bmangoen
+- cam-garrison
+- conradhanson
+- craigbox
+- ctartici
+- danehans
+- dgn
+- dhawton
+- ericdbishop
+- FilipB
+- fjglira
+- fraenkel
+- german1608
+- grnmeira
+- harsh-ps-2003
+- howardjohn
+- hzxuzhonghu
+- ilevine
+- ilrudie
+- jacob-delgado
+- jaellio
+- jewertow
+- jgkawell
+- justinpettit
+- keithmattix
+- kevin-shelaga
+- kfaseela
+- krinkinmu
+- Kuromesi
+- kyessenov
+- lcopi
+- leosarra
+- linsun
+- LiorLieberman
+- louiscryan
+- luksa
+- maxbab
+- mike-weiner
+- mikemorris
+- mkralik3
+- my-git9
+- nacx
+- nilekhc
+- PetrMc
+- pnambiarsf
+- ramaraochavali
+- rcernich
+- rudrakhp
+- rvennam
+- sbegin0
+- shriramsharma
+- skriss
+- sridhargaddam
+- sschepens
+- stevenctl
+- Stevenjin8
+- tedjpoole
+- thedebugger
+- therealmitchconnors
+- tjons
+- vikaschoudhary16
+- wilsonwu
+- Winbobob
+- windsonsea
+- yannuil
+- yuluo-yx
+- yuval-k
+- yxun
+- ZackButcher
+- zirain
