@@ -14,6 +14,8 @@
 #   least one merged PR as noted by devstats in the period 15 Feb 2025 to 15 Feb 2026.
 #   List also includes Steering Committee members who are deemed to have standing.
 #   https://docs.google.com/spreadsheets/d/1C4edZEx9PPTApmLL3OmOI5LsGpmkgvWQvQY5IkCndww/edit?gid=2133203793#gid=2133203793
+#
+eligible_voters:
 - Ajay-singh1
 - Andygol
 - AritraDey-Dev
@@ -56,7 +58,7 @@
 - LiorLieberman
 - louiscryan
 - luksa
-- maxbab
+- MaxBab
 - mike-weiner
 - mikemorris
 - mkralik3
