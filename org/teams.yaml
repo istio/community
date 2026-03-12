@@ -245,8 +245,8 @@ teams:
       - dhawton
       - fjglira
       - grnmeira
-      - jgreeer
       - jewertow
+      - jgreeer
       - kfaseela
       - petrMc
       - zirain
@@ -275,8 +275,8 @@ teams:
       Release Managers - 1.30:
         description: Release managers for Istio 1.30
         members:
-          - jgreeer
           - jewertow
+          - jgreeer
           - petrMc
   Repo Admins:
     description: Folks with admin permission on all repos.
