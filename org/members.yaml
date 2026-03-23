@@ -109,6 +109,7 @@ members:
 - dcberg
 - dddddai
 - delavet
+- dependabot
 - deszhou
 - deveshkandpal1224
 - devincd
@@ -202,7 +203,6 @@ members:
 - istio-policy-bot
 - istio-release-robot
 - istio-testing
-- dependabot
 - jackkleeman
 - jacob-delgado
 - jaellio
