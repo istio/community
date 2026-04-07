@@ -210,3 +210,9 @@ release-managers:
       - dhawton
       - grnmeira
       - kfaseela
+  Release Managers - 1.27:
+    description: Release managers for Istio 1.27
+    members:
+      - grnmeira
+      - kfaseela
+      - zirain
