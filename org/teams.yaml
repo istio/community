@@ -49,6 +49,7 @@ teams:
       - ramaraochavali
       - rcernich
       - sridhargaddam
+      - sschepens
       - stevenctl
       - Stevenjin8
       - therealmitchconnors
@@ -158,6 +159,7 @@ teams:
           - linsun
           - ramaraochavali
           - sridhargaddam
+          - sschepens
           - stevenctl
           - Stevenjin8
           - zirain
@@ -170,6 +172,7 @@ teams:
               - hzxuzhonghu
               - keithmattix
               - ramaraochavali
+              - sschepens
               - stevenctl
           WG - Networking Maintainers/Ztunnel:
             description: Maintainers of Ztunnel.
