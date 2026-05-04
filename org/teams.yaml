@@ -60,12 +60,6 @@ teams:
     repos:
       .default: write
     teams:
-      Operations Maintainers:
-        description: Maintainers of Operations.
-        members:
-          - dhawton
-          - howardjohn
-          - kfaseela
       WG - Docs Maintainers:
         description: Maintainers of the Docs working group.
         members:
@@ -131,20 +125,6 @@ teams:
             members:
               - Andygol
               - Arhell
-      WG - Environments Maintainers:
-        description: Maintainers for the Environments working group.
-        members:
-          - costinm
-          - dgn
-          - hanxiaop
-          - howardjohn
-          - irisdingbj
-          - jacob-delgado
-          - linsun
-          - rcernich
-          - stevenctl
-          - therealmitchconnors
-          - zirain
       WG - Networking Maintainers:
         description: Maintainers for the Networking working group
         members:
@@ -234,10 +214,18 @@ teams:
       WG - User Experience Maintainers:
         description: Maintainers for the User Experience working group.
         members:
+          - costinm
+          - dgn
           - hanxiaop
+          - howardjohn
           - irisdingbj
+          - jacob-delgado
+          - linsun
+          - rcernich
+          - stevenctl
           - Stevenjin8
           - therealmitchconnors # lead
+          - zirain
   Release Managers:
     description: Current set of release managers.
     members:
