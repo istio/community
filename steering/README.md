@@ -18,12 +18,12 @@ See [CHARTER.md](CHARTER.md).
 <img width="30px" src="https://avatars.githubusercontent.com/u/623453?v=4"> | John Howard | Solo.io | [howardjohn](https://github.com/howardjohn) | Contribution seat
 <img width="30px" src="https://avatars.githubusercontent.com/u/34120520?v=4"> | Steven Jin Xuan | Microsoft | [Stevenjin8](https://github.com/Stevenjin8) | Contribution seat
 <img width="30px" src="https://avatars.githubusercontent.com/u/3120462?v=4"> | Jack Ma | Microsoft | [jack4it](https://github.com/jack4it) | Contribution seat
-<img width="30px" src="https://avatars.githubusercontent.com/u/1531662?v=4"> | Keith Mattix | Microsoft | [keithmattix](https://github.com/keithmattix) | Contribution seat
+<img width="30px" src="https://avatars.githubusercontent.com/u/1531662?v=4"> | Keith Mattix | Solo.io | [keithmattix](https://github.com/keithmattix) | Contribution seat
 <img width="30px" src="https://pbs.twimg.com/profile_images/838075233445695489/o2eAYJAV_400x400.jpg"> | Louis Ryan | Solo.io | [louiscryan](https://github.com/louiscryan) | Contribution seat
 <img width="30px" src="https://avatars.githubusercontent.com/u/6244502?v=4"> | Tyler Schade | GEICO Tech | [tjons](https://github.com/tjons) | Community seat
 <img width="30px" src="https://avatars.githubusercontent.com/u/1588319?v=4"> | Lin Sun | Solo.io | [linsun](https://github.com/linsun) | Contribution seat
-<img width="30px" src="https://avatars.githubusercontent.com/u/5502967?v=4"> | Ram Vennam | Solo.io | [rvennam](https://github.com/rvennam) | Contribution seat
 <img width="30px" src="https://avatars.githubusercontent.com/u/13374016?v=4"> | Zhonghu Xu | Huawei | [hzxuzhonghu](https://github.com/hzxuzhonghu) | Community seat
+TBD | TBD | Microsoft | | Contribution seat
 
 ## Contribution Seats
 
