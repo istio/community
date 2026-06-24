@@ -235,12 +235,11 @@ teams:
     description: Current set of release managers.
     members:
       - darrinthomascecil
-      - dhawton
       - fjglira
-      - grnmeira
       - jewertow
       - jgreeer
       - petrMc
+      - zirain
     repos:
       .default: write
     teams:
