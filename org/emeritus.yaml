@@ -216,3 +216,9 @@ release-managers:
       - grnmeira
       - kfaseela
       - zirain
+  Release Managers - 1.28:
+    description: Release managers for Istio 1.28
+    members:
+      - darrinthomascecil
+      - fjglira
+      - grnmeira
