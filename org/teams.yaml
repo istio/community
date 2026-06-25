@@ -235,22 +235,15 @@ teams:
     description: Current set of release managers.
     members:
       - darrinthomascecil
-      - dhawton
       - fjglira
-      - grnmeira
       - jewertow
       - jgreeer
       - petrMc
+      - zirain
     repos:
       .default: write
     teams:
       # When changing, move old EOL versions to emeritus.yaml.
-      Release Managers - 1.28:
-        description: Release managers for Istio 1.28
-        members:
-          - darrinthomascecil
-          - fjglira
-          - grnmeira
       Release Managers - 1.29:
         description: Release managers for Istio 1.29
         members:
@@ -263,6 +256,12 @@ teams:
           - jewertow
           - jgreeer
           - petrMc
+      Release Managers - 1.31:
+        description: Release managers for Istio 1.31
+        members:
+          - jewertow
+          - jgreeer
+          - zirain
   Repo Admins:
     description: Folks with admin permission on all repos.
     members:
