@@ -204,6 +204,7 @@ members:
 - istio-policy-bot
 - istio-release-robot
 - istio-testing
+- jack4it
 - jackkleeman
 - jacob-delgado
 - jaellio
