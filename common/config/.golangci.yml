@@ -159,6 +159,9 @@ linters:
         text: 'SA1019: "github.com/golang/protobuf/jsonpb"'
       - linters:
           - staticcheck
+        text: 'SA1019: github.com/golang/protobuf/jsonpb is deprecated'
+      - linters:
+          - staticcheck
         text: 'SA1019: grpc.Dial is deprecated: use NewClient instead'
       - linters:
           - staticcheck
