@@ -239,6 +239,7 @@ teams:
       - darrinthomascecil
       - fjglira
       - jewertow
+      - jgkawell
       - jgreeer
       - petrMc
       - zirain
@@ -262,6 +263,12 @@ teams:
         description: Release managers for Istio 1.31
         members:
           - jewertow
+          - jgreeer
+          - zirain
+      Release Managers - 1.32:
+        description: Release managers for Istio 1.32
+        members:
+          - jgkawell
           - jgreeer
           - zirain
   Repo Admins:
