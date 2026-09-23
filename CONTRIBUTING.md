@@ -15,6 +15,7 @@ same process and are given the same level of review.
 - [Contributing a feature](#contributing-a-feature)
 - [Setting up to contribute to Istio](#setting-up-to-contribute-to-istio)
 - [Pull requests](#pull-requests)
+- [AI-assisted contributions](#ai-assisted-contributions)
 - [Issues](#issues)
 - [Promote your company on istio.io](#promote-your-company-on-istioio)
 - [Tell the world you're using Istio](#tell-the-world-youre-using-istio)
@@ -147,6 +148,34 @@ the PR.
 See [Writing Good Pull Requests](https://github.com/istio/istio/wiki/Writing-Good-Pull-Requests) for guidance on creating
 pull requests, and [Reviewing Pull Requests](https://github.com/istio/istio/wiki/Reviewing-Pull-Requests) for the PR review
 we use.
+
+## AI-assisted contributions
+
+Contributors may use AI tools to help write, explain, test, or review
+contributions, but the person submitting the contribution remains responsible
+for the full content of the issue, pull request, comment, or other engagement.
+
+When AI assistance is substantial to the final contribution, disclose that use
+in the pull request or issue description. Maintainers may ask for clarification
+about which parts were AI-assisted, how the output was checked, and whether the
+contributor understands and can maintain the change.
+
+AI-assisted contributions must meet the same standards as any other
+contribution:
+
+- The contributor must verify that code builds, tests pass, and documentation is
+  accurate.
+- The contributor must review generated content for correctness, security,
+  licensing, originality, and fit with Istio's design and community standards.
+- The contributor must be able to respond to review feedback and explain the
+  technical choices in their own words.
+- AI-generated comments or issue replies must be relevant, respectful, and based
+  on a real understanding of the discussion.
+
+Maintainers may close, hide, mark as spam, or request changes to AI-assisted
+content that is low quality, misleading, duplicative, unsafe, unverifiable, or
+otherwise inconsistent with the [Code of Conduct](CODE-OF-CONDUCT.md) and
+[Team Values](VALUES.md).
 
 ## Issues
 
