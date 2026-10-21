@@ -167,6 +167,7 @@ teams:
       WG - Policies and Telemetry  Maintainers:
         description: Maintainers for the Policy and Telemetry working group.
         members:
+          - jwendell
           - keithmattix
           - krinkinmu
           - kyessenov
