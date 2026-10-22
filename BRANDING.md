@@ -59,7 +59,7 @@ Given the open nature of Istio, you may use the Istio trademark to refer to the 
     
 -   “Istio Day”
 
-The Istio Steering Committee understands the community need for a conformance standard, which would authorize expanded use of the Istio mark. We plan to implement a conformance standard at a future date, and commit to creating a Conformance Task Force no later than Q4 2021. 
+The Istio Steering Committee understands the community need for a conformance standard, which would authorize expanded use of the Istio mark. Until the project publishes a conformance standard, any use of the Istio Trademarks that implies compatibility, certification, endorsement, or conformance requires prior written permission from Istio Steering.
 
 The Istio Steering Committee reserves the right to deny specific use cases if, in the opinion of the Steering Committee, the use case would not be in the best interest of the Istio Community.
 
