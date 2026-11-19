@@ -21,6 +21,7 @@ teams:
       - dgn
       - dhawton
       - didier-grelin
+      - ericdbishop
       - ericvn
       - fjglira
       - hanxiaop
@@ -133,6 +134,7 @@ teams:
         description: Maintainers for the Networking working group
         members:
           - costinm
+          - ericdbishop
           - hanxiaop
           - howardjohn
           - hzxuzhonghu
