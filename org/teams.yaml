@@ -133,6 +133,7 @@ teams:
         description: Maintainers for the Networking working group
         members:
           - costinm
+          - ericdbishop
           - hanxiaop
           - howardjohn
           - hzxuzhonghu
