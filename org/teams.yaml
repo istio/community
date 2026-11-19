@@ -142,6 +142,7 @@ teams:
           - jaellio
           - keithmattix
           - linsun
+          - PetrMc
           - ramaraochavali
           - sridhargaddam
           - sschepens
@@ -156,6 +157,7 @@ teams:
               - howardjohn
               - hzxuzhonghu
               - keithmattix
+              - PetrMc
               - ramaraochavali
               - sschepens
               - stevenctl
@@ -209,6 +211,7 @@ teams:
           - irisdingbj
           - jaellio
           - lei-tang
+          - PetrMc
       WG - Test and Release Maintainers:
         description: Maintainers for the Test and Release working group.
         members:
@@ -221,6 +224,7 @@ teams:
           - keithmattix
           - kfaseela
           - linsun
+          - PetrMc
           - stevenctl
           - Stevenjin8
           - therealmitchconnors
@@ -234,6 +238,7 @@ teams:
           - irisdingbj
           - jacob-delgado
           - linsun
+          - PetrMc
           - rcernich
           - stevenctl
           - Stevenjin8
