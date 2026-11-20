@@ -45,6 +45,7 @@ teams:
       - louiscryan
       - mkralik3
       - my-git9
+      - mythrilium
       - nrfox
       - PetrMc
       - pmerrison
@@ -80,6 +81,7 @@ teams:
           - kfaseela
           - louiscryan
           - my-git9
+          - mythrilium
           - wilsonwu
           - windsonsea
           - Xunzhuo
@@ -125,6 +127,7 @@ teams:
             members:
               - fjglira
               - josunect
+              - mythrilium
           WG - Docs Maintainers/Ukrainian:
             description: Maintainers of the Ukrainian documentation.
             members:
