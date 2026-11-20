@@ -71,6 +71,7 @@ teams:
           - Arhell
           - craigbox
           - dhawton
+          - ericdbishop
           - ericvn
           - fjglira
           - josunect
@@ -123,6 +124,7 @@ teams:
           WG - Docs Maintainers/Spanish:
             description: Maintainers of the Spanish documentation.
             members:
+              - ericdbishop
               - fjglira
               - josunect
           WG - Docs Maintainers/Ukrainian:
